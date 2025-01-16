@@ -1,0 +1,2258 @@
+# Dream Tag Tournament Dialogue Layout v1.0
+# This is a text format for editing the DTT script.
+# You can do a variety of things with it.
+# By using \ you can specify special commands.
+# Here's a list of all commands:
+# \N        = Linebreak
+# \LF       = Left alignment? Linefeed?
+# \MULT     = Multiplication sign.
+# \MUSIC    = 8th note.
+# \HEART    = Heart icon.
+# \ARROW    = Arrow icon, UP, DOWN, LEFT, RIGHT.
+# \END      = Terminates line
+# 616 lines
+
+#alt 173 excl, 168 ques
+
+ln: 90
+
+1
+jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCŽÊ^ED
+
+en: A cute photo of Victoream\BRwhen he was a baby.\ED
+
+es: Una foto tierna de Victoream\BRcuando era un bebé.\ED
+
+2
+jp: ‰Ø—í‚È‚u‚ÍBR¶‚Ü‚ê‚Â‚«‚ç‚µ‚¢ED
+
+en: It seems the magnificent\BRV-shape is all natural.\ED
+
+es: Nace la magnífica V.\ED
+
+3
+jp: ‚u—lŽèì‚è‚ÌBRƒ_ƒ“ƒ{[ƒ‹»‚Ìƒ}ƒXƒNED
+
+en: A handmade cardboard mask\BRin the shape of a V.\ED
+
+es: Una máscara de cartón\BRhecha a mano en forma de V.\ED
+
+4
+jp: ‚±‚ê‚³‚¦‚©‚Ô‚ê‚ÎBR’N‚Å‚àƒrƒNƒgƒŠ[ƒ€‚ÉIED
+
+en: Anyone who wears it will be\BRin much better shape!\ED
+
+es: ¡El que la use estará\BRen mejor forma!\ED
+
+5
+jp: ƒpƒeƒB‚©‚çƒKƒbƒVƒ…‚Ö‚ÌBRƒvƒŒƒ[ƒ“ƒg\HEARTED
+
+en: This fish is a present\BRfrom Penny to Zatch.\HEART\ED
+
+es: Este pez es un regalo\BRde Penny para Zatch.\HEART\ED
+
+6
+jp: ‚½`‚Á‚Õ‚è‚ÌBRˆ¤‚ª‚Â‚Ü‚Á‚Ä‚¢‚é\HEARTED
+
+en: She caught it for him\BRas a sign of true love.\HEART\ED
+
+es: Lo pescó para él\BRpara demostrar su afecto.\HEART\ED
+
+7
+jp: ƒoƒŠ[‚ªŽ©–‚Ìƒcƒm‚ðBR‚Ý‚ª‚­‚Ì‚ÉŽg‚Á‚Ä‚¢‚éED
+
+en: This is used to polish the horns\BRthat Bari takes great pride in.\ED
+
+es: Para pulir los cuernos de los cual\BRBari esta muy orgulloso.\ED
+
+8
+jp: ƒcƒm‚ÍŽ©—RŽ©Ý‚ÉBR“®‚©‚·‚±‚Æ‚ª‚Å‚«‚éED
+
+en: It's a flexible brush that can be\BRmoved around freely.\ED
+
+es: Es un cepillo flexible que puede\BRser utilizado fácilmente.\ED
+
+9
+jp: ƒOƒXƒ^ƒt‚ªˆ¤—p‚µ‚Ä‚¢‚éBRƒƒCƒ“ƒOƒ‰ƒXED
+
+en: Gustav is quite fond of this\BRspecial brand of wine.\ED
+
+es: Gustav disfruta mucho esta\BRmarca especial de vino.\ED
+
+10
+jp: ‚¾‚¢‚¶‚ÈƒƒCƒ“‚ðBR‚Ì‚Þ‚×‚©‚ç‚¸IIED
+
+en: Make sure to never drink\BRalcohol if you're underage!\ED
+
+es: ¡Asegurate de no beber alcohol\BRsi eres menor de edad!\ED
+
+11
+jp: ƒŒƒCƒ‰‚ªŽ‚Á‚Ä‚¢‚½BRŒŽ‚ÌÎ‚Ì‚©‚¯‚çED
+
+en: A piece of the Stone of Moonlight that Laila kept on her.\ED
+
+es: Un pedazo del Stone of Moonlight\BRque Laila guardaba.\ED
+
+12
+jp: ‚±‚ê‚ð‘Ì‚É‰Ÿ‚µ‚ ‚Ä‚ê‚ÎBRƒLƒY‚àS‚Ì—Í‚à‰ñ•œ‚·‚éED
+
+en: It is able to heal injuries\BRand restore power from within.\ED
+
+es: Puede curar heridas y restaurar\BRla fuerza interior.\ED
+
+13
+jp: ƒŒƒCƒ‰‚ª‚ ‚»‚ÔBRŽÔ‚Ì‚¨‚à‚¿‚áED
+
+en: The toy car that Laila likes\BRto play with.\ED
+
+es: El carrito con el que Laila\BRle gusta jugar.\ED
+
+14
+jp: ŽÔ‚Ì‚Ù‚©‚ÉƒkƒCƒOƒ‹ƒ~‚àBR‚à‚Á‚Ä‚¢‚éED
+
+en: In addition to the car, she also\BRhas a miniature doll.\ED
+
+es: Además de eso, también tiene\BRuna muñeca de miniatura.\ED
+
+15
+jp: ƒL[ƒX‚ÌƒRƒ“ƒT[ƒg‚ÅBR‚µ‚«–_‚ª‚í‚è‚É‚à‚È‚éñED
+
+en: Cane that doubles as a baton\BRfor Keith's concerts.\ED
+
+es: Bastón de doble uso como batuta\BRpara los conciertos de Keith.\ED
+
+16
+jp: ‰Ì‚¤‚Ì‚Í‚à‚¿‚ë‚ñBRƒx[ƒg[ƒxƒ“‚Ì‘æ‹ã”ÔED
+
+en: Performing -- of course --\BRBeethoven's Symphony No. 9.\ED
+
+es: Cantando desde luego...\BRla sinfonía no. 9 de Beethoven.\ED
+
+17
+jp: ƒL[ƒX‚Æƒxƒ‹ƒ“‚ªBR‘åD•¨‚Ì‚¢‚à“VED
+
+en: Keith and Berun's favorite food\BRis potato tempura.\ED
+
+es: La comida favorita de Keith\BRy Berun es tempura de papa.\ED
+
+18
+jp: ‚¢`‚à‚Ä`‚ñ`ƒz`ƒNƒz`ƒNBRƒz`ƒŒƒz`ƒŒƒz``ôED
+
+og: I'm so happy~woo~woo~\BRhooray~hooray~~\MUSIC\ED
+
+en: Potatotem, potatotem~ flaky,\BRcrispy~ yummy, yum~\MUSIC\ED
+//Raze
+
+es: Que felicidad~wuu~wuu~\BRsii ~sii ~~\MUSIC\ED
+
+19
+jp: ƒAƒŠƒVƒG‚½‚¿‚ÉŽô‚¢‚ðBR‚©‚¯‚½ƒŠƒIƒE‚ÌñED
+
+en: Riou's staff that cursed Alishie\BRand the others.\ED
+
+es: El bastón de Riou que hechizó\BRa Alishie y a los otros.\ED
+
+20
+jp: ‚½‚¾‚µŽôp‚ðŽg‚¤‚ÆBRƒŠƒIƒE‚à–½‚É‚©‚©‚í‚éED
+
+en: If Riou uses this magic, his life\BRwill also be at risk.\ED
+
+es: Si Riou usa esta magia su vida\BRtambién correrá peligro.\ED
+
+21
+jp: …‚ð‚½‚­‚³‚ñ‚Í‚±‚ÔƒJƒBRƒAƒŠƒVƒG‚Ì‹­‚¢S‚ÌÛ’¥ED
+
+en: With a strong heart,Alishie carries\BRa huge pot of water on his back.\ED
+//Raze
+//use firm heart to fit with space or add comma with wider size
+
+es: De corazón fuerte, Alishie carga una olla con agua en su espalda.\ED
+
+22
+jp: ˆ¤‚·‚é‰Æ‘°‚Ì‚½‚ßBR‰½ŽžŠÔ‚à”w•‰‚¢‚Â‚Ã‚¯‚éED
+
+og: For the sake of my beloved family\BRI shall carry it for hours.\ED
+
+en: He shoulders it for hours on end\BRfor the sake of his dear family.\ED
+//Raze
+
+es: Por el bien de mi querida familia,\BRdebo soportarlo por horas.\ED
+
+23
+jp: “G‚Ì‹C‚ð‚¯‚¸‚éBRƒtƒVƒM‚È—Í‚ð‚à‚ÂŒ•ED
+
+en: A mysterious sword with the power\BRto steal energy from the enemy.\ED
+//Raze
+
+es: Espada misteriosa con el poder\BRde disminuir la energía de otros.\ED
+
+24
+jp: ‚±‚ê‚Íp‚Ì—Í‚Å‚Í‚È‚­BRƒA[ƒXŽ©g‚Ì”\—ÍED
+
+en: This is not the power of a spell,\BRit's Arth's natural mamodo ability.\ED
+
+es: No es el resultado de un conjuro\BRsino la habilidad natural de Arth.\ED
+
+25
+jp: ƒƒKƒl‚Éƒwƒ“‚Èƒnƒi‚ªBR‚Â‚¢‚Ä‚¢‚éƒnƒiƒƒKƒlED
+
+en: A pair of silly glasses\BRwith a funny nose attached.\ED
+//Raze
+
+es: Unos espejuelos raros con nariz.\ED
+
+26
+jp: ‚¾‚ê‚Å‚à‚±‚ÌƒƒKƒl‚ðBR‚Â‚¯‚ê‚Î‚¨ƒoƒJ‚ÈŠç‚ÉIED
+
+og: Anyone can look silly\BRwith these glasses!\ED
+
+en: These glasses are enough\BRto make anyone look goofy!\ED
+//Raze
+
+es: ¡Cualquiera puede verse gracioso\BRcon estos lentes!\ED
+
+27
+jp: ƒVƒFƒŠ[‚ÆƒRƒR‚ð‚Â‚È‚®BR—Fî‚Ì‚µ‚é‚µED
+
+en: A sign of friendship\BRbetween Sherry and Koko.\ED
+
+es: Un símbolo de amistad\BRentre Sherry y Koko.\ED
+
+28
+jp: ƒRƒR‚ª–Ø‚ð‚Ù‚Á‚ÄBRŽè‚Ã‚­‚è‚µ‚½‚à‚ÌED
+
+en: Koko carved out a piece\BRof wood to handcraft them.\ED
+
+es: Koko talló un trozo de madera\BRpara hacerlos a mano.\ED
+
+29
+jp: ƒVƒFƒŠ[‚Ì¶‚Ü‚ê‚½BRƒxƒ‹ƒ‚ƒ“ƒh‰Æ‚Ì•óED
+
+en: The heirloom to the Belmont family\BRthat Sherry was born into.\ED
+//Raze
+
+es: El tesoro de la familia Belmont.\BREs de la familia de Sherry.\ED
+
+30
+jp: ƒ]ƒtƒBƒX‚ÍƒRƒR‚Ì‹L‰¯‚ðBRŒ³‚ÉƒjƒZƒ‚ƒm‚ð‚Â‚­‚Á‚½ED
+
+en: Zofis made an exact replica\BRfrom Koko's memories.\ED
+
+es: Zofis creo una replica basándose\BRen los recuerdos de Koko.\ED
+
+31
+jp: ƒ€ƒ`‚Æ‚µ‚Ä‚àŽg‚¦‚éBRƒVƒFƒŠ[‚Ì•ŠíED
+
+en: Sherry's weapon that can also be\BRused as a makeshift whip.\ED
+//Raze
+
+es: El arma de Sherry que funciona\BRcomo un látigo.\ED
+
+32
+jp: “G‚Ì–‚•¨‚à‚½‚¶‚ë‚®’ö‚ÌBR‚±‚¤‚°‚«—Í‚ª‚ ‚éED
+
+en: It's strong enough to make\BReven a mamodo flinch.\ED
+
+es: Tan fuerte que hasta un mamodo\BRpuede ponerse a la defensiva.\ED
+
+33
+jp: ƒ[ƒIƒ“‚ªŒ©‚Â‚¯‚½BR–‚ŠE‚Ì}‘ŠÙ‚É‚ ‚Á‚½–{ED
+
+og: A book from a library in the\BRmamodo world, found by Zeno.\ED
+
+en: A book that Zeno found\BRin the mamodo world library.\ED
+//Raze
+
+es: Libro que Zeno encontró en la\BRbiblioteca del mundo mamodo.\ED
+
+34
+jp: ƒtƒ@ƒE[ƒh‚Ì‚±‚Æ‚ÉBR‚Â‚¢‚Ä‘‚©‚ê‚Ä‚¢‚éED
+
+// faudo no koto ni tsuite kakarete iru
+
+en: It has information on Faudo.\ED
+
+es: Contiene datos sobre Faudo.\ED
+
+35
+jp: —‹‹åæ¶‚ªˆ¤—p‚µ‚Ä‚¢‚éBR‚fƒyƒ“ED
+
+en: Raiku-sensei's pen of choice.\ED
+
+es: La pluma de Raiku-sensei.\ED
+
+36
+jp: —‹‹åæ¶‚ÌBRÅ‹­‚Ì•ŠíIED
+
+en: It's his most powerful weapon!\ED
+
+es: ¡Es su arma más poderosa!\ED
+
+37
+jp: —‹‹åæ¶‚ªˆ¤—p‚µ‚Ä‚¢‚éBRƒoƒ“ƒ_ƒiED
+
+en: The bandana that Raiku-sensei\BRloves to wear.\ED
+
+es: La bandana que Raiku-sensei\BRle encanta usar.\ED
+
+38
+jp: —‹‹åæ¶‚ÌBRƒgƒŒ[ƒhƒ}[ƒNIED
+
+en: It's considered to be\BRhis iconic trademark!\ED
+
+es: ¡Se considera su trademark!\ED
+
+39
+jp: —‹‹åæ¶‚ªˆ¤—p‚µ‚Ä‚¢‚éBRƒnƒ“ƒ‚ƒbƒNED
+
+en: It's Raiku-sensei's beloved\BRhammock.\ED
+
+es: La hamaca de Raiku-sensei.\ED
+
+40
+jp: —‹‹åæ¶‚ÌBR‚¢‚â‚µ‚Ì‹óŠÔIED
+
+en: His favorite relaxation spot!\ED
+
+es: ¡Su zona ideal para relajarse!\ED
+
+41
+jp: ´–›‚ª‘Œê‚ÌƒeƒXƒg‚ÅBRì‚Á‚½‚à‚ÌED
+
+en: Kiyo made this for a Japanese\BRliterature test.\ED
+
+es: Kiyo preparó esto para una\BRprueba de japonés.\ED
+
+42
+jp: ƒeƒXƒg‚ÌŒ‹‰Ê‚ÍBR‚R‚O“_‚¾‚Á‚½ED
+
+en: He scored 30 points on the test.\ED
+
+es: La nota fue de 30 puntos.\ED
+
+43
+jp: ´–›‚ª—ðŽj‚ÌƒeƒXƒg‚ÅBRì‚Á‚½‚à‚ÌED
+
+en: Kiyo made this for a History test.\ED
+
+es: Kiyo preparó esto para una\BRprueba de historia.\ED
+
+44
+jp: ƒeƒXƒg‚ÌŒ‹‰Ê‚ÍBR‚Q‚O“_‚¾‚Á‚½ED
+
+en: He scored 20 points on the test.\ED
+
+es: La nota fue de 20 puntos.\ED
+
+45
+jp: ƒ‚ƒ‚ƒ“‚ð‚Â‚©‚Ü‚¦‚éŽž‚ÌBRƒƒi‚ÉŽg‚Á‚½ƒoƒiƒiED
+
+en: Bananas used as bait to catch\BRthe slippery Momon.\ED
+
+es: Guineos para atrapar a Momon.\ED
+
+46
+jp: ˆê“xƒ‚ƒ‚ƒ“‚ªŽè‚É‚µ‚½‚çBR“ñ“x‚Æ‚Í‚È‚³‚È‚¢ED
+
+en: Once Momon gets his hands\BRon one, he'll never let go.\ED
+
+es: Una vez que Momon tenga uno\BRno lo soltará por nada del mundo.\ED
+
+47
+jp: ƒ`ƒ…ƒŠƒvƒ…ƒA‚ÌŠG‚ªBR“ü‚Á‚½ƒpƒ“ƒcED
+
+en: They have an image of Tulipure\BRprinted on them.\ED
+
+es: Tienen la imagen de Tulipure\BRimpresa en ellas.\ED
+
+48
+jp: ‚±‚Ìƒpƒ“ƒc‚ðƒ‚ƒ‚ƒ“‚ÉBR‚Æ‚ç‚ê‚Ä‘å–\‘–IED
+
+en: Momon took these and ran off!\ED
+
+es: ¡El cabrón de Momón se las robó!\ED
+
+49
+jp: ˆ¤‚·‚éƒKƒbƒVƒ…‚¿‚á‚ñ‚ÌBRƒ}[ƒN‚ª“ü‚Á‚½ƒpƒ“ƒcED
+
+en: They have Zatch's likeness\BRprinted on them.\ED
+
+es: Tienen la imagen de Zatch\BRimpresa en ellas.\ED
+
+50
+jp: ‚±‚Ìƒpƒ“ƒc‚ªŒ©‚¦‚é‚Æ‚«BRƒpƒeƒB‚ÍŒƒ“{‚µ‚Ä‚¢‚é‚¼ED
+
+en: If you catch a glimpse of these, Penny will be furious.\ED
+
+es: Si los ves significa que Penny\BResta muy furiosa.\ED
+
+51
+jp: “ú–{‚ÌƒgƒbƒvƒAƒCƒhƒ‹IBR‘åŠCŒb‚Ì‚b‚côED
+
+en: The latest CD from Megumi Oumi,\BRJapan's top idol!\ED
+//Raze
+
+es: ¡El último CD\MUSICde Megumi Oumi,\BRla estrella más grande en Japón!\MUSIC\ED
+
+52
+jp: Œb‚ÌƒRƒ“ƒT[ƒg‚ÍBR‚¢‚Â‚à‘ål‹CôED
+
+en: Megumi's concerts are always\BRin high demand.\MUSIC\ED
+//Raze
+
+es: Los conciertos de Megumi\BRsiempre son muy taquilleros.\MUSIC\ED
+
+53
+jp: Œb‚ª—V‰€’n‚â‚¨”ƒ‚¢•¨‚ÌBR‚Æ‚«‚ÉŽg‚¤ƒƒKƒlED
+//mentions amusement parks and shopping, doesn't fit
+
+en: Sunglasses that Megumi wears\BRto go shopping or to have fun.\ED
+
+es: Las gafas que Megumi usa para\BRir de compras o divertirse.\ED
+
+54
+jp: Œb‚ÍƒAƒCƒhƒ‹ôBR‚Ó‚¾‚ñ‚Í‚±‚ê‚Å•Ï‘•‚æ\HEARTED
+
+en: Megumi is an idol.\MUSIC\BRThis is usually her disguise.\HEART\ED
+
+es: Megumi es una idol.\MUSIC\BRCon esto oculta su identidad.\HEART\ED
+
+55
+jp: ƒpƒ‹ƒREƒtƒHƒ‹ƒSƒŒ‚ÍBRƒCƒ^ƒŠƒA‚Ì‘åƒXƒ^[‚³ôED
+
+// He's a world-famous superstar. -TCB
+
+en: Parco Folgore is a huge star\BRin Italy.\MUSIC\ED
+
+es: Parco Folgore es una\BRsuper estrella en Italia.\MUSIC\ED
+
+56
+jp: ƒJƒbƒR‚æ‚­‚Á‚Ä—‚ÌŽq‚ÉBRƒ‚ƒeƒ‚ƒe‚È‚ñ‚¾‚¼`ôED
+
+en: He's cool and popular\BRwith the ladies.~\MUSIC\ED
+
+es: Es cool y popular\BRcon las chicas.~\MUSIC\ED
+
+57
+jp: ƒtƒHƒ‹ƒSƒŒ‚Æ‚¢‚Á‚µ‚å‚ÉBRƒŒƒbƒcƒ_ƒ“ƒXôED
+
+en: Let's all dance with Folgore!\MUSIC\ED
+
+es: ¡Todos bailemos con Folgore!\MUSIC\ED
+
+58
+jp: ƒ`ƒbƒ`ƒ`ƒbƒ`@ƒIƒbƒpƒCBRƒ{ƒCƒ“ƒ{ƒC`ƒ“ôED
+
+en: Hey hey, let's dance all day!\BRBoing! Boing!\MUSIC\ED
+
+es: ¡Chichi-chichi oppai!\BRBoing Boing~\MUSIC\ED
+
+59
+jp: ƒŠƒIƒE‚ªŽ‚Á‚Ä‚¢‚½BRƒiƒ]‚ÌÎED
+
+//gemstone maybe
+
+en: A mysterious jewel\BRin Riou's possession.\ED
+
+es: Una joya misteriosa\BRque Riou poseé.\ED
+
+60
+jp: ‚±‚ê‚ðŠz‚É‚Â‚¯‚ê‚ÎBRƒtƒ@ƒE[ƒh‚ð‚ ‚â‚Â‚ê‚éED
+
+en: If one puts this on their forehead\BRthey can control Faudo.\ED
+
+es: El que ponga esto en su frente\BRpodrá controlar a Faudo.\ED
+
+61
+jp: ƒKƒbƒVƒ…‚ª’Ç‚¢‚©‚¯‚éBR‹ó‚ð”ò‚Ôƒiƒ]‚ÌƒuƒŠED
+
+en: Zatch chased after this\BRstrange, flying yellowtail.\ED
+
+es: Zatch fue tras este raro\BRyellowtail volador.\ED
+
+62
+jp: ŽÀ‚ÍƒOƒ‰ƒu‚ªƒKƒbƒVƒ…‚ðBR‚É‚Í‚ß‚é‚½‚ß‚Ì‚à‚ÌED
+
+en: It was actually a trap\BRto lure Zatch, set by Gurabu.\ED
+
+es: En realidad era una trampa\BRde Gurabu para atraer a Zatch.\ED
+
+63
+jp: ‚¨‚â‚Â—~‚µ‚³‚ÉBRƒrƒ‡ƒ“ƒR‚ª‚Â‚­‚Á‚½ŽžŒvED
+
+en: Byonko made this clock because\BRhe always wanted a snack.\ED
+
+es: Byonko hizo esto porque\BRsiempre quería comer.\ED
+
+64
+jp: Žè‚Ã‚­‚è‚Ì‚½‚ßBR‚¸‚Á‚Æ‚RŽž‚ð‚³‚µ‚Ä‚¢‚éED
+
+en: It's specifically crafted so that\BRit's always 3 in the afternoon.\ED
+
+es: Esta diseñado solo para que diga\BRque son las 3 de la tarde.\ED
+
+65
+jp: ƒhƒƒ“ƒ}‚ª‚Ë‚ç‚Á‚Ä‚¢‚½BRƒrƒbƒO‚Èƒ_ƒCƒ„ED
+
+en: A big diamond Doronma was after.\ED
+
+es: El gran diamante\BRque Doronma buscaba.\ED
+
+66
+jp: ƒEƒ}ƒSƒ“‚Ì‚©‚Â‚â‚­‚ÅBR“‚Ü‚ê‚¸‚É‚·‚ñ‚¾ED
+
+en: Ponygon's antics prevented\BRit from being stolen.\ED
+
+es: Gracias a Ponygon el diamante\BRno fue robado.\ED
+
+67
+jp: ƒZƒbƒRƒ‚ª‚­‚ê‚½lŒ`BR‚­‚Æƒvƒs[‚Æ‚È‚éED
+
+//Raze heeelp
+
+en: The doll that Sekolo gave.\BRTurns into pupi after blowing.\ED
+
+es: Es un muñeco.\ED
+
+68
+jp: ƒKƒbƒVƒ…‚ªX‚Åƒwƒr‚ðBR’Ç‚¢•¥‚¤‚Ì‚ÉŽg‚Á‚½‚ªcED
+
+en: Zatch used it to scare away\BRsnakes in the forest, but…\ED
+
+es: Zatch lo usó para ahuyentar\BRserpientes en el bosque, pero…\ED
+
+69
+jp: ‚È‚ñ‚Å‚àØ‚ê‚éƒiƒCƒt‚ÌBRƒnƒY‚¾‚Á‚½‚ªcED
+
+en: It was supposed to be a knife\BRthat could cut through anything…\ED
+
+es: Se suponía que fuera un cuchillo\BRcapaz de cortar lo que sea…\ED
+
+70
+jp: ƒfƒp[ƒg‚ÌƒZ[ƒ‹‚ÅBRƒƒCƒt‚ª”ƒ‚Á‚Ä‚µ‚Ü‚Á‚½ED
+
+// Added Mochinoki as flair
+en: Wife bought it at the Mochinoki\BRdepartment store sale.\ED
+
+es: Wife lo compró en especial\BRen la tienda departamental.\ED
+
+71
+jp: ´–›‚Ì‚±‚Æ‚ðS”z‚µ‚ÄBRì‚Á‚½‚¨‚Ü‚à‚èED
+
+en: An omamori charm\BRmeant to protect Kiyo.\ED
+
+es: Un amuleto para proteger a Kiyo.\ED
+
+72
+jp: –³Ž–‚É‚à‚Ç‚Á‚Ä‚­‚é‚Ì‚ðBRŠè‚Á‚Äì‚Á‚½ED
+
+en: Made in hopes that he\BRwould return safe and sound.\ED
+
+es: Hecho con la esperanza\BRde que regrese sano y salvo.\ED
+
+73
+jp: —é‰è‚ªƒTƒ“ƒr[ƒ€‚³‚ñ‚ÌBR‚Ð‚Á‚±‚µj‚¢‚É‘I‚ñ‚¾ED
+
+en: Suzy chose this housewarming\BRgift for Mr. Sunbeam.\ED
+
+es: Suzy escogió esto como regalo\BRde bienvenida para Sunbeam.\ED
+
+74
+jp: ƒEƒ\‚ð‚Â‚¢‚Ä‚¢‚é‚ÆBRƒuƒB[‚Æ‚È‚éED
+
+en: If you lie, it makes a *beep*!\ED
+
+es: Si mientes emite un sonido.\ED
+
+75
+jp: l‹CƒLƒƒƒ‰—mƒiƒV‚¿‚á‚ñBR‚ÌƒnƒY‚¾‚Á‚½‚ªcED
+
+en: It was supposed to be\BRthe popular Princess Pear, but…\ED
+
+es: Se suponía que fuera la popular\BRPrincesa Pera…\ED
+
+76
+jp: ƒfƒp[ƒg‚ÌƒZ[ƒ‹‚ÅBR—é‰è‚ª”ƒ‚Á‚Ä‚µ‚Ü‚Á‚½ED
+
+en: Suzy bought it at the Mochinoki\BRdepartment store sale.\ED
+
+es: Suzy lo compró en especial\BRen la tienda departamental.\ED
+
+77
+jp: —é‰è‚ªì‚Á‚½BR‚¨‚Ý‚Ü‚¢ƒq[ƒ[ED
+
+// bad
+en: A character fruit\BRdesigned by Suzy.\ED
+
+es: Un personaje creado por Suzy.\ED
+
+78
+jp: ‚Ç‚±‚É‚à”„‚Á‚Ä‚¢‚È‚¢BRƒIƒŠƒWƒiƒ‹lŒ`ED
+
+en: An original doll not sold anywhere.\ED
+
+es: Diseño original que no esta\BRpara la venta.\ED
+
+79
+jp: ´–›‚ª‚Â‚­‚Á‚½BRƒKƒbƒVƒ…Œ^‚Ìƒƒ{ƒbƒgED
+
+en: A Zatch-like robot\BRcreated by Kiyo.\ED
+
+es: Un robo-Zatch creado por Kiyo.\ED
+
+80
+jp: ´–›‚ÆƒKƒbƒVƒ…‚ª‚¢‚È‚¢ŠÔ‚ÌBR—é‰è‚Ì˜b‚ ‚¢‚ÄED
+
+en: While Zatch and Kiyo were away\BRSuzy would talk to it.\ED
+
+es: Mientras Zatch y Kiyo estaban\BRlejos, Suzy le hablaba.\ED
+
+81
+jp: ƒTƒ“ƒr[ƒ€‚³‚ñ‚ª–kŠC“¹BR‚Å”ƒ‚Á‚Ä‚«‚½‚¨‚Ý‚â‚°ED
+
+alt: Souvenirs from Hokkaido\BRby Mr. Sunbeam.\ED
+en: Mr. Sunbeam got this souvenir\BRfrom Hokkaido.\ED
+
+es: Sunbeam trajo este recuerdo\BRde Hokkaido.\ED
+
+82
+jp: “ª‚É‚©‚Ô‚Á‚Ä‚Â‚Â‚«‚ ‚¤BR‚±‚Æ‚ª‚Å‚«‚éED
+
+en: You can wear it on your head\BRand poke away.\ED
+
+es: Lo puedes usar en la cabeza\BRy molestar a otros.\ED
+
+83
+jp: ƒTƒ“ƒr[ƒ€‚³‚ñ‚ª–kŠC“¹BR‚Å”ƒ‚Á‚Ä‚«‚½‚¨‚Ý‚â‚°ED
+
+en: Souvenir from Hokkaido\BRby Mr. Sunbeam.\ED
+
+es: Sunbeam consiguió este recuerdo\BRen Hokkaido.\ED
+
+84
+jp: “ª‚É‚©‚Ô‚Á‚Ä‚Â‚Â‚«‚ ‚¤BR‚±‚Æ‚ª‚Å‚«‚éED
+
+en: You can wear it on your head\BRand annoy others.\ED
+
+es: Se usa en la cabeza.\BRPuedes molestar a otros con el.\ED
+
+85
+jp: ´–›‚Ì‰Æ‚É‚¢‚éŽž‚ÌBRƒEƒ}ƒSƒ“‚ª‚­‚ç‚·êŠED
+
+en: This is where Ponygon rests\BRwhen he's at Kiyo's home.\ED
+
+es: Aquí duerme Ponygon cuando\BRestá en la casa de Kiyo.\ED
+
+86
+jp: ¬‰®‚É‚ÍuƒEƒ}ƒSƒ“v‚ÆBR•\ŽD‚ª‚©‚©‚°‚ç‚ê‚Ä‚¢‚éED
+
+en: It even has a nameplate.\ED
+
+es: Hasta tiene una placa\BRcon su nombre.\ED
+
+87
+jp: ƒ_ƒj[‚ª‹­“‚©‚çŽç‚Á‚½BR—_‘œED
+
+en: The statue that Danny guarded\BRfrom robbers.\ED
+
+es: La estatua que Danny salvo\BRde unos ladrones.\ED
+
+88
+jp: ‚»‚Ì‰¿’l‚Í”•S‰­‰~‚ÆBR‚¢‚í‚ê‚Ä‚¢‚éED
+
+en: Its value is said to be\BRin the billions.\ED
+
+es: Su valor es de más de un billón\BRde Yen.\ED
+
+89
+jp: ´–›‚Ì•êã‚ªì‚éBR‚¨‚¢‚µ‚¢ƒ^ƒ}ƒSƒ„ƒLED
+
+en: Delicious tamagoyaki\BRmade by Kiyo's mother.\ED
+
+es: Delicioso tamagoyaki hecho\BRpor la madre de Kiyo.\ED
+
+90
+jp: ƒeƒbƒh‚Ì‘åD•¨‚ÅBR‚¢‚­‚ç‚Å‚àH‚×‚ç‚ê‚éED
+
+en: It's Ted's favorite food, and\BRhe can eat as much as he wants!\ED
+
+es: Es la comida favorita de Ted, y\BRpuede comer toda la que quiera.\ED
+
+91
+jp: –‚ŠE‚É‹A‚Á‚½ƒƒbƒvƒX‚ÆBRS‚ð’Ê‚í‚¹‚Ä‚¢‚½Â”NED
+
+92
+jp: ƒLƒPƒ“‚ðŽ@’m‚·‚éBRƒtƒVƒM‚È—Í‚ð‚à‚Á‚Ä‚¢‚éED
+
+93
+jp: “ì‚Ì“‡‚ÉZ‚ÞBRƒŒƒCƒ“‚Ìƒp[ƒgƒi[ED
+
+94
+jp: ‚¨‚­‚Ñ‚å‚¤ŽÒ‚¾‚ªBR–{“–‚Ì‹­‚³‚ð‚à‚Á‚Ä‚¢‚éED
+
+95
+jp: —V‰€’n‚Å‘ål‹CIHBRŒ¶‚ÌƒX[ƒp[ƒq[ƒ[IED
+
+96
+jp: ƒAƒW‚Ìƒqƒ‰ƒL‚ªBR–²‚Ì‚¨‚©‚¸‚¾IIED
+
+97
+jp: ƒ‚ƒ`ƒmƒL—V‰€’n‚É‚¢‚éBR‚ ‚±‚ª‚ê‚Ìƒq[ƒ[IED
+
+98
+jp: ‚È‚ñ‚Å‚àØ‚ê‚éƒXƒSƒCBRƒJƒ}‚ð‚à‚Á‚Ä‚¢‚é‚¼IED
+
+99
+jp: ´–›‚Ì‚±‚Æ‚ª‘åD‚«‚ÈBRƒNƒ‰ƒXƒƒCƒgED
+
+100
+jp: •ï’š‚³‚Î‚«‚ÍƒvƒŠç•‰‚¯‚ÌBR˜r‚Ü‚¦‚ð‚à‚ÂED
+
+101
+jp: ¶“k‚ð‚È‚â‚Ü‚·‘Œê‚ÌBRæ¶@ƒ‚ƒ“ƒ‚ƒ“\HEARTED
+
+102
+jp: ƒIƒbƒzƒbƒzBR‚à‚Á‚Æƒ‚ƒ“ƒ‚ƒ“‚È‚³‚¢\HEARTED
+
+103
+jp: ŠwZƒCƒxƒ“ƒg‚Í•K‚¸ŽQ‰ÁBR’†“cæ¶‚Ìˆ¤‚·‚é‰œ‚³‚ñED
+
+104
+jp: ƒ‚ƒƒbƒR‚ÅŠw‚ñ‚¾BRƒƒJƒ}ƒJƒ_ƒ“ƒX‚ª“¾ˆÓED
+
+105
+jp: ¡‰ñ‚Ì—‹‹å”t‘ˆ’Dí‚ðBRŽåÃ‚µ‚½ˆÌ‚¢lED
+
+106
+jp: ‚à‚¿‚ë‚ñƒKƒbƒVƒ…‚½‚¿‚ÌBR¶‚Ý‚Ìe‚Å‚ ‚éED
+
+107
+jp: ƒ‚ƒ‚ƒ“‚Ìƒp[ƒgƒi[BRƒIƒˆƒˆ‚ªŒû‚®‚¹ED
+
+108
+jp: •½˜a‚Ì‚½‚ß‚É¢ŠE’†‚ðBR—·‚µ‚Ä‚¢‚éƒVƒXƒ^[ED
+
+109
+jp: ´–›‚Ì•ƒ‚Æ“¯‚¶‘åŠw‹³ŽöBR‚Ü[[[[[[‚ÁIIED
+
+110
+jp: X‚Ì—d¸‚Æ‚µ‚ÄBRX‚ÌˆÀ‘S‚ð‚Ü‚à‚Á‚Ä‚¢‚éED
+
+111
+jp: ƒiƒ]ƒiƒ]”ŽŽm‚Ì‚µ‚à‚×BR‚l‚i‚P‚Q‚ÌˆêˆõED
+
+112
+jp: ‚ ‚È‚½‚Ç‚±‚ðŒ©‚Ä‚¢‚é‚ÌBRƒ{ƒCƒ“‚ðŒ©‚È‚³‚¢ED
+
+113
+jp: ‚h‚p‚P‚X‚O‚Ì‘å“VËBRƒR[ƒ‰ƒ‹‚p‚Ìƒp[ƒgƒi[ED
+
+114
+jp: ‘ŠŽè‚Ì‹­‚³‚ðƒpƒ\ƒRƒ“‚ÅBR‰ÈŠw“I‚É•ªÍ‚·‚éED
+
+115
+jp: ‚TË‚Ì—‚ÌŽq‚È‚ª‚çBR‹¥–\‚ÈƒKƒbƒVƒ…‚Ì“V“GED
+
+116
+jp: ‚¦H‚í‚½‚µ‚Ìo”Ô‚ÍBR‚±‚ê‚¾‚¯‚È‚Ì[IHED
+
+117
+jp: ƒ€ƒi–Ñ‚ª‚è‚Á‚Ï‚ÈŒ¢BR–¼‘O‚Í¬—ÑƒE[ED
+
+118
+jp: ƒKƒbƒVƒ…‚Ì—F‚¾‚¿‚ÅBRƒ`ƒ‡ƒ“ƒ}ƒQ‚ªŽ—‡‚¤ED
+
+119
+jp: “®•¨‰€‚ð“¦‚°o‚µ‚Ä‚«‚½BR‘å‚«‚Èƒ‰ƒCƒIƒ“ED
+
+120
+jp: ƒKƒP‚ÅƒiƒIƒ~‚¿‚á‚ñ‚ªBR‚¨‚»‚í‚êŠë‹@ˆê”¯IED
+
+121
+jp: ƒAƒ|ƒ‚Æ—·‚µ‚½–‚•¨‚ÌŽqBRƒ[ƒIƒ“‚É‚â‚Ô‚ê–‚ŠE‚ÖED
+
+122
+jp: ƒ[ƒv‚Æ½‚ðŽ©Ý‚ÉBR‚ ‚â‚Â‚ép‚ðŽg‚¤ED
+
+123
+jp: ƒ]ƒtƒBƒX‚É‹¦—Í‚µ‚ÄBRÎ”Å‚ðW‚ß‚½–‚•¨‚ÌŽqED
+
+124
+jp: ƒIƒCƒ‰‚àƒpƒeƒB‚ÆBR‚¢‚Á‚µ‚å‚É“¬‚¤ƒQƒIED
+
+125
+jp: ƒKƒbƒVƒ…‚ÆŒö‰€‚ÅBRo‰ï‚Á‚½‚â‚³‚µ‚¢—‚ÌŽqED
+
+126
+jp: p‚ð¥‚¦‚ç‚ê‚é‚Æ‹¥–\‚ÈBR–‚•¨‚É•Ïg‚µ‚Ä‚µ‚Ü‚¤ED
+
+127
+jp: ƒSƒ‹ƒh[‚É‚©‚Á‚Ä‚à‚ç‚¤BRƒ^ƒCƒ„ƒL‚ª‘åD•¨ED
+
+128
+jp: ‚Ç‚ñ‚ÈƒLƒY‚ð‚¤‚¯‚Ä‚àBRp‚Ì—Í‚Å‰ñ•œ‚·‚éED
+
+129
+jp: “ì‚Ì“‡‚ÌƒJƒCƒ‹‚Æ‚­‚ç‚·BR–‚ŠE‚Å‚ÌƒKƒbƒVƒ…‚Ìe—FED
+
+130
+jp: ƒJƒCƒ‹‚Ì‚±‚Æ‚ðS”z‚µBR‰¤‚Ì“¬‚¢‚ðŽ©‚ç‚¨‚è‚½ED
+
+131
+jp: ×ì‚Æˆ«Ž–‚ð‚Í‚½‚ç‚­BR–‚•¨‚ÌŽqED
+
+132
+jp: •X‚Ìp‚ÅƒKƒbƒVƒ…‚½‚¿‚ÆBRÅ‰‚É“¬‚Á‚½ED
+
+133
+jp: ƒˆƒ|ƒ|ƒC@ƒgƒ|ƒ|ƒCBRƒXƒ|ƒ|ƒ|[ƒCôED
+
+134
+jp: ƒWƒFƒ€‚Ì‰Æ‘°‚ÌƒJƒ^ƒL‚ðBR‚¤‚Â‚½‚ß‚É—x‚è‚Â‚Ã‚¯‚éED
+
+135
+jp: –‚ŠE‚Å‚Í’‡—Ç‚µ‚¾‚Á‚½BRƒeƒBƒI‚ð’Ç‚¢‹l‚ß‚éED
+
+136
+jp: ƒŒƒ“ƒuƒ‰ƒ“ƒg‚Æ‹¤‚ÉBR‰¤‚ð‚ß‚´‚·ED
+
+137
+jp: ƒXƒeƒ“ƒO‚Æ‹¤‚Éˆ«–‚‚ÆBR‹°‚ê‚ç‚ê‚½–‚•¨‚ÌŽqED
+
+138
+jp: ‰Ô‚ð‚Â‚¯‚½‚à‚Ì‚ðŽ©—R‚ÉBR‚ ‚â‚Â‚é”\—Í‚ð‚à‚ÂED
+
+139
+jp: ‚í‚Á‚ê‚Íí‚¤BR‚¿‚å[‚±‚­‚©[ôED
+
+140
+jp: ƒŠƒ…ƒbƒN‚ðƒp[ƒgƒi[‚ÉBR•ªg‚Ìp‚ðŽg‚¤ED
+
+141
+jp: ƒ]ƒtƒBƒXŽl“V‰¤‚ÌˆêlBR‚·‚³‚Ü‚¶‚¢‰ö—Í‚ðŒÖ‚éIED
+
+142
+jp: ‚»‚Ì‹¥–\‚³‚©‚çBRƒo[ƒT[ƒJ[‚ÆŒÄ‚Î‚ê‚éED
+
+143
+jp: ƒ]ƒtƒBƒXŽl“V‰¤‚ÌˆêlBR‘½‚­‚Ì¯‚ð‘€‚èUŒ‚IED
+
+144
+jp: Î”Å‚Ì‚Æ‚«´–›‚É‚³‚ê‚½BRƒqƒhƒCŽd‘Å‚¿‚ð¦‚ÞED
+
+145
+jp: ƒ]ƒtƒBƒXŽl“V‰¤‚ÌˆêlBR‹­—Í‚È‘Ìp‚Å“G‚ð‘Å‚ÂIED
+
+146
+jp: ƒp[ƒgƒi[‚ÌŒº@‚àlŠÔBR‚Î‚È‚ê‚µ‚½‘Ìp‚ÌŽg‚¢ŽèED
+
+147
+jp: ƒ]ƒtƒBƒXŽl“V‰¤‚ÌˆêlBR‚³‚ Œ|‚ð‚µ‚È‚³‚¢IED
+
+148
+jp: ‚dE‚n‚ÍƒCƒX‚É‚©‚í‚Á‚ÄBR‚¨‚µ‚¨‚«‚æ[IIED
+
+149
+jp: ƒR[ƒ‰ƒ‹‚p‚Ì‚«‚Ù‚ñ‚ÌŽpBRƒOƒ‰ƒu‚ÌŽô•¶‚Å•ÏŒ`‚¾IED
+
+150
+jp: –‚•¨‚ð‚³‚ª‚·ƒŒ[ƒ_[‚ðBR‚à‚Á‚Ä‚¢‚éED
+
+151
+jp: ƒR[ƒ‰ƒ‹‚p‚ªŽô•¶‚Å•ÏŒ`BR‹­—Íƒpƒ[‚Å‚È‚¬“|‚·IED
+
+152
+jp: ŠoŒå‚µ‚ëAƒsƒˆ–›IBRƒ€`ƒ“Eƒƒ{ƒpƒ`ED
+
+153
+jp: ƒR[ƒ‰ƒ‹‚p‚ªŽô•¶‚Å•ÏŒ`BR“dŒ‚‚È‚ñ‚Äƒwƒbƒ`ƒƒƒ‰IED
+
+154
+jp: ƒsƒbƒ|ƒbƒpIIBRŽ„‚ÍƒSƒ€‚¾IIED
+
+155
+jp: ƒR[ƒ‰ƒ‹‚p‚ªŽô•¶‚Å•ÏŒ`BR‹¾‚Ìƒ^ƒe‚ÅƒXƒL‚Í–³‚¢IED
+
+156
+jp: –³”‚Ìƒ^ƒe‚ÉBR’@‚«‚Â‚Ô‚³‚ê‚é‚ª‚æ‚¢IED
+
+157
+jp: ƒEƒTƒM‚Ì‚æ‚¤‚È‘å‚«‚ÈBRŽ¨‚Å“G‚ðŽ@’m‚·‚éIED
+
+158
+jp: ‹­—Í‚Èp‚àƒXƒJ[ƒgBR‚ß‚­‚è‚É‚µ‚©Žg‚í‚È‚¢HED
+
+159
+jp: ƒtƒ@ƒE[ƒh‚Ì•œŠˆ‚ðBRƒoƒjƒLƒX‚Æ‚à‚­‚ë‚ÞED
+
+160
+jp: Ž‚Á‚Ä‚¢‚éñ‚ðŽg‚¢BRŽô‚¢‚ð‚©‚¯‚é—Í‚ð‚à‚ÂED
+
+161
+jp: ƒtƒ@ƒE[ƒh‚Ìã‚ÅBRƒLƒƒƒ“ƒ`ƒ‡ƒ‚ÆŒƒíIIED
+
+162
+jp: ƒJ[ƒY‚ðƒp[ƒgƒi[‚ÉBRƒJƒ}‚Ì•t‚¢‚½½‚ðŽg‚¤ED
+
+163
+jp: ƒtƒ@ƒE[ƒh•œŠˆ‚ÉŽè‚ð‚©‚·BRƒ}ƒkƒP‚È–‚•¨‚ÌŽqED
+
+164
+jp: Œ©‚Ä‚È@ƒ‹[ƒp[BRƒqƒQ‚Íƒƒ‹‚ÌŽå’£‚È‚Ì‚³ED
+
+165
+jp: ƒ‰ƒEƒVƒ“Eƒ‚[‚Æ‚Æ‚à‚ÉBRƒtƒ@ƒE[ƒh‚Ì•œŠˆ‚É‹¦—ÍED
+
+166
+jp: ‚¢‚­‚Â‚à‚ ‚é–Ú‚©‚çŒõ‚ðBR•ú‚¿‚»‚Ì‰e‚ÅUŒ‚‚·‚éED
+
+167
+jp: ƒjƒRƒ‹‚ÌŽô‚¢‚ð‚Æ‚­‚½‚ßBRƒŠƒIƒE‚ÉŽè‚ð‘Ý‚·ED
+
+168
+jp: ƒeƒbƒh‚ª‚»‚Ìs•û‚ð’T‚µBR¢ŠE‚ð—·‚µ‚Ä‚¢‚éED
+
+169
+jp: ƒtƒ@ƒE[ƒh•œŠˆ‚Ì‚½‚ßBR—Í‚ð‚ ‚Â‚ß‚é–‚•¨‚ÌŽqED
+
+170
+jp: ƒRƒEƒ‚ƒŠ‚Ì‚æ‚¤‚Èƒnƒl‚ðBRŽ‚¿Ž©—R‚É‹ó‚ð”ò‚ÔED
+
+171
+jp: ƒ‚ƒ`ƒmƒL—V‰€’n‚ÅBRƒKƒbƒVƒ…‚½‚¿‚É”s‚ê‚½ED
+
+172
+jp: ƒqƒQ‚ðƒp[ƒgƒi[‚ÉBRƒGƒlƒ‹ƒM[‹…‚Ìp‚ðŽg‚¤ED
+
+173
+jp: A•¨‚ðŽ©—R‚¶‚´‚¢‚ÉBR‚ ‚â‚Â‚é–‚•¨‚ÌŽqED
+
+174
+jp: A•¨‰€‚ÅƒgƒŒ[ƒjƒ“ƒO‚ÆBRÌ‚µ‚ÄlX‚ðP‚Á‚½ED
+
+175
+jp: ç”NŠÔÎ”Å‚É‚³‚ê‚Ä‚¢‚½BR–‚•¨‚ÌˆêlED
+
+176
+jp: ƒp[ƒgƒi[‚ðŒ©‚Â‚¯‚½BRƒEƒ}ƒSƒ“‚É”s‚ê‚éED
+
+177
+jp: ç”N‘O‚Ì“¬‚¢‚Å‘½‚­‚ÌBR–‚•¨‚ðÎ”Å‚É••‚¶‚±‚ß‚½ED
+
+178
+jp: ‚ðŽg‚¢“G‚ðƒ†ƒ_ƒ“‚³‚¹BR–Ú‚©‚çÎ‰»‚ÌŒõ‚ð•ú‚ÂED
+
+179
+jp: ç”N‘O‚Ì–‚•¨‚ð‚ ‚â‚Â‚èBR‰¤‚É‚È‚ë‚¤‚Æ‚µ‚½ED
+
+180
+jp: ƒRƒR‚ðƒp[ƒgƒi[‚ÉBR”š”­‚Ìp‚ðŽg‚¤ED
+
+181
+jp: ƒpƒeƒB‚Ì–{BRF‚Í”Z‚¢ƒIƒŒƒ“ƒWED
+
+182
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒEƒ‹ƒ‹ED
+
+183
+jp: ƒŒƒCƒ‰‚Ì–{BRF‚ÍÂŽ‡ED
+
+184
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒAƒ‹ƒx[ƒ‹ED
+
+185
+jp: ƒoƒŠ[‚Ì–{BRF‚ÍƒRƒoƒ‹ƒgƒuƒ‹[ED
+
+186
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒOƒXƒ^ƒtED
+
+187
+jp: ƒrƒNƒgƒŠ[ƒ€‚Ì–{BRF‚ÍƒXƒJƒCEƒOƒŠ[ƒ“ED
+
+188
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒ‚ƒqƒJƒ“EƒG[ƒXED
+
+189
+jp: ƒuƒ‰ƒS‚Ì–{BRF‚Í•ED
+
+190
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒVƒFƒŠ[ED
+
+191
+jp: ƒA[ƒX‚Ì–{BRF‚Íƒ}ƒ[ƒ“ƒ_ED
+
+192
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒGƒŠ[ED
+
+193
+jp: ƒL[ƒX‚Ì–{BRF‚Íƒnƒj[ƒXƒB[ƒgED
+
+194
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒxƒ‹ƒ“ED
+
+195
+jp: ƒŠ[ƒ„‚Ì–{BRF‚Íƒpƒ‰ƒL[ƒgƒOƒŠ[ƒ“ED
+
+196
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒAƒŠƒVƒGED
+
+197
+jp: ƒ[ƒIƒ“‚Ì–{BRF‚ÍƒVƒ‹ƒo[ED
+
+198
+jp: –{‚ÌŽ‚¿Žå‚ÍBRƒfƒ…ƒtƒH[ED
+
+199
+jp: ƒKƒbƒVƒ…‚Ìe—FBR‚P‘ã–ÚE‚Q‘ã–ÚE‚R‘ã–ÚED
+
+200
+jp: ƒoƒ‹ƒJƒ“‚ª‚R‘ÌW‚Ü‚ê‚ÎBRƒ€ƒeƒLí‘à‚Ì’a¶‚¾IED
+
+201
+jp: HHHHHHHHHHHBRHHHHHHHHHHHED
+
+202
+jp: HHHHHHHHHHHBRHHHHHHHHHHHED
+
+203
+jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@‚³‚Ÿ@‚±‚ê‚©‚çBR@—‹‹å”t‘ˆ’Dí‚ªBR@‚Í‚¶‚Ü‚é‚¼ILF@D‚«‚Èƒ`[ƒ€‚ð‚¦‚ç‚ñ‚ÅBR@‘S‚Xí‚ðŸ‚¿”²‚­‚ñ‚¾ILF@‚³‚Ÿ@‚Ý‚ñ‚ÈI@‚ª‚ñ‚Î‚Á‚ÄBR@—DŸ‚ð‚ß‚´‚µ‚Ä‚­‚êIIvED
+
+204
+jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@ŽŸ‚ÍƒXƒyƒVƒƒƒ‹ƒQƒXƒg‚ÌBR@“oê‚¾[[[IILF@¡“x‚Íƒoƒgƒ‹‚¶‚á‚È‚­BR@ƒNƒCƒYƒQ[ƒ€‚É‚È‚é‚©‚ç‚ËBBR@‹C‚ð‚Â‚¯‚é‚ñ‚¾‚æBLF@‚±‚ê‚©‚ç•\Ž¦‚³‚ê‚é–â‘è‚ÅBR@³‰ð‚ÆŽv‚¤‚Ù‚¤‚ð‚aƒ{ƒ^ƒ“‚©BR@‚`ƒ{ƒ^ƒ“‚Å‘I‚Ô‚Ì‚¾ILF@ƒ[ƒv‚É‚Ô‚ç‚³‚ª‚Á‚½‚Ý‚ñ‚È‚ðBR@–³Ž–‚É•‚¯o‚·‚±‚Æ‚ªBR@‚Å‚«‚é‚©‚È`HvED
+
+205
+jp: —‹‹åæ¶BRu‚¨[@‚·‚²‚¢‚¶‚á‚È‚¢‚©IBR@‚æ‚­Ÿ‚¿”²‚¯‚½‚ËBLF@ŽŸ‚©‚ç‚Í@‚³‚ç‚È‚é‹­“G‚Æ‚ÌBR@ƒoƒgƒ‹‚ª‘Ò‚Á‚Ä‚¢‚é‚¼ILF@‚³‚Ÿ@—DŸ–ÚŽw‚µ‚ÄBR@‚Ý‚ñ‚È‚ª‚ñ‚Î‚é‚ñ‚¾IIIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒn[IvED
+
+206
+jp: —‹‹åæ¶BRu‚¤‚Þ‚Þc‚¿‚å‚Á‚Æ–â‘è‚ªBR@‚Þ‚¸‚©‚µ‚©‚Á‚½‚©‚ÈHvED
+
+207
+jp: u‚³‚ ‚à‚¤ˆê“x’§í‚¾IIvBR@@‚Í‚¢BR@@‚¢‚¢‚¦ED
+
+208
+jp: u‚¤‚Þ‚ÞAŽc”O‚¾cBBR@¡“x‚Ü‚½’§í‚µ‚Ä‚­‚êIIvED
+
+209
+jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@‚³‚ @ƒhƒŠ[ƒ€ƒ}ƒbƒ`‚ðBR@‚Í‚¶‚ß‚é‚¼ILFD‚«‚ÈƒLƒƒƒ‰ƒNƒ^[‚ð‚Ql‘I‚ñ‚Å‘S‚Wí‚ðí‚¤‚ñ‚¾ILF‚³‚Ÿ@‚Ý‚ñ‚ÈI@‚ª‚ñ‚Î‚Á‚ÄBR—DŸ‚ð‚ß‚´‚µ‚Ä‚­‚êIIvED
+
+210
+jp: —‹‹åæ¶BRu‚Â‚¢‚ÉEEE‚Â‚¢‚ÉŸŽÒ‚ªBR@Œˆ’è‚µ‚Ü‚µ‚½IILF@”X‚Ì‹­“G‚ð‚µ‚è‚¼‚¯EEEBR@‘f°‚ç‚µ‚¢‰hŒõ‚É‹P‚¢‚½BR@ŒN‚½‚¿I–{“–‚É‚¨‚ß‚Å‚Æ‚¤ILF@ŒN‚½‚¿‚È‚ç•K‚¸—DŸ‚·‚é‚ÆBR@—\‘z‚µ‚Ä‚¢‚Ü‚µ‚½‚æBBR@ƒnƒbƒnƒbƒnƒbƒn``ILF@‚³‚Ä@ŽŸ‰ñ‚Í‚Ç‚ñ‚Èƒoƒgƒ‹‚ªBR@ŒJ‚èL‚°‚ç‚ê‚é‚Ì‚Å‚µ‚å‚¤HBR@‚Æ‚Á‚Ä‚à@Šy‚µ‚Ý‚Å‚·ILF@‚»‚ê‚Å‚ÍEEEBR@‚Ý‚È‚³‚ñ‚Ü‚½‰ï‚¤“ú‚Ü‚ÅBR@‚³‚æ‚¤‚È‚ç``IvED
+
+211
+jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn`B‚³‚ŸABR@‰½‚É‚Â‚¢‚Ä•·‚«‚½‚¢‚Ì‚©‚ÈHvED
+
+212
+jp: @@ƒ‹[ƒ‹à–¾BR@@ƒAƒVƒXƒgUŒ‚BR@@ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“ED
+
+213
+jp: @@ƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚Ìà–¾BR@@ƒ_ƒuƒ‹ƒ‹[ƒ‹‚Ìà–¾BR@@ƒJƒXƒ^ƒ}ƒCƒY‚Ìà–¾ED
+
+214
+jp: —‹‹åæ¶BRu‚æ‚µIƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚¾‚ËIBR@ƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚Æ‚¢‚¤‚Ì‚ÍLF@‚P‚Â‚Ìƒoƒgƒ‹‚ðƒ`[ƒ€‚Ì‚¤‚¿BR@‚Ç‚¿‚ç‚©‚Pl‚Ì–‚•¨‚¾‚¯‚ÅBR@í‚¤ƒ‹[ƒ‹‚Ì‚±‚Æ‚È‚ñ‚¾ILF@‚µ‚©‚à‚±‚Ìƒ‹[ƒ‹‚Å‚ÍBR@–‚•¨‚Ìƒpƒ‰ƒ[ƒ^‚ðBR@ƒJƒXƒ^ƒ}ƒCƒYo—ˆ‚é‚ñ‚¾ILF@ƒJƒXƒ^ƒ}ƒCƒY‚É‚Â‚¢‚Ä‚ÍBR@wƒJƒXƒ^ƒ}ƒCƒY‚Ìà–¾x‚ÅBR@‚­‚í‚µ‚­˜b‚µ‚Ä‚ ‚°‚é‚ËILF@‚±‚ê‚Å‚à‚¤BR@ƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
+
+215
+jp: —‹‹åæ¶BRuƒCƒGƒCIƒ_ƒuƒ‹ƒ‹[ƒ‹‚¾‚ËIBR@ƒ_ƒuƒ‹ƒ‹[ƒ‹‚Æ‚¢‚¤‚Ì‚ÍLF@‚Pƒ‰ƒEƒ“ƒh‚²‚Æ‚Éƒ`[ƒ€‚ÌBR@–‚•¨‚ð‚«‚è‚©‚¦‚ÄBR@í‚¤ƒ‹[ƒ‹‚Ì‚±‚Æ‚È‚ñ‚¾ILF@’N‚ð‚Ç‚Ìƒ‰ƒEƒ“ƒh‚ÅBR@í‚í‚¹‚é‚©A‡”Ô‚ðŒˆ‚ß‚éBR@‚±‚Æ‚ªƒXƒS‚­‘åØ‚É‚È‚é‚¼ILF@‚±‚Ìƒ‹[ƒ‹‚Å‚ÍBR@ƒJƒXƒ^ƒ}ƒCƒY‚ªo—ˆ‚È‚¢‚©‚çBR@‹C‚ð‚Â‚¯‚æ‚¤ILF@‚±‚ê‚Å‚à‚¤BR@ƒ_ƒuƒ‹ƒ‹[ƒ‹‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
+
+216
+jp: —‹‹åæ¶BRu‚¨‚ÁIƒJƒXƒ^ƒ}ƒCƒY‚¾‚ËIBR@ƒJƒXƒ^ƒ}ƒCƒY‚Æ‚¢‚¤‚Ì‚ÍLF@ƒoƒgƒ‹‘O‚ÉUŒ‚EpE–hŒä‚ÌBR@ƒpƒ‰ƒ[ƒ^‚ðã‚°A–‚•¨‚ðBR@‹­‚­‚·‚é‚±‚Æ‚ªo—ˆ‚é‚ñ‚¾ILF@—á‚¦‚ÎAUŒ‚‚É‚Rƒ|ƒCƒ“ƒgABR@p‚É‚Í‚Oƒ|ƒCƒ“ƒgABR@–hŒä‚É‚Í‚Oƒ|ƒCƒ“ƒg‚É‚·‚é‚ÆLF@’ÊíUŒ‚‚Å—^‚¦‚éƒ_ƒ[ƒW—Ê‚ªBR@‚¢‚Â‚à‚æ‚è‘å‚«‚­‚È‚Á‚ÄBR@’ÊíUŒ‚‚ª‹­‚­‚È‚é‚ñ‚¾ILF@‚½‚¾‚µIƒpƒ‰ƒ[ƒ^‚ÍBR@‡Œv‚Å‚Rƒ|ƒCƒ“ƒg‚µ‚©BR@‚í‚è‚Ó‚ê‚È‚¢‚©‚ç‚ËILF@–‚•¨‚Ì“Á’¥‚ðl‚¦‚ÄBR@ƒ|ƒCƒ“ƒg‚ð‚í‚è‚Ó‚ê‚ÎBR@ƒoƒgƒ‹‚ð—L—˜‚Éi‚ß‚ê‚é‚¼ILF@‚±‚ê‚Å‚à‚¤BR@ƒJƒXƒ^ƒ}ƒCƒY‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
+
+217
+jp: —‹‹åæ¶BRu‚¤‚ñIƒAƒVƒXƒgUŒ‚‚¾‚ËIBR@ƒAƒVƒXƒgUŒ‚‚Á‚Ä‚¢‚¤‚Ì‚ÍLF@ƒvƒŒƒCƒ„[‚Ì–‚•¨‚ðBR@Žè•‚¯‚µ‚Ä‚­‚ê‚éBR@‚·‚²‚­—Š‚ê‚éUŒ‚‚È‚ñ‚¾ILF@‚Ü‚½AƒAƒVƒXƒgUŒ‚‚É‚ÍBR@ƒp[ƒgƒi[‚ª•‚¯‚Ä‚­‚ê‚éBR@wƒp[ƒgƒi[ƒAƒVƒXƒgx‚ÆLF@ƒ`[ƒ€‚ð‘g‚ñ‚¾–‚•¨‚ª•‚¯‚ÄBR@‚­‚ê‚éw–‚•¨ƒAƒVƒXƒgx‚ÌBR@‚Q‚Â‚ª‚ ‚é‚ñ‚¾‚æILF@wƒp[ƒgƒi[ƒAƒVƒXƒgx‚ðBR@”­“®‚µ‚½‚¢‚Æ‚«‚ÍBR@‚k{‚qƒ{ƒ^ƒ“‚ð‰Ÿ‚·‚ñ‚¾ILF@w–‚•¨ƒAƒVƒXƒgx‚ÍBR@‚kƒ{ƒ^ƒ“‚¾‚¯‚Å”­“®‚Å‚«‚é‚¼ILF@‚±‚ê‚Å‚à‚¤BR@ƒAƒVƒXƒgUŒ‚‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
+
+218
+jp: —‹‹åæ¶BRuƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“‚ðBR@W‚ß‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚é‚¼ILF@W‚ß‚ê‚ÎW‚ß‚é‚Ù‚ÇBR@Žg—p‚Å‚«‚é–‚•¨‚âƒXƒe[ƒWBR@ƒ~ƒjƒQ[ƒ€‚ª‘‚¦‚é‚ñ‚¾ILF@‚½‚­‚³‚ñ‚ ‚éƒRƒŒƒNƒVƒ‡ƒ“‚ðBR@“üŽè‚·‚éðŒ‚ÍBR@ƒRƒŒƒNƒVƒ‡ƒ“‚²‚Æ‚Éˆá‚¤‚©‚çLF@Šæ’£‚Á‚Ä‚³‚ª‚µ‚¾‚µ‚ÄBR@ƒRƒ“ƒvƒŠ[ƒg‚ð–ÚŽw‚»‚¤IBR@ƒLƒ~‚È‚ç•K‚¸o—ˆ‚é‚Í‚¸ôvED
+
+219
+jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn`BBR@‚Å‚Í‚ª‚ñ‚Î‚Á‚Ä‚­‚ê‚½‚Ü‚¦IvED
+
+220
+jp: —‹‹åæ¶BRuccccccccccccBR@‚·cƒXƒS‚¢‚¶‚á‚È‚¢‚©ILF@‚Ü‚³‚©A‚±‚±‚Ü‚ÅBR@Ÿ‚¿”²‚­‚Æ‚ÍBR@Žv‚Á‚Ä‚à‚Ý‚È‚©‚Á‚½‚æBLF@ƒtƒbƒtƒbƒtƒbƒtcBR@‚±‚¤‚È‚Á‚½‚çŽ„‚ª‘ŠŽè‚ðBR@‚µ‚Ä‚â‚ë‚¤IILF@‚³‚ A‚¢‚Å‚æIBR@ƒ€ƒeƒLí‘àI‚Rƒoƒ‹ƒJƒ“IvED
+
+221
+jp: ‚æ‚­‚±‚±‚Ü‚Å‚ª‚ñ‚Î‚Á‚½‚Ë`IBR‚»‚ñ‚ÈƒLƒ~‚É‚æ‚¢‚±‚Æ‚ðBR‹³‚¦‚Ä‚ ‚°‚æ‚¤IILFƒ^ƒCƒgƒ‹‰æ–Ê‚ÅBR©‚k¨‚qª«‚q‚qBR‚Æ“ü—Í‚µ‚Ä‚Ý‚é‚ñ‚¾ILF‚«‚Á‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚é‚¼`IBR©‚k¨‚qª«‚q‚q‚¾IBRŠÔˆá‚¦‚È‚¢‚æ‚¤‚É‚ËIIED
+
+222
+jp: ƒKƒbƒVƒ…BRu´–›IBR@—DŸ‚ð‚ß‚´‚·‚Ì‚¾IIIvED
+
+223
+jp: ´–›BRu‚ ‚ Is‚­‚¼IIƒeƒBƒI‚ÆBR@Œb‚³‚ñ‚à€”õ‚Í‚¢‚¢‚©HvED
+
+224
+jp: ŒbBRu‚à‚¿‚ë‚ñI‚³‚ ƒeƒBƒIIBR@Ž„‚½‚¿‚às‚­‚í‚æIIvED
+
+225
+jp: ƒeƒBƒIBRu‚¦‚¦I‚Ü‚©‚¹‚ÄIIvED
+
+226
+jp: ŒbBRu‚±‚Ìí‚¢‚ªÅŒã‚Ý‚½‚¢‚ËcBR@´–›‚­‚ñvED
+
+227
+jp: ´–›BRu‚ ‚ A‚»‚¤‚Ý‚½‚¢‚¾Œb‚³‚ñBBR@‚Ý‚ñ‚ÈI@‘S—Í‚Ås‚­‚¼IvED
+
+228
+jp: ƒeƒBƒIBRuƒKƒbƒVƒ…IŽ„‚½‚¿‚Ì—Í‚ðBR@Œ©‚¹‚Ä‚ ‚°‚Ü‚µ‚åIvED
+
+229
+jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@—Í‚ð‡‚í‚¹‚ÄŸ‚Â‚Ì‚¾IvED
+
+230
+jp: ƒtƒHƒ‹ƒSƒŒBRuƒnƒbƒnƒbƒnIBR@—DŸ‚ÍŽ„‚½‚¿‚ª‚à‚ç‚Á‚½IvED
+
+231
+jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚»‚¤‚¾‚Ë@ƒtƒHƒ‹ƒSƒŒIBR@‚æ[‚µ@‚ª‚ñ‚Î‚é‚¼[IIvED
+
+232
+jp: ƒLƒbƒhBRu•‰‚¯‚é‚à‚ñ‚©[IBR@–l‚¾‚Á‚Ä‚ª‚ñ‚Î‚é‚¼IIIvED
+
+233
+jp: ƒiƒ]ƒiƒ]”ŽŽmBRu‚æ‚µ@‚»‚ÌƒCƒL‚¾@ƒLƒbƒhIBR@‚Ý‚ñ‚È@s‚­‚¼IIIvED
+
+234
+jp: ƒtƒHƒ‹ƒSƒŒBRuƒt@‚à‚¤ÅIí‚Ì‚æ‚¤‚¾‚ËBBR@—DŸ‚Í‚¢‚½‚¾‚¢‚½‚à“–‘R‚¾vED
+
+235
+jp: ƒiƒ]ƒiƒ]”ŽŽmBRuƒ†ƒ_ƒ“‚Í‚«‚ñ‚à‚Â‚¶‚á‚æBR@ƒtƒHƒ‹ƒSƒŒŒNBED
+
+236
+jp: @‚µ‚©‚µ@‚Ý‚ñ‚È‚ª‹¦—Í‚µ‚ ‚¢BR@—Í‚ðo‚µØ‚ê‚Î@•K‚¸BR@Ÿ—˜‚Í‚Â‚©‚ß‚é‚Í‚¸‚¾IvED
+
+237
+jp: ƒLƒbƒhBRu‚æ[‚µI@ƒLƒƒƒ“ƒ`ƒ‡ƒBR@—Í‚ð‡‚í‚¹‚Ä‚ª‚ñ‚Î‚é‚¼IvED
+
+238
+jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚¤‚ñI@ƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌBR@‚·‚²‚³‚ðŒ©‚¹‚Ä‚â‚éIvED
+
+239
+jp: ƒW[ƒhBRuƒe[ƒbƒhIBR@€”õ‚Í‚¢‚¢‚ñ‚¾‚ë‚¤‚ÈHvED
+
+240
+jp: ƒeƒbƒhBRu‚¨‚¤@ƒW[ƒhIBR@‚¢‚Â‚Å‚às‚¯‚é‚ºIIIvED
+
+241
+jp: ƒŠƒBƒGƒ“BRuƒEƒHƒ“ƒŒƒCIBR@Ž„‚½‚¿‚às‚­‚ ‚é‚æIIIvED
+
+242
+jp: ƒEƒHƒ“ƒŒƒCBRu‚ ‚Ÿ@ƒŠƒBƒGƒ“BBR@•K‚¸‚â—DŸ‚µ‚æ‚¤vED
+
+243
+jp: ƒŠƒBƒGƒ“BRu‚Æ‚¤‚Æ‚¤ÅIí‚Ü‚ÅBR@—ˆ‚½‚ ‚é‚ËvED
+
+244
+jp: ƒW[ƒhBRu‚ ‚ @‚»‚¤‚Ý‚Ä‚¥‚¾‚ÈBBR@‹C‚ðˆø‚«‚µ‚ß‚Ä‚¢‚­‚¼IvED
+
+245
+jp: ƒEƒHƒ“ƒŒƒCBRuƒeƒbƒh@‚¨ŒÝ‚¢‚Ì—Í‚ð‡‚í‚¹BR@•K‚¸Ÿ‚Æ‚¤vED
+
+246
+jp: ƒeƒbƒhBRu‚n‚j@ƒEƒHƒ“ƒŒƒCIBR@‚æ[‚µIs‚Á‚­‚º‚¥IIIvED
+
+247
+jp: ƒTƒ“ƒr[ƒ€BRu‚Ý‚ñ‚ÈI@—Í‚ð‚ ‚í‚¹‚ÄBR@—DŸ‚·‚é‚¼IIIvED
+
+248
+jp: ƒEƒ}ƒSƒ“BRuƒƒ‹ƒƒ‹ƒ`IIIvED
+
+249
+jp: ƒTƒEƒU[BRuƒIƒCƒ‰‚½‚¿‚ª‚¢‚é‚ñ‚¾BR@‚»‚ñ‚È‚Ì@‚ ‚½‚è‘O‚³IIvED
+
+250
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+251
+jp: ƒTƒEƒU[BRu‚ÖI@‚à‚¤ÅIí‚©‚æBBR@‚¯‚Á‚±‚¤@ŠyŸ‚¾‚Á‚½‚ÈIvED
+
+252
+jp: ƒTƒ“ƒr[ƒ€BRuƒ†ƒ_ƒ“‚Í‚«‚ñ‚à‚Â‚¾BBR@‹­“G‚ª‚¢‚é‚©‚à‚µ‚ê‚ñBED
+
+253
+jp: @ƒEƒ}ƒSƒ“@ƒJƒ‹ƒfƒBƒIIBR@€”õ‚Í‚¢‚¢‚ÈHBR@s‚­‚¼IIIvED
+
+254
+jp: ƒEƒ}ƒSƒ“BRuƒƒ‹`IvED
+
+255
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹IvED
+
+256
+jp: ƒuƒ‰ƒSBRuƒtƒ“B@­‚µ‚ÍBR@Šy‚µ‚Ü‚¹‚Ä‚­‚ê‚»‚¤‚¾‚ÈvED
+
+257
+jp: ƒVƒFƒŠ[BRuÔ‚¢–{‚ÌŽqBBR@Ž„‚½‚¿‚Æ‹¤‚Éí‚¢‚Ü‚µ‚å‚¤vED
+
+258
+jp: ƒKƒbƒVƒ…BRuƒEƒkIBR@‘S—Í‚ð‚Â‚­‚·‚Ì‚¾IIIvED
+
+259
+jp: ´–›BRu‚ ‚Ÿ@ƒKƒbƒVƒ…IBR@•K‚¸—DŸ‚·‚é‚¼IIIvED
+
+260
+jp: ´–›BRuƒuƒ‰ƒScBR@“G‚É‰ñ‚·‚Æ‹­“G‚¾‚ªED
+
+261
+jp: @–¡•û‚É‚È‚é‚ÆBR@‚±‚±‚Ü‚Å—Š‚è‚É‚È‚é‚Æ‚ÍcBBR@‚±‚ê‚È‚ç—DŸ‚Å‚«‚éIIIvED
+
+262
+jp: ƒVƒFƒŠ[BRu‚³‚Ÿ@‚Ý‚ñ‚ÈÅŒã‚Ìí‚¢‚æBBR@€”õ‚Í‚¢‚¢‚©‚µ‚çHvED
+
+263
+jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@ƒuƒ‰ƒS@‹¤‚ÉŠæ’£‚é‚Ì‚¾IvED
+
+264
+jp: ƒuƒ‰ƒSBRus‚­‚¼IvED
+
+265
+jp: ŒbBRuƒeƒBƒI@€”õ‚Í‚¢‚¢‚í‚ËIBR@s‚­‚í‚æIvED
+
+266
+jp: ƒeƒBƒIBRu‚¦‚¦I@ƒPƒ`ƒ‡ƒ“ƒPƒ`ƒ‡ƒ“‚ÉBR@‚â‚Á‚Â‚¯‚Ä‚â‚é‚ñ‚¾‚©‚çIvED
+
+267
+jp: ƒpƒeƒBBRu•‰‚¯‚ç‚ê‚È‚¢‚í‚ËIBR@ƒEƒ‹ƒ‹I@s‚­‚í‚æIIvED
+
+268
+jp: ƒEƒ‹ƒ‹BRuŽd•û‚È‚¢‚Å‚·‚Ëc@‘S—Í‚ðBR@o‚µ‚Ü‚·‚æ@ƒpƒeƒBIvED
+
+269
+jp: ƒEƒ‹ƒ‹BRu‚Æ‚¤‚Æ‚¤@ÅIí‚Å‚·‚ËcvED
+
+270
+jp: ŒbBRu‚¦‚¦I‚Ý‚ñ‚ÈIBR@‚ ‚Æˆê‘§‚æIvED
+
+271
+jp: ƒeƒBƒIBRu‚æ[‚µI@—‚ÌŽq‚Ìƒpƒ[‚ðBR@Œ©‚¹‚Ä‚â‚é‚í‚æ@ƒpƒeƒBIvED
+
+272
+jp: ƒpƒeƒBBRu‚Ü‚©‚¹‚È‚³‚¢I@‚½‚Á‚Õ‚èBR@ƒJƒƒC‚ª‚Á‚Ä‚â‚é‚íIvED
+
+273
+jp: ƒrƒNƒgƒŠ[ƒ€BRu‚Ó‚Á‚©‚Ÿ[[[‚Â‚ÁIIBR@ƒrƒNƒgƒŠ[[[[ƒ€IIIED
+
+274
+jp: @‚Óc—DŸ‚È‚Ç@‚±‚Ì‰Ø—í‚È‚éBR@ƒrƒNƒgƒŠ[ƒ€—l‚ª‚¢‚ê‚ÎBR@ƒJƒ“ƒ^ƒ“‚ÉŽæ‚ÁcED
+
+275
+jp: ƒŒƒCƒ‰BRui’·‚­‚È‚è‚»‚¤‚ËEEE—ÜjBR@s‚«‚Ü‚µ‚å@ƒAƒ‹vED
+
+276
+jp: ƒAƒ‹ƒx[ƒ‹BRu‚ ‚ @ƒŒƒCƒ‰BBR@‰´‚½‚¿‚¾‚¯‚Å—DŸ‚·‚é‚¼IvED
+
+277
+jp: ƒrƒNƒgƒŠ[ƒ€BRuƒxƒŠ[[[EƒVƒbƒgI”BR@ƒIƒŒ—l‚Ì˜b‚ð•·‚¯[IIIvED
+
+278
+jp: ƒrƒNƒgƒŠ[ƒ€BRuƒtƒnƒnƒnƒnƒnBR@‚à‚¤ÅIí‚É‚È‚é‚Ì‚©IED
+
+279
+jp: @‚µ‚©‚µI@‚±‚ÌÅ‹­ƒ`[ƒ€‚ÉBR@Ÿ‚Ä‚éŽÒ‚È‚Ç‚¢‚È‚¢‚íIBR@‚ä‚­‚¼@ƒŒƒCƒ‰IIIvED
+
+280
+jp: ƒŒƒCƒ‰BRu‚»‚¤‚Ë@ƒrƒNƒgƒŠ[ƒ€BBR@ƒAƒ‹@s‚­‚í‚ævED
+
+281
+jp: ƒAƒ‹ƒx[ƒ‹BRu‚æ‚µ@s‚­‚¼IvED
+
+282
+jp: ƒGƒŠ[BRus‚­‚¼ƒA[ƒXB@ƒTƒEƒU[‚ÆBR@‹¤‚É—DŸ‚ð‘_‚¤IvED
+
+283
+jp: ƒA[ƒXBRuŒäˆÓIvED
+
+284
+jp: ƒTƒEƒU[BRu‚Ö‚Ö‚Öc‚Ç‚ñ‚È‹­“G‚Å‚àBR@‚¯‚¿‚ç‚µ‚Ä‚â‚é‚ºIvED
+
+285
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+286
+jp: ƒTƒEƒU[BRu‚±‚Ìæ‚É@‹­‚¥–‚•¨‚ªBR@‚¢‚»‚¤‚È‹C”z‚¾‚ºcvED
+
+287
+jp: ƒGƒŠ[BRu‚µ‚ñ‚¿‚å‚¤‚És‚©‚Ë‚Î‚ÈBBR@ƒA[ƒX@S‚µ‚Ä‚©‚©‚êvED
+
+288
+jp: ƒA[ƒXBRuƒnƒbI@ƒJƒ‹ƒfƒBƒI“aBR@‘S—Í‚ð‚Â‚­‚µ‚Ü‚µ‚å‚¤IvED
+
+289
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+290
+jp: ƒrƒNƒgƒŠ[ƒ€BRu‚ä‚­‚¼Iƒ‚ƒqƒJƒ“ƒG[ƒXIBR@•K‚¸‚â—DŸ‚ð‰ä‚ªŽè‚ÉIvED
+
+291
+jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
+
+292
+jp: ƒxƒ‹ƒ“BRu‚¨‚¢@ƒL[ƒXBBR@æ‚ð‚±‚³‚ê‚¿‚Ü‚¤‚¼vED
+
+293
+jp: ƒL[ƒXBRu‘åä•v‚¾@ƒxƒ‹ƒ“BBR@—DŸ‚Í‚±‚ÌŽ„‚ª‚¢‚½‚¾‚­IvED
+
+294
+jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
+
+295
+jp: ƒxƒ‹ƒ“BRu‚±‚±‚ªÅIí‚ÌêŠ‚©EEEBR@‹­“G‚ª‚¢‚»‚¤‚¾‚ÈƒL[ƒXvED
+
+296
+jp: ƒL[ƒXBRuS”z‚·‚é‚È@ƒxƒ‹ƒ“vED
+
+297
+jp: ƒL[ƒXBRuŽ„‚ÆƒrƒNƒgƒŠ[ƒ€‚ª‚¢‚é‚ñ‚¾BR@—DŸ‚ÍŠÔˆá‚¢‚È‚¢‚³EEEvED
+
+298
+jp: ƒrƒNƒgƒŠ[ƒ€BRu‚»‚¤‚¾‚Æ‚àIBR@‚³‚Ÿ@s‚­‚¼IIIvED
+
+299
+jp: ƒOƒXƒ^ƒtBRu‚³‚Ÿ@s‚­‚©ƒoƒŠ[vED
+
+300
+jp: ƒoƒŠ[BRu‚¨‚¤I@—DŸ‚È‚ñ‚´BR@Œy‚­Œˆ‚ß‚Ä‚â‚é‚æIIIvED
+
+301
+jp: ƒxƒ‹ƒ“BRu‚ ‚¢‚Â‚Æ‚Í–‚ŠE‚Åƒ‰ƒCƒoƒ‹BR@‚¾‚Á‚½‚ç‚µ‚¢‚È@ƒL[ƒXvED
+
+302
+jp: ƒL[ƒXBRuŽ„‚½‚¿‚É“G‚È‚Ç‚¢‚È‚¢‚³BBR@s‚­‚¼IIvED
+
+303
+jp: ƒxƒ‹ƒ“BRu‚Æ‚¤‚Æ‚¤ÅIí‚Ü‚ÅBR@Ÿ‚¿‚·‚·‚ñ‚¾‚Ý‚½‚¢‚¾‚ÈvED
+
+304
+jp: ƒOƒXƒ^ƒtBRu‚ ‚ B@ƒoƒŠ[@ƒL[ƒXBR@€”õ‚Í‚¨‚±‚½‚é‚È‚ævED
+
+305
+jp: ƒoƒŠ[BRu‚¨‚¤I‚Ü‚©‚¹‚ëIBR@ƒL[ƒX@‚¦‚ñ‚²‚Í—Š‚Þ‚¼IvED
+
+306
+jp: ƒL[ƒXBRuƒt@ƒLƒTƒ}‚±‚»‚È@ƒoƒŠ[BBR@‚³‚Ÿ‚Ä@s‚­‚Æ‚·‚é‚©IvED
+
+307
+jp: ƒAƒŠƒVƒGBRuƒŠ[ƒ„@‚Â‚ç‚¢í‚¢‚É‚È‚é‚ªBR@•K‚¸Ÿ‚Æ‚¤IvED
+
+308
+jp: ƒŠ[ƒ„BRuƒKƒbƒVƒ…II@ŠÃ‚Á‚½‚ê‚½BR@í‚¢•û‚Í‚·‚é‚È‚æIvED
+
+309
+jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@¸ˆê”t@‚ª‚ñ‚Î‚é‚Ì‚¾IvED
+
+310
+jp: ´–›BRu‚Ý‚ñ‚È€”õ‚Í‚¢‚¢‚æ‚¤‚¾‚ÈIBR@‚æ‚µIs‚­‚¼IIIvED
+
+311
+jp: ƒAƒŠƒVƒGBRu´–›EEEBR@‚±‚±‚ªÅŒã‚Ì‚æ‚¤‚¾‚ÈvED
+
+312
+jp: ´–›BRu‚ ‚ @‚»‚¤‚¾‚ÈƒAƒŠƒVƒGBBR@‚Ý‚ñ‚È@‚©‚­‚²‚Í‚¢‚¢‚©HvED
+
+313
+jp: ƒKƒbƒVƒ…BRuƒEƒkI@ÅŒã‚Ì—Í‚ðBR@‚Ó‚è‚µ‚Ú‚ë‚¤‚¼IƒŠ[ƒ„IvED
+
+314
+jp: ƒŠ[ƒ„BRu‚ ‚ @–l‚ç‚ÌM‚¶‚ ‚¤S‚ÍBR@’N‚É‚à•‰‚¯‚â‚µ‚È‚¢IIvED
+
+315
+jp: ƒ[ƒIƒ“BRuƒ`ƒbEEE@ƒKƒbƒVƒ…‚©IvED
+
+316
+jp: ƒKƒbƒVƒ…BRu‚¨@‚¨ƒkƒV‚ÍEEEvED
+
+317
+jp: ƒ[ƒIƒ“BRu‚â‚©‚Ü‚µ‚¢I@‚¨‘O‚ÍBR@–Ù‚Á‚Ä‰´‚Ìí‚¢‚ðŒ©‚Ä‚¢‚ëIED
+
+318
+jp: @‚»‚µ‚Ä@ˆÌ‘å‚È‚é—‹’é‚Ì—Í‚ðBR@’m‚Á‚Ä‹°•|‚·‚é‚ñ‚¾‚ÈIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒnIIIvED
+
+319
+jp: ƒfƒ…ƒtƒH[BRuEEEBBR@‚à‚¤@ÅŒã‚©EEEvED
+
+320
+jp: ´–›BRuƒ†ƒ_ƒ“‚Í‚«‚ñ‚à‚Â‚¾BR@‚Ý‚ñ‚Ès‚­‚¼IvED
+
+321
+jp: ƒKƒbƒVƒ…BRuƒEƒkEEEI@ƒ[ƒIƒ“@‹¤‚ÉBR@—Í‚ð‡‚í‚¹‚æ‚¤‚¼IvED
+
+322
+jp: ƒ[ƒIƒ“BRu‰´‚É–½—ß‚·‚é‚ÈIvED
+
+323
+jp: ƒ[ƒIƒ“BRu‚¾‚ª@‚»‚ê‚à‚¨‚à‚µ‚ë‚¢BBR@s‚­‚¼EEEƒKƒbƒVƒ…IvED
+
+324
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚â‚³‚µ‚¢‰¤—lƒ`[ƒ€‚¾IED
+
+325
+jp: @UŽç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
+
+326
+jp: ƒKƒbƒVƒ…BRuƒEƒkƒD@‚ ‚è‚ª‚Æ‚¤‚È‚Ì‚¾IBR@—DŸ‚µ‚½‚Ì‚¾@´–›IvED
+
+327
+jp: ´–›BRu‚æ‚­‚â‚Á‚½‚ÈIBR@ƒKƒbƒVƒ…IIIvED
+
+328
+jp: ´–›BRu‚æ[‚µ@ƒKƒbƒVƒ…IŽŸ‚ÍBR@‚â‚³‚µ‚¢‰¤—l‚ð‚ß‚´‚·‚¼IvED
+
+329
+jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@‚ª‚ñ‚Î‚é‚Ì‚¾IIIvED
+
+330
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚â‚³‚µ‚¢‰¤—lƒ`[ƒ€‚¾IED
+
+331
+jp: @UŽç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
+
+332
+jp: ƒeƒBƒIBRu‚ ‚Á‚½‚è‘O‚æIBR@Ž„‚à‹­‚­‚È‚Á‚½‚ñ‚¾‚©‚çIvED
+
+333
+jp: ŒbBRu‚»‚¤‚Ë@ƒeƒBƒIvED
+
+334
+jp: ƒeƒBƒIBRu‚±‚Ì¨‚¢‚Å@Žc‚è‚Ì–‚•¨‚ðBR@‚â‚Á‚Â‚¯‚Ä‚â‚è‚Ü‚µ‚åIvED
+
+335
+jp: ŒbBRu‘Ò‚Á‚Ä@ƒeƒBƒIB@ƒhƒ‰ƒ}‚ÌBR@Žû˜^‚ªŽn‚Ü‚Á‚¿‚á‚¤IvED
+
+336
+jp: ƒeƒBƒIBRu‘å•Ï@‹}‚ª‚È‚«‚áI@‚ `IBR@ƒoƒX‚ª”­ŽÔ‚µ‚¿‚á‚¤IvED
+
+337
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRíŽmƒ`[ƒ€‚¾IED
+
+338
+jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@Žv‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
+
+339
+jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚Ö‚Ö@–l‚½‚¿‚ª–{‹C‚É‚È‚ê‚ÎBR@‚·‚²‚¢‚ñ‚¾‚ºIIIvED
+
+340
+jp: ƒtƒHƒ‹ƒSƒŒBRu‚»‚¤‚³@ƒLƒƒƒ“ƒ`ƒ‡ƒIBR@‚Ç‚ñ‚Èƒsƒ“ƒ`‚Å‚àED
+
+341
+jp: @‚±‚Ì–³“G‚ÌƒtƒHƒ‹ƒSƒŒ—l‚ªBR@‚¢‚ê‚Î‘åä•v‚¾IBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒnIvED
+
+342
+jp: ƒtƒHƒ‹ƒSƒŒBRu‚³‚Ÿ‹A‚ë‚¤‚©ƒLƒƒƒ“ƒ`ƒ‡ƒBBR@—‚ÌŽq‚½‚¿‚ª‘Ò‚Á‚Ä‚é‚¼IvED
+
+343
+jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚¤‚ñ@ƒtƒHƒ‹ƒSƒŒIBR@–l‚½‚¿‚ÍƒXƒ^[‚¾‚à‚ñ‚ËIvED
+
+344
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRíŽmƒ`[ƒ€‚¾IED
+
+345
+jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@Žv‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
+
+346
+jp: ƒLƒbƒhBRu—DŸ‚È‚ñ‚ÄƒJƒ“ƒ^ƒ“‚³IBR@‚Ë@”ŽŽmvED
+
+347
+jp: ƒiƒ]ƒiƒ]”ŽŽmBRu‚Ý‚ñ‚È‚Ì‹¦—Í‚ª‚ ‚Á‚½‚©‚çBR@—DŸ‚Å‚«‚½‚Ì‚¾‚æ@ƒLƒbƒhvED
+
+348
+jp: ƒLƒbƒhBRu‚±‚ê‚Å–l‚à”ŽŽm‚Ý‚½‚¢‚ÉBR@‚È‚ê‚½‚©‚È‚ vED
+
+349
+jp: ƒiƒ]ƒiƒ]”ŽŽmBRuƒnƒbƒnƒbƒn@‚±‚ê‚ª‚Å‚«‚ñ‚ÆBR@ˆêl‘O‚¶‚á‚È‚¢‚¼ƒLƒbƒhIvED
+
+350
+jp: ƒLƒbƒhBRu‚í[[[@‚·‚²‚¢‚â”ŽŽmIBR@‚æ[‚µ@‚ª‚ñ‚Î‚é‚¼[IvED
+
+351
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
+
+352
+jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
+
+353
+jp: ƒEƒHƒ“ƒŒƒCBRuŽ„‚É‚ÍŽç‚é‚×‚«l‚ª‚¢‚éBBR@‚¾‚©‚ç@’N‚É‚à•‰‚¯‚È‚¢IvED
+
+354
+jp: ƒŠƒBƒGƒ“BRuƒEƒHƒ“ƒŒƒCEEEvED
+
+355
+jp: ƒŠƒBƒGƒ“BRu‚³@ƒEƒHƒ“ƒŒƒCBBR@‚»‚ë‚»‚ë‹A‚é‚ ‚é‚ævED
+
+356
+jp: ƒEƒHƒ“ƒŒƒCBRuƒŠƒBƒGƒ“B@‚»‚ñ‚È‚Éæ‚ðBR@‹}‚ª‚È‚­‚Ä‚àEEEvED
+
+357
+jp: ƒŠƒBƒGƒ“BRu‚¾‚ß‚ ‚é‚æIƒEƒHƒ“ƒŒƒCIvED
+
+358
+jp: ƒŠƒBƒGƒ“BRut‚ª‹ß‚¢‚©‚ç@‚¢‚ë‚¢‚ëBR@–Z‚µ‚­‚È‚é‚ ‚éIvED
+
+359
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
+
+360
+jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
+
+361
+jp: ƒeƒbƒhBRuƒwcBR@‰´‚É‚©‚©‚ê‚ÎŠyŸ‚¾‚ºIvED
+
+362
+jp: ƒW[ƒhBRu‚Í‚Á@‚Ä‚ß‚¥‚Í‚Ü‚¾‚Ü‚¾BR@ƒqƒˆ‚ÁŽq‚¾‚æIvED
+
+363
+jp: ƒW[ƒhBRu‚æ[‚µ@ƒeƒbƒhBBR@ŽŸ‚Ì’¬‚És‚­‚¼vED
+
+364
+jp: ƒeƒbƒhBRu‚Ö‚Ö@ŽŸ‚Ì’¬‚Å‚àBR@‚¢‚¢•—‚ª‚¢‚Ä‚»‚¤‚¾‚ÈvED
+
+365
+jp: ƒW[ƒhBRu‚Ä‚ß‚¥‚ª•—‚ðŒê‚é‚È‚ñ‚´BR@‚P‚O‚O”N‘‚¥‚ºIvED
+
+366
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
+
+367
+jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
+
+368
+jp: ƒTƒ“ƒr[ƒ€BRu—Ç‚­‚â‚Á‚½‚È@ƒEƒ}ƒSƒ“IvED
+
+369
+jp: ƒEƒ}ƒSƒ“BRuƒƒ‹ƒƒ‹ƒ`IIIvED
+
+370
+jp: ƒTƒ“ƒr[ƒ€BRuƒfƒBƒIƒGƒ€ƒ‹EƒVƒ…ƒhƒ‹ƒNvED
+
+371
+jp: ƒTƒ“ƒr[ƒ€BRu‚³‚Ÿ@ƒEƒ}ƒSƒ“IãŽè‚­‰Š‚ðBR@‚ ‚â‚Â‚ê‚é‚æ‚¤‚É—ûK‚¾IvED
+
+372
+jp: ƒEƒ}ƒSƒ“BRuƒƒ‹ƒƒ‹ƒ`IIIvED
+
+373
+jp: ƒTƒ“ƒr[ƒ€BRu”M‚¢@”M‚¢BR@‚¤‚í````‚¨IIIvED
+
+374
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
+
+375
+jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
+
+376
+jp: ƒTƒEƒU[BRu‚â‚Á‚ÏƒIƒCƒ‰‚½‚¿‚ÍÅ‹­‚¾IBR@‚È@ƒJƒ‹ƒfƒBƒIIvED
+
+377
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+378
+jp: ƒTƒEƒU[BRuƒJƒ‹ƒfƒBƒI@‚à‚¤‘¼‚Ì–‚•¨‚ÆBR@‹¦—Í‚·‚é‚Ì‚ÍI‚í‚è‚¾BED
+
+379
+jp: @‚±‚ê‚©‚ç‚Í@ƒIƒCƒ‰‚½‚¿‚ÉBR@‹ß‚Ã‚­ƒ„ƒc‚Í‘Sˆõ‚Ô‚Á“|‚·IBR@‚³‚Ÿ@s‚­‚ºIvED
+
+380
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+381
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
+
+382
+jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–ž“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
+
+383
+jp: ´–›BRu‚æ‚µI@‚Â‚¢‚É—DŸ‚µ‚½‚¼BR@ƒKƒbƒVƒ…IvED
+
+384
+jp: ƒKƒbƒVƒ…BRuƒEƒkIBR@‘S—Í‚Åí‚Á‚½Œ‹‰Ê‚È‚Ì‚¾vED
+
+385
+jp: ´–›BRuƒKƒbƒVƒ…BBR@‚±‚ê‚©‚ç‰¤‚ð‚ß‚´‚·‚É‚ÍED
+
+386
+jp: @•K‚¸ƒuƒ‰ƒS‚Æí‚¤“ú‚ªBR@—ˆ‚é‚¾‚ë‚¤vED
+
+387
+jp: ƒKƒbƒVƒ…BRuƒEƒkB@‚»‚ê‚Ü‚Å‚ÉŽ„‚½‚¿‚àBR@‹­‚­‚È‚ç‚Ë‚Î‚¢‚¯‚Ê‚Ì‚¾vED
+
+388
+jp: ´–›BRu‚ ‚ @‚»‚¤‚¾BBR@•K‚¸‰¤‚É‚È‚é‚¼IvED
+
+389
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
+
+390
+jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–ž“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
+
+391
+jp: ƒVƒFƒŠ[BRu‚Ç‚¤‚â‚ç@Ž„‚½‚¿‚ªBR@—DŸ‚µ‚Ä‚µ‚Ü‚Á‚½‚Ý‚½‚¢‚ËvED
+
+392
+jp: ƒuƒ‰ƒSBRuƒtƒ“@‘ŠŽè‚É‚È‚ç‚ñvED
+
+393
+jp: ƒVƒFƒŠ[BRu‹­‚­‚È‚Á‚Ä‚«‚Ä‚é‚í‚ËBR@‚ ‚ÌÔ‚¢–{‚ÌŽqEEEED
+
+394
+jp: @‚Å‚à@‚Ç‚ñ‚È“G‚ª—ˆ‚æ‚¤‚Æ‚àBR@‚ ‚È‚½‚ð•K‚¸‰¤‚É‚µ‚ÄBR@Œ©‚¹‚é‚ívED
+
+395
+jp: ƒuƒ‰ƒSBRuƒtƒ“EEEBR@“–‘R‚¾vED
+
+396
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚¨‚Ä‚ñ‚Î–ºƒ`[ƒ€‚¾IED
+
+397
+jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
+
+398
+jp: ŒbBRu‚â‚Á‚½‚í‚Ë@ƒeƒBƒIIBR@—DŸ‚æIvED
+
+399
+jp: ƒeƒBƒIBRu‚Ü@Ž„‚ª–{‹C‚ðo‚¹‚ÎBR@‚±‚ñ‚È‚à‚ñ‚ËIvED
+
+400
+jp: ƒeƒBƒIBRu‚ ``‚ÁI@Œb@‘å•Ï‚æIIvED
+
+401
+jp: ƒeƒBƒIBRu‚±‚Ì‚Ü‚Ü‚¶‚á@ƒRƒ“ƒT[ƒg‚ÉBR@’x‚µ‚¿‚á‚¤‚íIvED
+
+402
+jp: ŒbBRuƒLƒƒƒ@IBR@–{“–‚¾‚í@‹}‚ª‚È‚«‚áIvED
+
+403
+jp: ƒeƒBƒIBRu‘S‘¬—Í‚Ås‚­‚í‚æ[[[IvED
+
+404
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚¨‚Ä‚ñ‚Î–ºƒ`[ƒ€‚¾IED
+
+405
+jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
+
+406
+jp: ƒEƒ‹ƒ‹BRu‚â‚è‚Ü‚µ‚½‚Ë@ƒpƒeƒBBBR@—DŸ‚Å‚·‚ævED
+
+407
+jp: ƒpƒeƒBBRu‚ ‚çH‚à‚¤I‚í‚è‚È‚ÌHBR@ˆÓŠO‚ÆŠÈ’P‚¾‚Á‚½‚í‚ËvED
+
+408
+jp: ƒpƒeƒBBRu—DŸ‚àŽæ‚Á‚½‚±‚Æ‚¾‚µBR@‚³@ƒEƒ‹ƒ‹€”õ‚Í‚¢‚¢‚í‚ËHED
+
+409
+jp: @ŽŸ‚Íˆ¤‚µ‚ÌƒKƒbƒVƒ…‚¿‚á‚ñ‚ÌBR@ƒn[ƒg‚ðƒQƒbƒg‚·‚é‚í‚æIvED
+
+410
+jp: ƒEƒ‹ƒ‹BRu‚Í‚Ÿ@‚â‚ê‚â‚êBBR@Žd•û‚È‚¢‚Å‚·‚ËcvED
+
+411
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒrƒNƒgƒŠ[ƒ€[ƒ“ƒ`[ƒ€‚¾IED
+
+412
+jp: @‰Ø—í‚ÅƒN[ƒ‹‚ÈUŒ‚‚Ì”XBR@‚ ‚Ìƒoƒgƒ‹‚ðŽv‚¢o‚·‚¾‚¯‚ÅBR@‹¹‚ª”M‚­‚È‚è‚Ü‚·IvED
+
+413
+jp: ƒrƒNƒgƒŠ[ƒ€BRuƒtƒnƒnƒnƒnB‚»‚¤‚¾‚ëIBR@•ª‚©‚Á‚Ä‚é‚¶‚á‚È‚¢‚©vED
+
+414
+jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
+
+415
+jp: ƒrƒNƒgƒŠ[ƒ€BRu‚³‚Ÿ@ƒ‚ƒqƒJƒ“ƒG[ƒX‚æIBR@€”õ‚Í‚¢‚¢‚©HvED
+
+416
+jp: ƒrƒNƒgƒŠ[ƒ€BRuV‚½‚È‹­“G‚ð’T‚µ‚É‚ä‚­‚¼IBR@ƒn[ƒnƒbƒnƒbƒnƒbƒn[IvED
+
+417
+jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
+
+418
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒrƒNƒgƒŠ[ƒ€[ƒ“ƒ`[ƒ€‚¾IED
+
+419
+jp: @‰Ø—í‚ÅƒN[ƒ‹‚ÈUŒ‚‚Ì”XBR@‚ ‚Ìƒoƒgƒ‹‚ðŽv‚¢o‚·‚¾‚¯‚ÅBR@‹¹‚ª”M‚­‚È‚è‚Ü‚·IvED
+
+420
+jp: ƒŒƒCƒ‰BRu‚ ‚çH@ˆÓŠO‚Æ‚Ý‚ñ‚ÈBR@Žã‚©‚Á‚½‚í‚Ë@ƒAƒ‹vED
+
+421
+jp: ƒAƒ‹ƒx[ƒ‹BRu‚»‚¤‚¾‚È@ƒŒƒCƒ‰vED
+
+422
+jp: ƒŒƒCƒ‰BRu¡“ú‚àÅ‚‚¾‚Á‚½‚í‚ËBBR@Š´ŽÓ‚µ‚Ä‚é‚ívED
+
+423
+jp: ƒAƒ‹ƒx[ƒ‹BRu‚ñ@‚ ‚ EEEBR@‰´‚Í•Ê‚É@‚©‚Ü‚í‚Ë‚¥‚³vED
+
+424
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚•X‚Ì‹RŽmƒ`[ƒ€‚¾IED
+
+425
+jp: @–‚«ã‚°‚ç‚ê‚½‹Z‚Ì”X‚ÍBR@‚à‚Í‚âˆêŒ‚•KŽE‚ÌˆÐ—Í‚Å‚·IBR@‚³‚·‚ª@—ðí‚Ì‚Ql‚Å‚·vED
+
+426
+jp: ƒTƒEƒU[BRu‚ÖEEE–{‹C‚ðo‚¹‚ÎBR@‚±‚ñ‚È‚ÌŒy‚¢Œy‚¢vED
+
+427
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+428
+jp: ƒTƒEƒU[BRu‚æ‚µ@ƒJƒ‹ƒfƒBƒIIBR@‚à‚Á‚Æ‹­‚¥–‚•¨‚ð’T‚·‚¼IvED
+
+429
+jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+430
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚•X‚Ì‹RŽmƒ`[ƒ€‚¾IED
+
+431
+jp: @–‚«ã‚°‚ç‚ê‚½‹Z‚Ì”X‚ÍBR@‚à‚Í‚âˆêŒ‚•KŽE‚ÌˆÐ—Í‚Å‚·IBR@‚³‚·‚ª@—ðí‚Ì‚Ql‚Å‚·vED
+
+432
+jp: ƒGƒŠ[BRuƒtƒ€@‚±‚Ì‚Ä‚¢‚Ç‚©EEEvED
+
+433
+jp: ƒA[ƒXBRuƒGƒŠ[B@Ž„’B‚É‚Æ‚Á‚Ä‚ÍBR@’Ê‰ß“_‚É‰ß‚¬‚Ü‚¹‚ñ‚ÈvED
+
+434
+jp: ƒGƒŠ[BRu‚ä‚­‚¼@ƒA[ƒXBBR@‰¤‚Ö‚Ì“¹‚Ì‚è‚Í‚Ü‚¾’·‚¢vED
+
+435
+jp: ƒA[ƒXBRuŒäˆÓIvED
+
+436
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒAƒNƒVƒ‡`ƒ“‚uƒ`[ƒ€‚¾IED
+
+437
+jp: @ƒgƒŠƒbƒL[‚ÈUŒ‚‚Ì”X‚ÍBR@Œ©‚Ä‚¢‚Ä@‚ ‚«‚È‚¢‚Å‚·‚ËBBR@‚¨‚à‚µ‚ë‚¢ƒoƒgƒ‹‚Å‚µ‚½IvED
+
+438
+jp: ƒrƒNƒgƒŠ[ƒ€BRu‚±‚ÌŽ„‚ÌBR@ƒoƒgƒ‹‚ª@‚¨‚à‚µ‚ë‚¢HvED
+
+439
+jp: ƒrƒNƒgƒŠ[ƒ€BRuƒxƒŠ[[[EƒVƒbƒgIBR@‰Ø—í‚Èƒoƒgƒ‹‚ÆŒ¾‚¦[IvED
+
+440
+jp: ƒrƒNƒgƒŠ[ƒ€BRu‚³‚Ÿ@ƒ‚ƒqƒJƒ“ƒG[ƒX‚æIBR@‚à‚¤‚±‚±‚É‚Í—p‚Í–³‚¢IED
+
+441
+jp: @“`à‚ÌƒxƒCƒŠ[ƒƒƒ“‚ðBR@Œ©‚Â‚¯‚És‚­‚¼IvED
+
+442
+jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
+
+443
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒAƒNƒVƒ‡`ƒ“‚uƒ`[ƒ€‚¾IED
+
+444
+jp: @ƒgƒŠƒbƒL[‚ÈUŒ‚‚Ì”X‚ÍBR@Œ©‚Ä‚¢‚Ä@‚ ‚«‚È‚¢‚Å‚·‚ËBBR@‚¨‚à‚µ‚ë‚¢ƒoƒgƒ‹‚Å‚µ‚½IvED
+
+445
+jp: ƒL[ƒXBRuƒtƒb@¬•¨‚Î‚©‚è‚ÅBR@‚Â‚Ü‚ç‚ñ‘å‰ï‚¾‚Á‚½‚ívED
+
+446
+jp: ƒxƒ‹ƒ“BRu‚ ‚ @‚Ü‚Á‚½‚­‚¾vED
+
+447
+jp: ƒL[ƒXBRu‚æ‚µ@ƒxƒ‹ƒ“IBR@‚¢‚à“V‚ðH‚¢‚És‚­‚¼IvED
+
+448
+jp: ƒxƒ‹ƒ“BRu‚ ‚ BBR@‚»‚¤‚¾‚È@ƒL[ƒXvED
+
+449
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚ŠE‚Ìƒ‰ƒCƒoƒ‹ƒ`[ƒ€‚¾IED
+
+450
+jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯Žm‚ªBR@Žè‚ð‘g‚Þ‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
+
+451
+jp: ƒoƒŠ[BRu‚­‚¾‚ç‚ËƒF‘å‰ï‚©‚ÆŽv‚Á‚½‚ªBR@‚È‚©‚È‚©–Ê”’‚©‚Á‚½‚ÈvED
+
+452
+jp: ƒOƒXƒ^ƒtBRuƒtƒb@ƒoƒŠ[‚Ì‚â‚Â‚ßBR@­‚µ‚ÍŠy‚µ‚ß‚½‚æ‚¤‚¾‚ÈvED
+
+453
+jp: ƒOƒXƒ^ƒtBRuƒoƒŠ[@‚ ‚ÌƒL[ƒX‚Æ‚¢‚¤BR@–‚•¨@Žè‹­‚»‚¤‚¾‚ÈEEEvED
+
+454
+jp: ƒoƒŠ[BRuƒn@‰½‚à–â‘è‚Ë‚¥‚³BBR@‚Ç‚ñ‚Èƒ„ƒc‚ª—ˆ‚æ‚¤‚ÆEEEED
+
+455
+jp: @‰´‚Í‚±‚ÌŒ‚ÅBR@‚Ô‚Á“|‚·‚¾‚¯‚æIIIvED
+
+456
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚ŠE‚Ìƒ‰ƒCƒoƒ‹ƒ`[ƒ€‚¾IED
+
+457
+jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯Žm‚ªBR@Žè‚ð‘g‚Þ‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
+
+458
+jp: ƒxƒ‹ƒ“BRu‚æ‚µBBR@—DŸ‚µ‚½‚¼@ƒL[ƒXvED
+
+459
+jp: ƒL[ƒXBRuƒnƒnƒ@IBR@Ž„‚Ì—Í‚ª‚ ‚ê‚Î“–‘R‚¾IvED
+
+460
+jp: ƒxƒ‹ƒ“BRuƒL[ƒX@‚ ‚ÌƒoƒŠ[‚Æ‚¢‚¤BR@–‚•¨@‚©‚È‚è‚Ì‹­“G‚¾‚ÈvED
+
+461
+jp: ƒL[ƒXBRu“–‘R‚³@ƒxƒ‹ƒ“BBR@Ž„‚Ìh“G‚È‚ñ‚¾‚©‚ç‚ÈBED
+
+462
+jp: @‚µ‚©‚µ@ÅŒã‚ÍŽ„‚ªŸ‚Â‚³BBR@ƒnƒnƒnƒnƒnƒnƒnƒnIvED
+
+463
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@M‚¶‚éSƒ`[ƒ€‚¾IED
+
+464
+jp: @‚Ql‚Æ‚à¬‚³‚¢‚È‚ª‚ç‚àBR@‚©‚©‚ñ‚ÉU‚ß‚é—E‹C‚ ‚éŽp‚ÍBR@Š´“®“I‚Å‚µ‚½vED
+
+465
+jp: ´–›BRu‚Ó‚£@‰½‚Æ‚©—DŸBR@o—ˆ‚½‚Ý‚½‚¢‚¾‚ÈvED
+
+466
+jp: ƒKƒbƒVƒ…BRuƒEƒkƒD@—DŸ‚È‚Ì‚¾BBR@Ž„‚½‚¿‚Í@‚·‚²‚¢‚Ì‚¾`vED
+
+467
+jp: ´–›BRu‹C‚ð”²‚­‚È@ƒKƒbƒVƒ…IED
+
+468
+jp: @‚±‚ê‚©‚ç‚Í@‚à‚Á‚Æ‹­‚¢BR@–‚•¨‚Æí‚Á‚Ä‚¢‚©‚È‚­‚Ä‚ÍBR@‚È‚ç‚È‚¢‚ñ‚¾IvED
+
+469
+jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@´–›I‚í‚©‚Á‚½‚Ì‚¾IvED
+
+470
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@M‚¶‚éSƒ`[ƒ€‚¾IED
+
+471
+jp: @‚Ql‚Æ‚à¬‚³‚¢‚È‚ª‚ç‚àBR@‚©‚©‚ñ‚ÉU‚ß‚é—E‹C‚ ‚éŽp‚ÍBR@Š´“®“I‚Å‚µ‚½vED
+
+472
+jp: ƒŠ[ƒ„BRu“–‚½‚è‘O‚¾IBR@ŠÃ‚Á‚½‚ê‚É‚Í•‰‚¯‚È‚¢IvED
+
+473
+jp: ƒAƒŠƒVƒGBRu‚»‚¤‚¾@ƒŠ[ƒ„B@–l’B‚ÍBR@Ÿ‚½‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚ñ‚¾vED
+
+474
+jp: ƒAƒŠƒVƒGBRu‚³‚ s‚±‚¤@ƒŠ[ƒ„B@BR@€”õ‚Í‚¢‚¢‚©‚¢HvED
+
+475
+jp: ƒŠ[ƒ„BRu‚ ‚ @ƒAƒŠƒVƒGIvED
+
+476
+jp: ƒŠ[ƒ„BRu‚Ç‚ñ‚Èˆö“ï‚É‚Ô‚Â‚©‚Á‚Ä‚àBR@•K‚¸‘Å‚¿Ÿ‚Á‚Ä‚Ý‚¹‚éIvED
+
+477
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@h–½‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
+
+478
+jp: @‚v“dŒ‚‚Í¦‚¢‚Å‚·‚Ë`BR@ƒrƒŠƒrƒŠƒrƒŠƒrƒŠ‚Å‚·BBR@í‚¤Žp‚à‚µ‚Ñ‚ê‚Ü‚·`vED
+
+479
+jp: ´–›BRu‚æ‚­‚â‚Á‚½ƒKƒbƒVƒ…IBR@‰´‚½‚¿‚Í‹­‚­‚È‚Á‚½vED
+
+480
+jp: ƒKƒbƒVƒ…BRu‚¢‚â@‚±‚Ì‚Ü‚Ü‚Å‚ÍBR@ƒ_ƒ‚È‚Ì‚¾@´–›cvED
+
+481
+jp: ƒKƒbƒVƒ…BRu‚à‚Á‚Æ‹­‚­‚È‚ç‚È‚­‚Ä‚ÍBR@ƒ_ƒ‚È‚Ì‚¾IvED
+
+482
+jp: ƒKƒbƒVƒ…BRu‚ ‚ÌŽÒ‚ðBR@‚½‚¨‚·‚½‚ß‚É‚ÍcIIvED
+
+483
+jp: ´–›BRu‚ ‚ @s‚±‚¤ƒKƒbƒVƒ…IBR@í‚¢‚ð@I‚ç‚¹‚é‚½‚ß‚ÉIvED
+
+484
+jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@h–½‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
+
+485
+jp: @‚v“dŒ‚‚Í¦‚¢‚Å‚·‚Ë`BR@ƒrƒŠƒrƒŠƒrƒŠƒrƒŠ‚Å‚·BBR@í‚¤Žp‚à‚µ‚Ñ‚ê‚Ü‚·`vED
+
+486
+jp: ƒ[ƒIƒ“BRuƒ`ƒbcI@ƒUƒR‚Î‚©‚è‚ÅBR@‚­‚¾‚ç‚Ë‚¥‘å‰ï‚¾‚Á‚½‚ÈvED
+
+487
+jp: ƒfƒ…ƒtƒH[BRu‚»‚¤‚¾‚È@ƒ[ƒIƒ“vED
+
+488
+jp: ƒfƒ…ƒtƒH[BRus‚±‚¤@ƒ[ƒIƒ“cvED
+
+489
+jp: ƒ[ƒIƒ“BRu‚ ‚ BBR@‚»‚¤‚¾‚ÈBED
+
+490
+jp: @‰´‚½‚¿‚Í@‚±‚ê‚©‚çBR@‚à‚Á‚Æ‚‚Ý‚ð‚ß‚´‚·BBR@’N‚É‚à“Í‚©‚È‚¢‚Ù‚Ç‚É‚ÈcvED
+
+491
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚u—l‚ÌŽÊ^‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+492
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚uŽšŒ^ƒ_ƒ“ƒ{[ƒ‹‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+493
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚ÌƒuƒŠ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+494
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒcƒm‚Ý‚ª‚«‚Ìƒuƒ‰ƒV‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+495
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒCƒ“ƒOƒ‰ƒX‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+496
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŒŽ‚ÌÎ‚Ì‚©‚¯‚ç‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+497
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ‰‚Ì‚¨‚à‚¿‚á‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+498
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒL[ƒX‚Ìñ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+499
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚¢‚à“V‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+500
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚ÌŽô‚¢‚Ìñ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+501
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒŠƒVƒG‚Ì…ƒKƒ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+502
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒA[ƒX‚ÌŒ•‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+503
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒiƒƒKƒl‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+504
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR–‚‚æ‚¯‚Ìƒ†ƒrƒ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+505
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‰Æ•ó‚ÌŽñ‚©‚´‚è‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+506
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒVƒFƒŠ[‚Ìñ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+507
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹Ö’f‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+508
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚fƒyƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+509
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ“ƒ_ƒi‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+510
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒ“ƒ‚ƒbƒN‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+511
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR”o‹å‚Ì’Zû‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+512
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR”EŽÒ‰®•~‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+513
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒiƒi‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+514
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒeƒBƒI‚Ìƒpƒ“ƒc‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+515
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚Ìƒpƒ“ƒc‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+516
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‘åŠCŒb‚Ì‚b‚c‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+517
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒCƒhƒ‹ƒƒKƒl‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+518
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒtƒHƒ‹ƒSƒŒ‚Ì‚b‚c‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+519
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒLƒƒƒ“ƒ`ƒ‡ƒ‚Ìƒ‰ƒWƒJƒZ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+520
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŠz‚ÌƒJƒM‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+521
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹ó”ò‚ÔƒuƒŠ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+522
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒ‡ƒ“ƒR‚ÌŽžŒv‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+523
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒX[ƒp[‚P‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+524
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒZƒbƒRƒ‚ÌlŒ`‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+525
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR–œ”\ƒiƒCƒt‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+526
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR—é‰è‚Ì‚¨‚Ü‚à‚è‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+527
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒEƒ\”­Œ©Ší‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+528
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒjƒZ—mƒiƒV‚¿‚á‚ñ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+529
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒ“ƒSƒƒbƒgƒ“‚¿‚á‚ñ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+530
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒbƒVƒ…ƒƒ{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+531
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒJƒj‚Ì‚¨‚Ý‚â‚°‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+532
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ^ƒJ‚Ì‚¨‚Ý‚â‚°‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+533
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒEƒ}ƒSƒ“‚Ì¬‰®‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+534
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒVƒFƒ~ƒ‰‘œ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+535
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ^ƒ}ƒSƒ„ƒL‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+536
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒ|ƒ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+537
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒJƒCƒ‹‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+538
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒq[ƒ[ƒoƒo[ƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+539
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒJƒ}ƒLƒŠƒWƒ‡[‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+540
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR…–ì—é‰è‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+541
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ‚ƒ“ƒ‚ƒ“æ¶‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+542
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒCƒt‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+543
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR—‹‹åæ¶‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+544
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒGƒ‹EƒV[ƒoƒX‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+545
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒ‹ƒ^ƒjƒAƒ“‹³Žö‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+546
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒbƒOEƒ{ƒCƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+547
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒOƒ‰ƒu‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+548
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒiƒIƒ~‚¿‚á‚ñ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+549
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹ßŠ‚ÌŒ¢‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+550
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒuƒŠƒI‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+551
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒbƒvƒX‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+552
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒ‡ƒ“ƒR‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+553
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒRƒ‹ƒ‹‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+554
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒj[‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+555
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+556
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒRƒ€‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+557
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒˆƒ|ƒ|‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+558
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ}ƒ‹ƒX‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+559
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ‹ƒgƒ‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+560
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒuƒmƒX‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+561
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒfƒ‚ƒ‹ƒg‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+562
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒ€[ƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+563
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒcƒ@ƒIƒƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+564
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒxƒ‹ƒMƒ€E‚dE‚n‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+565
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒR[ƒ‰ƒ‹‚p‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+566
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒ{ƒ‹ƒN‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+567
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ€ƒƒ€Eƒƒ{ƒ‹ƒN‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+568
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒ“ƒWƒ‹ƒhEƒƒuƒƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+569
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ‚ƒ‚ƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+570
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+571
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒUƒ‰ƒC‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+572
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒsƒvƒŠƒI‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+573
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒUƒ‹ƒ`ƒ€‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+574
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ`ƒFƒŠƒbƒVƒ…‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+575
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒfƒ…ƒE‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+576
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ]ƒ{ƒƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+577
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒXƒMƒi‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+578
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒ‹ƒ‚ƒX‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+579
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒS[ƒŒƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+580
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ]ƒtƒBƒX‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+581
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+582
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ‰‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+583
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒŠ[‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+584
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒNƒgƒŠ[ƒ€‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+585
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒ‰ƒS‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+586
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒA[ƒX‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+587
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒL[ƒX‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+588
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠ[ƒ„‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+589
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ[ƒIƒ“‚Ì–{‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+590
+jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚R‚Â‚Ìƒoƒ‹ƒJƒ“‚ðBRŽè‚É“ü‚ê‚Ü‚µ‚½IED
+
+591
+jp: ƒhƒŠ[ƒ€ƒ^ƒbƒO‚ÌØ‚ðƒQƒbƒgIIBR@@@@@@‚³‚ç‚ÉcED
+
+592
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒrƒNƒgƒŠ[ƒ€‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+593
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒpƒeƒB‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+594
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒoƒŠ[‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+595
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒŒƒCƒ‰‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+596
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒL[ƒX‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+597
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒŠ[ƒ„‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+598
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒA[ƒX‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+599
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒuƒ‰ƒS‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+600
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒ[ƒIƒ“‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+601
+jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBR‚Rƒoƒ‹ƒJƒ“‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+602
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBR–kŠC“¹‚Ì–qê‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+603
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRŠwZ‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+604
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒ‚ƒ`ƒmƒL—V‰€’n‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+605
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒfƒ{ƒˆâÕ‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+606
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBR“ì‚Ì“‡‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+607
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒtƒ@ƒE[ƒh‚ÌLŠÔ‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+608
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒEƒ“ƒRƒeƒBƒ“ƒeƒBƒ“‚Ì•”‰®‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+609
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒjƒ…[ƒW[ƒ‰ƒ“ƒh‹ßŠC‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+610
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBR—‹‹åƒRƒƒVƒAƒ€‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+611
+jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBR—‹‹åé‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+612
+jp: ƒ~ƒjƒQ[ƒ€‚ÅBRƒEƒ“ƒRƒeƒBƒ“ƒeƒBƒ“‚Ì“ä‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+613
+jp: ƒ~ƒjƒQ[ƒ€‚ÅBR‡‘Ì•ÏŒ`ƒR[ƒ‰ƒ‹‚p‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+614
+jp: ƒ~ƒjƒQ[ƒ€‚ÅBR‚¨‚µ‚¨‚«ƒ‚ƒ‚ƒ“‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+615
+jp: ƒ~ƒjƒQ[ƒ€‚ÅBRƒtƒ@ƒE[ƒhƒgƒ‰ƒCƒAƒ‹‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+616
+jp: ƒIƒvƒVƒ‡ƒ“‚ÅBRƒTƒEƒ“ƒhƒ‹[ƒ€‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
