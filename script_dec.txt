@@ -452,7 +452,7 @@ jp: ƒŠƒIƒE‚ª‚Á‚Ä‚¢‚½BRƒiƒ]‚ÌÎED
 
 //gemstone maybe
 
-en: A mysterious jewel\BRin Riou's possession.\ED
+en: A mysterious stone\BRin Riou's possession.\ED
 
 es: Una joya misteriosa\BRque Riou poseé.\ED
 
@@ -473,9 +473,9 @@ es: Zatch fue tras este raro\BRyellowtail volador.\ED
 62
 jp: À‚ÍƒOƒ‰ƒu‚ªƒKƒbƒVƒ…‚ğBR‚É‚Í‚ß‚é‚½‚ß‚Ì‚à‚ÌED
 
-en: It was actually a trap\BRto lure Zatch, set by Gurabu.\ED
+en: It was actually a trap\BRto lure Zatch, set by Grubb.\ED
 
-es: En realidad era una trampa\BRde Gurabu para atraer a Zatch.\ED
+es: En realidad era una trampa\BRde Grubb para atraer a Zatch.\ED
 
 63
 jp: ‚¨‚â‚Â—~‚µ‚³‚ÉBRƒrƒ‡ƒ“ƒR‚ª‚Â‚­‚Á‚½ŒvED
@@ -494,9 +494,10 @@ es: Esta diseñado solo para que diga\BRque son las 3 de la tarde.\ED
 65
 jp: ƒhƒƒ“ƒ}‚ª‚Ë‚ç‚Á‚Ä‚¢‚½BRƒrƒbƒO‚Èƒ_ƒCƒ„ED
 
-en: A big diamond Doronma was after.\ED
+//Raze
+en: A big diamond that Doronma\BRtried to take for himself.\ED
 
-es: El gran diamante\BRque Doronma buscaba.\ED
+es: El gran diamante\BRque Doronma buscaba robar.\ED
 
 66
 jp: ƒEƒ}ƒSƒ“‚Ì‚©‚Â‚â‚­‚ÅBR“‚Ü‚ê‚¸‚É‚·‚ñ‚¾ED
@@ -508,11 +509,10 @@ es: Gracias a Ponygon el diamante\BRno fue robado.\ED
 67
 jp: ƒZƒbƒRƒ‚ª‚­‚ê‚½lŒ`BR‚­‚Æƒvƒs[‚Æ‚È‚éED
 
-//Raze heeelp
+//Raze
+en: The toy Kory gave away that\BRextends when you blow into it.\ED
 
-en: The doll that Sekolo gave.\BRTurns into pupi after blowing.\ED
-
-es: Es un muñeco.\ED
+es: El juguete que Kory regaló\BRse extiende al soplarlo.\ED
 
 68
 jp: ƒKƒbƒVƒ…‚ªX‚Åƒwƒr‚ğBR’Ç‚¢•¥‚¤‚Ì‚Ég‚Á‚½‚ªcED
@@ -539,14 +539,16 @@ es: Wife lo compró en especial\BRen la tienda departamental.\ED
 71
 jp: ´–›‚Ì‚±‚Æ‚ğS”z‚µ‚ÄBRì‚Á‚½‚¨‚Ü‚à‚èED
 
-en: An omamori charm\BRmeant to protect Kiyo.\ED
+//Raze
+en: A good luck charm that was made\BRout of concern for Kiyo.\ED
 
 es: Un amuleto para proteger a Kiyo.\ED
 
 72
 jp: –³–‚É‚à‚Ç‚Á‚Ä‚­‚é‚Ì‚ğBRŠè‚Á‚Äì‚Á‚½ED
 
-en: Made in hopes that he\BRwould return safe and sound.\ED
+//Raze
+en: It was given to him in the hopes\BRthat he would come back safely.\ED
 
 es: Hecho con la esperanza\BRde que regrese sano y salvo.\ED
 
@@ -581,10 +583,10 @@ es: Suzy lo compró en especial\BRen la tienda departamental.\ED
 77
 jp: —é‰è‚ªì‚Á‚½BR‚¨‚İ‚Ü‚¢ƒq[ƒ[ED
 
-// bad
-en: A character fruit\BRdesigned by Suzy.\ED
+//Raze
+en: A character fruit designed\BRby Suzy as a get well gift.\ED
 
-es: Un personaje creado por Suzy.\ED
+es: Personaje de fruta por Suzy\BRcomo regalo de recuperación.\ED
 
 78
 jp: ‚Ç‚±‚É‚à”„‚Á‚Ä‚¢‚È‚¢BRƒIƒŠƒWƒiƒ‹lŒ`ED
@@ -603,14 +605,14 @@ es: Un robo-Zatch creado por Kiyo.\ED
 80
 jp: ´–›‚ÆƒKƒbƒVƒ…‚ª‚¢‚È‚¢ŠÔ‚ÌBR—é‰è‚Ì˜b‚ ‚¢‚ÄED
 
-en: While Zatch and Kiyo were away\BRSuzy would talk to it.\ED
+//Raze
+en: It was designed to keep Suzy company while Zatch and Kiyo are away.\ED
 
-es: Mientras Zatch y Kiyo estaban\BRlejos, Suzy le hablaba.\ED
+es: Mientras Zatch y Kiyo estaban\BRlejos, le daba compañía a Suzy.\ED
 
 81
 jp: ƒTƒ“ƒr[ƒ€‚³‚ñ‚ª–kŠC“¹BR‚Å”ƒ‚Á‚Ä‚«‚½‚¨‚İ‚â‚°ED
 
-alt: Souvenirs from Hokkaido\BRby Mr. Sunbeam.\ED
 en: Mr. Sunbeam got this souvenir\BRfrom Hokkaido.\ED
 
 es: Sunbeam trajo este recuerdo\BRde Hokkaido.\ED
@@ -625,7 +627,7 @@ es: Lo puedes usar en la cabeza\BRy molestar a otros.\ED
 83
 jp: ƒTƒ“ƒr[ƒ€‚³‚ñ‚ª–kŠC“¹BR‚Å”ƒ‚Á‚Ä‚«‚½‚¨‚İ‚â‚°ED
 
-en: Souvenir from Hokkaido\BRby Mr. Sunbeam.\ED
+en: A souvenir Mr. Sunbeam\BRbought from Hokkaido.\ED
 
 es: Sunbeam consiguió este recuerdo\BRen Hokkaido.\ED
 
@@ -646,28 +648,31 @@ es: Aquí duerme Ponygon cuando\BRestá en la casa de Kiyo.\ED
 86
 jp: ¬‰®‚É‚ÍuƒEƒ}ƒSƒ“v‚ÆBR•\D‚ª‚©‚©‚°‚ç‚ê‚Ä‚¢‚éED
 
-en: It even has a nameplate.\ED
+//Raze
+en: The nameplate says "Ponygon",\BRwhether he likes it or not.\ED
 
-es: Hasta tiene una placa\BRcon su nombre.\ED
+es: La placa dice "Ponygon"\BRle guste o no.\ED
 
 87
 jp: ƒ_ƒj[‚ª‹­“‚©‚çç‚Á‚½BR—_‘œED
 
-en: The statue that Danny guarded\BRfrom robbers.\ED
+//Raze
+en: A statue of a goddess that Danny protected from a group of thieves.\ED
 
-es: La estatua que Danny salvo\BRde unos ladrones.\ED
+es: La estatua de una diosa que\BRDanny protegió de unos ladrones.\ED
 
 88
 jp: ‚»‚Ì‰¿’l‚Í”•S‰­‰~‚ÆBR‚¢‚í‚ê‚Ä‚¢‚éED
 
 en: Its value is said to be\BRin the billions.\ED
 
-es: Su valor es de más de un billón\BRde Yen.\ED
+es: Su valor es indescriptible.\ED
 
 89
 jp: ´–›‚Ì•êã‚ªì‚éBR‚¨‚¢‚µ‚¢ƒ^ƒ}ƒSƒ„ƒLED
 
-en: Delicious tamagoyaki\BRmade by Kiyo's mother.\ED
+//Raze
+en: A delicious omelet\BRmade by Kiyo's mother.\ED
 
 es: Delicioso tamagoyaki hecho\BRpor la madre de Kiyo.\ED
 
