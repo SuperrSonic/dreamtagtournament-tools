@@ -19,10 +19,8 @@ NOTE: If the base script isn't finished, untranslated lines will just be a garbl
 # Credits
 
 Script tool "dtt_conv" and base translation by SuperrSonic/Diego A.
-
 https://www.youtube.com/@SuperrSonic
 
 English script revision, translations, and lore research by XZatchBellGamerX/Raze
-
 https://www.youtube.com/@XZatchBellGamerX
 
