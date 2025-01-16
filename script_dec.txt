@@ -657,7 +657,7 @@ es: La placa dice "Ponygon"\BRle guste o no.\ED
 jp: ƒ_ƒj[‚ª‹­“‚©‚çç‚Á‚½BR—_‘œED
 
 //Raze
-en: A statue of a goddess that Danny protected from a group of thieves.\ED
+en: A goddess sculpture that Danny\BRprotected from thieves.\ED
 
 es: La estatua de una diosa que\BRDanny protegió de unos ladrones.\ED
 
