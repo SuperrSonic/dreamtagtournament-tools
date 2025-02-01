@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 90
+ln: 102
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -606,7 +606,7 @@ es: Un robo-Zatch creado por Kiyo.\ED
 jp: ´–›‚ÆƒKƒbƒVƒ…‚ª‚¢‚È‚¢ŠÔ‚ÌBR—é‰è‚Ì˜b‚ ‚¢‚ÄED
 
 //Raze
-en: It was designed to keep Suzy company while Zatch and Kiyo are away.\ED
+en: Designed to keep Suzy company\BRwhile Zatch and Kiyo are away.\ED
 
 es: Mientras Zatch y Kiyo estaban\BRlejos, le daba compañía a Suzy.\ED
 
@@ -686,41 +686,95 @@ es: Es la comida favorita de Ted, y\BRpuede comer toda la que quiera.\ED
 91
 jp: –‚ŠE‚É‹A‚Á‚½ƒƒbƒvƒX‚ÆBRS‚ğ’Ê‚í‚¹‚Ä‚¢‚½Â”NED
 
+en: A young man, close with Rops who\BRreturned to the mamodo world.\ED
+
+es: Un joven muy cercano a Rops\BRque regresó al mundo mamodo.\ED
+
 92
 jp: ƒLƒPƒ“‚ğ@’m‚·‚éBRƒtƒVƒM‚È—Í‚ğ‚à‚Á‚Ä‚¢‚éED
+
+en: He has a mysterious ability\BRthat allows him to sense danger.\ED
+
+es: Tiene una habilidad misteriosa\BRque le permite percibir peligro.\ED
 
 93
 jp: “ì‚Ì“‡‚ÉZ‚ŞBRƒŒƒCƒ“‚Ìƒp[ƒgƒi[ED
 
+en: Rain's partner lives\BRon a southern island.\ED
+
+es: El compañero de Rain\BRvive en una isla del sur.\ED
+
 94
 jp: ‚¨‚­‚Ñ‚å‚¤Ò‚¾‚ªBR–{“–‚Ì‹­‚³‚ğ‚à‚Á‚Ä‚¢‚éED
+
+en: A cowardly fellow, but he has\BRtrue strength.\ED
+
+es: Es un poco cobarde\BRpero tiene verdadera fuerza.\ED
 
 95
 jp: —V‰€’n‚Å‘ål‹CIHBRŒ¶‚ÌƒX[ƒp[ƒq[ƒ[IED
 
+en: Very popular in amusement parks?!\BRIt's a legendary superhero!\ED
+
+es: ¡¿Es muy popular con los niños?!\BR¡Es un superheroe legendario!\ED
+
 96
 jp: ƒAƒW‚Ìƒqƒ‰ƒL‚ªBR–²‚Ì‚¨‚©‚¸‚¾IIED
+
+//wtf?
+en: Horse mackerel flounder\BRis a dream side dish!\ED
+
+es: ¡Filetes de jurel son un entremés\BRde ensueño!\ED
 
 97
 jp: ƒ‚ƒ`ƒmƒL—V‰€’n‚É‚¢‚éBR‚ ‚±‚ª‚ê‚Ìƒq[ƒ[IED
 
+en: Your beloved hero\BRat Mochinoki Amusement Park!\ED
+
+es: ¡Su adorado heroe\BRen Mochinoki Amusement Park!\ED
+
 98
 jp: ‚È‚ñ‚Å‚àØ‚ê‚éƒXƒSƒCBRƒJƒ}‚ğ‚à‚Á‚Ä‚¢‚é‚¼IED
+
+en: He has an amazing sickle\BRthat can cut through evil!\ED
+
+es: ¡Tiene un increible hoz\BRque puede cortar cualquier mal!\ED
 
 99
 jp: ´–›‚Ì‚±‚Æ‚ª‘åD‚«‚ÈBRƒNƒ‰ƒXƒƒCƒgED
 
+en: Kiyo's classmate,\BRshe's very fond of him.\ED
+
+es: Compañera de clases de Kiyo,\BRa ella le agrada mucho.\ED
+
 100
 jp: •ï’š‚³‚Î‚«‚ÍƒvƒŠç•‰‚¯‚ÌBR˜r‚Ü‚¦‚ğ‚à‚ÂED
+
+en: Her skills with a knife\BRare as good as a professional's.\ED
+
+es: Su habilidad con los cuchillos\BRes como la de un pro.\ED
 
 101
 jp: ¶“k‚ğ‚È‚â‚Ü‚·‘Œê‚ÌBRæ¶@ƒ‚ƒ“ƒ‚ƒ“\HEARTED
 
+en: Teacher who teases\BRher students.\HEART\ED
+
+es: Maestra que molesta\BRa sus estudiantes.\HEART\ED
+
 102
 jp: ƒIƒbƒzƒbƒzBR‚à‚Á‚Æƒ‚ƒ“ƒ‚ƒ“‚È‚³‚¢\HEARTED
 
+// Need to rewatch episode 99 -- Miss Wriggle's Class is Now in Session
+en: Oh ho ho, be more annoyed.\HEART\ED
+
+es: O-jo-jo, sean más monmon.\HEART\ED
+
 103
 jp: ŠwZƒCƒxƒ“ƒg‚Í•K‚¸Q‰ÁBR’†“cæ¶‚Ìˆ¤‚·‚é‰œ‚³‚ñED
+
+en: 
+
+es: 
 
 104
 jp: ƒ‚ƒƒbƒR‚ÅŠw‚ñ‚¾BRƒƒJƒ}ƒJƒ_ƒ“ƒX‚ª“¾ˆÓED
