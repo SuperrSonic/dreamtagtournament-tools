@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 102
+ln: 120
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -714,7 +714,7 @@ es: Es un poco cobarde\BRpero tiene verdadera fuerza.\ED
 95
 jp: —V‰€’n‚Å‘ål‹CIHBRŒ¶‚ÌƒX[ƒp[ƒq[ƒ[IED
 
-en: Very popular in amusement parks?!\BRIt's a legendary superhero!\ED
+en: A huge hit at amusement parks?!\BRHe's a legendary superhero!\ED
 
 es: ¡¿Es muy popular con los niños?!\BR¡Es un superheroe legendario!\ED
 
@@ -772,63 +772,143 @@ es: O-jo-jo, sean más monmon.\HEART\ED
 103
 jp: ŠwZƒCƒxƒ“ƒg‚Í•K‚¸Q‰ÁBR’†“cæ¶‚Ìˆ¤‚·‚é‰œ‚³‚ñED
 
-en: 
+en: Mr. Nakata's beloved wife, who's\BRalways around at school events.\ED
 
-es: 
+es: La esposa del Sr. Nakata, que\BRsiempre anda por la escuela.\ED
 
 104
 jp: ƒ‚ƒƒbƒR‚ÅŠw‚ñ‚¾BRƒƒJƒ}ƒJƒ_ƒ“ƒX‚ª“¾ˆÓED
 
+en: Good at the Wakamaka Dance,\BRwhich she learned at Morocco.\ED
+
+es: Es buena bailando el Wakamaka,\BRque aprendió en Marruecos.\ED
+
 105
 jp: ¡‰ñ‚Ì—‹‹å”t‘ˆ’Dí‚ğBRåÃ‚µ‚½ˆÌ‚¢lED
+
+en: The great man who organized\BRthe Raiku Cup tournament.\ED
+
+es: El gran hombre que organizó\BRel torneo Raiku Cup.\ED
 
 106
 jp: ‚à‚¿‚ë‚ñƒKƒbƒVƒ…‚½‚¿‚ÌBR¶‚İ‚Ìe‚Å‚ ‚éED
 
+//gash-tachi, 'gash and the others', easier to just say ZB
+en: He is of course,\BRthe creator of Zatch Bell!\ED
+
+es: Por supuesto…\BR¡Es el creador de Zatch Bell!\ED
+
 107
 jp: ƒ‚ƒ‚ƒ“‚Ìƒp[ƒgƒi[BRƒIƒˆƒˆ‚ªŒû‚®‚¹ED
+
+//oyoyo, oh my, oh dear
+en: She's Momon's partner and tends\BRto say "oh my!" when panicking.\ED
+
+es: Es la dueña del libro de Momon.\BRTiende a decir oyoyo al agitarse.\ED
 
 108
 jp: •½˜a‚Ì‚½‚ß‚É¢ŠE’†‚ğBR—·‚µ‚Ä‚¢‚éƒVƒXƒ^[ED
 
+en: A nun who travels around the\BRworld in search for peace.\ED
+
+es: Una monja que viaja por el mundo\BRen busca de paz.\ED
+
 109
 jp: ´–›‚Ì•ƒ‚Æ“¯‚¶‘åŠw‹³öBR‚Ü[[[[[[‚ÁIIED
+
+//ends with maaaaa!
+en: A professor of the university\BRwhere Kiyo's father works.\ED
+
+es: Un profesor de la universidad\BRdonde trabaja el padre de Kiyo.\ED
 
 110
 jp: X‚Ì—d¸‚Æ‚µ‚ÄBRX‚ÌˆÀ‘S‚ğ‚Ü‚à‚Á‚Ä‚¢‚éED
 
+en: As a forest fairy, it's his duty\BRto protect the forest.\ED
+
+es: Como hada de bosque, es su\BRdeber proteger el bosque.\ED
+
 111
 jp: ƒiƒ]ƒiƒ]”m‚Ì‚µ‚à‚×BR‚l‚i‚P‚Q‚ÌˆêˆõED
+
+en: A member of the Majestic 12,\BRfollower of Doctor Riddles.\ED
+
+es: Pertenece a los Majestic 12, una seguidora leal del Doctor Riddles.\ED
 
 112
 jp: ‚ ‚È‚½‚Ç‚±‚ğŒ©‚Ä‚¢‚é‚ÌBRƒ{ƒCƒ“‚ğŒ©‚È‚³‚¢ED
 
+Isnt this the lyric for Never Say Boin?
+//Chotto anata dokko miteru no?
+//Boin wa mi nasai!
+Is it supposed to be like, Madonna's Vogue
+en: What are you looking at?\BRLook at my boing!\ED
+
+es: ¿Dónde estás mirando?\BR¡Mira mi BOING!\ED
+
 113
 jp: ‚h‚p‚P‚X‚O‚Ì‘å“VËBRƒR[ƒ‰ƒ‹‚p‚Ìƒp[ƒgƒi[ED
+
+en: Koral Q's partner.\BRA genius with an IQ of 190.\ED
+
+es: El dueño del libro de Koral Q,\BRun genio con un CI de 190.\ED
 
 114
 jp: ‘Šè‚Ì‹­‚³‚ğƒpƒ\ƒRƒ“‚ÅBR‰ÈŠw“I‚É•ªÍ‚·‚éED
 
+en: He uses a computer to analyse\BRthe opponent, scientifically.\ED
+
+es: Usa una PC para analizar\BRel poder del oponente.\ED
+
 115
 jp: ‚TË‚Ì—‚Ìq‚È‚ª‚çBR‹¥–\‚ÈƒKƒbƒVƒ…‚Ì“V“GED
+
+en: Although she is 5, she is\BRZatch's sworn enemy.\ED
+
+es: Aunque solo tenga 5, es la\BRenemiga declarada de Zatch.\ED
 
 116
 jp: ‚¦H‚í‚½‚µ‚Ìo”Ô‚ÍBR‚±‚ê‚¾‚¯‚È‚Ì[IHED
 
+en: Huh? Is this the only role\BRI have in the entire game?!\ED
+
+es: Eh? ¡¿Esto es lo único que\BRme toca hacer en el juego?!\ED
+
 117
 jp: ƒ€ƒi–Ñ‚ª‚è‚Á‚Ï‚ÈŒ¢BR–¼‘O‚Í¬—ÑƒE[ED
+
+// is this really saying the dog's name?
+en: A dog with a nice mane,\BRnamed Wu Kobayashi.\ED
+
+es: Un perro con bonita melena.\BRSe llama Wu Kobayashi.\ED
 
 118
 jp: ƒKƒbƒVƒ…‚Ì—F‚¾‚¿‚ÅBRƒ`ƒ‡ƒ“ƒ}ƒQ‚ª—‡‚¤ED
 
+en: Zatch's friend.\BRThe samurai hairstyle suits him.\ED
+
+es: Amigo de Zatch.\BREl look de samurai le queda bien.\ED
+
 119
 jp: “®•¨‰€‚ğ“¦‚°o‚µ‚Ä‚«‚½BR‘å‚«‚Èƒ‰ƒCƒIƒ“ED
+
+en: A big lion that escaped\BRfrom the zoo.\ED
+
+es: Un león muy grande\BRque se escapó del zoológico.\ED
 
 120
 jp: ƒKƒP‚ÅƒiƒIƒ~‚¿‚á‚ñ‚ªBR‚¨‚»‚í‚êŠë‹@ˆê”¯IED
 
+en: Naomi got scared by it\BRand was in grave danger.\ED
+
+es: Naomi se asustó por el\BRy estuvo en grave peligro.\ED
+
 121
 jp: ƒAƒ|ƒ‚Æ—·‚µ‚½–‚•¨‚ÌqBRƒ[ƒIƒ“‚É‚â‚Ô‚ê–‚ŠE‚ÖED
+
+en: 
+
+es: 
 
 122
 jp: ƒ[ƒv‚Æ½‚ğ©İ‚ÉBR‚ ‚â‚Â‚ép‚ğg‚¤ED
