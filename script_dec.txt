@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 120
+ln: 134
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -833,7 +833,7 @@ jp: ƒiƒ]ƒiƒ]”m‚Ì‚µ‚à‚×BR‚l‚i‚P‚Q‚ÌˆêˆõED
 
 en: A member of the Majestic 12,\BRfollower of Doctor Riddles.\ED
 
-es: Pertenece a los Majestic 12, una seguidora leal del Doctor Riddles.\ED
+es: Pertenece a los Majestic 12, una\BRseguidora leal del Doctor Riddles.\ED
 
 112
 jp: ‚ ‚È‚½‚Ç‚±‚ğŒ©‚Ä‚¢‚é‚ÌBRƒ{ƒCƒ“‚ğŒ©‚È‚³‚¢ED
@@ -906,48 +906,100 @@ es: Naomi se asustó por el\BRy estuvo en grave peligro.\ED
 121
 jp: ƒAƒ|ƒ‚Æ—·‚µ‚½–‚•¨‚ÌqBRƒ[ƒIƒ“‚É‚â‚Ô‚ê–‚ŠE‚ÖED
 
-en: 
+en: Travelled alongside Apollo.\BRHis book was burned by Zeno.\ED
 
-es: 
+es: Viajaba al lado de Apollo.\BRZeno quemó su libro.\ED
 
 122
 jp: ƒ[ƒv‚Æ½‚ğ©İ‚ÉBR‚ ‚â‚Â‚ép‚ğg‚¤ED
 
+en: Uses ropes and chains\BRto manipulate objects.\ED
+
+es: Usa sogas y cadenas\BRpara controlar objetos.\ED
+
 123
 jp: ƒ]ƒtƒBƒX‚É‹¦—Í‚µ‚ÄBRÎ”Å‚ğW‚ß‚½–‚•¨‚ÌqED
+
+en: A mamodo who helped Zofis\BRcollect the stone tablets.\ED
+
+es: Un mamodo que ayudó a Zofis\BRconseguir las tabletas de piedra.\ED
 
 124
 jp: ƒIƒCƒ‰‚àƒpƒeƒB‚ÆBR‚¢‚Á‚µ‚å‚É“¬‚¤ƒQƒIED
 
+en: I'll fight by Penny's side, ribbit!\ED
+
+es: ¡Pelearé junto a Penny, croac!\ED
+
 125
 jp: ƒKƒbƒVƒ…‚ÆŒö‰€‚ÅBRo‰ï‚Á‚½‚â‚³‚µ‚¢—‚ÌqED
+
+en: A kind girl whom Zatch\BRmet at the park.\ED
+
+es: Una niña amable que Zatch\BRconoció en el parque.\ED
 
 126
 jp: p‚ğ¥‚¦‚ç‚ê‚é‚Æ‹¥–\‚ÈBR–‚•¨‚É•Ïg‚µ‚Ä‚µ‚Ü‚¤ED
 
+en: If a spell is cast she transforms\BRinto a ferocious monster.\ED
+
+es: Al decir el conjuro se transforma\BRen una bestia peligrosa.\ED
+
 127
 jp: ƒSƒ‹ƒh[‚É‚©‚Á‚Ä‚à‚ç‚¤BRƒ^ƒCƒ„ƒL‚ª‘åD•¨ED
+
+en: The fish-shaped cakes Goldo\BRbuys him are his favorite.\ED
+
+es: El taiyaki que le compra Goldo\BRes su favorito.\ED
 
 128
 jp: ‚Ç‚ñ‚ÈƒLƒY‚ğ‚¤‚¯‚Ä‚àBRp‚Ì—Í‚Å‰ñ•œ‚·‚éED
 
+en: No matter the damage he takes,\BRhis spell's power can heal him.\ED
+
+es: Sin importar cuanto daño reciba\BRsu conjuro lo puede curar.\ED
+
 129
 jp: “ì‚Ì“‡‚ÌƒJƒCƒ‹‚Æ‚­‚ç‚·BR–‚ŠE‚Å‚ÌƒKƒbƒVƒ…‚Ìe—FED
+
+en: Back then he was Zatch's friend.\BRLives with Kyle on an island.\ED
+
+es: En el pasado fue amigo de Zatch.\BRVive con Kyle en una isla sureña.\ED
 
 130
 jp: ƒJƒCƒ‹‚Ì‚±‚Æ‚ğS”z‚µBR‰¤‚Ì“¬‚¢‚ğ©‚ç‚¨‚è‚½ED
 
+en: Concerned about Kyle,\BRhe withdrew from the battle.\ED
+
+es: Preocupado por Kyle,\BRdecidio dejar la batalla.\ED
+
 131
 jp: ×ì‚Æˆ«–‚ğ‚Í‚½‚ç‚­BR–‚•¨‚ÌqED
 
+en: A mamodo who partnered up with\BRHosokawa and committed crimes.\ED
+
+es: Mamodo que junto a Hosokawa\BRhizo cosas malas.\ED
+
 132
 jp: •X‚Ìp‚ÅƒKƒbƒVƒ…‚½‚¿‚ÆBRÅ‰‚É“¬‚Á‚½ED
+//I think this line disregards Hyde
+en: Uses ice spells. He was the first\BRmamodo to be defeated by Zatch.\ED
+
+es: Usa conjuros de hielo. Fue el\BRprimero en ser vencido por Zatch.\ED
 
 133
 jp: ƒˆƒ|ƒ|ƒC@ƒgƒ|ƒ|ƒCBRƒXƒ|ƒ|ƒ|[ƒCôED
 
+en: 
+
+es: 
+
 134
 jp: ƒWƒFƒ€‚Ì‰Æ‘°‚ÌƒJƒ^ƒL‚ğBR‚¤‚Â‚½‚ß‚É—x‚è‚Â‚Ã‚¯‚éED
+
+en: 
+
+es: 
 
 135
 jp: –‚ŠE‚Å‚Í’‡—Ç‚µ‚¾‚Á‚½BRƒeƒBƒI‚ğ’Ç‚¢‹l‚ß‚éED
