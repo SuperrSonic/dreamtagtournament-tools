@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 134
+ln: 142
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -700,9 +700,9 @@ es: Tiene una habilidad misteriosa\BRque le permite percibir peligro.\ED
 93
 jp: “ì‚Ì“‡‚ÉZ‚ŞBRƒŒƒCƒ“‚Ìƒp[ƒgƒi[ED
 
-en: Rain's partner lives\BRon a southern island.\ED
+en: Rein's partner lives\BRon a southern island.\ED
 
-es: El compañero de Rain\BRvive en una isla del sur.\ED
+es: El compañero de Rein\BRvive en una isla del sur.\ED
 
 94
 jp: ‚¨‚­‚Ñ‚å‚¤Ò‚¾‚ªBR–{“–‚Ì‹­‚³‚ğ‚à‚Á‚Ä‚¢‚éED
@@ -990,43 +990,79 @@ es: Usa conjuros de hielo. Fue el\BRprimero en ser vencido por Zatch.\ED
 133
 jp: ƒˆƒ|ƒ|ƒC@ƒgƒ|ƒ|ƒCBRƒXƒ|ƒ|ƒ|[ƒCôED
 
-en: 
+en: Yopopoi Topopoi Supopopoi\MUSIC\ED
 
-es: 
+es: Yopopoi Topopoi Supopopoi\MUSIC\ED
 
 134
 jp: ƒWƒFƒ€‚Ì‰Æ‘°‚ÌƒJƒ^ƒL‚ğBR‚¤‚Â‚½‚ß‚É—x‚è‚Â‚Ã‚¯‚éED
 
-en: 
+en: He dances to avenge\BRDjem's family.\ED
 
-es: 
+es: Baila para vengar\BRa la familia de Djem.\ED
 
 135
 jp: –‚ŠE‚Å‚Í’‡—Ç‚µ‚¾‚Á‚½BRƒeƒBƒI‚ğ’Ç‚¢‹l‚ß‚éED
 
+en: He goes after Tia, despite being\BRfriends back in the mamodo world.\ED
+
+es: Aunque fueron buenos amigos\BRantes, no dudó en atacar a Tia.\ED
+
 136
 jp: ƒŒƒ“ƒuƒ‰ƒ“ƒg‚Æ‹¤‚ÉBR‰¤‚ğ‚ß‚´‚·ED
+
+en: With Rembrant, he aims\BRto become king.\ED
+
+es: Con Rembrant el intenta ser rey.\ED
 
 137
 jp: ƒXƒeƒ“ƒO‚Æ‹¤‚Éˆ«–‚‚ÆBR‹°‚ê‚ç‚ê‚½–‚•¨‚ÌqED
 
+en: Along with Steng, this mamodo was\BRfeared and known as Dark Lord.\ED 
+
+es: Al lado de Steng, este mamodo\BRfue temido por sus actos.\ED
+
 138
 jp: ‰Ô‚ğ‚Â‚¯‚½‚à‚Ì‚ğ©—R‚ÉBR‚ ‚â‚Â‚é”\—Í‚ğ‚à‚ÂED
+
+en: Can easily manipulate objects\BRby placing a flower on them.\ED
+
+es: Controla objetos inanimados\BRal colocar una flor sobre ellos.\ED
 
 139
 jp: ‚í‚Á‚ê‚Íí‚¤BR‚¿‚å[‚±‚­‚©[ôED
 
+en: We are the ones\BRyou're going to fight\MUSIC\ED
+
+es: Somos con quien lucharas\MUSIC\ED
+
 140
 jp: ƒŠƒ…ƒbƒN‚ğƒp[ƒgƒi[‚ÉBR•ªg‚Ìp‚ğg‚¤ED
+
+en: Partnered with Ruku, he uses\BRa spell to clone himself.\ED
+
+es: Ruku es el dueño de su libro.\BRUsa un conjuro para duplicarse.\ED
 
 141
 jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‚·‚³‚Ü‚¶‚¢‰ö—Í‚ğŒÖ‚éIED
 
+en: Of Zofis' Four Supreme Mamodo.\BRHe boasts incredible strength.\ED
+
+es: Uno de los Four Supreme Mamodo\BRde Zofis. Increíblemente fuerte.\ED
+
 142
 jp: ‚»‚Ì‹¥–\‚³‚©‚çBRƒo[ƒT[ƒJ[‚ÆŒÄ‚Î‚ê‚éED
 
+en: Referred to as a berserker\BRdue to his ferocity.\ED
+
+es: Conocido como un berserker\BRdebido a su ferocidad.\ED
+
 143
 jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‘½‚­‚Ì¯‚ğ‘€‚èUŒ‚IED
+
+en: 
+
+es: 
 
 144
 jp: Î”Å‚Ì‚Æ‚«´–›‚É‚³‚ê‚½BRƒqƒhƒCd‘Å‚¿‚ğ¦‚ŞED
