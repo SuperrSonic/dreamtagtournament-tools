@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 142
+ln: 160
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1046,9 +1046,9 @@ es: Ruku es el dueño de su libro.\BRUsa un conjuro para duplicarse.\ED
 141
 jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‚·‚³‚Ü‚¶‚¢‰ö—Í‚ğŒÖ‚éIED
 
-en: Of Zofis' Four Supreme Mamodo.\BRHe boasts incredible strength.\ED
+en: Of Zofis' Four Supreme Mamodo.\BRHe boasts incredible strength!\ED
 
-es: Uno de los Four Supreme Mamodo\BRde Zofis. Increíblemente fuerte.\ED
+es: Uno de los Four Supreme Mamodo\BRde Zofis. ¡Increíblemente fuerte!\ED
 
 142
 jp: ‚»‚Ì‹¥–\‚³‚©‚çBRƒo[ƒT[ƒJ[‚ÆŒÄ‚Î‚ê‚éED
@@ -1060,63 +1060,140 @@ es: Conocido como un berserker\BRdebido a su ferocidad.\ED
 143
 jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‘½‚­‚Ì¯‚ğ‘€‚èUŒ‚IED
 
-en: 
+en: Supreme Mamodo. Attacks by\BRcontrolling many stars!\ED
 
-es: 
+es: De los Supreme Mamodo. ¡Ataca\BRcontrolando muchas estrellas!\ED
 
 144
 jp: Î”Å‚Ì‚Æ‚«´–›‚É‚³‚ê‚½BRƒqƒhƒCd‘Å‚¿‚ğ¦‚ŞED
 
+en: He resents Kiyo for the mean\BRway he was treated as a tablet.\ED
+
+es: Está molesto con Kiyo por ser\BRtratado mal siendo una tableta.\ED
+
 145
 jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‹­—Í‚È‘Ìp‚Å“G‚ğ‘Å‚ÂIED
+
+en: Supreme Mamodo. Strikes down\BRenemies with martial arts!\ED
+
+es: De los Supreme Mamodo. ¡Derriba a\BRsu oponente con artes marciales!\ED
 
 146
 jp: ƒp[ƒgƒi[‚ÌŒº@‚àlŠÔBR‚Î‚È‚ê‚µ‚½‘Ìp‚Ìg‚¢èED
 
+en: His partner, Gensou\BRis also a master martial artist.\ED
+
+es: Su compañero Gensou también es\BRexperto en las artes marciales.\ED
+
 147
 jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‚³‚ Œ|‚ğ‚µ‚È‚³‚¢IED
+
+en: Supreme Mamodo.\BRCome on, do your magic trick!\ED
+
+es: De los Supreme Mamodo.\BR¡Vamos, haz tu truco de mágia!\ED
 
 148
 jp: ‚dE‚n‚ÍƒCƒX‚É‚©‚í‚Á‚ÄBR‚¨‚µ‚¨‚«‚æ[IIED
 
+en: The E.O. stands for\BREntolerant Overlord!!\ED
+
+//que traduccion mas creativa
+es: ¡¡E.O. significa\BREntolerante Overlord!!\ED
+literal-- ¡¡E.O. significa sentarme y dar castigos!!
+alt-- ¡¡E.O. significa Entolerante Oscuro-señor!!
+
 149
 jp: ƒR[ƒ‰ƒ‹‚p‚Ì‚«‚Ù‚ñ‚ÌpBRƒOƒ‰ƒu‚Ìô•¶‚Å•ÏŒ`‚¾IED
+
+en: Koral Q's basic form. Grubb can\BRtransform him with a spell.\ED
+
+es: Su forma normal. Grubb puede\BRtransformarlo con un conjuro.\ED
 
 150
 jp: –‚•¨‚ğ‚³‚ª‚·ƒŒ[ƒ_[‚ğBR‚à‚Á‚Ä‚¢‚éED
 
+en: He has a radar\BRthat can locate mamodo.\ED
+
+es: Tiene un radar que le permite\BRlocalizar mamodo.\ED
+
 151
 jp: ƒR[ƒ‰ƒ‹‚p‚ªô•¶‚Å•ÏŒ`BR‹­—Íƒpƒ[‚Å‚È‚¬“|‚·IED
+
+en: Koral Q transforms and can take\BRdown enemies using this power!\ED
+
+es: ¡Koral Q se transforma y obtiene\BRfuerza para derrotar al enemigo!\ED
 
 152
 jp: ŠoŒå‚µ‚ëAƒsƒˆ–›IBRƒ€`ƒ“Eƒƒ{ƒpƒ`ED
 
+en: Prepare yourself, Piyo!\BRMoon-Robo-Power~!\ED
+
+es: ¡Preparate, Piyo!\BR¡Por el poder de Robo-Luna~!\ED
+
 153
 jp: ƒR[ƒ‰ƒ‹‚p‚ªô•¶‚Å•ÏŒ`BR“dŒ‚‚È‚ñ‚Äƒwƒbƒ`ƒƒƒ‰IED
+
+en: Koral Q's transformation.\BRElectric shocks are no problem!\ED
+
+es: Koral Q se transforma.\BR¡Ataques eléctricos son inutiles!\ED
 
 154
 jp: ƒsƒbƒ|ƒbƒpIIBR„‚ÍƒSƒ€‚¾IIED
 
+//onomatopoeia but I think the dub keeps the p sound
+en: Pi-po-pa!! I'm made of rubber!\ED
+
+es: ¡Pi-po-pa!\BR¡Estoy hecho de goma!\ED
+
 155
 jp: ƒR[ƒ‰ƒ‹‚p‚ªô•¶‚Å•ÏŒ`BR‹¾‚Ìƒ^ƒe‚ÅƒXƒL‚Í–³‚¢IED
+
+en: Koral Q's transformation. The\BRmirrors leave no gap exposed!\ED
+
+es: Koral Q se transforma.\BR¡Estos espejos me protegen!\ED
 
 156
 jp: –³”‚Ìƒ^ƒe‚ÉBR’@‚«‚Â‚Ô‚³‚ê‚é‚ª‚æ‚¢IED
 
+en: They can also crash\BRinto the enemy!\ED
+
+es: ¡También puedo atacar\BRal enemigo con ellos!\ED
+
 157
 jp: ƒEƒTƒM‚Ì‚æ‚¤‚È‘å‚«‚ÈBR¨‚Å“G‚ğ@’m‚·‚éIED
+
+en: Can detect enemies\BRwith his large rabbit ears!\ED
+
+es: ¡Puede detectar enemigos\BRcon sus orejas de conejo!\ED
 
 158
 jp: ‹­—Í‚Èp‚àƒXƒJ[ƒgBR‚ß‚­‚è‚É‚µ‚©g‚í‚È‚¢HED
 
+en: Are his unique spells only used\BRfor skirt flipping?\ED
+alt-- Are his unique spells only used\BRfor monkeying around?
+
+es: ¿Sus conjuros solo son útiles\BRpara monear?\ED
+
 159
 jp: ƒtƒ@ƒE[ƒh‚Ì•œŠˆ‚ğBRƒoƒjƒLƒX‚Æ‚à‚­‚ë‚ŞED
+
+en: Conspires with Banikis\BRto revive Faudo.\ED
+
+es: Conspira con Banikis\BRpara revivir a Faudo.\ED
 
 160
 jp: ‚Á‚Ä‚¢‚éñ‚ğg‚¢BRô‚¢‚ğ‚©‚¯‚é—Í‚ğ‚à‚ÂED
 
+en: Using his staff,\BRhe's able to curse his targets.\ED
+
+es: Con el uso de su bastón es\BRcapaz de hechizar a quien sea.\ED
+
 161
 jp: ƒtƒ@ƒE[ƒh‚Ìã‚ÅBRƒLƒƒƒ“ƒ`ƒ‡ƒ‚ÆŒƒíIIED
+
+en: 
+
+es: 
 
 162
 jp: ƒJ[ƒY‚ğƒp[ƒgƒi[‚ÉBRƒJƒ}‚Ì•t‚¢‚½½‚ğg‚¤ED
