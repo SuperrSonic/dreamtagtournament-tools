@@ -454,7 +454,7 @@ jp: ƒŠƒIƒE‚ª‚Á‚Ä‚¢‚½BRƒiƒ]‚ÌÎED
 
 en: A mysterious stone\BRin Riou's possession.\ED
 
-es: Una joya misteriosa\BRque Riou poseé.\ED
+es: Una joya misteriosa\BRque Riou posee.\ED
 
 60
 jp: ‚±‚ê‚ğŠz‚É‚Â‚¯‚ê‚ÎBRƒtƒ@ƒE[ƒh‚ğ‚ ‚â‚Â‚ê‚éED
@@ -473,7 +473,7 @@ es: Zatch fue tras este raro\BRyellowtail volador.\ED
 62
 jp: À‚ÍƒOƒ‰ƒu‚ªƒKƒbƒVƒ…‚ğBR‚É‚Í‚ß‚é‚½‚ß‚Ì‚à‚ÌED
 
-en: It was actually a trap\BRto lure Zatch, set by Grubb.\ED
+en: It was actually a trap\BRset by Grubb to lure Zatch.\ED
 
 es: En realidad era una trampa\BRde Grubb para atraer a Zatch.\ED
 
@@ -1090,7 +1090,7 @@ jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‚³‚ Œ|‚ğ‚µ‚È‚³‚¢IED
 
 en: Supreme Mamodo.\BRCome on, do your magic trick!\ED
 
-es: De los Supreme Mamodo.\BR¡Vamos, haz tu truco de mágia!\ED
+es: De los Supreme Mamodo.\BR¡Vamos, haz tu truco de magia!\ED
 
 148
 jp: ‚dE‚n‚ÍƒCƒX‚É‚©‚í‚Á‚ÄBR‚¨‚µ‚¨‚«‚æ[IIED
