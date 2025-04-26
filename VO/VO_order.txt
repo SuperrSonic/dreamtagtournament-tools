@@ -1,0 +1,30 @@
+The stored order does not match the Sound Test order.
+
+Stored vs Sound Test
+000 = 000
+021 = 021
+
+022 = 023 - Saisu
+023 = 024 - Seoshi
+024 = 025 - Ma Seshield
+025 = 026 - Giga la Seoshi
+026 = 027 - Saifogeo
+027 = 028 - I'm scared to cast it...
+028 = 029 - Chajir Saifodon
+029 = 022 - Megumi!
+
+//re-syncs
+030 = 030
+111 = 111
+
+112 = 113 - Ganzu Ginis
+113 = 114 - Am Gara Ginis
+114 = 115 - Go Gar Ginis
+115 = 116 - Dioga Ginisdon
+116 = 112 - Berun!
+
+//re-syncs
+117 = 117 - Action!
+213 = 213
+
+Since it's just Tia and Keith I have fixed this in the importer.
