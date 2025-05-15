@@ -16,10 +16,7 @@ Place the ROM in the same directory as dtt_conv.exe, name the ROM "DTT.gba" drag
 Edit "patch_rom.cmd" to change language code.
 You can also add --more-space to expand to 32MB, useful when combined with --vo-replace or --music-replace.
 
---mute-bgm will silence all stage music.
---riya-fix will change Riya's intro VO to use group ID 1, to avoid it getting cut by the "Fight!" VO.
---faudo-cheat will change the Faudo Race mini-game to use 'Easy' for all difficulties (it's terribly hard otherwise.)
---op will make it so it's easy to gain max SP.
+--mute-bgm will silence all stage music, --riya-fix will change Riya's intro VO to use group ID 1, to avoid it getting cut by the "Fight!" VO, --faudo-cheat will change the Faudo Race mini-game to use 'Easy' for all difficulties (it's terribly hard otherwise.) --op will make it so it's easy to gain max SP.
 
 NOTE: If the base script isn't finished, untranslated lines will just be a garbled mess.
 
