@@ -4,7 +4,7 @@
 # By using \ you can specify special commands.
 # Here's a list of all commands:
 # \N        = Linebreak
-# \LF       = Left alignment? Linefeed?
+# \LF       = Linefeed? Creates a new textbox for dialogues.
 # \MULT     = Multiplication sign.
 # \MUSIC    = 8th note.
 # \HEART    = Heart icon.
@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 160
+ln: 204
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -305,7 +305,7 @@ es: ¡Se considera su trademark!\ED
 39
 jp: —‹‹åæ¶‚ªˆ¤—p‚µ‚Ä‚¢‚éBRƒnƒ“ƒ‚ƒbƒNED
 
-en: It's Raiku-sensei's beloved\BRhammock.\ED
+en: It's Raiku-sensei's much loved\BRhammock.\ED
 
 es: La hamaca de Raiku-sensei.\ED
 
@@ -729,7 +729,7 @@ es: ¡Filetes de jurel son un entremés\BRde ensueño!\ED
 97
 jp: ƒ‚ƒ`ƒmƒL—V‰€’n‚É‚¢‚éBR‚ ‚±‚ª‚ê‚Ìƒq[ƒ[IED
 
-en: Your beloved hero\BRat Mochinoki Amusement Park!\ED
+en: Your favorite hero\BRat Mochinoki Amusement Park!\ED
 
 es: ¡Su adorado heroe\BRen Mochinoki Amusement Park!\ED
 
@@ -1105,7 +1105,7 @@ alt-- ¡¡E.O. significa Entolerante Oscuro-señor!!
 149
 jp: ƒR[ƒ‰ƒ‹‚p‚Ì‚«‚Ù‚ñ‚ÌpBRƒOƒ‰ƒu‚Ìô•¶‚Å•ÏŒ`‚¾IED
 
-en: Koral Q's basic form. Grubb can\BRtransform him with a spell.\ED
+en: Koral Q's basic form.\BRGrubb transforms him with a spell.\ED
 
 es: Su forma normal. Grubb puede\BRtransformarlo con un conjuro.\ED
 
@@ -1171,6 +1171,7 @@ jp: ‹­—Í‚Èp‚àƒXƒJ[ƒgBR‚ß‚­‚è‚É‚µ‚©g‚í‚È‚¢HED
 
 en: Are his unique spells only used\BRfor skirt flipping?\ED
 alt-- Are his unique spells only used\BRfor monkeying around?
+alt-- Are his unique spells only used\BRfor messing around?
 
 es: ¿Sus conjuros solo son útiles\BRpara monear?\ED
 
@@ -1191,141 +1192,323 @@ es: Con el uso de su bastón es\BRcapaz de hechizar a quien sea.\ED
 161
 jp: ƒtƒ@ƒE[ƒh‚Ìã‚ÅBRƒLƒƒƒ“ƒ`ƒ‡ƒ‚ÆŒƒíIIED
 
-en: 
+en: A fierce battle with Kanchomé\BRunfolds atop Faudo!!\ED
 
-es: 
+es: ¡Una batalla feroz con Kanchomé\BRtoma lugar encima de Faudo!\ED
 
 162
 jp: ƒJ[ƒY‚ğƒp[ƒgƒi[‚ÉBRƒJƒ}‚Ì•t‚¢‚½½‚ğg‚¤ED
 
+en: Wields an axe with chain,\BRhis partner is Cass.\ED
+
+es: Usa una hacha con cadena,\BRsu dueña del libro es Cass.\ED
+
 163
 jp: ƒtƒ@ƒE[ƒh•œŠˆ‚Éè‚ğ‚©‚·BRƒ}ƒkƒP‚È–‚•¨‚ÌqED
+
+--manukena
+en: A foolish mamodo who assisted\BRin reviving Faudo.\ED
+
+es: Un mamodo torpe que ayudó\BRa revivir a Faudo.\ED
 
 164
 jp: Œ©‚Ä‚È@ƒ‹[ƒp[BRƒqƒQ‚Íƒƒ‹‚Ìå’£‚È‚Ì‚³ED
 
+en: Lupa, a mustache makes me\BRlook tough.\ED
+
+es: Lupa, un bigote me hace\BRlucir imponente.\ED
+
 165
 jp: ƒ‰ƒEƒVƒ“Eƒ‚[‚Æ‚Æ‚à‚ÉBRƒtƒ@ƒE[ƒh‚Ì•œŠˆ‚É‹¦—ÍED
+
+en: Helped revive Faudo.\BRHis partner is Raushin Mo.\ED
+
+es: Ayudó a revivir a Faudo,\BRsu dueño del libro es Raushin Mo.\ED
 
 166
 jp: ‚¢‚­‚Â‚à‚ ‚é–Ú‚©‚çŒõ‚ğBR•ú‚¿‚»‚Ì‰e‚ÅUŒ‚‚·‚éED
 
+en: Light emits from his many eyes\BRand attacks using shadows.\ED
+
+es: Sus muchos ojos emiten luz\BRy ataca con sombras.\ED
+
 167
 jp: ƒjƒRƒ‹‚Ìô‚¢‚ğ‚Æ‚­‚½‚ßBRƒŠƒIƒE‚Éè‚ğ‘İ‚·ED
+
+en: Helps Riou in order to free Nicole\BRfrom his curse.\ED
+
+es: Decide ayudar a Riou\BRpara poder salvar a Nicole.\ED
 
 168
 jp: ƒeƒbƒh‚ª‚»‚Ìs•û‚ğ’T‚µBR¢ŠE‚ğ—·‚µ‚Ä‚¢‚éED
 
+en: Ted travels the world\BRsearching for her.\ED
+
+es: Ted viaja por el mundo\BRcon el propósito de encontrarla.\ED
+
 169
 jp: ƒtƒ@ƒE[ƒh•œŠˆ‚Ì‚½‚ßBR—Í‚ğ‚ ‚Â‚ß‚é–‚•¨‚ÌqED
+
+en: A mamodo who gathers power\BRin order to revive Faudo.\ED
+
+es: Un mamodo que busca poder\BRpara revivir a Faudo.\ED
 
 170
 jp: ƒRƒEƒ‚ƒŠ‚Ì‚æ‚¤‚Èƒnƒl‚ğBR‚¿©—R‚É‹ó‚ğ”ò‚ÔED
 
+en: His bat-like wings allow him\BRto fly freely.\ED
+
+es: Sus alas de murciélago le permiten\BRvolar con facilidad.\ED
+
 171
 jp: ƒ‚ƒ`ƒmƒL—V‰€’n‚ÅBRƒKƒbƒVƒ…‚½‚¿‚É”s‚ê‚½ED
+
+en: Defeated by Zatch and Tia\BRat Mochinoki Amusement Park.\ED
+
+es: Derrotado por Zatch y Tia\BRen el parque de diversiones.\ED
 
 172
 jp: ƒqƒQ‚ğƒp[ƒgƒi[‚ÉBRƒGƒlƒ‹ƒM[‹…‚Ìp‚ğg‚¤ED
 
+en: Uses energy spheres to attack.\BRHis partner is Hige.\ED
+
+es: Lanza bolas de energía.\BRSu dueño del libro es Hige.\ED
+
 173
 jp: A•¨‚ğ©—R‚¶‚´‚¢‚ÉBR‚ ‚â‚Â‚é–‚•¨‚ÌqED
+
+en: A mamodo who manipulates\BRplants with ease.\ED
+
+es: Un mamodo que controla\BRplantas con fluidez.\ED
 
 174
 jp: A•¨‰€‚ÅƒgƒŒ[ƒjƒ“ƒO‚ÆBRÌ‚µ‚ÄlX‚ğP‚Á‚½ED
 
+en: Attacked people at the botanical\BRgarden under a pretext to train.\ED
+
+es: Atacó al jardín botánico bajo el\BRpretexto de entrenamiento.\ED
+
 175
 jp: ç”NŠÔÎ”Å‚É‚³‚ê‚Ä‚¢‚½BR–‚•¨‚ÌˆêlED
+
+en: One of the mamodo stuck\BRas a stone tablet for 1000 years.\ED
+
+es: Uno de los mamodo convertidos\BRen piedra durante 1000 años.\ED
 
 176
 jp: ƒp[ƒgƒi[‚ğŒ©‚Â‚¯‚½BRƒEƒ}ƒSƒ“‚É”s‚ê‚éED
 
+en: Lost to Ponygon, who had just\BRfound his partner.\ED
+
+es: Perdió contra Ponygon, justo al\BRencontrar su dueño del libro.\ED
+
 177
 jp: ç”N‘O‚Ì“¬‚¢‚Å‘½‚­‚ÌBR–‚•¨‚ğÎ”Å‚É••‚¶‚±‚ß‚½ED
+
+en: Many mamodo were sealed in\BRthe battle 1000 years ago.\ED
+
+es: Muchos mamodo fueron sellados\BRen la batalla de hace 1000 años.\ED
 
 178
 jp: ‚ğg‚¢“G‚ğƒ†ƒ_ƒ“‚³‚¹BR–Ú‚©‚çÎ‰»‚ÌŒõ‚ğ•ú‚ÂED
 
+en: His eyes emit a petrifying light\BRthat restricts the opponent.\ED
+
+es: Sus ojos emiten una luz inevitable\BRque petrifica al oponente.\ED
+
 179
 jp: ç”N‘O‚Ì–‚•¨‚ğ‚ ‚â‚Â‚èBR‰¤‚É‚È‚ë‚¤‚Æ‚µ‚½ED
+
+en: Tried to become king with an army\BRof mamodo from 1000 years ago.\ED
+
+es: Intentó ser rey con un ejército\BRde mamodo de hace 1000 años.\ED
 
 180
 jp: ƒRƒR‚ğƒp[ƒgƒi[‚ÉBR”š”­‚Ìp‚ğg‚¤ED
 
+en: Koko is his partner.\BRUses explosion spells.\ED
+
+es: Koko es su dueña del libro.\BRUsa conjuros explosivos.\ED
+
 181
 jp: ƒpƒeƒB‚Ì–{BRF‚Í”Z‚¢ƒIƒŒƒ“ƒWED
+
+en: Penny's book is dark orange.\ED
+
+es: El libro de Penny\BRes naranja oscuro.\ED
 
 182
 jp: –{‚Ì‚¿å‚ÍBRƒEƒ‹ƒ‹ED
 
+en: The bookkeeper is Uri.\ED
+
+es: El dueño del libro es Uri.\ED
+
 183
 jp: ƒŒƒCƒ‰‚Ì–{BRF‚ÍÂ‡ED
+
+en: Laila's book is violet.\ED
+
+es: El libro de Laila es violeta.\ED
 
 184
 jp: –{‚Ì‚¿å‚ÍBRƒAƒ‹ƒx[ƒ‹ED
 
+en: The bookkeeper is Albert.\ED
+
+es: El dueño del libro es Albert.\ED
+
 185
 jp: ƒoƒŠ[‚Ì–{BRF‚ÍƒRƒoƒ‹ƒgƒuƒ‹[ED
+
+en: Bari's book is cobalt blue.\ED
+
+es: El libro de Bari es azul cobalto.\ED
 
 186
 jp: –{‚Ì‚¿å‚ÍBRƒOƒXƒ^ƒtED
 
+en: The bookkeeper is Gustav.\ED
+
+es: El dueño del libro es Gustav.\ED
+
 187
 jp: ƒrƒNƒgƒŠ[ƒ€‚Ì–{BRF‚ÍƒXƒJƒCEƒOƒŠ[ƒ“ED
+
+en: Victoream's book is sky green.\ED
+
+es: El libro de Victoream\BRes sky green.\ED
 
 188
 jp: –{‚Ì‚¿å‚ÍBRƒ‚ƒqƒJƒ“EƒG[ƒXED
 
+en: The bookkeeper is Mohawk Ace.\ED
+
+es: El dueño del libro es Mohawk Ace.\ED
+
 189
 jp: ƒuƒ‰ƒS‚Ì–{BRF‚Í•ED
+
+en: Brago's book is black.\ED
+
+es: El libro de Brago es negro.\ED
 
 190
 jp: –{‚Ì‚¿å‚ÍBRƒVƒFƒŠ[ED
 
+en: The bookkeeper is Sherry.\ED
+
+es: La dueña del libro es Sherry.\ED
+
 191
 jp: ƒA[ƒX‚Ì–{BRF‚Íƒ}ƒ[ƒ“ƒ_ED
+
+en: Arth's book is magenta.\ED
+
+es: El libro de Arth es magenta.\ED
 
 192
 jp: –{‚Ì‚¿å‚ÍBRƒGƒŠ[ED
 
+en: The bookkeeper is Ellie.\ED
+
+es: La dueña del libro es Ellie.\ED
+
 193
 jp: ƒL[ƒX‚Ì–{BRF‚Íƒnƒj[ƒXƒB[ƒgED
+
+en: Keith's book is honeysweet.\ED
+
+es: El libro de Keith es honeysweet.\ED
 
 194
 jp: –{‚Ì‚¿å‚ÍBRƒxƒ‹ƒ“ED
 
+en: The bookkeeper is Berun.\ED
+
+es: El dueño del libro es Berun.\ED
+
 195
 jp: ƒŠ[ƒ„‚Ì–{BRF‚Íƒpƒ‰ƒL[ƒgƒOƒŠ[ƒ“ED
+
+en: Riya's book is parakeet green.\ED
+
+es: El libro de Riya es verde loro.\ED
 
 196
 jp: –{‚Ì‚¿å‚ÍBRƒAƒŠƒVƒGED
 
+en: The bookkeeper is Alishie.\ED
+
+es: El dueño del libro es Alishie.\ED
+
 197
 jp: ƒ[ƒIƒ“‚Ì–{BRF‚ÍƒVƒ‹ƒo[ED
+
+en: Zeno's book is silver.\ED
+
+es: El libro de Zeno es plateado.\ED
 
 198
 jp: –{‚Ì‚¿å‚ÍBRƒfƒ…ƒtƒH[ED
 
+en: The bookkeeper is Dufort.\ED
+
+es: El dueño del libro es Dufort.\ED
+
 199
 jp: ƒKƒbƒVƒ…‚Ìe—FBR‚P‘ã–ÚE‚Q‘ã–ÚE‚R‘ã–ÚED
+
+en: Zatch's closest friends.\BR1st, 2nd, and 3rd generation.\ED
+
+es: Los amigos cercanos de Zatch.\BR1\DEG, 2\DEG, y 3\DEG generación.\ED
 
 200
 jp: ƒoƒ‹ƒJƒ“‚ª‚R‘ÌW‚Ü‚ê‚ÎBRƒ€ƒeƒLí‘à‚Ì’a¶‚¾IED
 
+//since this looks like a super sentai reference
+//might as well called them invincible rangers
+alt-- When the 3 Volcans unite, they\BRbecome the Muteki Sentai!
+alt-- When the 3 Volcans unite, they\BRbecome the Invincible Squad!
+en: When the 3 Volcans unite,\BRthey become invincible rangers!\ED
+
+es: ¡Cuando los 3 Volcans se unen,\BRnace el escuadrón invencible!\ED
+
 201
 jp: HHHHHHHHHHHBRHHHHHHHHHHHED
+
+//22 question marks--seems wasteful
+en: ???\BR???\ED
+
+es: ???\BR???\ED
 
 202
 jp: HHHHHHHHHHHBRHHHHHHHHHHHED
 
+en: ???\BR???\ED
+
+es: ???\BR???\ED
+
 203
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@‚³‚Ÿ@‚±‚ê‚©‚çBR@—‹‹å”t‘ˆ’Dí‚ªBR@‚Í‚¶‚Ü‚é‚¼ILF@D‚«‚Èƒ`[ƒ€‚ğ‚¦‚ç‚ñ‚ÅBR@‘S‚Xí‚ğŸ‚¿”²‚­‚ñ‚¾ILF@‚³‚Ÿ@‚İ‚ñ‚ÈI@‚ª‚ñ‚Î‚Á‚ÄBR@—DŸ‚ğ‚ß‚´‚µ‚Ä‚­‚êIIvED
+
+en: Raiku-Sensei\BR"Ha ha ha ha!\LFNow then!\LFThe battle for the Raiku Cup is just\BRabout to take place!\LFChoose your favorite team\BRand win all 9 matches!\LFCome on, everyone! Give it your\BRbest shot and go for the win!!"\ED
+
+es: Raiku-Sensei\BR"¡Ja ja ja ja!\LF¡La batalla por el Raiku Cup\BResta por comenzar!\LF¡Elige a tu equipo favorito\BRy gana los 9 partidos!\LF¡Vamos, todos! ¡Den lo mejor\BRde ustedes y aspiren a la victoria!"\ED
 
 204
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@Ÿ‚ÍƒXƒyƒVƒƒƒ‹ƒQƒXƒg‚ÌBR@“oê‚¾[[[IILF@¡“x‚Íƒoƒgƒ‹‚¶‚á‚È‚­BR@ƒNƒCƒYƒQ[ƒ€‚É‚È‚é‚©‚ç‚ËBBR@‹C‚ğ‚Â‚¯‚é‚ñ‚¾‚æBLF@‚±‚ê‚©‚ç•\¦‚³‚ê‚é–â‘è‚ÅBR@³‰ğ‚Æv‚¤‚Ù‚¤‚ğ‚aƒ{ƒ^ƒ“‚©BR@‚`ƒ{ƒ^ƒ“‚Å‘I‚Ô‚Ì‚¾ILF@ƒ[ƒv‚É‚Ô‚ç‚³‚ª‚Á‚½‚İ‚ñ‚È‚ğBR@–³–‚É•‚¯o‚·‚±‚Æ‚ªBR@‚Å‚«‚é‚©‚È`HvED
 
+en: Raiku-Sensei\BR"Ha ha ha ha!\LFOur special guest\BRis making his appearance!\LFIt's not a battle this time,\BRbut a quiz game.\LFBe careful! You will receive a question\BRand will have to choose the correct\BRanswer by pressing the A button\LFor the B button.\LFWill you be able to rescue everyone\BRwho hangs from the rope unscathed?\BRHm…~"\ED
+
+es: Raiku-Sensei\BR"¡Ja ja ja ja!\LF¡Nuestro invitado especial\BRestá haciendo su apariencia!\LFEsta vez no será una batalla,\BRsino un juego de preguntas.\LF¡Ten cuidado! Recibiras una pregunta\BRy tendras que elegir la respuesta\BRcorrecta presionando el botón A\LFo el botón B.\LF¿Podrás rescatar a todos los que\BRcuelgan de la cuerda sin ningún\BRproblema~?"\ED
+
 205
 jp: —‹‹åæ¶BRu‚¨[@‚·‚²‚¢‚¶‚á‚È‚¢‚©IBR@‚æ‚­Ÿ‚¿”²‚¯‚½‚ËBLF@Ÿ‚©‚ç‚Í@‚³‚ç‚È‚é‹­“G‚Æ‚ÌBR@ƒoƒgƒ‹‚ª‘Ò‚Á‚Ä‚¢‚é‚¼ILF@‚³‚Ÿ@—DŸ–Úw‚µ‚ÄBR@‚İ‚ñ‚È‚ª‚ñ‚Î‚é‚ñ‚¾IIIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒn[IvED
+
+en: 
+
+es: 
 
 206
 jp: —‹‹åæ¶BRu‚¤‚Ş‚Şc‚¿‚å‚Á‚Æ–â‘è‚ªBR@‚Ş‚¸‚©‚µ‚©‚Á‚½‚©‚ÈHvED
