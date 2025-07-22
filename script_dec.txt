@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 204
+ln: 217
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1499,52 +1499,100 @@ es: Raiku-Sensei\BR"¡Ja ja ja ja!\LF¡La batalla por el Raiku Cup\BResta por come
 204
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@Ÿ‚ÍƒXƒyƒVƒƒƒ‹ƒQƒXƒg‚ÌBR@“oê‚¾[[[IILF@¡“x‚Íƒoƒgƒ‹‚¶‚á‚È‚­BR@ƒNƒCƒYƒQ[ƒ€‚É‚È‚é‚©‚ç‚ËBBR@‹C‚ğ‚Â‚¯‚é‚ñ‚¾‚æBLF@‚±‚ê‚©‚ç•\¦‚³‚ê‚é–â‘è‚ÅBR@³‰ğ‚Æv‚¤‚Ù‚¤‚ğ‚aƒ{ƒ^ƒ“‚©BR@‚`ƒ{ƒ^ƒ“‚Å‘I‚Ô‚Ì‚¾ILF@ƒ[ƒv‚É‚Ô‚ç‚³‚ª‚Á‚½‚İ‚ñ‚È‚ğBR@–³–‚É•‚¯o‚·‚±‚Æ‚ªBR@‚Å‚«‚é‚©‚È`HvED
 
-en: Raiku-Sensei\BR"Ha ha ha ha!\LFOur special guest\BRis making his appearance!\LFIt's not a battle this time,\BRbut a quiz game.\LFBe careful! You will receive a question\BRand will have to choose the correct\BRanswer by pressing the A button\LFor the B button.\LFWill you be able to rescue everyone\BRwho hangs from the rope unscathed?\BRHm…~"\ED
+en: Raiku-Sensei\BR"Ha ha ha ha!\LFOur special guest\BRis making his appearance!\LFIt's not a battle this time,\BRbut a quiz game.\LFBe careful! You will receive a question\BRand must choose the correct answer\BRby pressing the A or B button.\LFWill you be able to rescue everyone\BRwho hangs from the rope unscathed?\BRHm…~"\ED
 
 es: Raiku-Sensei\BR"¡Ja ja ja ja!\LF¡Nuestro invitado especial\BRestá haciendo su apariencia!\LFEsta vez no será una batalla,\BRsino un juego de preguntas.\LF¡Ten cuidado! Recibiras una pregunta\BRy tendras que elegir la respuesta\BRcorrecta presionando el botón A\LFo el botón B.\LF¿Podrás rescatar a todos los que\BRcuelgan de la cuerda sin ningún\BRproblema~?"\ED
 
 205
 jp: —‹‹åæ¶BRu‚¨[@‚·‚²‚¢‚¶‚á‚È‚¢‚©IBR@‚æ‚­Ÿ‚¿”²‚¯‚½‚ËBLF@Ÿ‚©‚ç‚Í@‚³‚ç‚È‚é‹­“G‚Æ‚ÌBR@ƒoƒgƒ‹‚ª‘Ò‚Á‚Ä‚¢‚é‚¼ILF@‚³‚Ÿ@—DŸ–Úw‚µ‚ÄBR@‚İ‚ñ‚È‚ª‚ñ‚Î‚é‚ñ‚¾IIIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒn[IvED
 
-en: 
+en: Raiku-Sensei\BR"Wow, that's amazing!\BR  You've done very well so far.\LFFrom now on, the upcoming battles\BRwill be even harder!\LFNow then, keep doing your best\BRto win the tournament!!!\BRHa ha ha ha ha!"\ED
 
-es: 
+es: Raiku-Sensei\BR"¡Vaya, eso fue increible!\BR  Vas muy bien hasta ahora.\LF¡Las siguientes batallas\BRno serán nada fácil!\LF¡Vamos, hagan lo mejor\BRpara ganar el torneo!\BR¡Ja, ja, ja, ja, ja!"\ED
 
 206
 jp: —‹‹åæ¶BRu‚¤‚Ş‚Şc‚¿‚å‚Á‚Æ–â‘è‚ªBR@‚Ş‚¸‚©‚µ‚©‚Á‚½‚©‚ÈHvED
 
+en: Raiku-Sensei\BR"Hmm, the questions were a bit tough, huh?"\ED
+
+es: Raiku-Sensei\BR"Mmm, el quiz fue un poco difícil,\BR ¿no?"\ED
+
 207
 jp: u‚³‚ ‚à‚¤ˆê“x’§í‚¾IIvBR@@‚Í‚¢BR@@‚¢‚¢‚¦ED
+
+en: "Well, try it again!!"\BR    Yes\BR    No\ED
+
+es: "Bueno, ¡inténtalo otra vez!"\BR    Sí\BR    No\ED
 
 208
 jp: u‚¤‚Ş‚ŞAc”O‚¾cBBR@¡“x‚Ü‚½’§í‚µ‚Ä‚­‚êIIvED
 
+en: "Hm, that's too bad...\BR  Better luck next time!!"\ED
+
+es: "Mm, que pena..."\BR  ¡Te veo la próxima!"\ED
+
 209
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@‚³‚ @ƒhƒŠ[ƒ€ƒ}ƒbƒ`‚ğBR@‚Í‚¶‚ß‚é‚¼ILFD‚«‚ÈƒLƒƒƒ‰ƒNƒ^[‚ğ‚Ql‘I‚ñ‚Å‘S‚Wí‚ğí‚¤‚ñ‚¾ILF‚³‚Ÿ@‚İ‚ñ‚ÈI@‚ª‚ñ‚Î‚Á‚ÄBR—DŸ‚ğ‚ß‚´‚µ‚Ä‚­‚êIIvED
+
+en: Raiku-Sensei\BR"Ha ha ha ha ha!\LFNow, let the dream match begin!\LFChoose 2 of your favorite characters and fight through 8 battles!\LFOK, everyone! Do your best\BRand go for the win!!"\ED
+
+es: Raiku-Sensei\BR"¡Ja, ja, ja, ja, ja!\LF¡Ahora que comience el DREAM MATCH!\LF¡Elige a 2 de tus personajes favoritos\BRy pelea por 8 batallas!\LF¡OK, todos! ¡Hagan lo mejor\BRy ganen el torneo!"\ED
 
 210
 jp: —‹‹åæ¶BRu‚Â‚¢‚ÉEEE‚Â‚¢‚ÉŸÒ‚ªBR@Œˆ’è‚µ‚Ü‚µ‚½IILF@”X‚Ì‹­“G‚ğ‚µ‚è‚¼‚¯EEEBR@‘f°‚ç‚µ‚¢‰hŒõ‚É‹P‚¢‚½BR@ŒN‚½‚¿I–{“–‚É‚¨‚ß‚Å‚Æ‚¤ILF@ŒN‚½‚¿‚È‚ç•K‚¸—DŸ‚·‚é‚ÆBR@—\‘z‚µ‚Ä‚¢‚Ü‚µ‚½‚æBBR@ƒnƒbƒnƒbƒnƒbƒn``ILF@‚³‚Ä@Ÿ‰ñ‚Í‚Ç‚ñ‚Èƒoƒgƒ‹‚ªBR@ŒJ‚èL‚°‚ç‚ê‚é‚Ì‚Å‚µ‚å‚¤HBR@‚Æ‚Á‚Ä‚à@Šy‚µ‚İ‚Å‚·ILF@‚»‚ê‚Å‚ÍEEEBR@‚İ‚È‚³‚ñ‚Ü‚½‰ï‚¤“ú‚Ü‚ÅBR@‚³‚æ‚¤‚È‚ç``IvED
 
+en: Raiku-Sensei\BR"At long last… a winner\BR  has been decided!\LFYou have won against many strong\BRopponents and achieved victory!\BRCongratulations!\LFI knew you guys would win\BRthe tournament. Ha ha ha ha~~!\LFI wonder what kind of battle\BRwill unfold next? I can hardly wait!\LFWell then… until we meet again!\BRFarewell~~!"\ED
+
+es: Raiku-Sensei\BR"Por fin… ¡tenemos a un ganador!\LFHas triunfado contra fuertes\BRadversarios y lograste la victoria!\BR¡Felicidades!\LFSabía que ganarían el torneo.\BR¡Ja, ja, ja, ja~~!\LFEntonces, ¿cómo será\BRla próxima batalla?\BR¡Apenas puedo esperar!\LFBueno pues… hasta que nos volvamos\BRa ver, ¡adiós~~!"\ED
+
 211
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn`B‚³‚ŸABR@‰½‚É‚Â‚¢‚Ä•·‚«‚½‚¢‚Ì‚©‚ÈHvED
+
+en: Raiku-Sensei\BR"Ha ha ha ha ha.\BR  So, what would you like to know?"\ED
+
+es: Raiku-Sensei\BR"Ja, ja, ja, ja, ja.\BR  Bien, ¿y qué quieres saber?"\ED
 
 212
 jp: @@ƒ‹[ƒ‹à–¾BR@@ƒAƒVƒXƒgUŒ‚BR@@ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“ED
 
+en:     Rules Explanation\BR    Assist Attacks\BR    Zatch Collection\ED
+
+es:     Explicación de las reglas\BR    Ataques de asistencia\BR    Zatch Collection\ED
+
 213
 jp: @@ƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚Ìà–¾BR@@ƒ_ƒuƒ‹ƒ‹[ƒ‹‚Ìà–¾BR@@ƒJƒXƒ^ƒ}ƒCƒY‚Ìà–¾ED
+
+en:     Single Rule Explanation\BR    Double Rule Explanation\BR    Customize Explanation\ED
+
+es:     Regla sencilla\BR    Regla doble\BR    Personalizar\ED
 
 214
 jp: —‹‹åæ¶BRu‚æ‚µIƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚¾‚ËIBR@ƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚Æ‚¢‚¤‚Ì‚ÍLF@‚P‚Â‚Ìƒoƒgƒ‹‚ğƒ`[ƒ€‚Ì‚¤‚¿BR@‚Ç‚¿‚ç‚©‚Pl‚Ì–‚•¨‚¾‚¯‚ÅBR@í‚¤ƒ‹[ƒ‹‚Ì‚±‚Æ‚È‚ñ‚¾ILF@‚µ‚©‚à‚±‚Ìƒ‹[ƒ‹‚Å‚ÍBR@–‚•¨‚Ìƒpƒ‰ƒ[ƒ^‚ğBR@ƒJƒXƒ^ƒ}ƒCƒYo—ˆ‚é‚ñ‚¾ILF@ƒJƒXƒ^ƒ}ƒCƒY‚É‚Â‚¢‚Ä‚ÍBR@wƒJƒXƒ^ƒ}ƒCƒY‚Ìà–¾x‚ÅBR@‚­‚í‚µ‚­˜b‚µ‚Ä‚ ‚°‚é‚ËILF@‚±‚ê‚Å‚à‚¤BR@ƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
 
+en: Raiku-Sensei\BR"OK! Single rule, eh!\BR  Single rule means that each battle\LFwill be fought by only one mamodo\BRfrom each team!\LFWhat's more, with this rule you can\BRcustomize a mamodo's parameters.\LFI can tell you more about this if you\BRselect (Customize Explanation)\BRfrom the options!"\ED
+
+es: Raiku-Sensei\BR"¡OK! Regla sencilla!\BR  ¡La regla sencilla significa que\LFcada batalla será entre un solo\BRmamodo de cada equipo!\LFPor otro lado, con esta regla podrás\BRpersonalizar los parámetros\BRdel mamodo.\LF¡Puedo contarte más sobre el tema\BRsi seleccionas (Personalizar)\BRen las opciones!"\ED
+
 215
 jp: —‹‹åæ¶BRuƒCƒGƒCIƒ_ƒuƒ‹ƒ‹[ƒ‹‚¾‚ËIBR@ƒ_ƒuƒ‹ƒ‹[ƒ‹‚Æ‚¢‚¤‚Ì‚ÍLF@‚Pƒ‰ƒEƒ“ƒh‚²‚Æ‚Éƒ`[ƒ€‚ÌBR@–‚•¨‚ğ‚«‚è‚©‚¦‚ÄBR@í‚¤ƒ‹[ƒ‹‚Ì‚±‚Æ‚È‚ñ‚¾ILF@’N‚ğ‚Ç‚Ìƒ‰ƒEƒ“ƒh‚ÅBR@í‚í‚¹‚é‚©A‡”Ô‚ğŒˆ‚ß‚éBR@‚±‚Æ‚ªƒXƒS‚­‘åØ‚É‚È‚é‚¼ILF@‚±‚Ìƒ‹[ƒ‹‚Å‚ÍBR@ƒJƒXƒ^ƒ}ƒCƒY‚ªo—ˆ‚È‚¢‚©‚çBR@‹C‚ğ‚Â‚¯‚æ‚¤ILF@‚±‚ê‚Å‚à‚¤BR@ƒ_ƒuƒ‹ƒ‹[ƒ‹‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
+
+en: Raiku-Sensei\BR"Yay! It's the double rule!\BR  Double rule means that each round,\LFthe team switches mamodo.\BRMeaning that they tag out!\LFIt's crucial to decide\BRwho will fight in each round!\LFCareful now, this rule does not allow\BRfor customization!\LFI think you're all set\BRabout the double rule now!"\ED
+
+es: Raiku-Sensei\BR"¡Sí! ¡Es la regla doble!\BR  ¡La regla doble significa que\LFcada ronda, el equipo\BRcambia de mamodo!\LF¡Es muy importante decidir\BRquién peleará en cada ronda!\LFCuidado, ¡esta regla no permite\BRpersonalizar el mamodo!\LF¡Creo que ya estas listo\BRpara la regla doble!"\ED
 
 216
 jp: —‹‹åæ¶BRu‚¨‚ÁIƒJƒXƒ^ƒ}ƒCƒY‚¾‚ËIBR@ƒJƒXƒ^ƒ}ƒCƒY‚Æ‚¢‚¤‚Ì‚ÍLF@ƒoƒgƒ‹‘O‚ÉUŒ‚EpE–hŒä‚ÌBR@ƒpƒ‰ƒ[ƒ^‚ğã‚°A–‚•¨‚ğBR@‹­‚­‚·‚é‚±‚Æ‚ªo—ˆ‚é‚ñ‚¾ILF@—á‚¦‚ÎAUŒ‚‚É‚Rƒ|ƒCƒ“ƒgABR@p‚É‚Í‚Oƒ|ƒCƒ“ƒgABR@–hŒä‚É‚Í‚Oƒ|ƒCƒ“ƒg‚É‚·‚é‚ÆLF@’ÊíUŒ‚‚Å—^‚¦‚éƒ_ƒ[ƒW—Ê‚ªBR@‚¢‚Â‚à‚æ‚è‘å‚«‚­‚È‚Á‚ÄBR@’ÊíUŒ‚‚ª‹­‚­‚È‚é‚ñ‚¾ILF@‚½‚¾‚µIƒpƒ‰ƒ[ƒ^‚ÍBR@‡Œv‚Å‚Rƒ|ƒCƒ“ƒg‚µ‚©BR@‚í‚è‚Ó‚ê‚È‚¢‚©‚ç‚ËILF@–‚•¨‚Ì“Á’¥‚ğl‚¦‚ÄBR@ƒ|ƒCƒ“ƒg‚ğ‚í‚è‚Ó‚ê‚ÎBR@ƒoƒgƒ‹‚ğ—L—˜‚Éi‚ß‚ê‚é‚¼ILF@‚±‚ê‚Å‚à‚¤BR@ƒJƒXƒ^ƒ}ƒCƒY‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
 
+en: Raiku-Sensei\BR"Oh! That's customization!\BR  Customization allows modifying\LFthe parameters for attack, spells,\BRand defense of the mamodo!\LFFor example, if you set 3 points\BRfor attack, 0 for spells, and 0\BRfor defense, the amount of damage\LFdealt by a normal attack will be\BRgreater than usual!\LFHowever! Parameters are limited\BRto a total of 3 points!\LFConsider the mamodo's characteristics\BRand allocate points accordingly to gain\BRthe upper hand in battle!\LFThis wraps up my explanation\BRof how customization works!"\ED
+
+es: Raiku-Sensei\BR"¡O! ¡Eso es personalización!\BR  ¡Personalizar te permite ajustar\LFlos parámetros de ataque, conjuros,\BRy defensa del mamodo!\LF¡Por ejemplo, si eliges 3 puntos para\BRataque, 0 para conjuros, y 0 para\BRdefensa, la cantidad de daño infligido\LFpor un ataque normal será más fuerte\BRque lo usual!\LF¡Sin embargo! ¡Los parámetros están\BRlimitados a 3 puntos!\LFConsidera las características\BRdel mamodo y asigna los puntos\BRsegún le corresponda!\LF¡Esto concluye mi explicación\BRde personalizar!"\ED
+
 217
 jp: —‹‹åæ¶BRu‚¤‚ñIƒAƒVƒXƒgUŒ‚‚¾‚ËIBR@ƒAƒVƒXƒgUŒ‚‚Á‚Ä‚¢‚¤‚Ì‚ÍLF@ƒvƒŒƒCƒ„[‚Ì–‚•¨‚ğBR@è•‚¯‚µ‚Ä‚­‚ê‚éBR@‚·‚²‚­—Š‚ê‚éUŒ‚‚È‚ñ‚¾ILF@‚Ü‚½AƒAƒVƒXƒgUŒ‚‚É‚ÍBR@ƒp[ƒgƒi[‚ª•‚¯‚Ä‚­‚ê‚éBR@wƒp[ƒgƒi[ƒAƒVƒXƒgx‚ÆLF@ƒ`[ƒ€‚ğ‘g‚ñ‚¾–‚•¨‚ª•‚¯‚ÄBR@‚­‚ê‚éw–‚•¨ƒAƒVƒXƒgx‚ÌBR@‚Q‚Â‚ª‚ ‚é‚ñ‚¾‚æILF@wƒp[ƒgƒi[ƒAƒVƒXƒgx‚ğBR@”­“®‚µ‚½‚¢‚Æ‚«‚ÍBR@‚k{‚qƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚ñ‚¾ILF@w–‚•¨ƒAƒVƒXƒgx‚ÍBR@‚kƒ{ƒ^ƒ“‚¾‚¯‚Å”­“®‚Å‚«‚é‚¼ILF@‚±‚ê‚Å‚à‚¤BR@ƒAƒVƒXƒgUŒ‚‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
+
+en: Raiku-Sensei\BR"Hey!\ED
+
+es: Raiku-Sensei\BR"Hey\ED
 
 218
 jp: —‹‹åæ¶BRuƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“‚ğBR@W‚ß‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚é‚¼ILF@W‚ß‚ê‚ÎW‚ß‚é‚Ù‚ÇBR@g—p‚Å‚«‚é–‚•¨‚âƒXƒe[ƒWBR@ƒ~ƒjƒQ[ƒ€‚ª‘‚¦‚é‚ñ‚¾ILF@‚½‚­‚³‚ñ‚ ‚éƒRƒŒƒNƒVƒ‡ƒ“‚ğBR@“üè‚·‚éğŒ‚ÍBR@ƒRƒŒƒNƒVƒ‡ƒ“‚²‚Æ‚Éˆá‚¤‚©‚çLF@Šæ’£‚Á‚Ä‚³‚ª‚µ‚¾‚µ‚ÄBR@ƒRƒ“ƒvƒŠ[ƒg‚ğ–Úw‚»‚¤IBR@ƒLƒ~‚È‚ç•K‚¸o—ˆ‚é‚Í‚¸ôvED
