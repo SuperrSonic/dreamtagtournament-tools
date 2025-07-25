@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 217
+ln: 229
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1466,8 +1466,7 @@ es: Los amigos cercanos de Zatch.\BR1\DEG, 2\DEG, y 3\DEG generación.\ED
 200
 jp: ƒoƒ‹ƒJƒ“‚ª‚R‘ÌW‚Ü‚ê‚ÎBRƒ€ƒeƒLí‘à‚Ì’a¶‚¾IED
 
-//since this looks like a super sentai reference
-//might as well called them invincible rangers
+//definitely a reference to Taiyo Sentai Sun Vulcan
 alt-- When the 3 Volcans unite, they\BRbecome the Muteki Sentai!
 alt-- When the 3 Volcans unite, they\BRbecome the Invincible Squad!
 en: When the 3 Volcans unite,\BRthey become invincible rangers!\ED
@@ -1590,48 +1589,100 @@ es: Raiku-Sensei\BR"¡O! ¡Eso es personalización!\BR  ¡Personalizar te permite aj
 217
 jp: —‹‹åæ¶BRu‚¤‚ñIƒAƒVƒXƒgUŒ‚‚¾‚ËIBR@ƒAƒVƒXƒgUŒ‚‚Á‚Ä‚¢‚¤‚Ì‚ÍLF@ƒvƒŒƒCƒ„[‚Ì–‚•¨‚ğBR@è•‚¯‚µ‚Ä‚­‚ê‚éBR@‚·‚²‚­—Š‚ê‚éUŒ‚‚È‚ñ‚¾ILF@‚Ü‚½AƒAƒVƒXƒgUŒ‚‚É‚ÍBR@ƒp[ƒgƒi[‚ª•‚¯‚Ä‚­‚ê‚éBR@wƒp[ƒgƒi[ƒAƒVƒXƒgx‚ÆLF@ƒ`[ƒ€‚ğ‘g‚ñ‚¾–‚•¨‚ª•‚¯‚ÄBR@‚­‚ê‚éw–‚•¨ƒAƒVƒXƒgx‚ÌBR@‚Q‚Â‚ª‚ ‚é‚ñ‚¾‚æILF@wƒp[ƒgƒi[ƒAƒVƒXƒgx‚ğBR@”­“®‚µ‚½‚¢‚Æ‚«‚ÍBR@‚k{‚qƒ{ƒ^ƒ“‚ğ‰Ÿ‚·‚ñ‚¾ILF@w–‚•¨ƒAƒVƒXƒgx‚ÍBR@‚kƒ{ƒ^ƒ“‚¾‚¯‚Å”­“®‚Å‚«‚é‚¼ILF@‚±‚ê‚Å‚à‚¤BR@ƒAƒVƒXƒgUŒ‚‚É‚Â‚¢‚Ä‚ÍBR@ƒJƒ“ƒyƒL‚¾‚ËIvED
 
-en: Raiku-Sensei\BR"Hey!\ED
+en: Raiku-Sensei\BR"Yup! That's assist attacks!\LFAssist attacks are extremely\BRreliable moves that help\BRthe player's mamodo!\LFAlso, there are two types of\BRassist attacks: (Partner Assist)\BRwhere your partner helps you,\LFand (Mamodo Assist) where your\BRteammate mamodo shows up to help!\LFTo activate (Partner Assist)\BRpress the L+R buttons!\LFYou can activate (Mamodo Assist)\BRwith just the L button!\LFThat's it!\BRNow you're ready\BRto use assist attacks!"\ED
 
-es: Raiku-Sensei\BR"Hey\ED
+es: Raiku-Sensei\BR"¡Sip! ¡Es ataques de asistencia!\LFLos ataques de asistencia son\BRmuy útiles para ayudar al mamodo\BRdel jugador.\LFHay dos tipos de ataques\BRde asistencia: (Partner Assist)\BRque es cuando el lector del libro\LFaparece para ayudar\BRy (Mamodo Assist) que es cuando\BRtu compañero mamodo ayuda.\LF¡Para activar (Partner Assist)\BRpresiona L+R!\LF¡Puedes activar (Mamodo Assist)\BRcon tan solo el botón L!\LF¡Ya esta!\BRAhora sabes como usar\BRlos ataques de asistencia!"\ED
 
 218
 jp: —‹‹åæ¶BRuƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“‚ğBR@W‚ß‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚é‚¼ILF@W‚ß‚ê‚ÎW‚ß‚é‚Ù‚ÇBR@g—p‚Å‚«‚é–‚•¨‚âƒXƒe[ƒWBR@ƒ~ƒjƒQ[ƒ€‚ª‘‚¦‚é‚ñ‚¾ILF@‚½‚­‚³‚ñ‚ ‚éƒRƒŒƒNƒVƒ‡ƒ“‚ğBR@“üè‚·‚éğŒ‚ÍBR@ƒRƒŒƒNƒVƒ‡ƒ“‚²‚Æ‚Éˆá‚¤‚©‚çLF@Šæ’£‚Á‚Ä‚³‚ª‚µ‚¾‚µ‚ÄBR@ƒRƒ“ƒvƒŠ[ƒg‚ğ–Úw‚»‚¤IBR@ƒLƒ~‚È‚ç•K‚¸o—ˆ‚é‚Í‚¸ôvED
 
+en: Raiku-Sensei\BR"Filling out the Zatch Collection\BR  has its advantages!\LFThe more you collect, the more\BRmamodo, stages, and mini-games\BRyou will unlock!\LFThe conditions for obtaining each item\BRvary, so do your best to find them all\BRand aim for the complete set!\LFI'm sure you can do it\MUSIC"\ED
+
+es: Raiku-Sensei\BR"¡Completar el Zatch Collection\BR  tiene sus beneficios!\LF¡Mientras más colecciones,\BRmás mamodo, etapas, y minijuegos\BRserán accesibles!\LFLos requisitos para obtener cada\BRcoleccionable son diferentes,\BR¡así que haz lo mejor que puedas\LFpara encontrarlos todos\BRy completar la colección!\LFEstoy segurito que lo haras\MUSIC"\ED
+
 219
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn`BBR@‚Å‚Í‚ª‚ñ‚Î‚Á‚Ä‚­‚ê‚½‚Ü‚¦IvED
+
+en: Raiku-Sensei\BR"Ha ha ha ha ha~\LFWell, do your best!"\ED
+
+es: Raiku-Sensei\BR"Ja, ja, ja, ja, ja~\LFBien, ¡haz lo mejor que puedas!"\ED
 
 220
 jp: —‹‹åæ¶BRuccccccccccccBR@‚·cƒXƒS‚¢‚¶‚á‚È‚¢‚©ILF@‚Ü‚³‚©A‚±‚±‚Ü‚ÅBR@Ÿ‚¿”²‚­‚Æ‚ÍBR@v‚Á‚Ä‚à‚İ‚È‚©‚Á‚½‚æBLF@ƒtƒbƒtƒbƒtƒbƒtcBR@‚±‚¤‚È‚Á‚½‚ç„‚ª‘Šè‚ğBR@‚µ‚Ä‚â‚ë‚¤IILF@‚³‚ A‚¢‚Å‚æIBR@ƒ€ƒeƒLí‘àI‚Rƒoƒ‹ƒJƒ“IvED
 
+en: Raiku-Sensei\BR"........................\BR  Ah…amazing!\LFI didn't think you'd make it this far.\LFHeh heh heh heh...\BRIn that case, I'll deal with you myself!\LFCome on out!\BRMuteki Sentai! San Volcan!"\ED
+
+es: Raiku-Sensei\BR"........................\BR  ¡Ma…maravilloso!\LFNo creí que llegarías tan lejos.\LFJe, je, je, je...\BREn ese caso,\BR¡me ocuparé de ti yo mismo!\LF¡Sal ya!\BR¡Muteki Sentai! ¡San Volcan!"\ED
+
 221
 jp: ‚æ‚­‚±‚±‚Ü‚Å‚ª‚ñ‚Î‚Á‚½‚Ë`IBR‚»‚ñ‚ÈƒLƒ~‚É‚æ‚¢‚±‚Æ‚ğBR‹³‚¦‚Ä‚ ‚°‚æ‚¤IILFƒ^ƒCƒgƒ‹‰æ–Ê‚ÅBR©‚k¨‚qª«‚q‚qBR‚Æ“ü—Í‚µ‚Ä‚İ‚é‚ñ‚¾ILF‚«‚Á‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚é‚¼`IBR©‚k¨‚qª«‚q‚q‚¾IBRŠÔˆá‚¦‚È‚¢‚æ‚¤‚É‚ËIIED
+
+en: You've done very well~!\BRLet me tell you something good!!\LFOn the title screen,\BRpress \ARROWLEFTL\ARROWRIGHTR\ARROWUP\ARROWDOWNR R\BRTry it out!\LFI'm sure it's something good~!\BRIt's \ARROWLEFTL\ARROWRIGHTR\ARROWUP\ARROWDOWNR R!\BRDon't mess up!!\ED
+
+es: ¡Lo has hecho muy bien~!\BR¡Déjame decirte algo bueno!\LFEn la pantalla de PRESS START,\BRoprime \ARROWLEFTL\ARROWRIGHTR\ARROWUP\ARROWDOWNR R\BR¡Inténtalo!\LF¡Sin duda es algo bueno~!\BR¡Es \ARROWLEFTL\ARROWRIGHTR\ARROWUP\ARROWDOWNR R!\BR¡No te equivoques!\ED
 
 222
 jp: ƒKƒbƒVƒ…BRu´–›IBR@—DŸ‚ğ‚ß‚´‚·‚Ì‚¾IIIvED
 
+en: Zatch\BR"Kiyo!\BR  Let's win the tournament!!!"\ED
+
+es: Zatch\BR"¡Kiyo!\BR  ¡Ganemos el torneo!"\ED
+
 223
 jp: ´–›BRu‚ ‚ Is‚­‚¼IIƒeƒBƒI‚ÆBR@Œb‚³‚ñ‚à€”õ‚Í‚¢‚¢‚©HvED
+
+en: Kiyo\BR"Yeah! Let's go!!\BR  Tia and Megumi, are you ready?"\ED
+
+es: Kiyo\BR"Sí, ¡vamos!\BR  Tia y Megumi, están listas?"\ED
 
 224
 jp: ŒbBRu‚à‚¿‚ë‚ñI‚³‚ ƒeƒBƒIIBR@„‚½‚¿‚às‚­‚í‚æIIvED
 
+en: Megumi\BR"Of course! Come on, Tia!\BR  We're definitely going, too!!"\ED
+
+es: Megumi\BR"¡Desde luego! ¡Vamos, Tia!\BR  Nosotras iremos también!"\ED
+
 225
 jp: ƒeƒBƒIBRu‚¦‚¦I‚Ü‚©‚¹‚ÄIIvED
+
+en: Tia\BR"Yes! Leave it to me!!"\ED
+
+es: Tia\BR"¡Sí! ¡Déjamelo a mí!"\ED
 
 226
 jp: ŒbBRu‚±‚Ìí‚¢‚ªÅŒã‚İ‚½‚¢‚ËcBR@´–›‚­‚ñvED
 
+en: Megumi\BR"Looks like the final battle\BR  is coming up… Kiyo."\ED
+
+es: Megumi\BR"Parece que ahora viene\BR  la última batalla… Kiyo."\ED
+
 227
 jp: ´–›BRu‚ ‚ A‚»‚¤‚İ‚½‚¢‚¾Œb‚³‚ñBBR@‚İ‚ñ‚ÈI@‘S—Í‚Ås‚­‚¼IvED
+
+en: Kiyo\BR"Yes, it seems that way, Megumi.\BR  Everyone! Let's go all out!"\ED
+
+es: Kiyo\BR"Sí, eso parece, Megumi.\BR  Bien, ¡ataquemos con todo!"\ED
 
 228
 jp: ƒeƒBƒIBRuƒKƒbƒVƒ…I„‚½‚¿‚Ì—Í‚ğBR@Œ©‚¹‚Ä‚ ‚°‚Ü‚µ‚åIvED
 
+en: Tia\BR"Zatch! Let's show them\BR  our power!"\ED
+
+es: Tia\BR"¡Zatch! ¡Demostrémosle lo que\BR  nuestro poder puede hacer!"\ED
+
 229
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@—Í‚ğ‡‚í‚¹‚ÄŸ‚Â‚Ì‚¾IvED
 
+en: Zatch\BR"Yeah! Let's combine our power\BRand win this battle!"\ED
+
+es: Zatch\BR"¡Sí! Combinemos nuestro poder\BR  y ganemos la batalla!"\ED
+
 230
 jp: ƒtƒHƒ‹ƒSƒŒBRuƒnƒbƒnƒbƒnIBR@—DŸ‚Í„‚½‚¿‚ª‚à‚ç‚Á‚½IvED
+
+en: Folgore\BR"
+
+es: Folgore\BR"
 
 231
 jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚»‚¤‚¾‚Ë@ƒtƒHƒ‹ƒSƒŒIBR@‚æ[‚µ@‚ª‚ñ‚Î‚é‚¼[IIvED
