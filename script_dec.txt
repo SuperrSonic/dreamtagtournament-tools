@@ -1673,7 +1673,7 @@ es: Tia\BR"¡Zatch! ¡Demostrémosle lo que\BR  nuestro poder puede hacer!"\ED
 229
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@—Í‚ğ‡‚í‚¹‚ÄŸ‚Â‚Ì‚¾IvED
 
-en: Zatch\BR"Yeah! Let's combine our power\BRand win this battle!"\ED
+en: Zatch\BR"Yeah! Let's combine our power\BR  and win this battle!"\ED
 
 es: Zatch\BR"¡Sí! Combinemos nuestro poder\BR  y ganemos la batalla!"\ED
 
