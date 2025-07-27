@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 229
+ln: 240
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1675,47 +1675,92 @@ jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@—Í‚ğ‡‚í‚¹‚ÄŸ‚Â‚Ì‚¾IvED
 
 en: Zatch\BR"Yeah! Let's combine our power\BR  and win this battle!"\ED
 
-es: Zatch\BR"¡Sí! Combinemos nuestro poder\BR  y ganemos la batalla!"\ED
+es: Zatch\BR"¡Sí! Combinemos nuestra fuerza\BR  y ganemos la batalla!"\ED
 
 230
 jp: ƒtƒHƒ‹ƒSƒŒBRuƒnƒbƒnƒbƒnIBR@—DŸ‚Í„‚½‚¿‚ª‚à‚ç‚Á‚½IvED
 
-en: Folgore\BR"
+en: Folgore\BR"Ha ha ha!\BR  Victory is as good as ours!"\ED
 
-es: Folgore\BR"
+es: Folgore\BR"¡Ja, ja, ja!\BR  ¡La victoria será nuestra!"\ED
 
 231
 jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚»‚¤‚¾‚Ë@ƒtƒHƒ‹ƒSƒŒIBR@‚æ[‚µ@‚ª‚ñ‚Î‚é‚¼[IIvED
 
+en: Kanchomé\BR"That's it, Folgore!\BR  All right, let's do this!!"\ED
+
+es: Kanchomé\BR"¡Eso, Folgore!\BR  ¡OK, podemos hacerlo!"\ED
+
 232
 jp: ƒLƒbƒhBRu•‰‚¯‚é‚à‚ñ‚©[IBR@–l‚¾‚Á‚Ä‚ª‚ñ‚Î‚é‚¼IIIvED
+
+en: Kido\BR"I won't lose!\BR  I'll do my best, too!!!"\ED
+
+es: Kido\BR"¡No perderé!\BR  ¡Haré mi mejor esfuerzo!"\ED
 
 233
 jp: ƒiƒ]ƒiƒ]”mBRu‚æ‚µ@‚»‚ÌƒCƒL‚¾@ƒLƒbƒhIBR@‚İ‚ñ‚È@s‚­‚¼IIIvED
 
+en: Doctor Riddles\BR"Good, that's the spirit, Kido!\BR  Everyone, let's head out!!!"\ED
+
+es: Doctor Riddles\BR"¡Bien, así se dice!\BR  ¡Vamos, todos!"\ED
+
 234
 jp: ƒtƒHƒ‹ƒSƒŒBRuƒt@‚à‚¤ÅIí‚Ì‚æ‚¤‚¾‚ËBBR@—DŸ‚Í‚¢‚½‚¾‚¢‚½‚à“–‘R‚¾vED
+
+en: Folgore\BR"Hm, looks like it's the final match.\BR  I know for sure we can win."\ED
+
+es: Folgore\BR"Mm, parece ser la última batalla.\BR  Estoy seguro que ganaremos."\ED
 
 235
 jp: ƒiƒ]ƒiƒ]”mBRuƒ†ƒ_ƒ“‚Í‚«‚ñ‚à‚Â‚¶‚á‚æBR@ƒtƒHƒ‹ƒSƒŒŒNBED
 
+//yudan wa kin motsuja yo forugore-kun
+en: Doctor Riddles\BR"Don't get careless, Folgore!\BR  We're not done yet.\ED
+
+es: Doctor Riddles\BR"¡No te dejes llevar, Folgore!\BR  Esto no ha terminado.\ED
+
 236
 jp: @‚µ‚©‚µ@‚İ‚ñ‚È‚ª‹¦—Í‚µ‚ ‚¢BR@—Í‚ğo‚µØ‚ê‚Î@•K‚¸BR@Ÿ—˜‚Í‚Â‚©‚ß‚é‚Í‚¸‚¾IvED
+
+en: However, if we all work together\BRand give it our all, then I have no doubt\BRwe will surely succeed!"\ED
+
+es: Pero si trabajamos juntos y damos\BRlo mejor, sin duda lo lograremos!"\ED
 
 237
 jp: ƒLƒbƒhBRu‚æ[‚µI@ƒLƒƒƒ“ƒ`ƒ‡ƒBR@—Í‚ğ‡‚í‚¹‚Ä‚ª‚ñ‚Î‚é‚¼IvED
 
+en: Kido\BR"Okay, Kanchomé! Let's work\BRtogether and do our very best!"\ED
+
+es: Kido\BR"¡OK, Kanchomé! Unamos fuerzas\BRy hagamos nuestro mejor esfuerzo!"\ED
+
 238
 jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚¤‚ñI@ƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌBR@‚·‚²‚³‚ğŒ©‚¹‚Ä‚â‚éIvED
+
+en: Kanchomé\BR"Yeah! Let's show them\BRour amazing combination!"\ED
+
+es: Kanchomé\BR¡Sí! Vamos a enseñarles\BRnuestra combinación increible"!\ED
 
 239
 jp: ƒW[ƒhBRuƒe[ƒbƒhIBR@€”õ‚Í‚¢‚¢‚ñ‚¾‚ë‚¤‚ÈHvED
 
+en: Jido\BR"Hey, Ted! Are you ready?"\ED
+
+es: Jido\BR"¡Oye, Ted! ¿Estás listo?"\ED
+
 240
 jp: ƒeƒbƒhBRu‚¨‚¤@ƒW[ƒhIBR@‚¢‚Â‚Å‚às‚¯‚é‚ºIIIvED
 
+en: Ted\BR"You bet, Jido! I can go anytime!"\ED
+
+es: Ted\BR"¡Ya sabes, Jido! Siempre lo estoy!"\ED
+
 241
 jp: ƒŠƒBƒGƒ“BRuƒEƒHƒ“ƒŒƒCIBR@„‚½‚¿‚às‚­‚ ‚é‚æIIIvED
+
+en: Li-en\BR"...\ED
+
+es: Li-en\BR"...\ED
 
 242
 jp: ƒEƒHƒ“ƒŒƒCBRu‚ ‚Ÿ@ƒŠƒBƒGƒ“BBR@•K‚¸‚â—DŸ‚µ‚æ‚¤vED
