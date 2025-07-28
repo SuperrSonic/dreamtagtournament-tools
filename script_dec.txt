@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 240
+ln: 246
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1758,27 +1758,51 @@ es: Ted\BR"¡Ya sabes, Jido! Siempre lo estoy!"\ED
 241
 jp: ƒŠƒBƒGƒ“BRuƒEƒHƒ“ƒŒƒCIBR@„‚½‚¿‚às‚­‚ ‚é‚æIIIvED
 
-en: Li-en\BR"...\ED
+en: Li-en\BR"Wonrei! We're also going!!!"\ED
 
-es: Li-en\BR"...\ED
+es: Li-en\BR"¡Wonrei! ¡Iremos también!"\ED
 
 242
 jp: ƒEƒHƒ“ƒŒƒCBRu‚ ‚Ÿ@ƒŠƒBƒGƒ“BBR@•K‚¸‚â—DŸ‚µ‚æ‚¤vED
 
+en: Wonrei\BR"Yes, Li-en.\BR  We'll win no matter what."\ED
+
+es: Wonrei\BR"Sí, Li-en.\BR  Definitivamente ganaremos."\ED
+
 243
 jp: ƒŠƒBƒGƒ“BRu‚Æ‚¤‚Æ‚¤ÅIí‚Ü‚ÅBR@—ˆ‚½‚ ‚é‚ËvED
+
+en: Li-en\BR"At last, we have reached\BR  the final stage."\ED
+
+es: Li-en\BR"Por fin llegamos a la última ronda."\ED
 
 244
 jp: ƒW[ƒhBRu‚ ‚ @‚»‚¤‚İ‚Ä‚¥‚¾‚ÈBBR@‹C‚ğˆø‚«‚µ‚ß‚Ä‚¢‚­‚¼IvED
 
+en: Jido\BR"Yeah, that seems to be the case.\BR  Let's stay focused and end this!"\ED
+
+es: Jido\BR"Sí, eso parece.\LFManténganse alerta\BRy acabemos con esto de una vez!"\ED
+
 245
 jp: ƒEƒHƒ“ƒŒƒCBRuƒeƒbƒh@‚¨Œİ‚¢‚Ì—Í‚ğ‡‚í‚¹BR@•K‚¸Ÿ‚Æ‚¤vED
+
+en: Wonrei\BR"Let's work together, Ted.\BR  We'll win for sure."\ED
+
+es: Wonrei\BR"Trabajemos juntos, Ted.\BR  Así podremos ganar."\ED
 
 246
 jp: ƒeƒbƒhBRu‚n‚j@ƒEƒHƒ“ƒŒƒCIBR@‚æ[‚µIs‚Á‚­‚º‚¥IIIvED
 
+en: Ted\BR"OK, Wonrei!\BR  All right! Let's go already!"\ED
+
+es: Ted\BR"¡OK, Wonrei!\BR  ¿Y bien? ¡Qué empiece ya!"\ED
+
 247
 jp: ƒTƒ“ƒr[ƒ€BRu‚İ‚ñ‚ÈI@—Í‚ğ‚ ‚í‚¹‚ÄBR@—DŸ‚·‚é‚¼IIIvED
+
+en: Sunbeam\BR"
+
+es: Sunbeam\BR"
 
 248
 jp: ƒEƒ}ƒSƒ“BRuƒƒ‹ƒƒ‹ƒ`IIIvED
