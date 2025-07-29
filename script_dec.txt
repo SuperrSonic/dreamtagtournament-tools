@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 265
+ln: 285
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1926,76 +1926,158 @@ es: Brago\BR"¡Vamos!"\ED
 265
 jp: ŒbBRuƒeƒBƒI@€”õ‚Í‚¢‚¢‚í‚ËIBR@s‚­‚í‚æIvED
 
-en: Megumi\BR"Let's get ready, Tia!\BR  We're heading out!"\ED
+en: Megumi\BR"Get ready, Tia!\BR  We're going in!"\ED
 
 es: Megumi\BR"¡Preparate, Tia!\BR  ¡Tenemos que ir!"\ED
 
 266
 jp: ƒeƒBƒIBRu‚¦‚¦I@ƒPƒ`ƒ‡ƒ“ƒPƒ`ƒ‡ƒ“‚ÉBR@‚â‚Á‚Â‚¯‚Ä‚â‚é‚ñ‚¾‚©‚çIvED
 
-en: Tia\BR"
+en: Tia\BR"Yes! I'm going to pummel them!"\ED
 
-es: Tia\BR"
+es: Tia\BR"¡Sí! ¡Los haré pedazos!"\ED
 
 267
 jp: ƒpƒeƒBBRu•‰‚¯‚ç‚ê‚È‚¢‚í‚ËIBR@ƒEƒ‹ƒ‹I@s‚­‚í‚æIIvED
 
+en: Penny\BR"Like I'll ever lose!\BR  Do it, Uri!"\ED
+
+es: Penny\BR"¡Como si fuera a perder!\BR  ¡Hazlo, Uri!\ED
+
 268
 jp: ƒEƒ‹ƒ‹BRud•û‚È‚¢‚Å‚·‚Ëc@‘S—Í‚ğBR@o‚µ‚Ü‚·‚æ@ƒpƒeƒBIvED
+
+en: Uri\BR"It can't be helped...\BR  I'll give it my all, Penny!"\ED
+
+es: Uri\BR"No tiene case...\BR  ¡Le daré con todo, Penny!"\ED
 
 269
 jp: ƒEƒ‹ƒ‹BRu‚Æ‚¤‚Æ‚¤@ÅIí‚Å‚·‚ËcvED
 
+en: Uri\BR"Finally, it's the last match..."\ED
+
+es: Uri\BR"Por fin llegó la última ronda..."\ED
+
 270
 jp: ŒbBRu‚¦‚¦I‚İ‚ñ‚ÈIBR@‚ ‚Æˆê‘§‚æIvED
+
+en: Megumi\BR"Yeah! We just have to\BR  fight a bit more, everyone!"\ED
+
+es: Megumi\BR"¡Sí! ¡Solo hay que seguir\BR  un poco más, chicos!"\ED
 
 271
 jp: ƒeƒBƒIBRu‚æ[‚µI@—‚Ìq‚Ìƒpƒ[‚ğBR@Œ©‚¹‚Ä‚â‚é‚í‚æ@ƒpƒeƒBIvED
 
+en: Tia\BR"All right! Let's show them\BR  some girl power, Penny!"\ED
+
+es: Tia\BR"¡Bien! ¡Enseñémosle nuestro\BR  poder femenino, Penny!"\ED
+
 272
 jp: ƒpƒeƒBBRu‚Ü‚©‚¹‚È‚³‚¢I@‚½‚Á‚Õ‚èBR@ƒJƒƒC‚ª‚Á‚Ä‚â‚é‚íIvED
+
+en: Penny\BR"Leave it to me!\BRI'll take care of them!"\ED
+
+es: Penny\BR"¡Déjamelo a mí!\BR  ¡Yo me encargaré de ellos!"\ED
 
 273
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚Ó‚Á‚©‚Ÿ[[[‚Â‚ÁIIBR@ƒrƒNƒgƒŠ[[[[ƒ€IIIED
 
+en: Victoream\BR"I'm baaaaaaaack!!\BR  VICTOREEEEAM!!!\ED
+
+es: Victoream\BR"¡Aquí estooooooooy!\BR  VICTOREEEEAM!!!\ED
+
 274
 jp: @‚Óc—DŸ‚È‚Ç@‚±‚Ì‰Ø—í‚È‚éBR@ƒrƒNƒgƒŠ[ƒ€—l‚ª‚¢‚ê‚ÎBR@ƒJƒ“ƒ^ƒ“‚Éæ‚ÁcED
+
+en: Hmph! With the magnificent Victoream\BRaround, winning this tournament will be\BRno sweat..."\ED
+
+es: ¡Hmf! Con el magnífico Victoream\BRpresente, este torneo no es\BRnada más que pan comido..."\ED
 
 275
 jp: ƒŒƒCƒ‰BRui’·‚­‚È‚è‚»‚¤‚ËEEE—ÜjBR@s‚«‚Ü‚µ‚å@ƒAƒ‹vED
 
+en: Laila\BR"(This will take a while *TEAR*)\BR  Let's go, Al."\ED
+
+es: Laila\BR"(Esto tomara tiempo *LAGRIMA*)\BR  Vamos, Al."\ED
+
 276
 jp: ƒAƒ‹ƒx[ƒ‹BRu‚ ‚ @ƒŒƒCƒ‰BBR@‰´‚½‚¿‚¾‚¯‚Å—DŸ‚·‚é‚¼IvED
+
+en: Albert\BR"Yes, Laila. We'll win this alone."\ED
+
+es: Albert\BR"Sí, Laila. Ganaremos solos."\ED
 
 277
 jp: ƒrƒNƒgƒŠ[ƒ€BRuƒxƒŠ[[[EƒVƒbƒgI”BR@ƒIƒŒ—l‚Ì˜b‚ğ•·‚¯[IIIvED
 
+//the # represents the angry symbol seen in anime and manga
+en: Victoream\BR"Veryyy bad! #\BR  Listen to what I have to say!!!"\ED
+
+es: Victoream\BR"Veryyy bad! #\BR  ¡Escuchen lo que tengo que decir!"\ED
+
 278
 jp: ƒrƒNƒgƒŠ[ƒ€BRuƒtƒnƒnƒnƒnƒnBR@‚à‚¤ÅIí‚É‚È‚é‚Ì‚©IED
+
+en: Victoream\BR"Muah ha ha ha! Could this be\BR  the final match already?\ED
+
+es: Victoream\BR"¡Mua ja, ja, ja! ¿Será que ya\BR  estamos en la última batalla?\ED
 
 279
 jp: @‚µ‚©‚µI@‚±‚ÌÅ‹­ƒ`[ƒ€‚ÉBR@Ÿ‚Ä‚éÒ‚È‚Ç‚¢‚È‚¢‚íIBR@‚ä‚­‚¼@ƒŒƒCƒ‰IIIvED
 
+en: No one can hope to succeed\BRsuch a powerful team!\BRLet's go, Laila!"\ED
+
+es: ¡Pero nadie puede contra este equipo\BRtan fuerte! ¡Vamos, Laila!"\ED
+
 280
 jp: ƒŒƒCƒ‰BRu‚»‚¤‚Ë@ƒrƒNƒgƒŠ[ƒ€BBR@ƒAƒ‹@s‚­‚í‚ævED
+
+en: Laila\BR"That's right, Victoream.\BR  Al, let's finish this."\ED
+
+es: Laila\BR"Así es, Victoream.\BR  Terminemos esto, Al."\ED
 
 281
 jp: ƒAƒ‹ƒx[ƒ‹BRu‚æ‚µ@s‚­‚¼IvED
 
+en: Albert\BR"You've got it, let's go!"\ED
+
+es: Albert\BR"¡Bien, vamos!"\ED
+
 282
 jp: ƒGƒŠ[BRus‚­‚¼ƒA[ƒXB@ƒTƒEƒU[‚ÆBR@‹¤‚É—DŸ‚ğ‘_‚¤IvED
+
+en: Ellie\BR"Let's go, Arth. By working with\BR  Sauza, we'll win the tournament!"\ED
+
+es: Ellie\BR"Vamos, Arth. ¡Trabajemos con Sauza\BR  para ganar el torneo!\ED
 
 283
 jp: ƒA[ƒXBRuŒäˆÓIvED
 
+//gyoi!
+en: Arth\BR"As you wish."\ED
+
+es: Arth\BR"Como desees."\ED
+
 284
 jp: ƒTƒEƒU[BRu‚Ö‚Ö‚Öc‚Ç‚ñ‚È‹­“G‚Å‚àBR@‚¯‚¿‚ç‚µ‚Ä‚â‚é‚ºIvED
+
+en: Sauza\BR"Heh heh, it doesn't matter how\BR  strong they are, I'll defeat anyone\LFwho comes my way!"\ED
+
+es: Sauza\BR"Je, je ¡no importa que tan fuerte sea\BR  derrotaré a cualquier oponente!"\ED
 
 285
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
 
+en: Karudio\BR"Paru paru moon!"\ED
+
+es: Karudio\BR"Paru paru mon!"\ED
+
 286
 jp: ƒTƒEƒU[BRu‚±‚Ìæ‚É@‹­‚¥–‚•¨‚ªBR@‚¢‚»‚¤‚È‹C”z‚¾‚ºcvED
+
+en: Sauza\BR"
+
+es: Sauza\BR"
 
 287
 jp: ƒGƒŠ[BRu‚µ‚ñ‚¿‚å‚¤‚És‚©‚Ë‚Î‚ÈBBR@ƒA[ƒX@S‚µ‚Ä‚©‚©‚êvED
