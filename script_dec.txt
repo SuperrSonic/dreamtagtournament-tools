@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 246
+ln: 265
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1800,66 +1800,142 @@ es: Ted\BR"¡OK, Wonrei!\BR  ¿Y bien? ¡Qué empiece ya!"\ED
 247
 jp: ƒTƒ“ƒr[ƒ€BRu‚İ‚ñ‚ÈI@—Í‚ğ‚ ‚í‚¹‚ÄBR@—DŸ‚·‚é‚¼IIIvED
 
-en: Sunbeam\BR"
+en: Sunbeam\BR"Everyone! Let's work together\BR  and win this tournament!!!"\ED
 
-es: Sunbeam\BR"
+es: Sunbeam\BR"¡Juntemos nuestras fuerzas\BR  y ganemos este torneo!"\ED
 
 248
 jp: ƒEƒ}ƒSƒ“BRuƒƒ‹ƒƒ‹ƒ`IIIvED
 
+en: Ponygon\BR"Meru meru me~!!!"\ED
+
+es: Ponygon\BR"¡Meru meru me~!"\ED
+
 249
 jp: ƒTƒEƒU[BRuƒIƒCƒ‰‚½‚¿‚ª‚¢‚é‚ñ‚¾BR@‚»‚ñ‚È‚Ì@‚ ‚½‚è‘O‚³IIvED
+
+en: Sauza\BR"We're here, right?\BR  So, that should be obvious!!"\ED
+
+es: Sauza\BR"Ya estamos aquí\BR  ¡no hay porque decirlo!"\ED
 
 250
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
 
+en: Karudio\BR"Paru paru moon!"\ED
+
+es: Karudio\BR"¡Paru paru mon!"\ED
+
 251
 jp: ƒTƒEƒU[BRu‚ÖI@‚à‚¤ÅIí‚©‚æBBR@‚¯‚Á‚±‚¤@ŠyŸ‚¾‚Á‚½‚ÈIvED
+
+en: Sauza\BR"Wow! It's the final match already."\ED
+
+es: Sauza\BR"¡Guau!\BR  Ya llegamos a la última batalla."\ED
 
 252
 jp: ƒTƒ“ƒr[ƒ€BRuƒ†ƒ_ƒ“‚Í‚«‚ñ‚à‚Â‚¾BBR@‹­“G‚ª‚¢‚é‚©‚à‚µ‚ê‚ñBED
 
+en: Sunbeam\BR"We can't let our guard down.\BR  It could be a tough fight.\ED
+
+es: Sunbeam\BR"No bajen la guardia.\BR  Puede ser un enemigo muy fuerte.\ED
+
 253
 jp: @ƒEƒ}ƒSƒ“@ƒJƒ‹ƒfƒBƒIIBR@€”õ‚Í‚¢‚¢‚ÈHBR@s‚­‚¼IIIvED
+
+en: Ponygon! Karudio!\BRAre you both ready?!\BRThen let's go!!!"\ED
+
+es: ¡Ponygon y Karudio! ¿Están listos?\BR¡Hacia el frente!"\ED
 
 254
 jp: ƒEƒ}ƒSƒ“BRuƒƒ‹`IvED
 
+en: Ponygon\BR"Meru~!"\ED
+
+es: Ponygon\BR"¡Meru~!"\ED
+
 255
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹IvED
+
+en: Karudio\BR"Paru!"\ED
+
+es: Karudio\BR"¡Paru!"\ED
 
 256
 jp: ƒuƒ‰ƒSBRuƒtƒ“B@­‚µ‚ÍBR@Šy‚µ‚Ü‚¹‚Ä‚­‚ê‚»‚¤‚¾‚ÈvED
 
+en: Brago\BR"Heh, it looks like this\BR  might be a little fun."\ED
+
+es: Brago\BR"Hmf, quizás esto sea\BR  un poco divertido."\ED 
+
 257
 jp: ƒVƒFƒŠ[BRuÔ‚¢–{‚ÌqBBR@„‚½‚¿‚Æ‹¤‚Éí‚¢‚Ü‚µ‚å‚¤vED
+
+en: Sherry\BR"Fight by our side.\BR  Boy with the red book."\ED
+
+es: Sherry\BR"Niño del libro rojo.\BR  Lucha a nuestro lado."\ED
 
 258
 jp: ƒKƒbƒVƒ…BRuƒEƒkIBR@‘S—Í‚ğ‚Â‚­‚·‚Ì‚¾IIIvED
 
+en: Zatch\BR"All right! I'll do my best!!!"\ED
+
+es: Zatch\BR"¡OK! ¡Haré lo mejor que pueda!"\ED
+
 259
 jp: ´–›BRu‚ ‚Ÿ@ƒKƒbƒVƒ…IBR@•K‚¸—DŸ‚·‚é‚¼IIIvED
+
+en: Kiyo\BR"That's it, Zatch!\BR  We can definitely do this!!!"\ED
+
+es: Kiyo\BR"¡Eso es, Zatch!\BR  ¡Ganaremos a toda costa!"\ED
 
 260
 jp: ´–›BRuƒuƒ‰ƒScBR@“G‚É‰ñ‚·‚Æ‹­“G‚¾‚ªED
 
+en: Kiyo\BR"Brago...\BR  He's a fierce enemy but\ED
+
+es: Kiyo\BR"Brago... Es un adversario\BR  muy formidable pero\ED
+
 261
 jp: @–¡•û‚É‚È‚é‚ÆBR@‚±‚±‚Ü‚Å—Š‚è‚É‚È‚é‚Æ‚ÍcBBR@‚±‚ê‚È‚ç—DŸ‚Å‚«‚éIIIvED
+
+en: he's very reliable when he's on our\BRside. With him, we can surely win!!!"\ED
+
+es: ha sido muy valioso\BRluchando a nuestro lado.\BR¡Con él podremos ganar!"\ED
 
 262
 jp: ƒVƒFƒŠ[BRu‚³‚Ÿ@‚İ‚ñ‚ÈÅŒã‚Ìí‚¢‚æBBR@€”õ‚Í‚¢‚¢‚©‚µ‚çHvED
 
+en: Sherry\BR"Look, it's the final fight.\BR  You all ready?"\ED
+
+es: Sherry\BR"Esta debe ser la última pelea.\BR ¿Están todos listos?"\ED
+
 263
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@ƒuƒ‰ƒS@‹¤‚ÉŠæ’£‚é‚Ì‚¾IvED
+
+en: Zatch\BR"Yeah! Let's work hard, Brago!"\ED
+
+es: Zatch\BR"¡Sí! ¡Trabajemos fuerte, Brago!"\ED
 
 264
 jp: ƒuƒ‰ƒSBRus‚­‚¼IvED
 
+en: Brago\BR"Let's go!"\ED
+
+es: Brago\BR"¡Vamos!"\ED
+
 265
 jp: ŒbBRuƒeƒBƒI@€”õ‚Í‚¢‚¢‚í‚ËIBR@s‚­‚í‚æIvED
 
+en: Megumi\BR"Let's get ready, Tia!\BR  We're heading out!"\ED
+
+es: Megumi\BR"¡Preparate, Tia!\BR  ¡Tenemos que ir!"\ED
+
 266
 jp: ƒeƒBƒIBRu‚¦‚¦I@ƒPƒ`ƒ‡ƒ“ƒPƒ`ƒ‡ƒ“‚ÉBR@‚â‚Á‚Â‚¯‚Ä‚â‚é‚ñ‚¾‚©‚çIvED
+
+en: Tia\BR"
+
+es: Tia\BR"
 
 267
 jp: ƒpƒeƒBBRu•‰‚¯‚ç‚ê‚È‚¢‚í‚ËIBR@ƒEƒ‹ƒ‹I@s‚­‚í‚æIIvED
