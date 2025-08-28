@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 285
+ln: 303
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -863,24 +863,24 @@ es: Usa una PC para analizar\BRel poder del oponente.\ED
 115
 jp: ‚TË‚Ì—‚Ìq‚È‚ª‚çBR‹¥–\‚ÈƒKƒbƒVƒ…‚Ì“V“GED
 
-en: Although she is 5, she is\BRZatch's sworn enemy.\ED
+en: Although she is 5, she is\BRZatch's sworn rival.\ED
 
-es: Aunque solo tenga 5, es la\BRenemiga declarada de Zatch.\ED
+es: Aunque solo tenga 5, es la\BRrival declarada de Zatch.\ED
 
 116
 jp: ‚¦H‚í‚½‚µ‚Ìo”Ô‚ÍBR‚±‚ê‚¾‚¯‚È‚Ì[IHED
 
 en: Huh? Is this the only role\BRI have in the entire game?!\ED
 
-es: Eh? ¡¿Esto es lo único que\BRme toca hacer en el juego?!\ED
+es: ¿Mm? ¡¿Esto es lo único que\BRme toca hacer en el juego?!\ED
 
 117
 jp: ƒ€ƒi–Ñ‚ª‚è‚Á‚Ï‚ÈŒ¢BR–¼‘O‚Í¬—ÑƒE[ED
 
 // is this really saying the dog's name?
-en: A dog with a nice mane,\BRnamed Wu Kobayashi.\ED
+en: A dog with a nice mane,\BRhis name is Kobayashi, woof.\ED
 
-es: Un perro con bonita melena.\BRSe llama Wu Kobayashi.\ED
+es: Un perro con bonita melena.\BRSe llama Kobayashi, wuf.\ED
 
 118
 jp: ƒKƒbƒVƒ…‚Ì—F‚¾‚¿‚ÅBRƒ`ƒ‡ƒ“ƒ}ƒQ‚ª—‡‚¤ED
@@ -2070,68 +2070,141 @@ jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
 
 en: Karudio\BR"Paru paru moon!"\ED
 
-es: Karudio\BR"Paru paru mon!"\ED
+es: Karudio\BR"¡Paru paru mon!"\ED
 
 286
 jp: ƒTƒEƒU[BRu‚±‚Ìæ‚É@‹­‚¥–‚•¨‚ªBR@‚¢‚»‚¤‚È‹C”z‚¾‚ºcvED
 
-en: Sauza\BR"
+en: Sauza\BR"Looks like strong opponents are up ahead..."\ED
 
-es: Sauza\BR"
+es: Sauza\BR"Parece que adversarios fuertes nos esperan..."\ED
 
 287
 jp: ƒGƒŠ[BRu‚µ‚ñ‚¿‚å‚¤‚És‚©‚Ë‚Î‚ÈBBR@ƒA[ƒX@S‚µ‚Ä‚©‚©‚êvED
 
+//Asu, kokoroshite kakare
+en: Ellie\BR"Let's proceed carefully.\BRArth, brace yourself."\ED
+
+es: Ellie\BR"Sigamos con cuidado.\BRArth, prepárate."\ED
+
 288
 jp: ƒA[ƒXBRuƒnƒbI@ƒJƒ‹ƒfƒBƒI“aBR@‘S—Í‚ğ‚Â‚­‚µ‚Ü‚µ‚å‚¤IvED
+
+en: Arth\BR"All right! Karudio, we must give it our all!"\ED
+
+es: Arth\BR"¡De acuerdo! ¡Karudio, tenemos que dar\BRlo mejor de nosotros!"\ED
 
 289
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
 
+en: Karudio\BR"Paru paru moon!"\ED
+
+es: Karudio\BR"¡Paru paru mon!"\ED
+
 290
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚ä‚­‚¼Iƒ‚ƒqƒJƒ“ƒG[ƒXIBR@•K‚¸‚â—DŸ‚ğ‰ä‚ªè‚ÉIvED
+
+en: Victoream\BR"Let's go, Mohawk Ace!"\ED
+
+es: Victoream\BR"Vamos, Mohawk Ace!"\ED
 
 291
 jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
 
+en: Mohawk Ace\BR"......"\ED
+
+es: Mohawk Ace\BR"......"\ED
+
 292
 jp: ƒxƒ‹ƒ“BRu‚¨‚¢@ƒL[ƒXBBR@æ‚ğ‚±‚³‚ê‚¿‚Ü‚¤‚¼vED
+
+en: Berun\BR"Hey, Keith."\ED
+
+es: Berun\BR"Oye, Keith."\ED
 
 293
 jp: ƒL[ƒXBRu‘åä•v‚¾@ƒxƒ‹ƒ“BBR@—DŸ‚Í‚±‚Ì„‚ª‚¢‚½‚¾‚­IvED
 
+en: Keith\BR"No need to worry yourself, Berun."\ED
+
+es: Keith\BR"No hay que preocuparse, Berun."\ED
+
 294
 jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
+
+en: Mohawk Ace\BR"......"\ED
+
+es: Mohawk Ace\BR"......"\ED
 
 295
 jp: ƒxƒ‹ƒ“BRu‚±‚±‚ªÅIí‚ÌêŠ‚©EEEBR@‹­“G‚ª‚¢‚»‚¤‚¾‚ÈƒL[ƒXvED
 
+en: Berun\BR"So this is where the final battle will be..."\ED
+
+es: Berun\BR"Así que aquí es donde\BRla última batalla será..."\ED
+
 296
 jp: ƒL[ƒXBRuS”z‚·‚é‚È@ƒxƒ‹ƒ“vED
+
+en: Keith\BR"No worries, Berun."\ED
+
+es: Keith\BR"Sin miedo, Berun."\ED
 
 297
 jp: ƒL[ƒXBRu„‚ÆƒrƒNƒgƒŠ[ƒ€‚ª‚¢‚é‚ñ‚¾BR@—DŸ‚ÍŠÔˆá‚¢‚È‚¢‚³EEEvED
 
+en: Keith\BR"With my power and Victoream here, our victory is assured."\ED
+
+es: Keith\BR"Con mi poder y Victoream aquí, la victoria de seguro es nuestra."\ED
+
 298
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚»‚¤‚¾‚Æ‚àIBR@‚³‚Ÿ@s‚­‚¼IIIvED
+
+en: Victoream\BR"Well said! Now let's go!!!"\ED
+
+es: Victoream\BR"¡Bien dicho! ¡¡¡Ahora al ataque!!!"\ED
 
 299
 jp: ƒOƒXƒ^ƒtBRu‚³‚Ÿ@s‚­‚©ƒoƒŠ[vED
 
+en: Gustav\BR"Well then, let's go, Bari."\ED
+
+es: Gustav\BR"Bueno, vamos, Bari."\ED
+
 300
 jp: ƒoƒŠ[BRu‚¨‚¤I@—DŸ‚È‚ñ‚´BR@Œy‚­Œˆ‚ß‚Ä‚â‚é‚æIIIvED
+
+en: Bari\BR"Yes! This tournament will be a piece of cake!!!
+
+es: Bari\BR"¡Sí!\BR  ¡Esto no será nada dificil para mi!"\ED
 
 301
 jp: ƒxƒ‹ƒ“BRu‚ ‚¢‚Â‚Æ‚Í–‚ŠE‚Åƒ‰ƒCƒoƒ‹BR@‚¾‚Á‚½‚ç‚µ‚¢‚È@ƒL[ƒXvED
 
+en: Berun\BR"Keith, you were rivals with him back in the mamodo world."\ED
+
+es: Berun\BR"Fueron rivales en el mundo mamodo,\BR  Keith."\ED
+
 302
 jp: ƒL[ƒXBRu„‚½‚¿‚É“G‚È‚Ç‚¢‚È‚¢‚³BBR@s‚­‚¼IIvED
+
+en: Keith\BR"We're not enemies. Let's go!"\ED
+
+es: Keith\BR"No somos enemigos. ¡Vamos!"\ED
 
 303
 jp: ƒxƒ‹ƒ“BRu‚Æ‚¤‚Æ‚¤ÅIí‚Ü‚ÅBR@Ÿ‚¿‚·‚·‚ñ‚¾‚İ‚½‚¢‚¾‚ÈvED
 
+en: Berun\BR"Looks like we made it\BRall the way to the final battle."\ED
+
+es: Berun\BR"Parece que logramos llegar\BRa la última batalla."\ED
+
 304
 jp: ƒOƒXƒ^ƒtBRu‚ ‚ B@ƒoƒŠ[@ƒL[ƒXBR@€”õ‚Í‚¨‚±‚½‚é‚È‚ævED
+
+en: 
+
+es: 
 
 305
 jp: ƒoƒŠ[BRu‚¨‚¤I‚Ü‚©‚¹‚ëIBR@ƒL[ƒX@‚¦‚ñ‚²‚Í—Š‚Ş‚¼IvED
