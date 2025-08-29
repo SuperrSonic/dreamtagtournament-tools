@@ -878,7 +878,7 @@ es: ¿Mm? ¡¿Esto es lo único que\BRme toca hacer en el juego?!\ED
 jp: ƒ€ƒi–Ñ‚ª‚è‚Á‚Ï‚ÈŒ¢BR–¼‘O‚Í¬—ÑƒE[ED
 
 // is this really saying the dog's name?
-en: A dog with a nice mane,\BRhis name is Kobayashi, woof.\ED
+en: A dog with a nice mane,\BRnamed Kobayashi, woof.\ED
 
 es: Un perro con bonita melena.\BRSe llama Kobayashi, wuf.\ED
 
@@ -2075,24 +2075,24 @@ es: Karudio\BR"¡Paru paru mon!"\ED
 286
 jp: ƒTƒEƒU[BRu‚±‚Ìæ‚É@‹­‚¥–‚•¨‚ªBR@‚¢‚»‚¤‚È‹C”z‚¾‚ºcvED
 
-en: Sauza\BR"Looks like strong opponents are up ahead..."\ED
+en: Sauza\BR"Looks like strong opponents\BR  are up ahead..."\ED
 
-es: Sauza\BR"Parece que adversarios fuertes nos esperan..."\ED
+es: Sauza\BR"Parece que adversarios fuertes\BR  nos esperan..."\ED
 
 287
 jp: ƒGƒŠ[BRu‚µ‚ñ‚¿‚å‚¤‚És‚©‚Ë‚Î‚ÈBBR@ƒA[ƒX@S‚µ‚Ä‚©‚©‚êvED
 
 //Asu, kokoroshite kakare
-en: Ellie\BR"Let's proceed carefully.\BRArth, brace yourself."\ED
+en: Ellie\BR"Let's proceed carefully.\BR  Arth, brace yourself."\ED
 
-es: Ellie\BR"Sigamos con cuidado.\BRArth, prepárate."\ED
+es: Ellie\BR"Sigamos con cuidado.\BR  Arth, prepárate."\ED
 
 288
 jp: ƒA[ƒXBRuƒnƒbI@ƒJƒ‹ƒfƒBƒI“aBR@‘S—Í‚ğ‚Â‚­‚µ‚Ü‚µ‚å‚¤IvED
 
-en: Arth\BR"All right! Karudio, we must give it our all!"\ED
+en: Arth\BR"All right! Karudio, we must give it\BR  our all!"\ED
 
-es: Arth\BR"¡De acuerdo! ¡Karudio, tenemos que dar\BRlo mejor de nosotros!"\ED
+es: Arth\BR"¡De acuerdo! ¡Karudio, debemos dar\BR  lo mejor de nosotros!"\ED
 
 289
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
@@ -2139,9 +2139,9 @@ es: Mohawk Ace\BR"......"\ED
 295
 jp: ƒxƒ‹ƒ“BRu‚±‚±‚ªÅIí‚ÌêŠ‚©EEEBR@‹­“G‚ª‚¢‚»‚¤‚¾‚ÈƒL[ƒXvED
 
-en: Berun\BR"So this is where the final battle will be..."\ED
+en: Berun\BR"So this is where the final battle\BR  will be..."\ED
 
-es: Berun\BR"Así que aquí es donde\BRla última batalla será..."\ED
+es: Berun\BR"Así que aquí es donde\BR  la última batalla será..."\ED
 
 296
 jp: ƒL[ƒXBRuS”z‚·‚é‚È@ƒxƒ‹ƒ“vED
@@ -2153,9 +2153,9 @@ es: Keith\BR"Sin miedo, Berun."\ED
 297
 jp: ƒL[ƒXBRu„‚ÆƒrƒNƒgƒŠ[ƒ€‚ª‚¢‚é‚ñ‚¾BR@—DŸ‚ÍŠÔˆá‚¢‚È‚¢‚³EEEvED
 
-en: Keith\BR"With my power and Victoream here, our victory is assured."\ED
+en: Keith\BR"With my power and Victoream here,\BR  our victory is assured."\ED
 
-es: Keith\BR"Con mi poder y Victoream aquí, la victoria de seguro es nuestra."\ED
+es: Keith\BR"Con mi poder y Victoream aquí,\BR  la victoria ya es nuestra."\ED
 
 298
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚»‚¤‚¾‚Æ‚àIBR@‚³‚Ÿ@s‚­‚¼IIIvED
