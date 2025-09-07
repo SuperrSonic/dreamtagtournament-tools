@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 303
+ln: 314
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1631,7 +1631,7 @@ es: Zatch\BR"¡Kiyo!\BR  ¡Ganemos el torneo!"\ED
 223
 jp: ´–›BRu‚ ‚ Is‚­‚¼IIƒeƒBƒI‚ÆBR@Œb‚³‚ñ‚à€”õ‚Í‚¢‚¢‚©HvED
 
-en: Kiyo\BR"Yeah! Let's go!!\BR  Tia and Megumi, are you ready?"\ED
+en: Kiyo\BR"Yeah! Let's go!!\BR  Tia, Megumi, you all ready?"\ED
 
 es: Kiyo\BR"Sí, ¡vamos!\BR  Tia y Megumi, están listas?"\ED
 
@@ -2174,14 +2174,14 @@ es: Gustav\BR"Bueno, vamos, Bari."\ED
 300
 jp: ƒoƒŠ[BRu‚¨‚¤I@—DŸ‚È‚ñ‚´BR@Œy‚­Œˆ‚ß‚Ä‚â‚é‚æIIIvED
 
-en: Bari\BR"Yes! This tournament will be a piece of cake!!!
+en: Bari\BR"Yes! This tournament\BR  will be a piece of cake!!!"\ED
 
 es: Bari\BR"¡Sí!\BR  ¡Esto no será nada dificil para mi!"\ED
 
 301
 jp: ƒxƒ‹ƒ“BRu‚ ‚¢‚Â‚Æ‚Í–‚ŠE‚Åƒ‰ƒCƒoƒ‹BR@‚¾‚Á‚½‚ç‚µ‚¢‚È@ƒL[ƒXvED
 
-en: Berun\BR"Keith, you were rivals with him back in the mamodo world."\ED
+en: Berun\BR"Keith, you were rivals with him\BR  back in the mamodo world."\ED
 
 es: Berun\BR"Fueron rivales en el mundo mamodo,\BR  Keith."\ED
 
@@ -2195,49 +2195,93 @@ es: Keith\BR"No somos enemigos. ¡Vamos!"\ED
 303
 jp: ƒxƒ‹ƒ“BRu‚Æ‚¤‚Æ‚¤ÅIí‚Ü‚ÅBR@Ÿ‚¿‚·‚·‚ñ‚¾‚İ‚½‚¢‚¾‚ÈvED
 
-en: Berun\BR"Looks like we made it\BRall the way to the final battle."\ED
+en: Berun\BR"Looks like...\BR  we made it to the final battle."\ED
 
-es: Berun\BR"Parece que logramos llegar\BRa la última batalla."\ED
+es: Berun\BR"Parece que logramos llegar\BR  a la última batalla."\ED
 
 304
 jp: ƒOƒXƒ^ƒtBRu‚ ‚ B@ƒoƒŠ[@ƒL[ƒXBR@€”õ‚Í‚¨‚±‚½‚é‚È‚ævED
 
-en: 
+en: Gustav\BR"Yes. Bari--Keith.\BR  Don't get sloppy now."\ED
 
-es: 
+es: Gustav\BR"Sí. Bari, Keith.\BR  No se descuiden ahora."\ED
 
 305
 jp: ƒoƒŠ[BRu‚¨‚¤I‚Ü‚©‚¹‚ëIBR@ƒL[ƒX@‚¦‚ñ‚²‚Í—Š‚Ş‚¼IvED
 
+en: Bari\BR"Yes! I'll take care of this!"\ED
+
+es: Bari\BR"¡Sí! ¡Yo me encargaré!"\ED
+
 306
 jp: ƒL[ƒXBRuƒt@ƒLƒTƒ}‚±‚»‚È@ƒoƒŠ[BBR@‚³‚Ÿ‚Ä@s‚­‚Æ‚·‚é‚©IvED
+
+en: Keith\BR"Heh, you're such a fool, Bari.\BR  Well then, off we go!"\ED
+
+es: Keith\BR"Je, eres tan tonto, Bari.\BR  ¡Bien pues, andando!"\ED
 
 307
 jp: ƒAƒŠƒVƒGBRuƒŠ[ƒ„@‚Â‚ç‚¢í‚¢‚É‚È‚é‚ªBR@•K‚¸Ÿ‚Æ‚¤IvED
 
+en: Alishie\BR"It will be a difficult battle,\BR  but we can definitely win, Riya!"\ED
+
+es: Alishie\BR"Será una batalla dura pero\BR  ¡definitivamente ganaremos, Riya!"\ED
+
 308
 jp: ƒŠ[ƒ„BRuƒKƒbƒVƒ…II@ŠÃ‚Á‚½‚ê‚½BR@í‚¢•û‚Í‚·‚é‚È‚æIvED
+
+en: Riya\BR"Zatch!!\BR  Don't fight naively!"\ED
+
+es: Riya\BR"¡Zatch! ¡No luches ingenuamente!"\ED
 
 309
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@¸ˆê”t@‚ª‚ñ‚Î‚é‚Ì‚¾IvED
 
+en: Zatch\BR"Yeah! Let's do our best!"\ED
+
+es: Zatch\BR"¡Mm! Hagámoslo al máximo!"\ED
+
 310
 jp: ´–›BRu‚İ‚ñ‚È€”õ‚Í‚¢‚¢‚æ‚¤‚¾‚ÈIBR@‚æ‚µIs‚­‚¼IIIvED
+
+en: Kiyo\BR"Looks like everyone's revving up!\BR  All right! Let's go!!!"\ED
+
+es: Kiyo\BR"¡Todos están emocionados!\BR  ¡Bien! ¡Vamos ya!"\ED
 
 311
 jp: ƒAƒŠƒVƒGBRu´–›EEEBR@‚±‚±‚ªÅŒã‚Ì‚æ‚¤‚¾‚ÈvED
 
+en: Alishie\BR"Kiyo...\BR  This seems to be the last one."\ED
+
+es: Alishie\BR"Kiyo...\BR  Esta parece ser la batalla final."\ED
+
 312
 jp: ´–›BRu‚ ‚ @‚»‚¤‚¾‚ÈƒAƒŠƒVƒGBBR@‚İ‚ñ‚È@‚©‚­‚²‚Í‚¢‚¢‚©HvED
+
+en: Kiyo\BR"Yes, that's right, Alishie."\ED
+
+es: Kiyo\BR"Sí, así es, Alishie."\ED
 
 313
 jp: ƒKƒbƒVƒ…BRuƒEƒkI@ÅŒã‚Ì—Í‚ğBR@‚Ó‚è‚µ‚Ú‚ë‚¤‚¼IƒŠ[ƒ„IvED
 
+en: Zatch\BR"Hm! Let's use all our strength\BR  for this battle, Riya!"\ED
+
+es: Zatch\BR"¡Mm! ¡Usemos todo nuestro poder\BR  en esta batalla, Riya!"\ED
+
 314
 jp: ƒŠ[ƒ„BRu‚ ‚ @–l‚ç‚ÌM‚¶‚ ‚¤S‚ÍBR@’N‚É‚à•‰‚¯‚â‚µ‚È‚¢IIvED
 
+en: Riya\BR"Yeah! Our faith in each other\BR  will never be torn apart by anyone!"\ED
+
+es: Riya\BR"¡Sí! ¡Nuestra fe en el otro\BR  nunca será rota por nadie!"\ED
+
 315
 jp: ƒ[ƒIƒ“BRuƒ`ƒbEEE@ƒKƒbƒVƒ…‚©IvED
+
+en: Zeno\BR"
+
+es: Zeno\BR"
 
 316
 jp: ƒKƒbƒVƒ…BRu‚¨@‚¨ƒkƒV‚ÍEEEvED
