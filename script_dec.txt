@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 314
+ln: 326
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -2279,42 +2279,88 @@ es: Riya\BR"¡Sí! ¡Nuestra fe en el otro\BR  nunca será rota por nadie!"\ED
 315
 jp: ƒ[ƒIƒ“BRuƒ`ƒbEEE@ƒKƒbƒVƒ…‚©IvED
 
-en: Zeno\BR"
+en: Zeno\BR"Tch... It's Zatch!"\ED
 
-es: Zeno\BR"
+es: Zeno\BR"Hmf... ¡Es Zatch!"\ED
 
 316
 jp: ƒKƒbƒVƒ…BRu‚¨@‚¨ƒkƒV‚ÍEEEvED
 
+en: Zatch\BR"Oh, it's you..."\ED
+
+es: Zatch\BR"Eres tú..."\ED
+
 317
 jp: ƒ[ƒIƒ“BRu‚â‚©‚Ü‚µ‚¢I@‚¨‘O‚ÍBR@–Ù‚Á‚Ä‰´‚Ìí‚¢‚ğŒ©‚Ä‚¢‚ëIED
+
+en: Zeno\BR"Quiet!\BR  Be silent and watch as I fight!"\ED
+
+es: Zeno\BR"¡Silencio! No hagas ruido\BR  y observa como lucho!"\ED
 
 318
 jp: @‚»‚µ‚Ä@ˆÌ‘å‚È‚é—‹’é‚Ì—Í‚ğBR@’m‚Á‚Ä‹°•|‚·‚é‚ñ‚¾‚ÈIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒnIIIvED
 
+en: You will quake in fear\BRupon witnessing the power\BRof the mighty Thunder Emperor!\LFHa ha ha ha ha!!!"\ED
+
+es: ¡Te aterrorizarás cuando conozcas\BRel verdadero poder del gran emperador\BRdel trueno! ¡Ja, ja, ja, ja!"\ED
+
 319
 jp: ƒfƒ…ƒtƒH[BRuEEEBBR@‚à‚¤@ÅŒã‚©EEEvED
+
+en: Dufort\BR"...\BR  Is it the end already?"\ED
+
+es: Dufort\BR"...\BR  ¿Ya es el final?"\ED
 
 320
 jp: ´–›BRuƒ†ƒ_ƒ“‚Í‚«‚ñ‚à‚Â‚¾BR@‚İ‚ñ‚Ès‚­‚¼IvED
 
+en: Kiyo\BR"We can't let our guard down.\BR  Let's go, guys!"\ED
+
+es: Kiyo\BR"No podemos descuidarnos.\BR  ¡Vamos!"\ED
+
 321
 jp: ƒKƒbƒVƒ…BRuƒEƒkEEEI@ƒ[ƒIƒ“@‹¤‚ÉBR@—Í‚ğ‡‚í‚¹‚æ‚¤‚¼IvED
+
+en: Zatch\BR"Yes...!\BR  Let's work together, Zeno!"\ED
+
+es: Zatch\BR"¡Sí...! ¡Trabajemos juntos, Zeno!"\ED
 
 322
 jp: ƒ[ƒIƒ“BRu‰´‚É–½—ß‚·‚é‚ÈIvED
 
+//don't order me around
+//don't boss me around
+en: Zeno\BR"I take orders from no one!"\ED
+
+es: Zeno\BR"¡No intentes darme ordenes!"\ED
+
 323
 jp: ƒ[ƒIƒ“BRu‚¾‚ª@‚»‚ê‚à‚¨‚à‚µ‚ë‚¢BBR@s‚­‚¼EEEƒKƒbƒVƒ…IvED
+
+en: Zeno\BR"Hm, things just might get interesting.\BR  Zatch... let's go!"\ED
+
+es: Zeno\BR"Bueno, quizás sea algo interesante.\BR  Vamos... ¡Zatch!"\ED
 
 324
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚â‚³‚µ‚¢‰¤—lƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!"\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Kind Kings!"\ED
+
 325
 jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
 
+en: Awesome teamwork with a great balance in offensive and defensive power! Congratulations on your victory!!!"\ED
+
+es: ¡Excelente trabajo en equipo, con un buen balance en ataque y defensa! ¡Felicidades por la victoria!"\ED
+
 326
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒD@‚ ‚è‚ª‚Æ‚¤‚È‚Ì‚¾IBR@—DŸ‚µ‚½‚Ì‚¾@´–›IvED
+
+en: Zatch\BR"
+
+es: Zatch\BR"
 
 327
 jp: ´–›BRu‚æ‚­‚â‚Á‚½‚ÈIBR@ƒKƒbƒVƒ…IIIvED
