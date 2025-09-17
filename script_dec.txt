@@ -1512,7 +1512,7 @@ es: Raiku-Sensei\BR"¡Vaya, eso fue increible!\BR  Vas muy bien hasta ahora.\LF¡L
 206
 jp: —‹‹åæ¶BRu‚¤‚Ş‚Şc‚¿‚å‚Á‚Æ–â‘è‚ªBR@‚Ş‚¸‚©‚µ‚©‚Á‚½‚©‚ÈHvED
 
-en: Raiku-Sensei\BR"Hmm, the questions were a bit tough, huh?"\ED
+en: Raiku-Sensei\BR"Hmm, so the questions were\BR  a bit tough, huh?"\ED
 
 es: Raiku-Sensei\BR"Mmm, el quiz fue un poco difícil,\BR ¿no?"\ED
 
@@ -2293,9 +2293,9 @@ es: Zatch\BR"Eres tú..."\ED
 317
 jp: ƒ[ƒIƒ“BRu‚â‚©‚Ü‚µ‚¢I@‚¨‘O‚ÍBR@–Ù‚Á‚Ä‰´‚Ìí‚¢‚ğŒ©‚Ä‚¢‚ëIED
 
-en: Zeno\BR"Quiet!\BR  Be silent and watch as I fight!"\ED
+en: Zeno\BR"Quiet!\BR  Be silent and watch as I fight!\ED
 
-es: Zeno\BR"¡Silencio! No hagas ruido\BR  y observa como lucho!"\ED
+es: Zeno\BR"¡Silencio! No hagas ruido\BR  y observa como lucho!\ED
 
 318
 jp: @‚»‚µ‚Ä@ˆÌ‘å‚È‚é—‹’é‚Ì—Í‚ğBR@’m‚Á‚Ä‹°•|‚·‚é‚ñ‚¾‚ÈIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒnIIIvED
