@@ -56,14 +56,14 @@ jp: ‚½`‚Á‚Õ‚è‚ÌBRˆ¤‚ª‚Â‚Ü‚Á‚Ä‚¢‚é\HEARTED
 
 en: She caught it for him\BRas a sign of true love.\HEART\ED
 
-es: Lo pescó para él\BRpara demostrar su afecto.\HEART\ED
+es: Ella lo pescó para él\BRpara demostrar su afecto.\HEART\ED
 
 7
 jp: ƒoƒŠ[‚ª©–‚Ìƒcƒm‚ğBR‚İ‚ª‚­‚Ì‚Ég‚Á‚Ä‚¢‚éED
 
 en: This is used to polish the horns\BRthat Bari takes great pride in.\ED
 
-es: Para pulir los cuernos de los cual\BRBari esta muy orgulloso.\ED
+es: Para pulir los cuernos de los\BRcuales Bari esta muy orgulloso.\ED
 
 8
 jp: ƒcƒm‚Í©—R©İ‚ÉBR“®‚©‚·‚±‚Æ‚ª‚Å‚«‚éED
@@ -392,7 +392,7 @@ jp: “ú–{‚ÌƒgƒbƒvƒAƒCƒhƒ‹IBR‘åŠCŒb‚Ì‚b‚côED
 en: The latest CD from Megumi Oumi,\BRJapan's top idol!\ED
 //Raze
 
-es: ¡El último CD\MUSICde Megumi Oumi,\BRla estrella más grande en Japón!\MUSIC\ED
+es: ¡Lo último de Megumi Oumi,\BRla estrella más grande en Japón!\MUSIC\ED
 
 52
 jp: Œb‚ÌƒRƒ“ƒT[ƒg‚ÍBR‚¢‚Â‚à‘ål‹CôED
@@ -1949,7 +1949,7 @@ jp: ƒEƒ‹ƒ‹BRud•û‚È‚¢‚Å‚·‚Ëc@‘S—Í‚ğBR@o‚µ‚Ü‚·‚æ@ƒpƒeƒBIvED
 
 en: Uri\BR"It can't be helped...\BR  I'll give it my all, Penny!"\ED
 
-es: Uri\BR"No tiene case...\BR  ¡Le daré con todo, Penny!"\ED
+es: Uri\BR"No tiene caso...\BR  ¡Le daré con todo, Penny!"\ED
 
 269
 jp: ƒEƒ‹ƒ‹BRu‚Æ‚¤‚Æ‚¤@ÅIí‚Å‚·‚ËcvED
