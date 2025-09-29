@@ -1053,7 +1053,8 @@ es: Uno de los Four Supreme Mamodo\BRde Zofis. ¡Increíblemente fuerte!\ED
 142
 jp: ‚»‚Ì‹¥–\‚³‚©‚çBRƒo[ƒT[ƒJ[‚ÆŒÄ‚Î‚ê‚éED
 
-en: Referred to as a berserker\BRdue to his ferocity.\ED
+//literal-- Referred to as a berserker  due to his ferocity.
+en: Known as The Crazed Warrior\BRBerzerker due to his ferocity.\ED
 
 es: Conocido como un berserker\BRdebido a su ferocidad.\ED
 
@@ -2505,30 +2506,30 @@ es: Kido\BR"¡Ganar es fácil! ¿Verdad, doctor?"\ED
 347
 jp: ƒiƒ]ƒiƒ]”mBRu‚İ‚ñ‚È‚Ì‹¦—Í‚ª‚ ‚Á‚½‚©‚çBR@—DŸ‚Å‚«‚½‚Ì‚¾‚æ@ƒLƒbƒhvED
 
-en: Doctor Riddles\BR"Our victory is thanks to the combined efforts of everyone, Kido."\ED
+en: Doctor Riddles\BR"Our victory today is thanks to the\BR  combined efforts of everyone, Kido."\ED
 
-es: Doctor Riddles\BR"Nuestra victoria es gracias a la fuerza de todos, Kido."\ED
+es: Doctor Riddles\BR"Nuestra victoria es gracias\BR  a las fuerzas de todos, Kido."\ED
 
 348
 jp: ƒLƒbƒhBRu‚±‚ê‚Å–l‚à”m‚İ‚½‚¢‚ÉBR@‚È‚ê‚½‚©‚È‚ vED
 
-en: Kido\BR"I wonder if this makes me more like you, Doctor."\ED
+en: Kido\BR"I wonder if I'm becoming\BR  more like you, Doctor."\ED
 
-es: Kido\BR"Me pregunto si esto me hace ser más como tu, Doctor."\ED
+es: Kido\BR"Me pregunto si me estoy volviendo\BR  más como usted, doctor."\ED
 
 349
 jp: ƒiƒ]ƒiƒ]”mBRuƒnƒbƒnƒbƒn@‚±‚ê‚ª‚Å‚«‚ñ‚ÆBR@ˆêl‘O‚¶‚á‚È‚¢‚¼ƒLƒbƒhIvED
 
-en: Doctor Riddles\BR"Ha ha ha! If you become like me you won't be Kido anymore!"\ED
+en: Doctor Riddles\BR"Ha ha ha! But if that happens\BR  then you won't be Kido anymore!"\ED
 
-es: Doctor Riddles\BR"Ja, ja, ja, pero si"\ED
+es: Doctor Riddles\BR"Ja, ja, ja, pero si eres más como yo\BR  ¡ya no serás Kido!"\ED
 
 350
 jp: ƒLƒbƒhBRu‚í[[[@‚·‚²‚¢‚â”mIBR@‚æ[‚µ@‚ª‚ñ‚Î‚é‚¼[IvED
 
-en: Kido\BR"Wow--- that's amazing, Doctor!\BR  All right, let's do our best!"\ED
+en: Kido\BR"Wow--- that's amazing, Doctor!\BR  All right, I'll keep doing my best!"\ED
 
-es: Kido\BR"¡Vaya--- que genial, doctor!\BR  Bien, daré el máximo!"\ED
+es: Kido\BR"¡Vaya--- que genial, doctor!\BR  ¡Bien, daré el máximo!"\ED
 
 351
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
