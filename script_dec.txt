@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 337
+ln: 352
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1710,7 +1710,7 @@ jp: ƒtƒHƒ‹ƒSƒŒBRuƒt@‚à‚¤ÅIí‚Ì‚æ‚¤‚¾‚ËBBR@—DŸ‚Í‚¢‚½‚¾‚¢‚½‚à“–‘R‚¾vED
 
 en: Folgore\BR"Hm, looks like it's the final match.\BR  I know for sure we can win."\ED
 
-es: Folgore\BR"Mm, parece ser la última batalla.\BR  Estoy seguro que ganaremos."\ED
+es: Folgore\BR"Mm, parece ser la última batalla.\BR  Estoy seguro de que ganaremos."\ED
 
 235
 jp: ƒiƒ]ƒiƒ]”mBRuƒ†ƒ_ƒ“‚Í‚«‚ñ‚à‚Â‚¶‚á‚æBR@ƒtƒHƒ‹ƒSƒŒŒNBED
@@ -1723,23 +1723,23 @@ es: Doctor Riddles\BR"¡No te dejes llevar, Folgore!\BR  Esto no ha terminado.\ED
 236
 jp: @‚µ‚©‚µ@‚İ‚ñ‚È‚ª‹¦—Í‚µ‚ ‚¢BR@—Í‚ğo‚µØ‚ê‚Î@•K‚¸BR@Ÿ—˜‚Í‚Â‚©‚ß‚é‚Í‚¸‚¾IvED
 
-en: However, if we all work together\BRand give it our all, then I have no doubt\BRwe will surely succeed!"\ED
+en: However, if we all work together\BRand give it our all, then I have\BRno doubt we will surely succeed!"\ED
 
 es: Pero si trabajamos juntos y damos\BRlo mejor, sin duda lo lograremos!"\ED
 
 237
 jp: ƒLƒbƒhBRu‚æ[‚µI@ƒLƒƒƒ“ƒ`ƒ‡ƒBR@—Í‚ğ‡‚í‚¹‚Ä‚ª‚ñ‚Î‚é‚¼IvED
 
-en: Kido\BR"Okay, Kanchomé! Let's work\BRtogether and do our very best!"\ED
+en: Kido\BR"Okay, Kanchomé! Let's work\BR  together and do our very best!"\ED
 
-es: Kido\BR"¡OK, Kanchomé! Unamos fuerzas\BRy hagamos nuestro mejor esfuerzo!"\ED
+es: Kido\BR"¡OK, Kanchomé! ¡Unamos fuerzas y\BR  hagamos nuestro mejor esfuerzo!"\ED
 
 238
 jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚¤‚ñI@ƒRƒ“ƒrƒl[ƒVƒ‡ƒ“‚ÌBR@‚·‚²‚³‚ğŒ©‚¹‚Ä‚â‚éIvED
 
-en: Kanchomé\BR"Yeah! Let's show them\BRour amazing combination!"\ED
+en: Kanchomé\BR"Yeah! Let's show them\BR  our invincible teamwork!"\ED
 
-es: Kanchomé\BR¡Sí! Vamos a enseñarles\BRnuestra combinación increible"!\ED
+es: Kanchomé\BR"¡Sí, vamos a enseñarles\BR  nuestra combinación increible!"\ED
 
 239
 jp: ƒW[ƒhBRuƒe[ƒbƒhIBR@€”õ‚Í‚¢‚¢‚ñ‚¾‚ë‚¤‚ÈHvED
@@ -2435,61 +2435,121 @@ es: Tia\BR"¡No puede ser! ¡Hay que darse prisa! ¡Aaa~!"\ED
 337
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRímƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tiny Soldiers!"\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tiny Soldiers!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tiny Soldiers!"\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tiny Soldiers!\ED
 
 338
 jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@v‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
 
-en: 
+en: No way! I never imagined you guys\BRwould win. You've gotten stronger,\BRhaven't you~?"\ED
 
-es: 
+es: Nunca imaginé que ganarían.\BRSe han vuelto fuertes,\BR¿no es así~?"\ED
 
 339
 jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚Ö‚Ö@–l‚½‚¿‚ª–{‹C‚É‚È‚ê‚ÎBR@‚·‚²‚¢‚ñ‚¾‚ºIIIvED
 
+en: Kanchomé\BR"Heh heh, when we get serious\BR  we're something else!!!"\ED
+
+es: Kanchomé\BR"Je, je, cuando lo hacemos en serio\BR  ¡podemos ser algo increible!"\ED
+
 340
 jp: ƒtƒHƒ‹ƒSƒŒBRu‚»‚¤‚³@ƒLƒƒƒ“ƒ`ƒ‡ƒIBR@‚Ç‚ñ‚Èƒsƒ“ƒ`‚Å‚àED
+
+en: Folgore\BR"That's right, Kanchomé!\ED
+
+es: Folgore\BR"¡Así es, Kanchomé!\ED
 
 341
 jp: @‚±‚Ì–³“G‚ÌƒtƒHƒ‹ƒSƒŒ—l‚ªBR@‚¢‚ê‚Î‘åä•v‚¾IBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒnIvED
 
+en: No matter the trouble, you can always\BRcount on the invincible Parco Folgore\BRto be by your side! Ha ha ha ha ha!"\ED
+
+es: Sin importar el problema, siempre\BRpuedes contar con el invencible\BR¡Parco Folgore! ¡Ja, ja, ja, ja, ja!"\ED
+
 342
 jp: ƒtƒHƒ‹ƒSƒŒBRu‚³‚Ÿ‹A‚ë‚¤‚©ƒLƒƒƒ“ƒ`ƒ‡ƒBBR@—‚Ìq‚½‚¿‚ª‘Ò‚Á‚Ä‚é‚¼IvED
+
+en: Folgore\BR"Let's go home, Kanchomé.\BR  The fangirls are waiting!"\ED
+
+es: Folgore\BR"Regresemos a casa, Kanchomé.\BR  ¡Las fanáticas están esperando!"\ED
 
 343
 jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚¤‚ñ@ƒtƒHƒ‹ƒSƒŒIBR@–l‚½‚¿‚ÍƒXƒ^[‚¾‚à‚ñ‚ËIvED
 
+en: Kanchomé\BR"Yes, Folgore!\BR  We're superstars, after all!"\ED
+
+es: Kanchomé\BR"¡Sí, Folgore! ¡Somos superestrellas\BR  después de todo!"\ED
+
 344
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRímƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tiny Soldiers!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tiny Soldiers!\ED
 
 345
 jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@v‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
 
+en: Wow! I never imagined you guys\BRwould win. You've gotten stronger,\BRhaven't you~?"\ED
+
+es: Nunca imaginé que ganarían,\BRse han vuelto muy fuertes,\BR¿no es así~?"\ED
+
 346
 jp: ƒLƒbƒhBRu—DŸ‚È‚ñ‚ÄƒJƒ“ƒ^ƒ“‚³IBR@‚Ë@”mvED
+
+en: Kido\BR"Winning is no sweat! Right, Doctor?"\ED
+
+es: Kido\BR"¡Ganar es fácil! ¿Verdad, doctor?"\ED
 
 347
 jp: ƒiƒ]ƒiƒ]”mBRu‚İ‚ñ‚È‚Ì‹¦—Í‚ª‚ ‚Á‚½‚©‚çBR@—DŸ‚Å‚«‚½‚Ì‚¾‚æ@ƒLƒbƒhvED
 
+en: Doctor Riddles\BR"Our victory is thanks to the combined efforts of everyone, Kido."\ED
+
+es: Doctor Riddles\BR"Nuestra victoria es gracias a la fuerza de todos, Kido."\ED
+
 348
 jp: ƒLƒbƒhBRu‚±‚ê‚Å–l‚à”m‚İ‚½‚¢‚ÉBR@‚È‚ê‚½‚©‚È‚ vED
+
+en: Kido\BR"I wonder if this makes me more like you, Doctor."\ED
+
+es: Kido\BR"Me pregunto si esto me hace ser más como tu, Doctor."\ED
 
 349
 jp: ƒiƒ]ƒiƒ]”mBRuƒnƒbƒnƒbƒn@‚±‚ê‚ª‚Å‚«‚ñ‚ÆBR@ˆêl‘O‚¶‚á‚È‚¢‚¼ƒLƒbƒhIvED
 
+en: Doctor Riddles\BR"Ha ha ha! If you become like me you won't be Kido anymore!"\ED
+
+es: Doctor Riddles\BR"Ja, ja, ja, pero si"\ED
+
 350
 jp: ƒLƒbƒhBRu‚í[[[@‚·‚²‚¢‚â”mIBR@‚æ[‚µ@‚ª‚ñ‚Î‚é‚¼[IvED
+
+en: Kido\BR"Wow--- that's amazing, Doctor!\BR  All right, let's do our best!"\ED
+
+es: Kido\BR"¡Vaya--- que genial, doctor!\BR  Bien, daré el máximo!"\ED
 
 351
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strongest Fighters!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Strongest Fighters!\ED
+
 352
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
 
+en: Your close quarters strikes are highly effective! It's unmatched in close combat!"\ED
+
+es: ¡Sus ataques son muy efectivos! ¡Sin igual en combate a corta distancia!"\ED
+
 353
 jp: ƒEƒHƒ“ƒŒƒCBRu„‚É‚Íç‚é‚×‚«l‚ª‚¢‚éBBR@‚¾‚©‚ç@’N‚É‚à•‰‚¯‚È‚¢IvED
+
+en: Wonrei\BR"
+
+es: Wonrei\BR"
 
 354
 jp: ƒŠƒBƒGƒ“BRuƒEƒHƒ“ƒŒƒCEEEvED
