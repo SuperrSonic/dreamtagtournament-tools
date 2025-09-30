@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 352
+ln: 366
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -2541,58 +2541,122 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Strongest Fight
 352
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
 
-en: Your close quarters strikes are highly effective! It's unmatched in close combat!"\ED
+en: Your kung fu strikes are highly\BReffective! They're unmatched\BRin close combat!"\ED
 
-es: ¡Sus ataques son muy efectivos! ¡Sin igual en combate a corta distancia!"\ED
+es: ¡Sus ataques de kung fu son muy\BRefectivos! ¡Inigualable en combate\BRa corta distancia!"\ED
 
 353
 jp: ƒEƒHƒ“ƒŒƒCBRu„‚É‚Íç‚é‚×‚«l‚ª‚¢‚éBBR@‚¾‚©‚ç@’N‚É‚à•‰‚¯‚È‚¢IvED
 
-en: Wonrei\BR"
+en: Wonrei\BR"I have someone I must protect.\BR  That's why I won't lose to anyone!"\ED
 
-es: Wonrei\BR"
+es: Wonrei\BR"Tengo a alguien a quien debo\BR  proteger. ¡Por eso no perderé!"\ED
 
 354
 jp: ƒŠƒBƒGƒ“BRuƒEƒHƒ“ƒŒƒCEEEvED
 
+en: Li-en\BR"Wonrei..."\ED
+
+es: Li-en\BR"Wonrei..."\ED
+
 355
 jp: ƒŠƒBƒGƒ“BRu‚³@ƒEƒHƒ“ƒŒƒCBBR@‚»‚ë‚»‚ë‹A‚é‚ ‚é‚ævED
+
+en: Li-en\BR"Well, Wonrei, it's time\BR  we went back home."\ED
+
+es: Li-en\BR"Bueno, Wonrei, ya es tiempo\BR  de volver a casa."\ED
 
 356
 jp: ƒEƒHƒ“ƒŒƒCBRuƒŠƒBƒGƒ“B@‚»‚ñ‚È‚Éæ‚ğBR@‹}‚ª‚È‚­‚Ä‚àEEEvED
 
+en: Wonrei\BR"Wait up, Li-en.\BR  There's no need to rush ahead..."\ED
+
+es: Wonrei\BR"Espera, Li-en. No tienes por qué\BR  apresurarte tanto..."\ED
+
 357
 jp: ƒŠƒBƒGƒ“BRu‚¾‚ß‚ ‚é‚æIƒEƒHƒ“ƒŒƒCIvED
+
+en: Li-en\BR"No way, Wonrei!"\ED
+
+es: Li-en\BR"¡De ninguna manera, Wonrei!"\ED
 
 358
 jp: ƒŠƒBƒGƒ“BRut‚ª‹ß‚¢‚©‚ç@‚¢‚ë‚¢‚ëBR@–Z‚µ‚­‚È‚é‚ ‚éIvED
 
+// added some stuff here, it just feels so empty
+en: Li-en\BR"Spring is just around the corner, so\BR  things are going to get more lively\LFaround here very soon!\LFNow, off we go!"\ED
+
+es: Li-en\BR"¡Ya se acerca la primavera\BR  así que las cosas se pondrán\LFmás ocupadas aquí muy pronto!"\ED
+
 359
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strongest Fighters!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Strongest Fighters!\ED
 
 360
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
 
+en: Your fists of fury techniques are\BRreally something! Your footwork\BRmakes you untouchable!"\ED
+
+es: ¡Sus puños de furia son bastante\BRsorprendentes! ¡Nadie puede con\BResa velocidad!"\ED
+
 361
 jp: ƒeƒbƒhBRuƒwcBR@‰´‚É‚©‚©‚ê‚ÎŠyŸ‚¾‚ºIvED
+
+en: Ted\BR"Sure… It's a piece of cake for me!"\ED
+
+es: Ted\BR"Claro... ¡Es pan comido para mí!"\ED
 
 362
 jp: ƒW[ƒhBRu‚Í‚Á@‚Ä‚ß‚¥‚Í‚Ü‚¾‚Ü‚¾BR@ƒqƒˆ‚Áq‚¾‚æIvED
 
+en: Jido\BR"Ha!\BR  But you still have much to learn!"\ED
+
+es: Jido\BR"¡Ja! Pero aún te falta mucho\BR  por aprender!"\ED
+
 363
 jp: ƒW[ƒhBRu‚æ[‚µ@ƒeƒbƒhBBR@Ÿ‚Ì’¬‚És‚­‚¼vED
+
+en: Jido\BR"All right, Ted.\BR  Let's go to the next town."\ED
+
+es: Jido\BR"Muy bien, Ted.\BR  Vamos a la próxima ciudad."\ED
 
 364
 jp: ƒeƒbƒhBRu‚Ö‚Ö@Ÿ‚Ì’¬‚Å‚àBR@‚¢‚¢•—‚ª‚¢‚Ä‚»‚¤‚¾‚ÈvED
 
+//He's -the boy that speaks to the wind- after all
+en: Ted\BR"Yeah, yeah...\LFI bet the next town will have\BRsome nice wind blowing through it."\ED
+
+es: Ted\BR"Ya sé, ya sé, de seguro la siguiente\BR  ciudad tendrá una buena brisa."\ED
+
 365
 jp: ƒW[ƒhBRu‚Ä‚ß‚¥‚ª•—‚ğŒê‚é‚È‚ñ‚´BR@‚P‚O‚O”N‘‚¥‚ºIvED
+
+// og-- You're 100 years too early to talk about the wind!
+// en dub-- ha, the wind, you're not nearly good enough to talk to the wind like I can.
+// This seems to be taken straight from ep101
+// Raze's videos also used the en dub here so let's go ahead with it
+
+en: Jido\BR"Yeah right...\LFYou're not nearly good enough\BRto talk to the wind like I can!"\ED
+
+// going more literal here
+es: Jido\BR"Sí claro, eres demasiado joven para\BR  estar hablando sobre el viento."\ED
 
 366
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team IceFlame!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo IceFlame!\ED
+
 367
 jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
+
+en: 
+
+es: 
 
 368
 jp: ƒTƒ“ƒr[ƒ€BRu—Ç‚­‚â‚Á‚½‚È@ƒEƒ}ƒSƒ“IvED
