@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 366
+ln: 390
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1238,7 +1238,7 @@ jp: ƒjƒRƒ‹‚Ìô‚¢‚ğ‚Æ‚­‚½‚ßBRƒŠƒIƒE‚Éè‚ğ‘İ‚·ED
 
 en: Helps Riou in order to free Nicole\BRfrom his curse.\ED
 
-es: Decide ayudar a Riou\BRpara poder salvar a Nicole.\ED
+es: Eligió ayudar a Riou\BRpara poder salvar a Nicole.\ED
 
 168
 jp: ƒeƒbƒh‚ª‚»‚Ìs•û‚ğ’T‚µBR¢ŠE‚ğ—·‚µ‚Ä‚¢‚éED
@@ -1892,14 +1892,14 @@ es: Kiyo\BR"¡Eso es, Zatch!\BR  ¡Ganaremos a toda costa!"\ED
 260
 jp: ´–›BRuƒuƒ‰ƒScBR@“G‚É‰ñ‚·‚Æ‹­“G‚¾‚ªED
 
-en: Kiyo\BR"Brago...\BR  He's a fierce enemy but\ED
+en: Kiyo\BR"Brago... He's a fierce enemy but\BR  very reliable when he's on our side.\ED
 
 es: Kiyo\BR"Brago... Es un adversario\BR  muy formidable pero\ED
 
 261
 jp: @–¡•û‚É‚È‚é‚ÆBR@‚±‚±‚Ü‚Å—Š‚è‚É‚È‚é‚Æ‚ÍcBBR@‚±‚ê‚È‚ç—DŸ‚Å‚«‚éIIIvED
 
-en: he's very reliable when he's on our\BRside. With him, we can surely win!!!"\ED
+en: With him, we can surely win!!!"\ED
 
 es: ha sido muy valioso\BRluchando a nuestro lado.\BR¡Con él podremos ganar!"\ED
 
@@ -2647,88 +2647,191 @@ es: Jido\BR"Sí claro, eres demasiado joven para\BR  estar hablando sobre el vien
 366
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team IceFlame!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo IceFlame!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Ice-Flame!\ED
 
 367
 jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
 
-en: 
+en: Fire and ice...\BRIt's hot~ It's cold~\BRBut a fine mix nevertheless."\ED
 
-es: 
+es: Fuego y hielo...\BREs caliente~ Es frio~\LFPero sigue siendo una combinación\BRmuy buena."\ED
 
 368
 jp: ƒTƒ“ƒr[ƒ€BRu—Ç‚­‚â‚Á‚½‚È@ƒEƒ}ƒSƒ“IvED
 
+en: Sunbeam\BR"Well done, Ponygon!"\ED
+
+es: Sunbeam\BR"¡Bien hecho, Ponygon!"\ED
+
 369
 jp: ƒEƒ}ƒSƒ“BRuƒƒ‹ƒƒ‹ƒ`IIIvED
+
+en: Ponygon\BR"Meru meru me!!!"\ED
+
+es: Ponygon\BR"¡Meru meru me!"\ED
 
 370
 jp: ƒTƒ“ƒr[ƒ€BRuƒfƒBƒIƒGƒ€ƒ‹EƒVƒ…ƒhƒ‹ƒNvED
 
+//This spell never got a dub translation but
+//the emuru part got used for one of Kikuropu's fire spells, emururon became emron
+//so by this logic it could be Dio Em Shudoruk
+//HOWEVER, during the fight with Demolt, one of his spells, Dioemuru Zemoruku became Diolem Zemoruk
+//Apparently, the manga's official translation for it is Dioemur which is pretty accurate.
+//For the VO dub, I am using Gio La Shudoruk from Mamodo Fury
+
+en: Sunbeam\BR"Dioemur Shudoruk!"\ED
+
+es: Sunbeam\BR"¡Dioemur Shudoruk!"\ED
+
 371
 jp: ƒTƒ“ƒr[ƒ€BRu‚³‚Ÿ@ƒEƒ}ƒSƒ“Iãè‚­‰Š‚ğBR@‚ ‚â‚Â‚ê‚é‚æ‚¤‚É—ûK‚¾IvED
+
+en: Sunbeam\BR"Come on, Ponygon! Let's practice\BR  so that you can master the flames!"\ED
+
+es: Sunbeam\BR"¡Dale, Ponygon! ¡Practiquemos para\BR  que puedas dominar las llamas!"\ED
 
 372
 jp: ƒEƒ}ƒSƒ“BRuƒƒ‹ƒƒ‹ƒ`IIIvED
 
+en: Ponygon\BR"Meru meru me~!!!"\ED
+
+es: Ponygon\BR"¡Meru meru me~!"\ED
+
 373
 jp: ƒTƒ“ƒr[ƒ€BRu”M‚¢@”M‚¢BR@‚¤‚í````‚¨IIIvED
+
+en: Sunbeam\BR"Hot, hot!  Guaaaah!!!"\ED
+
+es: Sunbeam\BR"¡Quema! ¡Quema! ¡Aaaaaaa!"\ED
 
 374
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Ice-Flame!\ED
+
 375
 jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
+
+en: Fire and ice...\BRYou can be warm~\BRYou can be chilly~\LFEvidently, a successful team-up."\ED
+
+es: Fuego y hielo...\BRPueden ser calientes~\BRPueden ser frios~\LFPero no hay duda de que son\BRun equipo excelente."\ED
 
 376
 jp: ƒTƒEƒU[BRu‚â‚Á‚ÏƒIƒCƒ‰‚½‚¿‚ÍÅ‹­‚¾IBR@‚È@ƒJƒ‹ƒfƒBƒIIvED
 
+en: Sauza\BR"Just as I thought,\BR  we're the strongest team out there!\LFDon't you think so, Karudio?"\ED
+
+es: Sauza\BR"¡Tal como pensé, somos los más\BR  fuertes! ¿No es así, Karudio?"\ED
+
 377
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+en: Karudio\BR"Paru Paru Moon!"\ED
+
+es: Karudio\BR"¡Paru paru mon!"\ED
 
 378
 jp: ƒTƒEƒU[BRuƒJƒ‹ƒfƒBƒI@‚à‚¤‘¼‚Ì–‚•¨‚ÆBR@‹¦—Í‚·‚é‚Ì‚ÍI‚í‚è‚¾BED
 
+en: Sauza\BR"Karudio, we're done with teaming up\BR  with other mamodo.\ED
+
+es: Sauza\BR"Ya no quiero que nos juntemos\BR  con otros mamodo.\ED
+
 379
 jp: @‚±‚ê‚©‚ç‚Í@ƒIƒCƒ‰‚½‚¿‚ÉBR@‹ß‚Ã‚­ƒ„ƒc‚Í‘Sˆõ‚Ô‚Á“|‚·IBR@‚³‚Ÿ@s‚­‚ºIvED
+
+en: From now on, anyone who comes\BRour way will be defeated!\BRAll right, let's get a move on!"\ED
+
+es: Desde ahora, el que se meta\BRen nuestro camino ¡será derrotado!\BR¡OK, vámonos!"\ED
 
 380
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
 
+en: Karudio\BR"Paru Paru Moon!"\ED
+
+es: Karudio\BR"¡Paru paru mon!"\ED
+
 381
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Electric Black!\ED
 
 382
 jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
 
+en: Watching these two together has been\BRquite a sight! What a great battle!!"\ED
+
+es: ¡Ver a estos dos juntos a sido algo\BRmuy especial! ¡Qué gran batalla!"\ED
+
 383
 jp: ´–›BRu‚æ‚µI@‚Â‚¢‚É—DŸ‚µ‚½‚¼BR@ƒKƒbƒVƒ…IvED
+
+en: Kiyo\BR"All right, Zatch!\BR  We won the tournament!"\ED
+
+es: Kiyo\BR"¡Bien hecho, Zatch!\BR  ¡Hemos ganado el torneo!"\ED
 
 384
 jp: ƒKƒbƒVƒ…BRuƒEƒkIBR@‘S—Í‚Åí‚Á‚½Œ‹‰Ê‚È‚Ì‚¾vED
 
+en: Zatch\BR"Yeah! This is the result of using\BR  all our combined power!"\ED
+
+es: Zatch\BR"¡Sí! Esto es lo que pasa cuando\BR  unimos todas nuestras fuerzas."\ED
+
 385
 jp: ´–›BRuƒKƒbƒVƒ…BBR@‚±‚ê‚©‚ç‰¤‚ğ‚ß‚´‚·‚É‚ÍED
+
+en: Kiyo\BR"Zatch...\ED
+
+es: Kiyo\BR"Zatch...\ED
 
 386
 jp: @•K‚¸ƒuƒ‰ƒS‚Æí‚¤“ú‚ªBR@—ˆ‚é‚¾‚ë‚¤vED
 
+en: In order for you to become king\BRwe may need to face Brago one day."\ED
+
+es: Para que puedas ser rey, algún día\BRtendremos que enfrentar a Brago."\ED
+
 387
 jp: ƒKƒbƒVƒ…BRuƒEƒkB@‚»‚ê‚Ü‚Å‚É„‚½‚¿‚àBR@‹­‚­‚È‚ç‚Ë‚Î‚¢‚¯‚Ê‚Ì‚¾vED
+
+en: Zatch\BR"Yeah, until then,\BR  we must get stronger."\ED
+
+es: Zatch\BR"Sí, en ese caso debo mejorar."\ED
 
 388
 jp: ´–›BRu‚ ‚ @‚»‚¤‚¾BBR@•K‚¸‰¤‚É‚È‚é‚¼IvED
 
+en: Kiyo\BR"Hm, that's right.\BR  You will absolutely become king!"\ED
+
+es: Kiyo\BR"Mm, así es.\BR  ¡Definitivamente lo lograrás!"\ED
+
 389
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Electric Black!\ED
 
 390
 jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
 
+en: Such an aggressive and definitive team. It was a great battle!!"\ED
+
+es: Un duo definitivo y sin comparación. ¡Fue una gran batalla!"\ED
+
 391
 jp: ƒVƒFƒŠ[BRu‚Ç‚¤‚â‚ç@„‚½‚¿‚ªBR@—DŸ‚µ‚Ä‚µ‚Ü‚Á‚½‚İ‚½‚¢‚ËvED
+
+en: 
+
+es: 
 
 392
 jp: ƒuƒ‰ƒSBRuƒtƒ“@‘Šè‚É‚È‚ç‚ñvED
