@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 396
+ln: 414
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1964,7 +1964,7 @@ jp: ŒbBRu‚¦‚¦I‚İ‚ñ‚ÈIBR@‚ ‚Æˆê‘§‚æIvED
 
 en: Megumi\BR"Yeah! We just have to\BR  fight a bit more, everyone!"\ED
 
-es: Megumi\BR"¡Sí! ¡Solo hay que seguir\BR  un poco más, chicos!"\ED
+es: Megumi\BR"¡Sí! ¡Solo hay que seguir\BR  un poco más!"\ED
 
 271
 jp: ƒeƒBƒIBRu‚æ[‚µI@—‚Ìq‚Ìƒpƒ[‚ğBR@Œ©‚¹‚Ä‚â‚é‚í‚æ@ƒpƒeƒBIvED
@@ -1976,9 +1976,9 @@ es: Tia\BR"¡Bien! ¡Enseñémosle nuestro\BR  poder femenino, Penny!"\ED
 272
 jp: ƒpƒeƒBBRu‚Ü‚©‚¹‚È‚³‚¢I@‚½‚Á‚Õ‚èBR@ƒJƒƒC‚ª‚Á‚Ä‚â‚é‚íIvED
 
-en: Penny\BR"Leave it to me!\BRI'll take care of them!"\ED
+en: Penny\BR"You can count on me!\BR  Let's take care of them!"\ED
 
-es: Penny\BR"¡Déjamelo a mí!\BR  ¡Yo me encargaré de ellos!"\ED
+es: Penny\BR"¡Cuenta conmigo!\BR  ¡Nos encargaremos de ellos!"\ED
 
 273
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚Ó‚Á‚©‚Ÿ[[[‚Â‚ÁIIBR@ƒrƒNƒgƒŠ[[[[ƒ€IIIED
@@ -2873,67 +2873,136 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tomboy!\ED
 397
 jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
 
-en: Impressive fighting style, it was elegant and graceful. But it was scary when they got angry."\ED
+en: Impressive fighting style, it was\BRelegant and graceful. But a bit scary\BRwhen they got angry."\ED
 
-es: Es un estilo de lucha impresionante y elegante. Pero cuando se enojaban daba miedo."\ED
+es: Es un estilo de lucha impresionante\BRy elegante. Pero cuando se enojaban\BRdaba miedo."\ED
 
 398
 jp: ŒbBRu‚â‚Á‚½‚í‚Ë@ƒeƒBƒIIBR@—DŸ‚æIvED
 
-en: 
+en: Megumi\BR"Way to go, Tia! We won!"\ED
 
-es: 
+es: Megumi\BR"¡Bien hecho, Tia! ¡Ganamos!"\ED
 
 399
 jp: ƒeƒBƒIBRu‚Ü@„‚ª–{‹C‚ğo‚¹‚ÎBR@‚±‚ñ‚È‚à‚ñ‚ËIvED
 
+en: Tia\BR"Well, when I give it my all,\BR  this is nothing!"\ED
+
+es: Tia\BR"Bueno, cuando hago lo mejor que\BR  puedo ¡este es el resultado!"\ED
+
 400
 jp: ƒeƒBƒIBRu‚ ``‚ÁI@Œb@‘å•Ï‚æIIvED
+
+en: Tia\BR"Ahhh~~~! Megumi!\BR  This is really bad!!"\ED
+
+es: Tia\BR"¡Aaaa! ¡Megumi! ¡Esto esta muy mal!"\ED
 
 401
 jp: ƒeƒBƒIBRu‚±‚Ì‚Ü‚Ü‚¶‚á@ƒRƒ“ƒT[ƒg‚ÉBR@’x‚µ‚¿‚á‚¤‚íIvED
 
+en: Tia\BR"At this rate, you're gonna be late\BR  for the concert!"\ED
+
+es: Tia\BR"¡A este paso llegarás tarde\BR  al concierto!"\ED
+
 402
 jp: ŒbBRuƒLƒƒƒ@IBR@–{“–‚¾‚í@‹}‚ª‚È‚«‚áIvED
+
+en: Megumi\BR"Yikes! That's right,\BR  we gotta hurry!"\ED
+
+es: Megumi\BR"¡Ay! Tienes razón,\BR  ¡hay que darnos prisa!"\ED
 
 403
 jp: ƒeƒBƒIBRu‘S‘¬—Í‚Ås‚­‚í‚æ[[[IvED
 
+en: Tia\BR"Full speed ahead!"\ED
+
+es: Tia\BR"¡Vamos a toda velocidad!"\ED
+
 404
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚¨‚Ä‚ñ‚Î–ºƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tomboy!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tomboy!\ED
 
 405
 jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
 
+en: It was impressive seeing an elegant\BRand graceful fighting style. But I was\BRa little scared when they got angry."\ED
+
+es: Impresiona ver un estilo de lucha tan\BRelegante. Pero me dio un poco\BRde miedo verlas enojadas."\ED
+
 406
 jp: ƒEƒ‹ƒ‹BRu‚â‚è‚Ü‚µ‚½‚Ë@ƒpƒeƒBBBR@—DŸ‚Å‚·‚ævED
+
+en: Uri\BR"You did it, Penny. That's victory."\ED
+
+es: Uri\BR"Lo lograste, Penny. Has ganado."\ED
 
 407
 jp: ƒpƒeƒBBRu‚ ‚çH‚à‚¤I‚í‚è‚È‚ÌHBR@ˆÓŠO‚ÆŠÈ’P‚¾‚Á‚½‚í‚ËvED
 
+en: Penny\BR"Oh? Over already, huh?\BR  That was kinda easy."\ED
+
+es: Penny\BR"¿Mm? ¿Ya se acabó?\BR  Me pareció muy fácil."\ED
+
 408
 jp: ƒpƒeƒBBRu—DŸ‚àæ‚Á‚½‚±‚Æ‚¾‚µBR@‚³@ƒEƒ‹ƒ‹€”õ‚Í‚¢‚¢‚í‚ËHED
+
+en: Penny\BR"Well, Uri, you ready? Since we won\BR  the tournament...\ED
+
+es: Penny\BR"Y bien, Uri, ¿estás listo?\BR  Ya que ganamos el torneo...\ED
 
 409
 jp: @Ÿ‚Íˆ¤‚µ‚ÌƒKƒbƒVƒ…‚¿‚á‚ñ‚ÌBR@ƒn[ƒg‚ğƒQƒbƒg‚·‚é‚í‚æIvED
 
+en: Next up is capturing the heart\BRof my beloved Zatchie-poo!"\ED
+
+// need to check ep52, it was the final ep to get dubbed in LATAM, also compare with Spain's
+es: Lo que sigue es conquistar\BRel corazón de mi querido Zatchesito!"\ED
+
 410
 jp: ƒEƒ‹ƒ‹BRu‚Í‚Ÿ@‚â‚ê‚â‚êBBR@d•û‚È‚¢‚Å‚·‚ËcvED
+
+en: Uri\BR"Ohh, what a drag."\ED
+
+es: Uri\BR"Uf, que molestia."\ED
 
 411
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒrƒNƒgƒŠ[ƒ€[ƒ“ƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Victory-Moon!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Victory-Moon!\ED
+
 412
 jp: @‰Ø—í‚ÅƒN[ƒ‹‚ÈUŒ‚‚Ì”XBR@‚ ‚Ìƒoƒgƒ‹‚ğv‚¢o‚·‚¾‚¯‚ÅBR@‹¹‚ª”M‚­‚È‚è‚Ü‚·IvED
+
+en: Such dazzling and magnificent attacks, it makes my heart beat with joy!"\ED
+
+es: ¡Ver esos ataques magníficos y cool hacen que mi corazón salte de alegría!"\ED
 
 413
 jp: ƒrƒNƒgƒŠ[ƒ€BRuƒtƒnƒnƒnƒnB‚»‚¤‚¾‚ëIBR@•ª‚©‚Á‚Ä‚é‚¶‚á‚È‚¢‚©vED
 
+en: Victoream\BR"Ha ha ha ha! Of course!\BR  You understand it well."\ED
+
+es: Victoream\BR"¡Ja, ja, ja, ja! ¡Claro!\BR  Eso lo entienden muy bien."\ED
+
 414
 jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
 
+en: Mohawk Ace\BR"..."\ED
+
+es: Mohawk Ace\BR"..."\ED
+
 415
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚³‚Ÿ@ƒ‚ƒqƒJƒ“ƒG[ƒX‚æIBR@€”õ‚Í‚¢‚¢‚©HvED
+
+en: 
+
+es: 
 
 416
 jp: ƒrƒNƒgƒŠ[ƒ€BRuV‚½‚È‹­“G‚ğ’T‚µ‚É‚ä‚­‚¼IBR@ƒn[ƒnƒbƒnƒbƒnƒbƒn[IvED
