@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 436
+ln: 449
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -3159,48 +3159,103 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Action V!\ED
 437
 jp: @ƒgƒŠƒbƒL[‚ÈUŒ‚‚Ì”X‚ÍBR@Œ©‚Ä‚¢‚Ä@‚ ‚«‚È‚¢‚Å‚·‚ËBBR@‚¨‚à‚µ‚ë‚¢ƒoƒgƒ‹‚Å‚µ‚½IvED
 
-en: 
+en: The flurry of complex attacks never\BRgets old. What an interesting battle!"\ED
 
-es: 
+es: La oleada de ataques complejos\BRnunca se puso aburrida.\LF¡Fue una batalla interesante!"\ED
 
 438
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚±‚Ì„‚ÌBR@ƒoƒgƒ‹‚ª@‚¨‚à‚µ‚ë‚¢HvED
 
+en: Victoream\BR"You think my battling was...\BR  interesting?"\ED
+
+es: Victoream\BR"¿Te crees que mi batalla\BR  fue interesante?"\ED
+
 439
 jp: ƒrƒNƒgƒŠ[ƒ€BRuƒxƒŠ[[[EƒVƒbƒgIBR@‰Ø—í‚Èƒoƒgƒ‹‚ÆŒ¾‚¦[IvED
+
+en: Victoream\BR"VEEEEERY BAD!!!\LFIt was a glorious battle!"\ED
+
+//I wonder if Spain's dub has very shit localized, I'll have to look it up.
+es: Victoream\BR"¡MUUUUUY MAL!\LF¡Fue una batalla gloriosa!"\ED
 
 440
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚³‚Ÿ@ƒ‚ƒqƒJƒ“ƒG[ƒX‚æIBR@‚à‚¤‚±‚±‚É‚Í—p‚Í–³‚¢IED
 
+en: Victoream\BR"Come, Mohawk Ace!\BR  I have no further business here!\ED
+
+es: Victoream\BR"¡Ven, Mohawk Ace!\BR  Ya no tengo más asuntos aquí!\ED
+
 441
 jp: @“`à‚ÌƒxƒCƒŠ[ƒƒƒ“‚ğBR@Œ©‚Â‚¯‚És‚­‚¼IvED
+
+//oh boy here we go again
+en: Let's go find\BRthat legendary Bailee Melon!"\ED
+
+es: Vamos a ir en búsqueda del legendario\BRmelón bailee!"\ED
 
 442
 jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
 
+en: Mohawk Ace\BR"..."\ED
+
+es: Mohawk Ace\BR"..."\ED
+
 443
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒAƒNƒVƒ‡`ƒ“‚uƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Action V!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Action V!\ED
 
 444
 jp: @ƒgƒŠƒbƒL[‚ÈUŒ‚‚Ì”X‚ÍBR@Œ©‚Ä‚¢‚Ä@‚ ‚«‚È‚¢‚Å‚·‚ËBBR@‚¨‚à‚µ‚ë‚¢ƒoƒgƒ‹‚Å‚µ‚½IvED
 
+en: Lots of tricky moves, but never\BRa dull moment. Quite the battle!"\ED
+
+es: Muchos ataques sorpresa,\BRfue bastante emocionante.\BR¡Qué batalla interesante!"\ED
+
 445
 jp: ƒL[ƒXBRuƒtƒb@¬•¨‚Î‚©‚è‚ÅBR@‚Â‚Ü‚ç‚ñ‘å‰ï‚¾‚Á‚½‚ívED
+
+en: Keith\BR"Hmph, nothing but small fries.\BR  What a boring tournament."\ED
+
+es: Keith\BR"Hmf, sólo son unos debiluchos.\BR  Que torneo más aburrido."\ED
 
 446
 jp: ƒxƒ‹ƒ“BRu‚ ‚ @‚Ü‚Á‚½‚­‚¾vED
 
+en: Berun\BR"Yes, absolutely."\ED
+
+es: Berun\BR"Sí, sin duda alguna."\ED
+
 447
 jp: ƒL[ƒXBRu‚æ‚µ@ƒxƒ‹ƒ“IBR@‚¢‚à“V‚ğH‚¢‚És‚­‚¼IvED
+
+en: Keith\BR"All right, Berun! Let's go eat some\BR  sweet potato tempura!"\ED
+
+es: Keith\BR"¡Berun! ¡Vamos a ir a comer\BR  tempura de papa!"\ED
 
 448
 jp: ƒxƒ‹ƒ“BRu‚ ‚ BBR@‚»‚¤‚¾‚È@ƒL[ƒXvED
 
+en: Berun\BR"Okay. Very well, Keith."\ED
+
+es: Berun\BR"OK. Vamos, Keith."\ED
+
 449
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚ŠE‚Ìƒ‰ƒCƒoƒ‹ƒ`[ƒ€‚¾IED
 
+// Makai no Raibaru
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Rivals!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Rivals!\ED
+
 450
 jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯m‚ªBR@è‚ğ‘g‚Ş‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
+
+en: 
+
+es: 
 
 451
 jp: ƒoƒŠ[BRu‚­‚¾‚ç‚ËƒF‘å‰ï‚©‚Æv‚Á‚½‚ªBR@‚È‚©‚È‚©–Ê”’‚©‚Á‚½‚ÈvED
