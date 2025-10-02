@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 414
+ln: 426
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -2026,7 +2026,7 @@ es: Victoream\BR"¡Mua ja, ja, ja! ¿Será que ya\BR  estamos en la última batalla?
 279
 jp: @‚µ‚©‚µI@‚±‚ÌÅ‹­ƒ`[ƒ€‚ÉBR@Ÿ‚Ä‚éÒ‚È‚Ç‚¢‚È‚¢‚íIBR@‚ä‚­‚¼@ƒŒƒCƒ‰IIIvED
 
-en: No one can hope to succeed\BRsuch a powerful team!\BRLet's go, Laila!"\ED
+en: No one can hope to surpass\BRsuch a powerful team!\BRLet's go, Laila!"\ED
 
 es: ¡Pero nadie puede contra este equipo\BRtan fuerte! ¡Vamos, Laila!"\ED
 
@@ -2347,7 +2347,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚â‚³‚µ‚¢‰¤—lƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!"\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Kind Kings!"\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!"\ED
 
 325
 jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
@@ -2389,7 +2389,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚â‚³‚µ‚¢‰¤—lƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!"\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Kind Kings!"\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!"\ED
 
 331
 jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
@@ -2438,7 +2438,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRímƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tiny Soldiers!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tiny Soldiers!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tiny Soldiers!\ED
 
 338
 jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@v‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
@@ -2487,7 +2487,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRímƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tiny Soldiers!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tiny Soldiers!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tiny Soldiers!\ED
 
 345
 jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@v‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
@@ -2536,7 +2536,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strongest Fighters!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Strongest Fighters!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Strongest Fighters!\ED
 
 352
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
@@ -2593,7 +2593,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strongest Fighters!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Strongest Fighters!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Strongest Fighters!\ED
 
 360
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
@@ -2649,7 +2649,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Ice-Flame!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Ice-Flame!\ED
 
 367
 jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
@@ -2712,7 +2712,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Ice-Flame!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Ice-Flame!\ED
 
 375
 jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
@@ -2761,7 +2761,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Electric Black!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Black!\ED
 
 382
 jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
@@ -2817,7 +2817,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Electric Black!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Black!\ED
 
 390
 jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
@@ -2868,7 +2868,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚¨‚Ä‚ñ‚Î–ºƒ`[ƒ€‚¾IED
 //tia is known as a tomboy, but penny
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tomboy!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tomboy!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tomboy!\ED
 
 397
 jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
@@ -2924,7 +2924,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚¨‚Ä‚ñ‚Î–ºƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tomboy!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tomboy!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tomboy!\ED
 
 405
 jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
@@ -2974,21 +2974,21 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒrƒNƒgƒŠ[ƒ€[ƒ“ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Victory-Moon!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Victory-Moon!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Victory-Moon!\ED
 
 412
 jp: @‰Ø—í‚ÅƒN[ƒ‹‚ÈUŒ‚‚Ì”XBR@‚ ‚Ìƒoƒgƒ‹‚ğv‚¢o‚·‚¾‚¯‚ÅBR@‹¹‚ª”M‚­‚È‚è‚Ü‚·IvED
 
-en: Such dazzling and magnificent attacks, it makes my heart beat with joy!"\ED
+en: Such dazzling and magnificent moves,\BRit makes my heart beat with joy!"\ED
 
-es: ¡Ver esos ataques magníficos y cool hacen que mi corazón salte de alegría!"\ED
+es: ¡Ver esos ataques magníficos y cool\BRpueden hacer que mi corazón salte\BRde alegría!"\ED
 
 413
 jp: ƒrƒNƒgƒŠ[ƒ€BRuƒtƒnƒnƒnƒnB‚»‚¤‚¾‚ëIBR@•ª‚©‚Á‚Ä‚é‚¶‚á‚È‚¢‚©vED
 
 en: Victoream\BR"Ha ha ha ha! Of course!\BR  You understand it well."\ED
 
-es: Victoream\BR"¡Ja, ja, ja, ja! ¡Claro!\BR  Eso lo entienden muy bien."\ED
+es: Victoream\BR"¡Ja, ja, ja, ja! ¡Claro!\BR  Eso es fácil de entender."\ED
 
 414
 jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
@@ -3000,45 +3000,97 @@ es: Mohawk Ace\BR"..."\ED
 415
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚³‚Ÿ@ƒ‚ƒqƒJƒ“ƒG[ƒX‚æIBR@€”õ‚Í‚¢‚¢‚©HvED
 
-en: 
+en: Victoream\BR"Hey, Mohawk Ace!\BR  Are you ready for this?"\ED
 
-es: 
+es: Victoream\BR"¡Y bien, Mohawk Ace!\BR  ¿Estás listo para esto?"\ED
 
 416
 jp: ƒrƒNƒgƒŠ[ƒ€BRuV‚½‚È‹­“G‚ğ’T‚µ‚É‚ä‚­‚¼IBR@ƒn[ƒnƒbƒnƒbƒnƒbƒn[IvED
 
+en: Victoream\BR"Let's find a new powerful opponent\BR  to destroy! Ha ha ha ha ha!"\ED
+
+es: Victoream\BR"¡Busquemos un nuevo y poderoso\BR  oponente para derrotar!\LF¡Ja, ja, ja, ja, ja!"\ED
+
 417
 jp: ƒ‚ƒqƒJƒ“ƒG[ƒXBRuEEEEEEvED
+
+en: Mohawk Ace\BR"..."\ED
+
+es: Mohawk Ace\BR"..."\ED
 
 418
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒrƒNƒgƒŠ[ƒ€[ƒ“ƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Victory-Moon!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Victory-Moon!\ED
+
 419
 jp: @‰Ø—í‚ÅƒN[ƒ‹‚ÈUŒ‚‚Ì”XBR@‚ ‚Ìƒoƒgƒ‹‚ğv‚¢o‚·‚¾‚¯‚ÅBR@‹¹‚ª”M‚­‚È‚è‚Ü‚·IvED
+
+//this is always copied for both pairs, so I think it's better to change it up a bit.
+en: Such dazzling and cool moves!\BRIt gets me fired up!"\ED
+
+es: ¡Ver esos ataques brillar\BRhacen que me sienta genial!\BR¡Qué cool!"\ED
 
 420
 jp: ƒŒƒCƒ‰BRu‚ ‚çH@ˆÓŠO‚Æ‚İ‚ñ‚ÈBR@ã‚©‚Á‚½‚í‚Ë@ƒAƒ‹vED
 
+en: Laila\BR"Oh? Everyone was\BR  surprisingly weak, Al."\ED
+
+es: Laila\BR"¿Oh? Todos fueron\BR  sorprendentemente débiles, Al."\ED
+
 421
 jp: ƒAƒ‹ƒx[ƒ‹BRu‚»‚¤‚¾‚È@ƒŒƒCƒ‰vED
+
+en: Albert\BR"You're right, Laila."\ED
+
+es: Albert\BR"Así es, Laila."\ED
 
 422
 jp: ƒŒƒCƒ‰BRu¡“ú‚àÅ‚‚¾‚Á‚½‚í‚ËBBR@Š´Ó‚µ‚Ä‚é‚ívED
 
+en: Laila\BR"Today was just the best, wasn't it?\BR  I'm very grateful."\ED
+
+es: Laila\BR"Hoy estuvo increíble.\BR  Estoy muy agradecida."\ED
+
 423
 jp: ƒAƒ‹ƒx[ƒ‹BRu‚ñ@‚ ‚ EEEBR@‰´‚Í•Ê‚É@‚©‚Ü‚í‚Ë‚¥‚³vED
+
+//this looks like the last thing Al says to Laila, he doesn't mind fighting by her side
+//but... why? This makes Al seem like he doesn't care about Laila's gratitude.
+//gonna tweak it a bit
+en: Albert\BR"Hm, yeah...\BR  It was no trouble at all."\ED
+
+es: Albert\BR"Mm, Sí...\BR  No fue ninguna molestia."\ED
 
 424
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚•X‚Ì‹Rmƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Cool Knights!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Cool Knights!\ED
+
 425
 jp: @–‚«ã‚°‚ç‚ê‚½‹Z‚Ì”X‚ÍBR@‚à‚Í‚âˆêŒ‚•KE‚ÌˆĞ—Í‚Å‚·IBR@‚³‚·‚ª@—ğí‚Ì‚Ql‚Å‚·vED
+
+en: Their honed skills are capable of OTK power! As expected of two seasoned fighters."\ED
+
+es: ¡Sus habilidades refinadas son capaces de vencer con sólo un ataque! Era de esperarse de participantes con tanta experiencia."\ED
 
 426
 jp: ƒTƒEƒU[BRu‚ÖEEE–{‹C‚ğo‚¹‚ÎBR@‚±‚ñ‚È‚ÌŒy‚¢Œy‚¢vED
 
+en: Sauza\BR"Heh...! Once I get fired up, there's no stopping me."\ED
+
+es: Sauza\BR"¡Je...! Al motivarme, no hay nadie que me detenga."\ED
+
 427
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+en: 
+
+es: 
 
 428
 jp: ƒTƒEƒU[BRu‚æ‚µ@ƒJƒ‹ƒfƒBƒIIBR@‚à‚Á‚Æ‹­‚¥–‚•¨‚ğ’T‚·‚¼IvED
