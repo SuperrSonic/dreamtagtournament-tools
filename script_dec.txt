@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 426
+ln: 436
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -3074,53 +3074,94 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Cool Knights!\
 425
 jp: @–‚«ã‚°‚ç‚ê‚½‹Z‚Ì”X‚ÍBR@‚à‚Í‚âˆêŒ‚•KE‚ÌˆĞ—Í‚Å‚·IBR@‚³‚·‚ª@—ğí‚Ì‚Ql‚Å‚·vED
 
-en: Their honed skills are capable of OTK power! As expected of two seasoned fighters."\ED
+en: Their honed skills are capable of OTK\BRpower! As expected of two seasoned\BRfighters."\ED
 
-es: ¡Sus habilidades refinadas son capaces de vencer con sólo un ataque! Era de esperarse de participantes con tanta experiencia."\ED
+es: ¡Sus habilidades refinadas son\BRcapaces de vencer al oponente\BRcon tan sólo un ataque!\LFEra de esperarse de participantes\BRcon tanta experiencia."\ED
 
 426
 jp: ƒTƒEƒU[BRu‚ÖEEE–{‹C‚ğo‚¹‚ÎBR@‚±‚ñ‚È‚ÌŒy‚¢Œy‚¢vED
 
-en: Sauza\BR"Heh...! Once I get fired up, there's no stopping me."\ED
+en: Sauza\BR"Heh...! Once I get fired up,\BR  there's no stopping me."\ED
 
-es: Sauza\BR"¡Je...! Al motivarme, no hay nadie que me detenga."\ED
+es: Sauza\BR"¡Je...! Al motivarme no hay nada\BR  que me detenga."\ED
 
 427
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
 
-en: 
+en: Karudio\BR"Paru paru moon!"\ED
 
-es: 
+es: Karudio\BR"¡Paru paru mon!"\ED
 
 428
 jp: ƒTƒEƒU[BRu‚æ‚µ@ƒJƒ‹ƒfƒBƒIIBR@‚à‚Á‚Æ‹­‚¥–‚•¨‚ğ’T‚·‚¼IvED
 
+en: Sauza\BR"All right, Karudio! Let's go hunt\BR  tougher mamodo!"\ED
+
+es: Sauza\BR"¡Bien, Karudio! ¡Encontremos a un\BR  mamodo más fuerte!"\ED
+
 429
 jp: ƒJƒ‹ƒfƒBƒIBRuƒpƒ‹ƒpƒ‹ƒ‚[ƒ“IvED
+
+en: Karudio\BR"Paru paru moon!"\ED
+
+es: Karudio\BR"¡Paru paru mon!"\ED
 
 430
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚•X‚Ì‹Rmƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Cool Knights!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Cool Knights!\ED
+
 431
 jp: @–‚«ã‚°‚ç‚ê‚½‹Z‚Ì”X‚ÍBR@‚à‚Í‚âˆêŒ‚•KE‚ÌˆĞ—Í‚Å‚·IBR@‚³‚·‚ª@—ğí‚Ì‚Ql‚Å‚·vED
+
+en: Such refined power! I bet they can\BRdefeat enemies in just one blow!\LFAs you'd expect from\BRsuch skilled fighters."\ED
+
+es: ¡Qué poder más avanzado! Sin duda\BRpueden derrotar al adversario con tan\BRsólo un ataque."\ED
 
 432
 jp: ƒGƒŠ[BRuƒtƒ€@‚±‚Ì‚Ä‚¢‚Ç‚©EEEvED
 
+en: Ellie\BR"Hmm, so that's that..."\ED
+
+es: Ellie\BR"Mmm, esto se acabó..."\ED
+
 433
 jp: ƒA[ƒXBRuƒGƒŠ[B@„’B‚É‚Æ‚Á‚Ä‚ÍBR@’Ê‰ß“_‚É‰ß‚¬‚Ü‚¹‚ñ‚ÈvED
+
+en: Arth\BR"Ellie, for us this is\BR  but a small step forward."\ED
+
+es: Arth\BR"Ellie, para nosotros esto ha sido\BR  un pequeño avance."\ED
 
 434
 jp: ƒGƒŠ[BRu‚ä‚­‚¼@ƒA[ƒXBBR@‰¤‚Ö‚Ì“¹‚Ì‚è‚Í‚Ü‚¾’·‚¢vED
 
+en: Ellie\BR"Let's get a move on, Arth. The path\BR  to becoming king is still a long one."\ED
+
+es: Ellie\BR"Tenemos que seguir, Arth. El camino\BR  hacia ser rey es uno muy largo."\ED
+
 435
 jp: ƒA[ƒXBRuŒäˆÓIvED
+
+// this is like an old samurai-like phrase, it's often translated as -as you wish-
+en: Arth\BR"As you wish!"\ED
+
+es: Arth\BR"Si eso es lo que deseas, ¡bien!"\ED
 
 436
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒAƒNƒVƒ‡`ƒ“‚uƒ`[ƒ€‚¾IED
 
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Action V!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Action V!\ED
+
 437
 jp: @ƒgƒŠƒbƒL[‚ÈUŒ‚‚Ì”X‚ÍBR@Œ©‚Ä‚¢‚Ä@‚ ‚«‚È‚¢‚Å‚·‚ËBBR@‚¨‚à‚µ‚ë‚¢ƒoƒgƒ‹‚Å‚µ‚½IvED
+
+en: 
+
+es: 
 
 438
 jp: ƒrƒNƒgƒŠ[ƒ€BRu‚±‚Ì„‚ÌBR@ƒoƒgƒ‹‚ª@‚¨‚à‚µ‚ë‚¢HvED
