@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 390
+ln: 396
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -1906,9 +1906,9 @@ es: ha sido muy valioso\BRluchando a nuestro lado.\BR¡Con él podremos ganar!"\ED
 262
 jp: ƒVƒFƒŠ[BRu‚³‚Ÿ@‚İ‚ñ‚ÈÅŒã‚Ìí‚¢‚æBBR@€”õ‚Í‚¢‚¢‚©‚µ‚çHvED
 
-en: Sherry\BR"Look, it's the final fight.\BR  You all ready?"\ED
+en: Sherry\BR"Look, it's the final fight.\BR  Are you all ready?"\ED
 
-es: Sherry\BR"Esta debe ser la última pelea.\BR ¿Están todos listos?"\ED
+es: Sherry\BR"Esta debe ser la última batalla.\BR ¿Están todos listos?"\ED
 
 263
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@ƒuƒ‰ƒS@‹¤‚ÉŠæ’£‚é‚Ì‚¾IvED
@@ -2822,37 +2822,67 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Electric Black!
 390
 jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
 
-en: Such an aggressive and definitive team. It was a great battle!!"\ED
+en: Such an aggressive and definitive\BRteam. It was a great battle!!"\ED
 
-es: Un duo definitivo y sin comparación. ¡Fue una gran batalla!"\ED
+es: Un duo definitivo y sin comparación.\BR¡Fue una gran batalla!"\ED
 
 391
 jp: ƒVƒFƒŠ[BRu‚Ç‚¤‚â‚ç@„‚½‚¿‚ªBR@—DŸ‚µ‚Ä‚µ‚Ü‚Á‚½‚İ‚½‚¢‚ËvED
 
-en: 
+en: Sherry\BR"Looks like we ended up winning\BR  after all."\ED
 
-es: 
+es: Sherry\BR"Parece que somos los ganadores."\ED
 
 392
 jp: ƒuƒ‰ƒSBRuƒtƒ“@‘Šè‚É‚È‚ç‚ñvED
 
+en: Brago\BR"Hmph, they were no match for me."\ED
+
+es: Brago\BR"Hmf, no estaban a mi nivel."\ED
+
 393
 jp: ƒVƒFƒŠ[BRu‹­‚­‚È‚Á‚Ä‚«‚Ä‚é‚í‚ËBR@‚ ‚ÌÔ‚¢–{‚ÌqEEEED
+
+en: Sherry\BR"The boy with the red book\BR  has become stronger...\ED
+
+es: Sherry\BR"El níño del libro rojo\BR  se ha vuelto más fuerte...\ED
 
 394
 jp: @‚Å‚à@‚Ç‚ñ‚È“G‚ª—ˆ‚æ‚¤‚Æ‚àBR@‚ ‚È‚½‚ğ•K‚¸‰¤‚É‚µ‚ÄBR@Œ©‚¹‚é‚ívED
 
+en: But no matter what enemy comes up,\BRI'll make you king."\ED
+
+es: Pero sin importar qué enemigos\BRse crucen en nuestro camino,\BRyo te haré rey."\ED
+
 395
 jp: ƒuƒ‰ƒSBRuƒtƒ“EEEBR@“–‘R‚¾vED
+
+en: Brago\BR"Hmph... Naturally."\ED
+
+es: Brago\BR"Hmf... Por supuesto."\ED
 
 396
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚¨‚Ä‚ñ‚Î–ºƒ`[ƒ€‚¾IED
 
+//otenba musume
+//tia is known as a tomboy, but penny
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tomboy!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  el equipo Tomboy!\ED
+
 397
 jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
 
+en: Impressive fighting style, it was elegant and graceful. But it was scary when they got angry."\ED
+
+es: Es un estilo de lucha impresionante y elegante. Pero cuando se enojaban daba miedo."\ED
+
 398
 jp: ŒbBRu‚â‚Á‚½‚í‚Ë@ƒeƒBƒIIBR@—DŸ‚æIvED
+
+en: 
+
+es: 
 
 399
 jp: ƒeƒBƒIBRu‚Ü@„‚ª–{‹C‚ğo‚¹‚ÎBR@‚±‚ñ‚È‚à‚ñ‚ËIvED
