@@ -4,48 +4,58 @@ Transcribed voices.
 UNU, 私の勝ちなのだ。
 Unu, watashi no kachina noda
 Yeah! I win!
+Using "Yeah, we won, we won!"
 
 06. ZATCH
 ???
 oso no! (???)
+Using "Uuuooo!"
 
 07. ZATCH
 unu, 何か 増えてなのだ。
 unu, nani ka fuetana noda
 Yeah! Something has increased!
+Using "You got it!"
 
 08. ZATCH
 おめでとうなのだ。
 omedeto na noda!
 Congratulations!
+Using "Perfect!"
 
 09. ZATCH
 すごいのだ。
 sugoi no da!
 That's amazing!
+Using "My heart's racing!"
 
 18. TIA
 行きに決めるわよ めぐみ。
 Iki ni kimeru wa yo, Megumi.
 I'm going, Megumi.
+Using "We've gotta do this, Megumi!"
 
 19. TIA
 まこんなもんね
 ma, kon'na mon ne
 Well, that's how it's done.
+Using "You've still got a ways to go!"
 
 21. TIA
 避けないでね。
 Yokenaide ne.
 Don't avoid it.
+Using "Hold it!"
 
 28. MEGUMI
 唱えるのか怖いわね。
 Tonaeru no ka kowai wa ne.
 I'm scared to say it.
+Using "Are you... sure about this?"
 
 29. MEGUMI
 Chajir Saifodon!
+Gigano Saifogeo!
 
 30. KANCHOME
 行くよ Forugore
@@ -54,18 +64,23 @@ Let's go, Folgore!
 31. KANCHOME
 防寒 無敵なんですか？
 Bokan mutekina ndesu ka?
-Are you invincible to the cold?
-//just use Kanchome singing
+Very wrong, but it seems to be "I'm invincible, aren't I?"
+Went with "I am strong after all!"
 
 32. KANCHOME
 みんなかかで
-Minna ka ka de
+Minna ka ka re
 Everyone, charge! (ALT: Everyone, go for it!)
+Going with "We're an invincible combo!"
 
 50. SUNBEAM
 心一つだ。
 Kokoro hitotsuda
 We are of one mind(heart)
+Not a lot of Sunbeam lines to choose from.
+I modified "There's not enough power from within" to "There's power from within" from Mamodo Fury
+this fits well with the flaps, but doesn't really mean anything, since everyone
+in this forsaken series has power from within.
 
 54. WONREI
 私には守るべき人がいる 
@@ -76,11 +91,14 @@ I have someone I must protect.
 これで決めるある。
 kore de kimeru aru
 This will decide it.
+Not a lot of Li-en lines to choose from, going with "I won't forgive you for this"
+because it syncs up well with the mouth flaps
 
 65. KIDO
 ここは一応なさ (???)
-koko wa ichiou nasa
-Not here for now.
+koko wa ichiou(might be tsuyoi) nasa
+This might be about strength, so like "I'm strong" or something
+Using "These guys are weak, aren't they?"
 
 67. KIDO
 あの紐を持たないで 博士。
@@ -95,7 +113,9 @@ Be prepared.
 78. BRAGO
 強くない また なくなるわ。
 Tsuyoikunai, mata na kure wa
-Weakling.
+Something like-- "If you're weak, then get stronger"
+For dub, using "Please become stronger."
+// this is assuming brago is talking to sherry and not the opponent
 
 87. ZENO
 とことんまでぶっ潰。
@@ -116,6 +136,7 @@ Well, something like this.
 気あげるの TEDDO
 Ki ageru no teddo
 I'm storing energy, Ted!
+Using "What have you been up to, Ted!"
 
 108. KEITH
 お前らしましてる。
@@ -129,6 +150,7 @@ Story mode has this line after winning the raiku cup:
 意外と簡単だったわね
 Igaito kantandatta wa ne
 It sounds similar, so she's probably saying it was easy to win.
+Using "-giggles- that was a cute little spell."
 
 132. VICTOREAM
 分離せよ
@@ -209,9 +231,10 @@ mo ideshoda
 That's enough!
 
 190. BARI
-湿気だらね。
-shikkedara ne
-??? It's humid. ???
+くだらね
+tch, kudara ne
+This could be like "tch, worthless" or "tch, what a waste of time"
+Using "Where is the one who can purge me of my irritation!"
 
 191. BARI
 ぶつくしてある。

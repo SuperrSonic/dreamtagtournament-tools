@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 449
+ln: 466
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -856,14 +856,14 @@ es: El dueño del libro de Koral Q,\BRun genio con un CI de 190.\ED
 114
 jp: ‘Šè‚Ì‹­‚³‚ğƒpƒ\ƒRƒ“‚ÅBR‰ÈŠw“I‚É•ªÍ‚·‚éED
 
-en: He uses a computer to analyse\BRthe opponent, scientifically.\ED
+en: He uses a computer to analyze\BRthe opponent, scientifically.\ED
 
 es: Usa una PC para analizar\BRel poder del oponente.\ED
 
 115
 jp: ‚TË‚Ì—‚Ìq‚È‚ª‚çBR‹¥–\‚ÈƒKƒbƒVƒ…‚Ì“V“GED
 
-en: Although she is 5, she is\BRZatch's sworn rival.\ED
+en: Although she is only 5, she is\BRZatch's sworn rival.\ED
 
 es: Aunque solo tenga 5, es la\BRrival declarada de Zatch.\ED
 
@@ -1292,7 +1292,7 @@ es: Atacó al jardín botánico bajo el\BRpretexto de entrenamiento.\ED
 175
 jp: ç”NŠÔÎ”Å‚É‚³‚ê‚Ä‚¢‚½BR–‚•¨‚ÌˆêlED
 
-en: One of the mamodo stuck\BRas a stone tablet for 1000 years.\ED
+en: One of the mamodo imprisoned\BRas a stone tablet for 1000 years.\ED
 
 es: Uno de los mamodo convertidos\BRen piedra durante 1000 años.\ED
 
@@ -2534,9 +2534,9 @@ es: Kido\BR"¡Vaya--- que genial, doctor!\BR  ¡Bien, daré el máximo!"\ED
 351
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strongest Fighters!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Top Fighters!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Strongest Fighters!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Top Fighters!\ED
 
 352
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
@@ -2591,9 +2591,9 @@ es: Li-en\BR"¡Ya se acerca la primavera\BR  así que las cosas se pondrán\LFmás o
 359
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strongest Fighters!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Top Fighters!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Strongest Fighters!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Top Fighters!\ED
 
 360
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
@@ -3253,57 +3253,125 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Rivals!\ED
 450
 jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯m‚ªBR@è‚ğ‘g‚Ş‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
 
-en: 
+en: When rivals join forces, they really do\BRbecome this strong of a team, huh~"\ED
 
-es: 
+es: Cuando los rivales se unen, en serio\BRse convierten en un equipo fuerte~"\ED
 
 451
 jp: ƒoƒŠ[BRu‚­‚¾‚ç‚ËƒF‘å‰ï‚©‚Æv‚Á‚½‚ªBR@‚È‚©‚È‚©–Ê”’‚©‚Á‚½‚ÈvED
 
+en: Bari\BR"I thought this would be a worthless\BR  tournament, but it got interesting."\ED
+
+es: Bari\BR"Pensé que sería un torneo inútil\BR  pero fue bastante interesante."\ED
+
 452
 jp: ƒOƒXƒ^ƒtBRuƒtƒb@ƒoƒŠ[‚Ì‚â‚Â‚ßBR@­‚µ‚ÍŠy‚µ‚ß‚½‚æ‚¤‚¾‚ÈvED
+
+en: Gustav\BR"Heh, that Bari. It looks like\BR  he had a little fun after all."\ED
+
+es: Gustav\BR"Je, ese Bari. Parece que se divirtió\BR  un poco después de todo."\ED
 
 453
 jp: ƒOƒXƒ^ƒtBRuƒoƒŠ[@‚ ‚ÌƒL[ƒX‚Æ‚¢‚¤BR@–‚•¨@è‹­‚»‚¤‚¾‚ÈEEEvED
 
+en: Gustav\BR"Bari, that mamodo Keith\BR  looks difficult to handle..."\ED
+
+es: Gustav\BR"Bari, ese mamodo Keith\BR  parece algo difícil de manejar..."\ED
+
 454
 jp: ƒoƒŠ[BRuƒn@‰½‚à–â‘è‚Ë‚¥‚³BBR@‚Ç‚ñ‚Èƒ„ƒc‚ª—ˆ‚æ‚¤‚ÆEEEED
+
+en: Bari\BR"Ha! He's no problem at all.\BR  No matter what challenge comes...\ED
+
+es: Bari\BR"¡Ja!\BR  No es un problema en lo absoluto.\LFNo importa que desafío\BRse interponga...\ED
 
 455
 jp: @‰´‚Í‚±‚ÌŒ‚ÅBR@‚Ô‚Á“|‚·‚¾‚¯‚æIIIvED
 
+en: I'll knock them down with my fists!!!"\ED
+
+es: ¡Los derrotaré a todos\BRcon mis puños!"\ED
+
 456
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚ŠE‚Ìƒ‰ƒCƒoƒ‹ƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Rivals!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Rivals!\ED
 
 457
 jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯m‚ªBR@è‚ğ‘g‚Ş‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
 
+en: As expected, when rivals come together they can accomplish great things~"\ED
+
+es: Como era de esperarse, cuando los rivales se unen pueden lograr cosas grandes~"\ED
+
 458
 jp: ƒxƒ‹ƒ“BRu‚æ‚µBBR@—DŸ‚µ‚½‚¼@ƒL[ƒXvED
+
+en: Berun\BR"All right. You won, Keith."\ED
+
+es: Berun\BR"Muy bien. Ganaste, Keith."\ED
 
 459
 jp: ƒL[ƒXBRuƒnƒnƒ@IBR@„‚Ì—Í‚ª‚ ‚ê‚Î“–‘R‚¾IvED
 
+en: Keith\BR"Ha ha! With my power it's only natural!
+
+es: Keith\BR"¡Ja, ja! ¡Con mi poder no hay de que dudar!"\ED
+
 460
 jp: ƒxƒ‹ƒ“BRuƒL[ƒX@‚ ‚ÌƒoƒŠ[‚Æ‚¢‚¤BR@–‚•¨@‚©‚È‚è‚Ì‹­“G‚¾‚ÈvED
+
+en: Berun\BR"Keith, about that Bari guy. He's a formidable mamodo."\ED
+
+es: Berun\BR"Keith, sobre ese Bari. El es un mamodo formidable."\ED
 
 461
 jp: ƒL[ƒXBRu“–‘R‚³@ƒxƒ‹ƒ“BBR@„‚Ìh“G‚È‚ñ‚¾‚©‚ç‚ÈBED
 
+en: Keith\BR"Indeed, Berun. We're sworn rivals after all.\ED
+
+es: Keith\BR"Cierto, Berun. El es mi archirrival después de todo.\ED
+
 462
 jp: @‚µ‚©‚µ@ÅŒã‚Í„‚ªŸ‚Â‚³BBR@ƒnƒnƒnƒnƒnƒnƒnƒnIvED
+
+en: But in the end I will always win.\BRHa ha ha ha ha ha ha ha!"\ED
+
+es: Pero a la hora de la verdad siempre ganaré.\BR¡Ja, ja, ja, ja, ja, ja, ja, ja!"\ED
 
 463
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@M‚¶‚éSƒ`[ƒ€‚¾IED
 
+// Team Shinjiru Kokoro
+// Believing Hearts
+// Team Faithful
+// Team Resolute could work since Riya joins right after Zatch's resolve to save both Li-en and the world
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Resolute!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Resolute!\ED
+
 464
 jp: @‚Ql‚Æ‚à¬‚³‚¢‚È‚ª‚ç‚àBR@‚©‚©‚ñ‚ÉU‚ß‚é—E‹C‚ ‚ép‚ÍBR@Š´“®“I‚Å‚µ‚½vED
+
+en: Even though they're both quite small, their courage to fight was inspiring."\ED
+
+es: Aunque ambos son pequeños, su coraje al atacar al enemigo fue inspirador."\ED
 
 465
 jp: ´–›BRu‚Ó‚£@‰½‚Æ‚©—DŸBR@o—ˆ‚½‚İ‚½‚¢‚¾‚ÈvED
 
+en: Kiyo\BR"Phew! Looks like we managed to win."\ED
+
+es: Kiyo\BR"¡Ufff! Parece que logramos ganar."\ED
+
 466
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒD@—DŸ‚È‚Ì‚¾BBR@„‚½‚¿‚Í@‚·‚²‚¢‚Ì‚¾`vED
+
+en: Zatch\BR"
+
+es: Zatch\BR"
 
 467
 jp: ´–›BRu‹C‚ğ”²‚­‚È@ƒKƒbƒVƒ…IED
