@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 466
+ln: 491
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -3302,9 +3302,9 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Rivals!\ED
 457
 jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯m‚ªBR@è‚ğ‘g‚Ş‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
 
-en: As expected, when rivals come together they can accomplish great things~"\ED
+en: As expected, when rivals come\BRtogether they can accomplish\BRgreat things~"\ED
 
-es: Como era de esperarse, cuando los rivales se unen pueden lograr cosas grandes~"\ED
+es: Como era de esperarse, cuando los\BRrivales se unen pueden lograr cosas\BRgrandes~"\ED
 
 458
 jp: ƒxƒ‹ƒ“BRu‚æ‚µBBR@—DŸ‚µ‚½‚¼@ƒL[ƒXvED
@@ -3316,30 +3316,30 @@ es: Berun\BR"Muy bien. Ganaste, Keith."\ED
 459
 jp: ƒL[ƒXBRuƒnƒnƒ@IBR@„‚Ì—Í‚ª‚ ‚ê‚Î“–‘R‚¾IvED
 
-en: Keith\BR"Ha ha! With my power it's only natural!
+en: Keith\BR"Ha ha! With my power\BR  it's only natural!"\ED
 
-es: Keith\BR"¡Ja, ja! ¡Con mi poder no hay de que dudar!"\ED
+es: Keith\BR"¡Ja, ja! ¡Con mi poder\BR  no hay de que dudar!"\ED
 
 460
 jp: ƒxƒ‹ƒ“BRuƒL[ƒX@‚ ‚ÌƒoƒŠ[‚Æ‚¢‚¤BR@–‚•¨@‚©‚È‚è‚Ì‹­“G‚¾‚ÈvED
 
-en: Berun\BR"Keith, about that Bari guy. He's a formidable mamodo."\ED
+en: Berun\BR"Keith, about that Bari guy.\BR  He's a formidable mamodo."\ED
 
-es: Berun\BR"Keith, sobre ese Bari. El es un mamodo formidable."\ED
+es: Berun\BR"Keith, sobre ese Bari.\BR  El es un mamodo formidable."\ED
 
 461
 jp: ƒL[ƒXBRu“–‘R‚³@ƒxƒ‹ƒ“BBR@„‚Ìh“G‚È‚ñ‚¾‚©‚ç‚ÈBED
 
-en: Keith\BR"Indeed, Berun. We're sworn rivals after all.\ED
+en: Keith\BR"Indeed, Berun.\BR  We're sworn rivals after all.\ED
 
-es: Keith\BR"Cierto, Berun. El es mi archirrival después de todo.\ED
+es: Keith\BR"Cierto, Berun.\BR  El es mi archirrival después de todo.\ED
 
 462
 jp: @‚µ‚©‚µ@ÅŒã‚Í„‚ªŸ‚Â‚³BBR@ƒnƒnƒnƒnƒnƒnƒnƒnIvED
 
 en: But in the end I will always win.\BRHa ha ha ha ha ha ha ha!"\ED
 
-es: Pero a la hora de la verdad siempre ganaré.\BR¡Ja, ja, ja, ja, ja, ja, ja, ja!"\ED
+es: Pero a la hora de la verdad\BRyo siempre seré el ganador.\BR¡Ja, ja, ja, ja, ja, ja, ja, ja!"\ED
 
 463
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@M‚¶‚éSƒ`[ƒ€‚¾IED
@@ -3355,101 +3355,216 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Resolute!\ED
 464
 jp: @‚Ql‚Æ‚à¬‚³‚¢‚È‚ª‚ç‚àBR@‚©‚©‚ñ‚ÉU‚ß‚é—E‹C‚ ‚ép‚ÍBR@Š´“®“I‚Å‚µ‚½vED
 
-en: Even though they're both quite small, their courage to fight was inspiring."\ED
+en: Even though they're both quite small,\BRtheir courage to fight was inspiring."\ED
 
-es: Aunque ambos son pequeños, su coraje al atacar al enemigo fue inspirador."\ED
+es: Aunque ambos son pequeños,\BRsu coraje al atacar al enemigo\BRfue inspirador."\ED
 
 465
 jp: ´–›BRu‚Ó‚£@‰½‚Æ‚©—DŸBR@o—ˆ‚½‚İ‚½‚¢‚¾‚ÈvED
 
-en: Kiyo\BR"Phew! Looks like we managed to win."\ED
+en: Kiyo\BR"Phew!\BR  Looks like we managed to win."\ED
 
 es: Kiyo\BR"¡Ufff! Parece que logramos ganar."\ED
 
 466
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒD@—DŸ‚È‚Ì‚¾BBR@„‚½‚¿‚Í@‚·‚²‚¢‚Ì‚¾`vED
 
-en: Zatch\BR"
+en: Zatch\BR"Yeah! We won!\BR  We're pretty amazing~"\ED
 
-es: Zatch\BR"
+es: Zatch\BR"¡Sí, ganamos!\BR  Somos bastante increibles~"\ED
 
 467
 jp: ´–›BRu‹C‚ğ”²‚­‚È@ƒKƒbƒVƒ…IED
 
+en: Kiyo\BR"Don't get careless, Zatch!\ED
+
+es: Kiyo\BR"¡No te descuides, Zatch!\ED
+
 468
 jp: @‚±‚ê‚©‚ç‚Í@‚à‚Á‚Æ‹­‚¢BR@–‚•¨‚Æí‚Á‚Ä‚¢‚©‚È‚­‚Ä‚ÍBR@‚È‚ç‚È‚¢‚ñ‚¾IvED
+
+en: From now on we'll only be facing\BRagainst the strongest mamodo!"\ED
+
+//wow I can't get this to sound good
+es: ¡A partir de ahora sólo quedan\BRlos mamodo más fuertes!"\ED
 
 469
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@´–›I‚í‚©‚Á‚½‚Ì‚¾IvED
 
+en: Zatch\BR"Yeah, Kiyo, I understand!"\ED
+
+es: Zatch\BR"Sí, Kiyo, ¡te entiendo!"\ED
+
 470
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@M‚¶‚éSƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Resolute!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Resolute!\ED
 
 471
 jp: @‚Ql‚Æ‚à¬‚³‚¢‚È‚ª‚ç‚àBR@‚©‚©‚ñ‚ÉU‚ß‚é—E‹C‚ ‚ép‚ÍBR@Š´“®“I‚Å‚µ‚½vED
 
+en: Both of them, though small, showed\BRa courageous spirit when attacking\BRrelentlessly. It was truly moving."\ED
+
+es: Los dos, aunque pequeños,\BRdemostraron un espíritu valiente\BRal atacar continuamente.\LFFue verdaderamente conmovedor."\ED
+
 472
 jp: ƒŠ[ƒ„BRu“–‚½‚è‘O‚¾IBR@ŠÃ‚Á‚½‚ê‚É‚Í•‰‚¯‚È‚¢IvED
+
+en: Riya\BR"That's obvious!\BR  I'm not losing to a spoiled brat!"\ED
+
+es: Riya\BR"¡Pues claro!\BR  ¡No perderé ante un niño mimado!"\ED
 
 473
 jp: ƒAƒŠƒVƒGBRu‚»‚¤‚¾@ƒŠ[ƒ„B@–l’B‚ÍBR@Ÿ‚½‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚ñ‚¾vED
 
+en: Alishie\BR"That's right, Riya.\BR  We must win."\ED
+
+es: Alishie\BR"Así es, Riya.\BR  Esto lo tenemos que ganar."\ED
+
 474
 jp: ƒAƒŠƒVƒGBRu‚³‚ s‚±‚¤@ƒŠ[ƒ„B@BR@€”õ‚Í‚¢‚¢‚©‚¢HvED
+
+en: Alishie\BR"Well, we should be on our way, Riya.\BR  Are you ready?"\ED
+
+es: Alishie\BR"Bien, debemos irnos, Riya.\BR  Estás listo?"\ED
 
 475
 jp: ƒŠ[ƒ„BRu‚ ‚ @ƒAƒŠƒVƒGIvED
 
+en: Riya\BR"Yes, Alishie!"\ED
+
+es: Riya\BR"¡Sí, Alishie!"\ED
+
 476
 jp: ƒŠ[ƒ„BRu‚Ç‚ñ‚Èˆö“ï‚É‚Ô‚Â‚©‚Á‚Ä‚àBR@•K‚¸‘Å‚¿Ÿ‚Á‚Ä‚İ‚¹‚éIvED
+
+en: Riya\BR"No matter the obstacle,\BR  I will certainly overcome it all!"\ED
+
+es: Riya\BR"¡No importa el obstáculo,\BR  sea lo que sea lo superaré!"\ED
 
 477
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@h–½‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
+//Shukumei no Dengeki
+//Team Destiny's Lightning
+//Team Electric Fate
+//Team Destiny if EF doesn't fit
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Fate!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Fate!\ED
+
 478
 jp: @‚v“dŒ‚‚Í¦‚¢‚Å‚·‚Ë`BR@ƒrƒŠƒrƒŠƒrƒŠƒrƒŠ‚Å‚·BBR@í‚¤p‚à‚µ‚Ñ‚ê‚Ü‚·`vED
+
+//W-dengeki = Double lightning???
+//2nd sentence is literally biribiribiribiridesu
+en: Double lightning is amazing, huh~\BRIt's zapping and crackling all over\BRthe place.\LFThe battles were also electrifying~"\ED
+
+es: Doble fuerza eléctrica es genial~\BRHay mucho ¡BZZT! ¡BRRZZT! y ¡ZZZT!\BRen el área.\LFLas batallas también\BRfueron electrizantes."\ED
 
 479
 jp: ´–›BRu‚æ‚­‚â‚Á‚½ƒKƒbƒVƒ…IBR@‰´‚½‚¿‚Í‹­‚­‚È‚Á‚½vED
 
+en: Kiyo\BR"Good job, Zatch!\BR  We've become stronger."\ED
+
+es: Kiyo\BR"¡Buen trabajo, Zatch!\BR  Nos hemos vuelto más fuertes."\ED
+
 480
 jp: ƒKƒbƒVƒ…BRu‚¢‚â@‚±‚Ì‚Ü‚Ü‚Å‚ÍBR@ƒ_ƒ‚È‚Ì‚¾@´–›cvED
+
+en: Zatch\BR"No, this won't do, Kiyo..."\ED
+
+es: Zatch\BR"No, esto no es suficiente, Kiyo..."\ED
 
 481
 jp: ƒKƒbƒVƒ…BRu‚à‚Á‚Æ‹­‚­‚È‚ç‚È‚­‚Ä‚ÍBR@ƒ_ƒ‚È‚Ì‚¾IvED
 
+en: Zatch\BR"I have to become much stronger!"\ED
+
+es: Zatch\BR"¡Tengo que hacerme\BR  aún más fuerte!"\ED
+
 482
 jp: ƒKƒbƒVƒ…BRu‚ ‚ÌÒ‚ğBR@‚½‚¨‚·‚½‚ß‚É‚ÍcIIvED
+
+en: Zatch\BR"So I can defeat that guy...!!"\ED
+
+es: Zatch\BR"¡Para poder vencerlo...!"\ED
 
 483
 jp: ´–›BRu‚ ‚ @s‚±‚¤ƒKƒbƒVƒ…IBR@í‚¢‚ğ@I‚ç‚¹‚é‚½‚ß‚ÉIvED
 
+//the battle to become king
+en: Kiyo\BR"Yes, let's go, Zatch!\BR  Let's end this battle!"\ED
+
+es: Kiyo\BR"Sí. ¡Vamos, Zatch!\BR  ¡Hay que acabar con esta batalla!"\ED
+
 484
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@h–½‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
+
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Fate!\ED
+
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Fate!\ED
 
 485
 jp: @‚v“dŒ‚‚Í¦‚¢‚Å‚·‚Ë`BR@ƒrƒŠƒrƒŠƒrƒŠƒrƒŠ‚Å‚·BBR@í‚¤p‚à‚µ‚Ñ‚ê‚Ü‚·`vED
 
+// Just gonna copy the biribiri from Kirby & the Amazing Mirror (also by Dimps!)
+en: It's something else when there's twice\BRthe lightning~\LFBZZT! BRRRRZZT!\BRBRRRRZZPP! ZZZT!\LFTheir fighting spirit\BRis quite electrifying~"\ED
+
+es: Es otra cosa cuando hay doble la\BRelectricidad, no crees?~\LF¡BZZT! ¡BRRRRZZT!\BR¡BRRRRZZPP! ¡ZZZT!\LFLa energía es electrificante~"\ED
+
 486
 jp: ƒ[ƒIƒ“BRuƒ`ƒbcI@ƒUƒR‚Î‚©‚è‚ÅBR@‚­‚¾‚ç‚Ë‚¥‘å‰ï‚¾‚Á‚½‚ÈvED
+
+en: Zeno\BR"Bah...! Nothing but trash, this\BR  tournament was a waste of time."\ED
+
+es: Zeno\BR"¡Bah...! Sólo basura, este torneo ha\BR  sido una gran pérdida de tiempo."\ED
 
 487
 jp: ƒfƒ…ƒtƒH[BRu‚»‚¤‚¾‚È@ƒ[ƒIƒ“vED
 
+en: Dufort\BR"That's right, Zeno."\ED
+
+es: Dufort\BR"Así es, Zeno."\ED
+
 488
 jp: ƒfƒ…ƒtƒH[BRus‚±‚¤@ƒ[ƒIƒ“cvED
+
+en: Dufort\BR"Let's go, Zeno..."\ED
+
+es: Dufort\BR"Vámonos, Zeno..."\ED
 
 489
 jp: ƒ[ƒIƒ“BRu‚ ‚ BBR@‚»‚¤‚¾‚ÈBED
 
+en: Zeno\BR"Yes, let's get out of here.\ED
+
+es: Zeno\BR"Sí, larguémonos de aquí\BR  de una vez.\ED
+
 490
 jp: @‰´‚½‚¿‚Í@‚±‚ê‚©‚çBR@‚à‚Á‚Æ‚‚İ‚ğ‚ß‚´‚·BBR@’N‚É‚à“Í‚©‚È‚¢‚Ù‚Ç‚É‚ÈcvED
+
+en: From now on, let's aim much higher,\BRso high that no one can even dream\BRof reaching us..."\ED
+
+//not sure how to translate aim higher, it should be aspire
+//going literal for now
+es: Desde ahora, apuntemos más alto,\BRlo suficiente para que nadie piense\BRen la posibilidad de alcanzarnos..."\ED
 
 491
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚u—l‚ÌÊ^‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: You got the Zatch Collection item:\BRGlorious V Photo\ED
+
+es: Zatch Collection item:\BRFoto V\ED
+
 492
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚ušŒ^ƒ_ƒ“ƒ{[ƒ‹‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: 
+
+es: 
 
 493
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚ÌƒuƒŠ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
