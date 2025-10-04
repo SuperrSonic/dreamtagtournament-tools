@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 491
+ln: 503
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -649,7 +649,8 @@ es: Aquí duerme Ponygon cuando\BRestá en la casa de Kiyo.\ED
 jp: ¬‰®‚É‚ÍuƒEƒ}ƒSƒ“v‚ÆBR•\D‚ª‚©‚©‚°‚ç‚ê‚Ä‚¢‚éED
 
 //Raze
-en: The nameplate says "Ponygon",\BRwhether he likes it or not.\ED
+//I dont know if I should go with logical quotation
+en: The nameplate says "Ponygon,"\BRwhether he likes it or not.\ED
 
 es: La placa dice "Ponygon"\BRle guste o no.\ED
 
@@ -757,12 +758,16 @@ es: Su habilidad con los cuchillos\BRes como la de un pro.\ED
 101
 jp: ¶“k‚ğ‚È‚â‚Ü‚·‘Œê‚ÌBRæ¶@ƒ‚ƒ“ƒ‚ƒ“\HEARTED
 
+//seito o nayamasu kokugo no sensei monmon
+//this is probably-- Teacher Monmon, who captivates her students.
 en: Teacher who teases\BRher students.\HEART\ED
 
 es: Maestra que molesta\BRa sus estudiantes.\HEART\ED
 
 102
 jp: ƒIƒbƒzƒbƒzBR‚à‚Á‚Æƒ‚ƒ“ƒ‚ƒ“‚È‚³‚¢\HEARTED
+
+//ohoho motto monmon nasai
 
 // Need to rewatch episode 99 -- Miss Wriggle's Class is Now in Session
 en: Oh ho ho, be more annoyed.\HEART\ED
@@ -824,6 +829,7 @@ es: Un profesor de la universidad\BRdonde trabaja el padre de Kiyo.\ED
 110
 jp: X‚Ì—d¸‚Æ‚µ‚ÄBRX‚ÌˆÀ‘S‚ğ‚Ü‚à‚Á‚Ä‚¢‚éED
 
+//wow, this sounds bad, but that's what it says, mori twice...
 en: As a forest fairy, it's his duty\BRto protect the forest.\ED
 
 es: Como hada de bosque, es su\BRdeber proteger el bosque.\ED
@@ -863,7 +869,7 @@ es: Usa una PC para analizar\BRel poder del oponente.\ED
 115
 jp: ‚TË‚Ì—‚Ìq‚È‚ª‚çBR‹¥–\‚ÈƒKƒbƒVƒ…‚Ì“V“GED
 
-en: Although she is only 5, she is\BRZatch's sworn rival.\ED
+en: Although she is only 5 years old,\BRshe is Zatch's sworn rival.\ED
 
 es: Aunque solo tenga 5, es la\BRrival declarada de Zatch.\ED
 
@@ -3483,7 +3489,7 @@ jp: ƒKƒbƒVƒ…BRu‚à‚Á‚Æ‹­‚­‚È‚ç‚È‚­‚Ä‚ÍBR@ƒ_ƒ‚È‚Ì‚¾IvED
 
 en: Zatch\BR"I have to become much stronger!"\ED
 
-es: Zatch\BR"¡Tengo que hacerme\BR  aún más fuerte!"\ED
+es: Zatch\BR"¡Tengo que hacerme\BR  aun más fuerte!"\ED
 
 482
 jp: ƒKƒbƒVƒ…BRu‚ ‚ÌÒ‚ğBR@‚½‚¨‚·‚½‚ß‚É‚ÍcIIvED
@@ -3555,52 +3561,100 @@ es: Desde ahora, apuntemos más alto,\BRlo suficiente para que nadie piense\BRen 
 491
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚u—l‚ÌÊ^‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: You got the Zatch Collection item:\BRGlorious V Photo\ED
+en: Glorious V Photo\BRis unlocked in the Zatch Collection!\ED
 
-es: Zatch Collection item:\BRFoto V\ED
+es: Foto V\BR¡ha sido añadida al Zatch Collection!\ED
 
 492
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚ušŒ^ƒ_ƒ“ƒ{[ƒ‹‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: 
+en: V-shaped Cardboard\BRis unlocked in the Zatch Collection!\ED
 
-es: 
+es: Cartón en forma de V\BR¡ha sido añadido al Zatch Collection!\ED
 
 493
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚ÌƒuƒŠ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Penny's Yellowtail\BRis unlocked in the Zatch Collection!\ED
+
+es: Regalo de Penny\BR¡ha sido añadido al Zatch Collection!\ED
+
 494
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒcƒm‚İ‚ª‚«‚Ìƒuƒ‰ƒV‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Horn Brush\BRis unlocked in the Zatch Collection!\ED
+
+es: Cepillo de cuerno\BR¡ha sido añadido al Zatch Collection!\ED
 
 495
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒCƒ“ƒOƒ‰ƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Wine Glass\BRis unlocked in the Zatch Collection!\ED
+
+es: Copa de vino\BR¡ha sido añadida al Zatch Collection!\ED
+
 496
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŒ‚ÌÎ‚Ì‚©‚¯‚ç‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Stone of Moonlight Shard\BRis unlocked in the Zatch Collection!\ED
+
+es: Trozo de Stone of Moonlight\BR¡ha sido añadido al Zatch Collection!\ED
 
 497
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ‰‚Ì‚¨‚à‚¿‚á‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Laila's Toy\BRis unlocked in the Zatch Collection!\ED
+
+es: Juguete de Laila\BR¡ha sido añadido al Zatch Collection!\ED
+
 498
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒL[ƒX‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Keith's Cane\BRis unlocked in the Zatch Collection!\ED
+
+es: Bastón de Keith\BR¡ha sido añadido al Zatch Collection!\ED
 
 499
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚¢‚à“V‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Potato Tempura\BRis unlocked in the Zatch Collection!\ED
+
+es: Tempura de papa\BR¡ha sido añadido al Zatch Collection!\ED
+
 500
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚Ìô‚¢‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Riou's Staff\BRis unlocked in the Zatch Collection!\ED
+
+es: Bastón de Riou\BR¡ha sido añadido al Zatch Collection!\ED
 
 501
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒŠƒVƒG‚Ì…ƒKƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Alishie's Water Jar\BRis unlocked in the Zatch Collection!\ED
+
+es: Olla de agua de Alishie\BR¡ha sido añadida al Zatch Collection!\ED
+
 502
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒA[ƒX‚ÌŒ•‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Arth's Sword\BRis unlocked in the Zatch Collection!\ED
+
+es: Espada de Arth\BR¡ha sido añadida al Zatch Collection!\ED
 
 503
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒiƒƒKƒl‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Silly Glasses\BRis unlocked in the Zatch Collection!\ED
+
+es: Lentes graciosos\BR¡ha sido añadido al Zatch Collection!\ED
+
 504
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR–‚‚æ‚¯‚Ìƒ†ƒrƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: 
+
+es: 
 
 505
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‰Æ•ó‚Ìñ‚©‚´‚è‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
