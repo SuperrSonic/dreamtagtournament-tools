@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 503
+ln: 520
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -3645,67 +3645,143 @@ es: Espada de Arth\BR¡ha sido añadida al Zatch Collection!\ED
 503
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒiƒƒKƒl‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: Silly Glasses\BRis unlocked in the Zatch Collection!\ED
+en: Silly Glasses\BRare unlocked in the Zatch Collection!\ED
 
-es: Lentes graciosos\BR¡ha sido añadido al Zatch Collection!\ED
+es: Lentes graciosos\BR¡han sido añadidos al Zatch Collection!\ED
 
 504
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR–‚‚æ‚¯‚Ìƒ†ƒrƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: 
+en: Amulet Rings\BRare unlocked in the Zatch Collection!\ED
 
-es: 
+es: Anillos de amuleto\BR¡han sido añadidos al Zatch Collection!\ED
 
 505
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‰Æ•ó‚Ìñ‚©‚´‚è‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Heirloom Necklace\BRis unlocked in the Zatch Collection!\ED
+
+es: Collar valioso\BR¡ha sido añadido al Zatch Collection!\ED
+
 506
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒVƒFƒŠ[‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Sherry's Cane\BRis unlocked in the Zatch Collection!\ED
+
+es: Bastón de Sherry\BR¡ha sido añadido al Zatch Collection!\ED
 
 507
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹Ö’f‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Forbidden Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro prohibido\BR¡ha sido añadido al Zatch Collection!\ED
+
 508
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚fƒyƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: G-Pen\BRis unlocked in the Zatch Collection!\ED
+
+es: G-Pen\BR¡ha sido añadido al Zatch Collection!\ED
 
 509
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ“ƒ_ƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Bandana\BRis unlocked in the Zatch Collection!\ED
+
+//bandana also works
+es: Pañuelo\BR¡ha sido añadido al Zatch Collection!\ED
+
 510
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒ“ƒ‚ƒbƒN‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Hammock\BRis unlocked in the Zatch Collection!\ED
+
+es: Hamaca\BR¡ha sido añadida al Zatch Collection!\ED
 
 511
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR”o‹å‚Ì’Zû‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Haiku Strip\BRis unlocked in the Zatch Collection!\ED
+
+es: Tira de haikus\BR¡ha sido añadida al Zatch Collection!\ED
+
 512
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR”EÒ‰®•~‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Ninja House\BRis unlocked in the Zatch Collection!\ED
+
+es: Casa de ninja\BR¡ha sido añadida al Zatch Collection!\ED
 
 513
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒiƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Banana\BRis unlocked in the Zatch Collection!\ED
+
+//this fruit's name varies depending on the country
+es: Guineo\BR¡ha sido añadido al Zatch Collection!\ED
+
 514
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒeƒBƒI‚Ìƒpƒ“ƒc‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+//apollo justice flashbacks
+//If I were more dedicated I would add an option to change this item to Tia's Watch
+en: Tia's Underwear
+
+es: Ropa interior de Tia\BR¡ha sido añadida al Zatch Collection!\ED
 
 515
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚Ìƒpƒ“ƒc‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Penny's Underwear\BRis unlocked in the Zatch Collection!\ED
+
+//This is too long and a waste of space when dealing with the gfx...
+//I'd go with pantis de penny and call it a day.
+es: Ropa interior de Penny\BR¡ha sido añadida al Zatch Collection!\ED
+
 516
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‘åŠCŒb‚Ì‚b‚c‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Megumi Oumi's CD\BRis unlocked in the Zatch Collection!\ED
+
+es: CD de Megumi Oumi\BR¡ha sido añadido al Zatch Collection!\ED
 
 517
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒCƒhƒ‹ƒƒKƒl‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Idol Glasses\BRis unlocked in the Zatch Collection!\ED
+
+es: Gafas de ídolo\BR¡han sido añadidas al Zatch Collection!\ED
+
 518
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒtƒHƒ‹ƒSƒŒ‚Ì‚b‚c‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Folgore's CD\BRis unlocked in the Zatch Collection!\ED
+
+es: CD de Folgore\BR¡ha sido añadido al Zatch Collection!\ED
 
 519
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒLƒƒƒ“ƒ`ƒ‡ƒ‚Ìƒ‰ƒWƒJƒZ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+//rajikase = Radiocassette
+en: Kanchomé's Boombox\BRis unlocked in the Zatch Collection!\ED
+
+es: Boombox de Kanchomé\BR¡ha sido añadido al Zatch Collection!\ED
+
 520
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŠz‚ÌƒJƒM‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Forehead Key\BRis unlocked in the Zatch Collection!\ED
+
+//it'd be better if it's Llave de Faudo
+es: Llave de la frente\BR¡ha sido añadida al Zatch Collection!\ED
+
 521
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹ó”ò‚ÔƒuƒŠ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: 
+
+es: 
 
 522
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒ‡ƒ“ƒR‚ÌŒv‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
