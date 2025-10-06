@@ -708,9 +708,9 @@ es: El compañero de Rein\BRvive en una isla del sur.\ED
 94
 jp: ‚¨‚­‚Ñ‚å‚¤Ò‚¾‚ªBR–{“–‚Ì‹­‚³‚ğ‚à‚Á‚Ä‚¢‚éED
 
-en: A cowardly fellow, but he has\BRtrue strength.\ED
+en: A cowardly fellow, but he has\BRgreat inner strength.\ED
 
-es: Es un poco cobarde\BRpero tiene verdadera fuerza.\ED
+es: Es un poco cobarde pero tiene\BRverdadera fuerza interior.\ED
 
 95
 jp: —V‰€’n‚Å‘ål‹CIHBRŒ¶‚ÌƒX[ƒp[ƒq[ƒ[IED
@@ -759,10 +759,9 @@ es: Su habilidad con los cuchillos\BRes como la de un pro.\ED
 jp: ¶“k‚ğ‚È‚â‚Ü‚·‘Œê‚ÌBRæ¶@ƒ‚ƒ“ƒ‚ƒ“\HEARTED
 
 //seito o nayamasu kokugo no sensei monmon
-//this is probably-- Teacher Monmon, who captivates her students.
-en: Teacher who teases\BRher students.\HEART\ED
+en: Literature teacher who likes\BRto tease her students.\HEART\ED
 
-es: Maestra que molesta\BRa sus estudiantes.\HEART\ED
+es: Maestra de literatura que molesta\BRa sus estudiantes.\HEART\ED
 
 102
 jp: ƒIƒbƒzƒbƒzBR‚à‚Á‚Æƒ‚ƒ“ƒ‚ƒ“‚È‚³‚¢\HEARTED
@@ -770,9 +769,20 @@ jp: ƒIƒbƒzƒbƒzBR‚à‚Á‚Æƒ‚ƒ“ƒ‚ƒ“‚È‚³‚¢\HEARTED
 //ohoho motto monmon nasai
 
 // Need to rewatch episode 99 -- Miss Wriggle's Class is Now in Session
-en: Oh ho ho, be more annoyed.\HEART\ED
+// OK, I re-watched ep 99, wow, it's gotta be the worst filler I've seen
+// but anyway, the fansub translates monmon like this
+// FANSUB-- 'Well then, everyone... let's see some more agonizing!'
+// so it could be like this-- 'Oh ho ho, be more agonized'
 
-es: O-jo-jo, sean más monmon.\HEART\ED
+// but the English dub translates it as lovesickness
+// which doesn't seem accurate at all, but certainly makes more sense.
+// the same line in the dub is-- 'All right, everyone! It's time to do the lovesick dance!'
+// ...yeah
+// there's no mention of dancing anywhere but they do indeed dance... twice
+
+en: Oh ho ho, it's time to do\BRthe lovesick dance!\HEART\ED
+
+es: Oh-jo-jo, agonicen\BRun poquito más.\HEART\ED
 
 103
 jp: ŠwZƒCƒxƒ“ƒg‚Í•K‚¸Q‰ÁBR’†“cæ¶‚Ìˆ¤‚·‚é‰œ‚³‚ñED
@@ -837,7 +847,7 @@ es: Como hada de bosque, es su\BRdeber proteger el bosque.\ED
 111
 jp: ƒiƒ]ƒiƒ]”m‚Ì‚µ‚à‚×BR‚l‚i‚P‚Q‚ÌˆêˆõED
 
-en: A member of the Majestic 12,\BRfollower of Doctor Riddles.\ED
+en: A member of the Majestic 12,\BRloyal follower of Doctor Riddles.\ED
 
 es: Pertenece a los Majestic 12, una\BRseguidora leal del Doctor Riddles.\ED
 
@@ -1135,7 +1145,7 @@ jp: ŠoŒå‚µ‚ëAƒsƒˆ–›IBRƒ€`ƒ“Eƒƒ{ƒpƒ`ED
 
 en: Prepare yourself, Piyo!\BRMoon-Robo-Power~!\ED
 
-es: ¡Preparate, Piyo!\BR¡Por el poder de Robo-Luna~!\ED
+es: ¡Prepárate, Piyo!\BR¡Por el poder de Robo-Luna~!\ED
 
 153
 jp: ƒR[ƒ‰ƒ‹‚p‚ªô•¶‚Å•ÏŒ`BR“dŒ‚‚È‚ñ‚Äƒwƒbƒ`ƒƒƒ‰IED
@@ -1673,7 +1683,7 @@ es: Kiyo\BR"Sí, eso parece, Megumi.\BR  Bien, ¡ataquemos con todo!"\ED
 228
 jp: ƒeƒBƒIBRuƒKƒbƒVƒ…I„‚½‚¿‚Ì—Í‚ğBR@Œ©‚¹‚Ä‚ ‚°‚Ü‚µ‚åIvED
 
-en: Tia\BR"Zatch! Let's show them\BR  our power!"\ED
+en: Tia\BR"Zatch! Let's show them\BR  what our power is capable of!"\ED
 
 es: Tia\BR"¡Zatch! ¡Demostrémosle lo que\BR  nuestro poder puede hacer!"\ED
 
@@ -2358,7 +2368,7 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!"\E
 325
 jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
 
-en: Awesome teamwork with a great balance in offensive and defensive power! Congratulations on your victory!!!"\ED
+en: Awesome teamwork with a great\BRbalance in offense and defense!\BRCongratulations on your victory!!!"\ED
 
 es: ¡Excelente trabajo en equipo, con un buen balance en ataque y defensa! ¡Felicidades por la victoria!"\ED
 
@@ -2379,7 +2389,7 @@ es: Kiyo\BR"¡Bien hecho, Zatch!"\ED
 328
 jp: ´–›BRu‚æ[‚µ@ƒKƒbƒVƒ…IŸ‚ÍBR@‚â‚³‚µ‚¢‰¤—l‚ğ‚ß‚´‚·‚¼IvED
 
-en: Kiyo\BR"All right, Zatch! Next, let's aim towards making you a kind king!"\ED
+en: Kiyo\BR"All right, Zatch! Next, let's aim\BR  towards making you a kind king!"\ED
 
 es: Kiyo\BR"¡OK, Zatch! Luchemos para hacerte un rey benevolente!"\ED
 
@@ -3718,15 +3728,15 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒiƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Banana\BRis unlocked in the Zatch Collection!\ED
 
-//this fruit's name varies depending on the country
-es: Guineo\BR¡ha sido añadido al Zatch Collection!\ED
+//this fruit's name varies depending on the country, 'guineo' in my case
+es: Banana\BR¡ha sido añadida al Zatch Collection!\ED
 
 514
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒeƒBƒI‚Ìƒpƒ“ƒc‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 //apollo justice flashbacks
 //If I were more dedicated I would add an option to change this item to Tia's Watch
-en: Tia's Underwear
+en: Tia's Underwear\BRis unlocked in the Zatch Collection!\ED
 
 es: Ropa interior de Tia\BR¡ha sido añadida al Zatch Collection!\ED
 
