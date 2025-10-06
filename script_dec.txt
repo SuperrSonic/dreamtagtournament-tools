@@ -1690,7 +1690,7 @@ es: Tia\BR"¡Zatch! ¡Demostrémosle lo que\BR  nuestro poder puede hacer!"\ED
 229
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@—Í‚ğ‡‚í‚¹‚ÄŸ‚Â‚Ì‚¾IvED
 
-en: Zatch\BR"Yeah! Let's combine our power\BR  and win this battle!"\ED
+en: Zatch\BR"Yeah! Let's combine our strength\BR  and win this battle!"\ED
 
 es: Zatch\BR"¡Sí! Combinemos nuestra fuerza\BR  y ganemos la batalla!"\ED
 
@@ -2370,7 +2370,7 @@ jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤III
 
 en: Awesome teamwork with a great\BRbalance in offense and defense!\BRCongratulations on your victory!!!"\ED
 
-es: ¡Excelente trabajo en equipo, con un buen balance en ataque y defensa! ¡Felicidades por la victoria!"\ED
+es: ¡Excelente trabajo en equipo, con un\BRbuen balance en ataque y defensa!\BR¡Felicidades por la victoria!"\ED
 
 326
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒD@‚ ‚è‚ª‚Æ‚¤‚È‚Ì‚¾IBR@—DŸ‚µ‚½‚Ì‚¾@´–›IvED
@@ -2391,7 +2391,7 @@ jp: ´–›BRu‚æ[‚µ@ƒKƒbƒVƒ…IŸ‚ÍBR@‚â‚³‚µ‚¢‰¤—l‚ğ‚ß‚´‚·‚¼IvED
 
 en: Kiyo\BR"All right, Zatch! Next, let's aim\BR  towards making you a kind king!"\ED
 
-es: Kiyo\BR"¡OK, Zatch! Luchemos para hacerte un rey benevolente!"\ED
+es: Kiyo\BR"¡OK, Zatch! Ahora luchemos para\BR  hacerte un rey benevolente!"\ED
 
 329
 jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@‚ª‚ñ‚Î‚é‚Ì‚¾IIIvED
@@ -2410,16 +2410,16 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!"\E
 331
 jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
 
-en: Very good work balancing attack and defense! Congratulations on your victory!!!"\ED
+en: Very nice work balancing\BRyour attacks and defenses!\BRCongratulations on your victory!!!"\ED
 
-es: ¡Buen trabajo en balanciar la ofensiva con la defensiva! ¡Felicidades por la victoria!"\ED
+es: ¡Buen trabajo en balanciar\BRla ofensiva con la defensiva!\BR¡Felicidades por la victoria!"\ED
 
 332
 jp: ƒeƒBƒIBRu‚ ‚Á‚½‚è‘O‚æIBR@„‚à‹­‚­‚È‚Á‚½‚ñ‚¾‚©‚çIvED
 
-en: Tia\BR"Of course! I've also become strong!"\ED
+en: Tia\BR"Of course!\BR  I've also become strong!"\ED
 
-es: Tia\BR"¡Claro! ¡Yo también me he puesto fuerte!"\ED
+es: Tia\BR"¡Claro! ¡Yo también\BR  me he puesto fuerte!"\ED
 
 333
 jp: ŒbBRu‚»‚¤‚Ë@ƒeƒBƒIvED
@@ -2431,23 +2431,23 @@ es: Megumi\BR"Así es, Tia."\ED
 334
 jp: ƒeƒBƒIBRu‚±‚Ì¨‚¢‚Å@c‚è‚Ì–‚•¨‚ğBR@‚â‚Á‚Â‚¯‚Ä‚â‚è‚Ü‚µ‚åIvED
 
-en: Tia\BR"At this rate, we'll take down all the remaining mamodo!"\ED
+en: Tia\BR"At this rate, we'll take down all\BR  the remaining mamodo!"\ED
 
-es: Tia\BR"A este punto, podemos derrotar a todos los mamodo que queden!"\ED
+es: Tia\BR"A este ritmo, derrotaremos\BR  a todos los mamodo que queden!"\ED
 
 335
 jp: ŒbBRu‘Ò‚Á‚Ä@ƒeƒBƒIB@ƒhƒ‰ƒ}‚ÌBR@û˜^‚ªn‚Ü‚Á‚¿‚á‚¤IvED
 
-en: Megumi\BR"Wait, Tia.\LFMegumi\BR  The filming of the drama is about start!"\ED
+en: Megumi\BR"Wait, Tia...\LFThe filming of the TV drama\BRwill be starting very soon!"\ED
 
-es: Megumi\BR"Espera, Tia.\LFMegumi\BR  ¡La grabación de la novela\BR  esta a punto de empezar!"\ED
+es: Megumi\BR"Espera, Tia...\LF¡La grabación de la novela\BResta a punto de empezar!"\ED
 
 336
 jp: ƒeƒBƒIBRu‘å•Ï@‹}‚ª‚È‚«‚áI@‚ `IBR@ƒoƒX‚ª”­Ô‚µ‚¿‚á‚¤IvED
 
 en: Tia\BR"Oh no! We have to hurry! Ah~!"\ED
 
-es: Tia\BR"¡No puede ser! ¡Hay que darse prisa! ¡Aaa~!"\ED
+es: Tia\BR"¡No puede ser!\BR  ¡Hay que darse prisa! ¡Aaa~!"\ED
 
 337
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRímƒ`[ƒ€‚¾IED
