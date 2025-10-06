@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 520
+ln: 525
 
 1
 jp: Ｖ様が赤ちゃんのBR頃のカワイイ写真ED
@@ -3789,24 +3789,44 @@ es: Llave de la frente\BR｡ha sido adida al Zatch Collection!\ED
 521
 jp: ガッシュコレクションBR空飛ぶブリをBR手に入れました！ED
 
-en: 
+en: Flying Yellowtail\BRis unlocked in the Zatch Collection!\ED
 
-es: 
+es: Buri Volador\BR｡ha sido adido al Zatch Collection!\ED
 
 522
 jp: ガッシュコレクションBRビョンコの時計をBR手に入れました！ED
 
+en: Byonko's Clock\BRis unlocked in the Zatch Collection!\ED
+
+es: Reloj de Byonko\BR｡ha sido adido al Zatch Collection!\ED
+
 523
 jp: ガッシュコレクションBRスーパー１をBR手に入れました！ED
+
+en: Super-1\BRis unlocked in the Zatch Collection!\ED
+
+es: Super-1\BR｡ha sido adido al Zatch Collection!\ED
 
 524
 jp: ガッシュコレクションBRセッコロの人形をBR手に入れました！ED
 
+en: Kory's Doll\BRis unlocked in the Zatch Collection!\ED
+
+es: Muco de Kory\BR｡ha sido adido al Zatch Collection!\ED
+
 525
 jp: ガッシュコレクションBR万能ナイフをBR手に入れました！ED
 
+en: Knife\BRis unlocked in the Zatch Collection!\ED
+
+es: Cuchillo\BR｡ha sido adido al Zatch Collection!\ED
+
 526
 jp: ガッシュコレクションBR鈴芽のおまもりをBR手に入れました！ED
+
+en: Suzy's Charm
+
+es: Charm de Suzy
 
 527
 jp: ガッシュコレクションBRウソ発見器をBR手に入れました！ED
