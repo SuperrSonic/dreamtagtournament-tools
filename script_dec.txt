@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 525
+ln: 550
 
 1
 jp: Ｖ様が赤ちゃんのBR頃のカワイイ写真ED
@@ -3828,95 +3828,196 @@ es: Muco de Kory\BR｡ha sido adido al Zatch Collection!\ED
 525
 jp: ガッシュコレクションBR万能ナイフをBR手に入れました！ED
 
-en: Knife\BRis unlocked in the Zatch Collection!\ED
+en: Chop Choppin' Chopper Knife\BRis unlocked in the Zatch Collection!\ED
 
 es: Cuchillo\BR｡ha sido adido al Zatch Collection!\ED
 
 526
 jp: ガッシュコレクションBR鈴芽のおまもりをBR手に入れました！ED
 
-en: Suzy's Charm
+en: Suzy's Charm\BRis unlocked in the Zatch Collection!\ED
 
-es: Charm de Suzy
+es: Charm de Suzy\BR｡ha sido adido al Zatch Collection!\ED
 
 527
 jp: ガッシュコレクションBRウソ発見器をBR手に入れました！ED
 
-en: 
+en: Lie Detector\BRis unlocked in the Zatch Collection!\ED
 
-es: 
+es: Detector de mentiras\BR｡ha sido adido al Zatch Collection!\ED
 
 528
 jp: ガッシュコレクションBRニセ洋ナシちゃんをBR手に入れました！ED
 
+en: Fake Princess Pear\BRis unlocked in the Zatch Collection!\ED
+
+es: Princess Pear falsa\BR｡ha sido adida al Zatch Collection!\ED
+
 529
 jp: ガッシュコレクションBRリンゴメットンちゃんをBR手に入れました！ED
+
+//ringo metton chan, idk what metton refers to
+//and this item isn't mentioned on the show itself I think.
+//it appears in the manga and the show's eye-catches.
+en: Apple Doll\BRis unlocked in the Zatch Collection!\ED
+
+es: Figura de manzana\BR｡ha sido adida al Zatch Collection!\ED
 
 530
 jp: ガッシュコレクションBRガッシュロボをBR手に入れました！ED
 
+en: Robo Zatch\BRis unlocked in the Zatch Collection!\ED
+
+es: Robo Zatch\BR｡ha sido adido al Zatch Collection!\ED
+
 531
 jp: ガッシュコレクションBRカニのおみやげをBR手に入れました！ED
+
+en: Crab Souvenir\BRis unlocked in the Zatch Collection!\ED
+
+es: Suvenir de cangrejo\BR｡ha sido adido al Zatch Collection!\ED
 
 532
 jp: ガッシュコレクションBRタカのおみやげをBR手に入れました！ED
 
+en: Hawk Souvenir\BRis unlocked in the Zatch Collection!\ED
+
+es: Suvenir de gavil疣\BR｡ha sido adido al Zatch Collection!\ED
+
 533
 jp: ガッシュコレクションBRウマゴンの小屋をBR手に入れました！ED
+
+//a doghouse is not a hut, I guess
+en: Ponygon's Hut\BRis unlocked in the Zatch Collection!\ED
+
+es: Casita de Ponygon\BR｡ha sido adida al Zatch Collection!\ED
 
 534
 jp: ガッシュコレクションBRシェミラ像をBR手に入れました！ED
 
+//ep27
+en: Shemira Statue\BRis unlocked in the Zatch Collection!\ED
+
+es: Estatua Shemira\BR｡ha sido adida al Zatch Collection!\ED
+
 535
 jp: ガッシュコレクションBRタマゴヤキをBR手に入れました！ED
+
+en: Omelette\BRis unlocked in the Zatch Collection!\ED
+
+es: Tamagoyaki\BR｡ha sido adido al Zatch Collection!\ED
 
 536
 jp: ガッシュコレクションBRアポロをBR手に入れました！ED
 
+en: Apollo\BRis unlocked in the Zatch Collection!\ED
+
+es: Apollo\BR｡ha sido adido al Zatch Collection!\ED
+
 537
 jp: ガッシュコレクションBRカイルをBR手に入れました！ED
+
+en: Kyle\BRis unlocked in the Zatch Collection!\ED
+
+es: Kyle\BR｡ha sido adido al Zatch Collection!\ED
 
 538
 jp: ガッシュコレクションBRヒーローババーンをBR手に入れました！ED
 
+en: Hero Ba-ban\BRis unlocked in the Zatch Collection!\ED
+
+es: Heroe Ba-ban\BR｡ha sido adido al Zatch Collection!\ED
+
 539
 jp: ガッシュコレクションBRカマキリジョーをBR手に入れました！ED
+
+en: Praying Mantis Joe\BRis unlocked in the Zatch Collection!\ED
+
+es: Praying Mantis Joe\BR｡ha sido adido al Zatch Collection!\ED
 
 540
 jp: ガッシュコレクションBR水野鈴芽をBR手に入れました！ED
 
+en: Suzy Mizuno\BRis unlocked in the Zatch Collection!\ED
+
+es: Suzy Mizuno\BR｡ha sido adida al Zatch Collection!\ED
+
 541
 jp: ガッシュコレクションBRモンモン先生をBR手に入れました！ED
+
+en: Miss Wriggle\BRis unlocked in the Zatch Collection!\ED
+
+es: Miss Wriggle\BR｡ha sido adida al Zatch Collection!\ED
 
 542
 jp: ガッシュコレクションBRワイフをBR手に入れました！ED
 
+en: Teacher's Wife\BRis unlocked in the Zatch Collection!\ED
+
+es: Teacher's Wife\BR｡ha sido adida al Zatch Collection!\ED
+
 543
 jp: ガッシュコレクションBR雷句先生をBR手に入れました！ED
+
+en: Raiku-Sensei\BRis unlocked in the Zatch Collection!\ED
+
+es: Raiku-Sensei\BR｡ha sido adido al Zatch Collection!\ED
 
 544
 jp: ガッシュコレクションBRエル・シーバスをBR手に入れました！ED
 
+en: Elle Chivas\BRis unlocked in the Zatch Collection!\ED
+
+es: Elle Chivas\BR｡ha sido adida al Zatch Collection!\ED
+
 545
 jp: ガッシュコレクションBRダルタニアン教授をBR手に入れました！ED
+
+en: Prof. Dartagnan\BRis unlocked in the Zatch Collection!\ED
+
+es: Prof. Dartagnan\BR｡ha sido adido al Zatch Collection!\ED
 
 546
 jp: ガッシュコレクションBRビッグ・ボインをBR手に入れました！ED
 
+en: Lady Susan\BRis unlocked in the Zatch Collection!\ED
+
+es: Lady Susan\BR｡ha sido adida al Zatch Collection!\ED
+
 547
 jp: ガッシュコレクションBRグラブをBR手に入れました！ED
+
+en: Grubb\BRis unlocked in the Zatch Collection!\ED
+
+es: Grubb\BR｡ha sido adido al Zatch Collection!\ED
 
 548
 jp: ガッシュコレクションBRナオミちゃんをBR手に入れました！ED
 
+en: Naomi\BRis unlocked in the Zatch Collection!\ED
+
+es: Naomi\BR｡ha sido adida al Zatch Collection!\ED
+
 549
 jp: ガッシュコレクションBR近所の犬をBR手に入れました！ED
+
+en: Neighborhood Dog\BRis unlocked in the Zatch Collection!\ED
+
+es: Perro del vecindario\BR｡ha sido adido al Zatch Collection!\ED
 
 550
 jp: ガッシュコレクションBRガブリオをBR手に入れました！ED
 
+en: Gabriel\BRis unlocked in the Zatch Collection!\ED
+
+es: Gabriel\BR｡ha sido adido al Zatch Collection!\ED
+
 551
 jp: ガッシュコレクションBRロップスをBR手に入れました！ED
+
+en: 
+
+es: 
 
 552
 jp: ガッシュコレクションBRビョンコをBR手に入れました！ED
