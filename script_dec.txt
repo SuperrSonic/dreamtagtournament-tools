@@ -908,7 +908,8 @@ es: Amigo de Zatch.\BREl look de samurai le queda bien.\ED
 119
 jp: “®•¨‰€‚ğ“¦‚°o‚µ‚Ä‚«‚½BR‘å‚«‚Èƒ‰ƒCƒIƒ“ED
 
-en: A big lion that escaped\BRfrom the zoo.\ED
+//using Raze's videos for this one
+en: A huge lion that escaped\BRfrom the Mochinoki zoo.\ED
 
 es: Un león muy grande\BRque se escapó del zoológico.\ED
 
@@ -2480,7 +2481,7 @@ es: Folgore\BR"¡Así es, Kanchomé!\ED
 341
 jp: @‚±‚Ì–³“G‚ÌƒtƒHƒ‹ƒSƒŒ—l‚ªBR@‚¢‚ê‚Î‘åä•v‚¾IBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒnIvED
 
-en: No matter the trouble, you can always\BRcount on the invincible Parco Folgore\BRto be by your side! Ha ha ha ha ha!"\ED
+en: No matter the trouble, you can always\BRcount on the invincible Parco Folgore\BRto be by your side! Ha ha ha ha!"\ED
 
 es: Sin importar el problema, siempre\BRpuedes contar con el invencible\BR¡Parco Folgore! ¡Ja, ja, ja, ja, ja!"\ED
 
@@ -2493,6 +2494,11 @@ es: Folgore\BR"Regresemos a casa, Kanchomé.\BR  ¡Las fanáticas están esperando!"
 
 343
 jp: ƒLƒƒƒ“ƒ`ƒ‡ƒBRu‚¤‚ñ@ƒtƒHƒ‹ƒSƒŒIBR@–l‚½‚¿‚ÍƒXƒ^[‚¾‚à‚ñ‚ËIvED
+
+// Raze's videos avoided using 'we'
+// and that makes sense because Kanchome is not a star
+// but he says 'bokutachi wa suuta da mon ne!'
+// so I feel like I must...
 
 en: Kanchomé\BR"Yes, Folgore!\BR  We're superstars, after all!"\ED
 
@@ -2508,9 +2514,9 @@ es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tiny Soldiers!
 345
 jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@v‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
 
-en: Wow! I never imagined you guys\BRwould win. You've gotten stronger,\BRhaven't you~?"\ED
+en: Wow! I didn't think you'd win.\BRYou're actually quite strong,\BRaren't you~?"\ED
 
-es: Nunca imaginé que ganarían,\BRse han vuelto muy fuertes,\BR¿no es así~?"\ED
+es: No pensé que la victoria sería\BRde ustedes, son muy fuertes ¿no~?"\ED
 
 346
 jp: ƒLƒbƒhBRu—DŸ‚È‚ñ‚ÄƒJƒ“ƒ^ƒ“‚³IBR@‚Ë@”mvED
@@ -2522,7 +2528,7 @@ es: Kido\BR"¡Ganar es fácil! ¿Verdad, doctor?"\ED
 347
 jp: ƒiƒ]ƒiƒ]”mBRu‚İ‚ñ‚È‚Ì‹¦—Í‚ª‚ ‚Á‚½‚©‚çBR@—DŸ‚Å‚«‚½‚Ì‚¾‚æ@ƒLƒbƒhvED
 
-en: Doctor Riddles\BR"Our victory today is thanks to the\BR  combined efforts of everyone, Kido."\ED
+en: Doctor Riddles\BR"Our victory today is thanks to the\BR  key efforts of everyone, Kido."\ED
 
 es: Doctor Riddles\BR"Nuestra victoria es gracias\BR  a las fuerzas de todos, Kido."\ED
 
@@ -2536,16 +2542,21 @@ es: Kido\BR"Me pregunto si me estoy volviendo\BR  más como usted, doctor."\ED
 349
 jp: ƒiƒ]ƒiƒ]”mBRuƒnƒbƒnƒbƒn@‚±‚ê‚ª‚Å‚«‚ñ‚ÆBR@ˆêl‘O‚¶‚á‚È‚¢‚¼ƒLƒbƒhIvED
 
-en: Doctor Riddles\BR"Ha ha ha! But if that happens\BR  then you won't be Kido anymore!"\ED
+// based on Raze's video translation
+// Raze used 'my boy' for Kido which is a nice touch
+// and the 'sorry' is too but I'd rather keep it all on the same text box
+// actually, no, let's not compromise. There's a lot of rom space to go crazy with the script anyways
 
-es: Doctor Riddles\BR"Ja, ja, ja, pero si eres más como yo\BR  ¡ya no serás Kido!"\ED
+en: Doctor Riddles\BR"Ha ha ha, sorry...!\LFYou won't be a true man until\BRyou're able to do this, my boy!"\ED
+
+es: Doctor Riddles\BR"Ja, ja, ja! Lo siento, Kido...\LFPero no podrás ser un verdadero\BRhombre hasta que puedas hacer esto,\BRmi chico!"\ED
 
 350
 jp: ƒLƒbƒhBRu‚í[[[@‚·‚²‚¢‚â”mIBR@‚æ[‚µ@‚ª‚ñ‚Î‚é‚¼[IvED
 
-en: Kido\BR"Wow--- that's amazing, Doctor!\BR  All right, I'll keep doing my best!"\ED
+en: Kido\BR"Wow--- that's amazing, Doctor!\BR  OK, gotta keep doing my best!"\ED
 
-es: Kido\BR"¡Vaya--- que genial, doctor!\BR  ¡Bien, daré el máximo!"\ED
+es: Kido\BR"¡Vaya--- que genial, doctor!\BR  ¡Bien, seguiré dando el máximo!"\ED
 
 351
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
@@ -3830,6 +3841,10 @@ es: Charm de Suzy
 
 527
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒEƒ\”­Œ©Ší‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: 
+
+es: 
 
 528
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒjƒZ—mƒiƒV‚¿‚á‚ñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
