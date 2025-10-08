@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 550
+ln: 590
 
 1
 jp: ‚u—l‚ªÔ‚¿‚á‚ñ‚ÌBR ‚ÌƒJƒƒCƒCÊ^ED
@@ -370,7 +370,7 @@ jp: ‚±‚Ìƒpƒ“ƒc‚ğƒ‚ƒ‚ƒ“‚ÉBR‚Æ‚ç‚ê‚Ä‘å–\‘–IED
 
 en: Momon took these and ran off!\ED
 
-es: ¡El cabrón de Momón se las robó!\ED
+es: ¡El tonto de Momon se las robó!\ED
 
 49
 jp: ˆ¤‚·‚éƒKƒbƒVƒ…‚¿‚á‚ñ‚ÌBRƒ}[ƒN‚ª“ü‚Á‚½ƒpƒ“ƒcED
@@ -4015,132 +4015,298 @@ es: Gabriel\BR¡ha sido añadido al Zatch Collection!\ED
 551
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒbƒvƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: 
+en: Rops\BRis unlocked in the Zatch Collection!\ED
 
-es: 
+es: Rops\BR¡ha sido añadido al Zatch Collection!\ED
 
 552
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒ‡ƒ“ƒR‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Byonko\BRis unlocked in the Zatch Collection!\ED
+
+es: Byonko\BR¡ha sido añadido al Zatch Collection!\ED
+
 553
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒRƒ‹ƒ‹‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Kolulu\BRis unlocked in the Zatch Collection!\ED
+
+es: Kolulu\BR¡ha sido añadida al Zatch Collection!\ED
 
 554
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒj[‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Danny\BRis unlocked in the Zatch Collection!\ED
+
+es: Danny\BR¡ha sido añadido al Zatch Collection!\ED
+
 555
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Rein\BRis unlocked in the Zatch Collection!\ED
+
+es: Rein\BR¡ha sido añadido al Zatch Collection!\ED
 
 556
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒRƒ€‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Reycom\BRis unlocked in the Zatch Collection!\ED
+
+es: Reycom\BR¡ha sido añadido al Zatch Collection!\ED
+
 557
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒˆƒ|ƒ|‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Yopopo\BRis unlocked in the Zatch Collection!\ED
+
+es: Yopopo\BR¡ha sido añadido al Zatch Collection!\ED
 
 558
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ}ƒ‹ƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Maruss\BRis unlocked in the Zatch Collection!\ED
+
+es: Maruss\BR¡ha sido añadido al Zatch Collection!\ED
+
 559
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ‹ƒgƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Baltro\BRis unlocked in the Zatch Collection!\ED
+
+es: Baltro\BR¡ha sido añadido al Zatch Collection!\ED
 
 560
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒuƒmƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Robnos\BRis unlocked in the Zatch Collection!\ED
+
+es: Robnos\BR¡ha sido añadido al Zatch Collection!\ED
+
 561
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒfƒ‚ƒ‹ƒg‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Demolt\BRis unlocked in the Zatch Collection!\ED
+
+es: Demolt\BR¡ha sido añadido al Zatch Collection!\ED
 
 562
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒ€[ƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Pamoon\BRis unlocked in the Zatch Collection!\ED
+
+es: Pamoon\BR¡ha sido añadido al Zatch Collection!\ED
+
 563
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒcƒ@ƒIƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Tsao-lon\BRis unlocked in the Zatch Collection!\ED
+
+es: Tsao-lon\BR¡ha sido añadido al Zatch Collection!\ED
 
 564
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒxƒ‹ƒMƒ€E‚dE‚n‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Belgim E.O.\BRis unlocked in the Zatch Collection!\ED
+
+es: Belgim E.O.\BR¡ha sido añadido al Zatch Collection!\ED
+
 565
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒR[ƒ‰ƒ‹‚p‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Koral Q\BRis unlocked in the Zatch Collection!\ED
+
+es: Koral Q\BR¡ha sido añadido al Zatch Collection!\ED
 
 566
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒ{ƒ‹ƒN‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Roboruk\BRis unlocked in the Zatch Collection!\ED
+
+es: Roboruk\BR¡ha sido añadido al Zatch Collection!\ED
+
 567
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ€ƒƒ€Eƒƒ{ƒ‹ƒN‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Murom Roboruk\BRis unlocked in the Zatch Collection!\ED
+
+es: Murom Roboruk\BR¡ha sido añadido al Zatch Collection!\ED
 
 568
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒ“ƒWƒ‹ƒhEƒƒuƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Ganjirdo Roboron\BRis unlocked in the Zatch Collection!\ED
+
+es: Ganjirdo Roboron\BR¡ha sido añadido al Zatch Collection!\ED
+
 569
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ‚ƒ‚ƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Momon\BRis unlocked in the Zatch Collection!\ED
+
+es: Momon\BR¡ha sido añadido al Zatch Collection!\ED
 
 570
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Riou\BRis unlocked in the Zatch Collection!\ED
+
+es: Riou\BR¡ha sido añadido al Zatch Collection!\ED
+
 571
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒUƒ‰ƒC‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Buzarai\BRis unlocked in the Zatch Collection!\ED
+
+es: Buzarai\BR¡ha sido añadido al Zatch Collection!\ED
 
 572
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒsƒvƒŠƒI‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Purio\BRis unlocked in the Zatch Collection!\ED
+
+es: Purio\BR¡ha sido añadido al Zatch Collection!\ED
+
 573
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒUƒ‹ƒ`ƒ€‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Zaruchim\BRis unlocked in the Zatch Collection!\ED
+
+es: Zaruchim\BR¡ha sido añadido al Zatch Collection!\ED
 
 574
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ`ƒFƒŠƒbƒVƒ…‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Cherish\BRis unlocked in the Zatch Collection!\ED
+
+es: Cherish\BR¡ha sido añadido al Zatch Collection!\ED
+
 575
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒfƒ…ƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+//rodyuu
+en: Rodeaux\BRis unlocked in the Zatch Collection!\ED
+
+es: Rodeaux\BR¡ha sido añadido al Zatch Collection!\ED
 
 576
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ]ƒ{ƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Zoboron\BRis unlocked in the Zatch Collection!\ED
+
+//actually female
+es: Zoboron\BR¡ha sido añadida al Zatch Collection!\ED
+
 577
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒXƒMƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Sugino\BRis unlocked in the Zatch Collection!\ED
+
+es: Sugino\BR¡ha sido añadido al Zatch Collection!\ED
 
 578
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒ‹ƒ‚ƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Dalmos\BRis unlocked in the Zatch Collection!\ED
+
+es: Dalmos\BR¡ha sido añadido al Zatch Collection!\ED
+
 579
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒS[ƒŒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Goren of the Stone\BRis unlocked in the Zatch Collection!\ED
+
+es: Goren\BR¡ha sido añadido al Zatch Collection!\ED
 
 580
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ]ƒtƒBƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Zofis\BRis unlocked in the Zatch Collection!\ED
+
+es: Zofis\BR¡ha sido añadido al Zatch Collection!\ED
+
 581
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Penny's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Penny\BR¡ha sido añadido al Zatch Collection!\ED
 
 582
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ‰‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Laila's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Laila\BR¡ha sido añadido al Zatch Collection!\ED
+
 583
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒŠ[‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Bari's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Bari\BR¡ha sido añadido al Zatch Collection!\ED
 
 584
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒNƒgƒŠ[ƒ€‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Victoream's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Victoream\BR¡ha sido añadido al Zatch Collection!\ED
+
 585
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒ‰ƒS‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Brago's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Brago\BR¡ha sido añadido al Zatch Collection!\ED
 
 586
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒA[ƒX‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Arth's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Arth\BR¡ha sido añadido al Zatch Collection!\ED
+
 587
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒL[ƒX‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Keith's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Keith\BR¡ha sido añadido al Zatch Collection!\ED
 
 588
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠ[ƒ„‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: Riya's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Riya\BR¡ha sido añadido al Zatch Collection!\ED
+
 589
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ[ƒIƒ“‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
+
+en: Zeno's Book\BRis unlocked in the Zatch Collection!\ED
+
+es: Libro de Zeno\BR¡ha sido añadido al Zatch Collection!\ED
 
 590
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚R‚Â‚Ìƒoƒ‹ƒJƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+en: The 3 Volcans\BRis unlocked in the Zatch Collection!\ED
+
+es: Los 3 Volcans\BR¡han sido añadidos al Zatch Collection!\ED
+
 591
 jp: ƒhƒŠ[ƒ€ƒ^ƒbƒO‚ÌØ‚ğƒQƒbƒgIIBR@@@@@@‚³‚ç‚ÉcED
 
+en: You got the Dream Tag Proof!!\BR    Furthermore...\ED
+
+es: ¡Conseguiste la medalla Dream Tag!\BR    y también...\ED
+
 592
 jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒrƒNƒgƒŠ[ƒ€‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
+
+en: 
+
+es: 
 
 593
 jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒpƒeƒB‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
