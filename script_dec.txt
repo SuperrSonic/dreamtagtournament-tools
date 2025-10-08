@@ -14,7 +14,7 @@
 
 #alt 173 excl, 168 ques
 
-ln: 590
+ln: 616
 
 1
 jp: Ｖ様が赤ちゃんのBR頃のカワイイ写真ED
@@ -4297,86 +4297,188 @@ es: Los 3 Volcans\BR｡han sido adidos al Zatch Collection!\ED
 591
 jp: ドリームタッグの証をゲット！！BR　　　　　　さらに…ED
 
-en: You got the Dream Tag Proof!!\BR    Furthermore...\ED
+//Need to see how this looks in the game to determine
+//what exactly akashi means here.
+en: You got the Dream Tag badge!!\BR    Furthermore...\ED
 
-es: ｡Conseguiste la medalla Dream Tag!\BR    y tambi駭...\ED
+es: ｡Conseguiste la medalla Dream Tag!\BR    Tambi駭...\ED
 
 592
 jp: キャラクターセレクトでBRビクトリームがBR選べるようになりました！ED
 
-en: 
+en: Victoream has been unlocked\BRin the character select screen!\ED
 
-es: 
+es: ｡Ahora puedes seleccionar a Victoream!\ED
 
 593
 jp: キャラクターセレクトでBRパティがBR選べるようになりました！ED
 
+en: Penny has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Penny!\ED
+
 594
 jp: キャラクターセレクトでBRバリーがBR選べるようになりました！ED
+
+en: Bari has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Bari!\ED
 
 595
 jp: キャラクターセレクトでBRレイラがBR選べるようになりました！ED
 
+en: Laila has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Laila!\ED
+
 596
 jp: キャラクターセレクトでBRキースがBR選べるようになりました！ED
+
+en: Keith has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Keith!\ED
 
 597
 jp: キャラクターセレクトでBRリーヤがBR選べるようになりました！ED
 
+en: Riya has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Riya!\ED
+
 598
 jp: キャラクターセレクトでBRアースがBR選べるようになりました！ED
+
+en: Arth has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Arth!\ED
 
 599
 jp: キャラクターセレクトでBRブラゴがBR選べるようになりました！ED
 
+en: Brago has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Brago!\ED
+
 600
 jp: キャラクターセレクトでBRゼオンがBR選べるようになりました！ED
+
+en: Zeno has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a Zeno!\ED
 
 601
 jp: キャラクターセレクトでBR３バルカンがBR選べるようになりました！ED
 
+en: San Volcan has been unlocked\BRin the character select screen!\ED
+
+es: ｡Ahora puedes seleccionar a San Volcan!\ED
+
 602
 jp: ステージセレクトでBR北海道の牧場がBR選べるようになりました！ED
+
+en: Hokkaido Ranch is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Rancha en Hokkaido ahora esta disponible!\ED
 
 603
 jp: ステージセレクトでBR学校がBR選べるようになりました！ED
 
+en: School is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Escuela ahora esta disponible!\ED
+
 604
 jp: ステージセレクトでBRモチノキ遊園地がBR選べるようになりました！ED
+
+en: Mochinoki Amusement Park is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Parque de diversiones de Mochinoki ahora esta disponible!\ED
 
 605
 jp: ステージセレクトでBRデボロ遺跡がBR選べるようになりました！ED
 
+en: Devolo Ruins is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Ruinas Devolo ahora esta disponible!\ED
+
 606
 jp: ステージセレクトでBR南の島がBR選べるようになりました！ED
+
+en: Southern Island is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Isla sure ahora esta disponible!\ED
 
 607
 jp: ステージセレクトでBRファウードの広間がBR選べるようになりました！ED
 
+en: Faudo Room is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Cuarto de Faudo ahora esta disponible!\ED
+
 608
 jp: ステージセレクトでBRウンコティンティンの部屋がBR選べるようになりました！ED
+
+en: Unkotintin's Room is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Cuarto de Unkotintin ahora esta disponible!\ED
 
 609
 jp: ステージセレクトでBRニュージーランド近海がBR選べるようになりました！ED
 
+//new zealand kinkai, offshore or waters
+//just nz works for me
+en: New Zealand is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Nueva Zelanda ahora esta disponible!\ED
+
 610
 jp: ステージセレクトでBR雷句コロシアムがBR選べるようになりました！ED
+
+en: Raiku Colosseum is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Coliseo de Raiku ahora esta disponible!\ED
 
 611
 jp: ステージセレクトでBR雷句城がBR選べるようになりました！ED
 
+en: Raiku Castle is now unlocked\BRin the stage select screen!\ED
+
+es: ｡Castillo de Raiku ahora esta disponible!\ED
+
 612
 jp: ミニゲームでBRウンコティンティンの謎がBR選べるようになりました！ED
+
+en: Unkotintin Quiz is now unlocked\BRin the Mini Games mode!\ED
+
+es: ｡Puedes jugar Unkotintin Quiz\BRen el modo Mini Games!\ED
 
 613
 jp: ミニゲームでBR合体変形コーラルＱがBR選べるようになりました！ED
 
+//gattai henkei Koral Q
+en: Transform Koral Q is now unlocked\BRin the Mini Games mode!\ED
+
+es: ｡Puedes jugar Transforma Koral Q\BRen el modo Mini Games!\ED
+
 614
 jp: ミニゲームでBRおしおきモモンがBR選べるようになりました！ED
+
+//oshioki momon
+en: Punish Momon is now unlocked\BRin the Mini Games mode!\ED
+
+es: ｡Puedes jugar Castiga a Momon\BRen el modo Mini Games!\ED
 
 615
 jp: ミニゲームでBRファウードトライアルがBR選べるようになりました！ED
 
+en: Faudo Trial is now unlocked\BRin the Mini Games mode!\ED
+
+es: ｡Puedes jugar Faudo Trial\BRen el modo Mini Games!\ED
+
 616
 jp: オプションでBRサウンドルームがBR選べるようになりました！ED
+
+en: You can now select Sound Test\BRin the options mode!\ED
+
+es: ｡Sound Test ahora esta disponible\BRen las opciones!\ED
 
