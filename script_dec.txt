@@ -3668,14 +3668,14 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒiƒƒKƒl‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Silly Glasses\BRare unlocked in the Zatch Collection!\ED
 
-es: Lentes graciosos\BR¡han sido añadidos al Zatch Collection!\ED
+es: Lentes graciosos\BR¡han sido añadidos\BRal Zatch Collection!\ED
 
 504
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR–‚‚æ‚¯‚Ìƒ†ƒrƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Amulet Rings\BRare unlocked in the Zatch Collection!\ED
 
-es: Anillos de amuleto\BR¡han sido añadidos al Zatch Collection!\ED
+es: Anillos de amuleto\BR¡han sido añadidos\BRal Zatch Collection!\ED
 
 505
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‰Æ•ó‚Ìñ‚©‚´‚è‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3772,7 +3772,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒCƒhƒ‹ƒƒKƒl‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Idol Glasses\BRis unlocked in the Zatch Collection!\ED
 
-es: Gafas de ídolo\BR¡han sido añadidas al Zatch Collection!\ED
+es: Gafas de ídolo\BR¡han sido añadidas\BRal Zatch Collection!\ED
 
 518
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒtƒHƒ‹ƒSƒŒ‚Ì‚b‚c‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4290,25 +4290,25 @@ es: Libro de Zeno\BR¡ha sido añadido al Zatch Collection!\ED
 590
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚R‚Â‚Ìƒoƒ‹ƒJƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: The 3 Volcans\BRis unlocked in the Zatch Collection!\ED
+en: The 3 Volcans\BRare unlocked in the Zatch Collection!\ED
 
-es: Los 3 Volcans\BR¡han sido añadidos al Zatch Collection!\ED
+es: Los 3 Volcans\BR¡han sido añadidos\BRal Zatch Collection!\ED
 
 591
 jp: ƒhƒŠ[ƒ€ƒ^ƒbƒO‚ÌØ‚ğƒQƒbƒgIIBR@@@@@@‚³‚ç‚ÉcED
 
 //Need to see how this looks in the game to determine
 //what exactly akashi means here.
-en: You got the Dream Tag badge!!\BR    Furthermore...\ED
+en: You got the Dream Tag Badge!!\BR          Furthermore...\ED
 
-es: ¡Conseguiste la medalla Dream Tag!\BR    También...\ED
+es: ¡Conseguiste la medalla Dream Tag!\BR                También...\ED
 
 592
 jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒrƒNƒgƒŠ[ƒ€‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 en: Victoream has been unlocked\BRin the character select screen!\ED
 
-es: ¡Ahora puedes seleccionar a Victoream!\ED
+es: ¡Ahora puedes seleccionar\BRa Victoream!\ED
 
 593
 jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBRƒpƒeƒB‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
@@ -4371,28 +4371,28 @@ jp: ƒLƒƒƒ‰ƒNƒ^[ƒZƒŒƒNƒg‚ÅBR‚Rƒoƒ‹ƒJƒ“‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 en: San Volcan has been unlocked\BRin the character select screen!\ED
 
-es: ¡Ahora puedes seleccionar a San Volcan!\ED
+es: ¡Ahora puedes seleccionar\BRa San Volcan!\ED
 
 602
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBR–kŠC“¹‚Ì–qê‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 en: Hokkaido Ranch is now unlocked\BRin the stage select screen!\ED
 
-es: ¡Rancha en Hokkaido ahora esta disponible!\ED
+es: ¡Rancha en Hokkaido\BRahora esta disponible!\ED
 
 603
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRŠwZ‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
-en: School is now unlocked\BRin the stage select screen!\ED
+en: School Field is now unlocked\BRin the stage select screen!\ED
 
-es: ¡Escuela ahora esta disponible!\ED
+es: ¡Patio escolar ahora esta disponible!\ED
 
 604
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒ‚ƒ`ƒmƒL—V‰€’n‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
-en: Mochinoki Amusement Park is now unlocked\BRin the stage select screen!\ED
+en: Mochinoki Amusement Park is now\BRunlocked in the stage select screen!\ED
 
-es: ¡Parque de diversiones de Mochinoki ahora esta disponible!\ED
+es: ¡Parque de diversiones de Mochinoki\BRahora esta disponible!\ED
 
 605
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒfƒ{ƒˆâÕ‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
@@ -4411,16 +4411,16 @@ es: ¡Isla sureña ahora esta disponible!\ED
 607
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒtƒ@ƒE[ƒh‚ÌLŠÔ‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
-en: Faudo Room is now unlocked\BRin the stage select screen!\ED
+en: Faudo Hall is now unlocked\BRin the stage select screen!\ED
 
-es: ¡Cuarto de Faudo ahora esta disponible!\ED
+es: ¡Sala de Faudo\BRahora esta disponible!\ED
 
 608
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒEƒ“ƒRƒeƒBƒ“ƒeƒBƒ“‚Ì•”‰®‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
-en: Unkotintin's Room is now unlocked\BRin the stage select screen!\ED
+en: Unkotintin Room is now unlocked\BRin the stage select screen!\ED
 
-es: ¡Cuarto de Unkotintin ahora esta disponible!\ED
+es: ¡Cuarto de Unkotintin\BRahora esta disponible!\ED
 
 609
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒjƒ…[ƒW[ƒ‰ƒ“ƒh‹ßŠC‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
@@ -4436,14 +4436,14 @@ jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBR—‹‹åƒRƒƒVƒAƒ€‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 en: Raiku Colosseum is now unlocked\BRin the stage select screen!\ED
 
-es: ¡Coliseo de Raiku ahora esta disponible!\ED
+es: ¡Coliseo Raiku ahora esta disponible!\ED
 
 611
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBR—‹‹åé‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 en: Raiku Castle is now unlocked\BRin the stage select screen!\ED
 
-es: ¡Castillo de Raiku ahora esta disponible!\ED
+es: ¡Castillo Raiku ahora esta disponible!\ED
 
 612
 jp: ƒ~ƒjƒQ[ƒ€‚ÅBRƒEƒ“ƒRƒeƒBƒ“ƒeƒBƒ“‚Ì“ä‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
