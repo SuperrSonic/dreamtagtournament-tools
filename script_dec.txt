@@ -2893,9 +2893,9 @@ jp: 雷句先生BR「雷句杯　優勝は・・・BR　おてんば娘チームだ！ED
 
 //otenba musume
 //tia is known as a tomboy, but penny
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tomboy!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Girl Power!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ｡el equipo Tomboy!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ｡el equipo Girl Power!\ED
 
 397
 jp: 　華麗で花のある戦い方がBR　印象的でした。BR　でも怒ると怖いですね」ED
@@ -3903,7 +3903,7 @@ es: Estatua Shemira\BR｡ha sido adida al Zatch Collection!\ED
 535
 jp: ガッシュコレクションBRタマゴヤキをBR手に入れました！ED
 
-en: Omelette\BRis unlocked in the Zatch Collection!\ED
+en: Omelet\BRis unlocked in the Zatch Collection!\ED
 
 es: Tamagoyaki\BR｡ha sido adido al Zatch Collection!\ED
 
