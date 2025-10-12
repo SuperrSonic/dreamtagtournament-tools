@@ -89,9 +89,9 @@ es: ¡Asegurate de no beber alcohol\BRsi eres menor de edad!\ED
 11
 jp: ƒŒƒCƒ‰‚ª‚Á‚Ä‚¢‚½BRŒ‚ÌÎ‚Ì‚©‚¯‚çED
 
-en: A piece of the Stone of Moonlight that Laila kept on her.\ED
+en: A piece of the Stone of Moonlight\BRthat Laila kept on her.\ED
 
-es: Un pedazo del Stone of Moonlight\BRque Laila guardaba.\ED
+es: Un pedazo de la piedra mágica\BRque Laila guardaba.\ED
 
 12
 jp: ‚±‚ê‚ğ‘Ì‚É‰Ÿ‚µ‚ ‚Ä‚ê‚ÎBRƒLƒY‚àS‚Ì—Í‚à‰ñ•œ‚·‚éED
@@ -3584,12 +3584,12 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚u—l‚ÌÊ^‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Glorious V Photo\BRis unlocked in the Zatch Collection!\ED
 
-es: Foto V\BR¡ha sido añadida al Zatch Collection!\ED
+es: Foto de la magnífica V\BR¡ha sido añadida al Zatch Collection!\ED
 
 492
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚ušŒ^ƒ_ƒ“ƒ{[ƒ‹‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: V-shaped Cardboard\BRis unlocked in the Zatch Collection!\ED
+en: V-Shaped Cardboard\BRis unlocked in the Zatch Collection!\ED
 
 es: Cartón en forma de V\BR¡ha sido añadido al Zatch Collection!\ED
 
@@ -3617,9 +3617,10 @@ es: Copa de vino\BR¡ha sido añadida al Zatch Collection!\ED
 496
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŒ‚ÌÎ‚Ì‚©‚¯‚ç‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: Stone of Moonlight Shard\BRis unlocked in the Zatch Collection!\ED
+en: Stone of Moonlight Fragment\BRis unlocked in the Zatch Collection!\ED
 
-es: Trozo de Stone of Moonlight\BR¡ha sido añadido al Zatch Collection!\ED
+alt-- Trozo de Stone of Moonlight\BR¡ha sido añadido al Zatch Collection!\ED
+es: Fragmento de piedra luz lunar\BR¡ha sido añadido al Zatch Collection!\ED
 
 497
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ‰‚Ì‚¨‚à‚¿‚á‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
