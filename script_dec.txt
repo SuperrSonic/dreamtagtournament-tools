@@ -143,21 +143,21 @@ og: I'm so happy~woo~woo~\BRhooray~hooray~~\MUSIC\ED
 en: Potatotem, potatotem~ flaky,\BRcrispy~ yummy, yum~\MUSIC\ED
 //Raze
 
-es: Que felicidad~wuu~wuu~\BRsii ~sii ~~\MUSIC\ED
+es: ¡Qué delicia! ~wuu ~wuu ~\BRsii ~sii ~~\MUSIC\ED
 
 19
 jp: ƒAƒŠƒVƒG‚½‚¿‚Éô‚¢‚ğBR‚©‚¯‚½ƒŠƒIƒE‚ÌñED
 
-en: Riou's staff that cursed Alishie\BRand the others.\ED
+en: The staff that cursed Alishie\BRand the others.\ED
 
-es: El bastón de Riou que hechizó\BRa Alishie y a los otros.\ED
+es: El bastón que hechizó\BRa Alishie y a los otros.\ED
 
 20
 jp: ‚½‚¾‚µôp‚ğg‚¤‚ÆBRƒŠƒIƒE‚à–½‚É‚©‚©‚í‚éED
 
 en: If Riou uses this magic, his life\BRwill also be at risk.\ED
 
-es: Si Riou usa esta magia su vida\BRtambién correrá peligro.\ED
+es: Si Rio usa esta magia su vida\BRtambién correrá peligro.\ED
 
 21
 jp: …‚ğ‚½‚­‚³‚ñ‚Í‚±‚ÔƒJƒBRƒAƒŠƒVƒG‚Ì‹­‚¢S‚ÌÛ’¥ED
@@ -454,7 +454,7 @@ jp: ƒŠƒIƒE‚ª‚Á‚Ä‚¢‚½BRƒiƒ]‚ÌÎED
 
 en: A mysterious stone\BRin Riou's possession.\ED
 
-es: Una joya misteriosa\BRque Riou posee.\ED
+es: Una joya misteriosa\BRque Rio posee.\ED
 
 60
 jp: ‚±‚ê‚ğŠz‚É‚Â‚¯‚ê‚ÎBRƒtƒ@ƒE[ƒh‚ğ‚ ‚â‚Â‚ê‚éED
@@ -1255,7 +1255,7 @@ jp: ƒjƒRƒ‹‚Ìô‚¢‚ğ‚Æ‚­‚½‚ßBRƒŠƒIƒE‚Éè‚ğ‘İ‚·ED
 
 en: Helps Riou in order to free Nicole\BRfrom his curse.\ED
 
-es: Eligió ayudar a Riou\BRpara poder salvar a Nicole.\ED
+es: Eligió ayudar a Rio\BRpara poder salvar a Nicole.\ED
 
 168
 jp: ƒeƒbƒh‚ª‚»‚Ìs•û‚ğ’T‚µBR¢ŠE‚ğ—·‚µ‚Ä‚¢‚éED
@@ -3648,7 +3648,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚Ìô‚¢‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Riou's Staff\BRis unlocked in the Zatch Collection!\ED
 
-es: Bastón de Riou\BR¡ha sido añadido al Zatch Collection!\ED
+es: Bastón de Rio\BR¡ha sido añadido al Zatch Collection!\ED
 
 501
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒŠƒVƒG‚Ì…ƒKƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4151,7 +4151,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Riou\BRis unlocked in the Zatch Collection!\ED
 
-es: Riou\BR¡ha sido añadido al Zatch Collection!\ED
+es: Rio\BR¡ha sido añadido al Zatch Collection!\ED
 
 571
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒUƒ‰ƒC‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
