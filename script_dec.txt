@@ -722,8 +722,11 @@ es: ｡ｿEs muy popular con los nis?!\BR｡Es un superheroe legendario!\ED
 96
 jp: アジのヒラキがBR夢のおかずだ！！ED
 
-//wtf?
-en: Horse mackerel flounder\BRis a dream side dish!\ED
+// Hero Ba-ban is a character Raiku created in the 90s
+// he's like El Chapulin Colorado, just a normal man in tights,
+// he's also poor and can only dream of eating 'aji no hiraki'
+// which is some kind of seafood that he wants as a side dish.
+en: Grilled horse mackerel\BRis a dream side dish!\ED
 
 es: ｡Filetes de jurel son un entrem駸\BRde ensue!\ED
 
