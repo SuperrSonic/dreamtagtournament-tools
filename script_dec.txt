@@ -162,9 +162,8 @@ es: Si Rio usa esta magia su vida\BRtambién correrá peligro.\ED
 21
 jp: …‚ğ‚½‚­‚³‚ñ‚Í‚±‚ÔƒJƒBRƒAƒŠƒVƒG‚Ì‹­‚¢S‚ÌÛ’¥ED
 
-en: With a strong heart,Alishie carries\BRa huge pot of water on his back.\ED
+en: With a firm heart, Alishie carries\BRa huge pot of water on his back.\ED
 //Raze
-//use firm heart to fit with space or add comma with wider size
 
 es: De corazón fuerte, Alishie carga una olla con agua en su espalda.\ED
 
@@ -231,14 +230,14 @@ jp: ƒVƒFƒŠ[‚Ì¶‚Ü‚ê‚½BRƒxƒ‹ƒ‚ƒ“ƒh‰Æ‚Ì•óED
 en: The heirloom to the Belmont family\BRthat Sherry was born into.\ED
 //Raze
 
-es: El tesoro de la familia Belmont.\BREs de la familia de Sherry.\ED
+es: La reliquia de la familia Belmont\BRen la que nació Sherry.\ED
 
 30
 jp: ƒ]ƒtƒBƒX‚ÍƒRƒR‚Ì‹L‰¯‚ğBRŒ³‚ÉƒjƒZƒ‚ƒm‚ğ‚Â‚­‚Á‚½ED
 
 en: Zofis made an exact replica\BRfrom Koko's memories.\ED
 
-es: Zofis creo una replica basándose\BRen los recuerdos de Koko.\ED
+es: Zofis creó una réplica basándose\BRen los recuerdos de Koko.\ED
 
 31
 jp: ƒ€ƒ`‚Æ‚µ‚Ä‚àg‚¦‚éBRƒVƒFƒŠ[‚Ì•ŠíED
@@ -3861,9 +3860,8 @@ es: Princess Pear falsa\BR¡ha sido añadida al Zatch Collection!\ED
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒ“ƒSƒƒbƒgƒ“‚¿‚á‚ñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 //ringo metton chan, idk what metton refers to
-//and this item isn't mentioned on the show itself I think.
-//it appears in the manga and the show's eye-catches.
-en: Apple Doll\BRis unlocked in the Zatch Collection!\ED
+//oh, Raze tells me it's called Mr. Applekins in the dub
+en: Mr. Applekins\BRis unlocked in the Zatch Collection!\ED
 
 es: Figura de manzana\BR¡ha sido añadida al Zatch Collection!\ED
 
@@ -3891,8 +3889,7 @@ es: Suvenir de gavilán\BR¡ha sido añadido al Zatch Collection!\ED
 533
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒEƒ}ƒSƒ“‚Ì¬‰®‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-//a doghouse is not a hut, I guess
-en: Ponygon's Hut\BRis unlocked in the Zatch Collection!\ED
+en: Ponygon's House\BRis unlocked in the Zatch Collection!\ED
 
 es: Casita de Ponygon\BR¡ha sido añadida al Zatch Collection!\ED
 
@@ -3928,9 +3925,9 @@ es: Kyle\BR¡ha sido añadido al Zatch Collection!\ED
 538
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒq[ƒ[ƒoƒo[ƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: Hero Ba-ban\BRis unlocked in the Zatch Collection!\ED
+en: Hero Ba-Ban\BRis unlocked in the Zatch Collection!\ED
 
-es: Heroe Ba-ban\BR¡ha sido añadido al Zatch Collection!\ED
+es: Héroe Ba-ban\BR¡ha sido añadido al Zatch Collection!\ED
 
 539
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒJƒ}ƒLƒŠƒWƒ‡[‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3977,9 +3974,9 @@ es: Elle Chivas\BR¡ha sido añadida al Zatch Collection!\ED
 545
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒ‹ƒ^ƒjƒAƒ“‹³ö‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: Prof. Dartagnan\BRis unlocked in the Zatch Collection!\ED
+en: Professor Dartagnan\BRis unlocked in the Zatch Collection!\ED
 
-es: Prof. Dartagnan\BR¡ha sido añadido al Zatch Collection!\ED
+es: Profesor Dartagnan\BR¡ha sido añadido al Zatch Collection!\ED
 
 546
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒbƒOEƒ{ƒCƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
