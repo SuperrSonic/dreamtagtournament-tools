@@ -3713,8 +3713,8 @@ jp: ガッシュコレクションBRバンダナをBR手に入れました！ED
 
 en: Bandana\BRis unlocked in the Zatch Collection!\ED
 
-//bandana also works
-es: Paelo\BR｡ha sido adido al Zatch Collection!\ED
+//paelo also works
+es: Bandana\BR｡ha sido adido al Zatch Collection!\ED
 
 510
 jp: ガッシュコレクションBRハンモックをBR手に入れました！ED
@@ -3728,7 +3728,7 @@ jp: ガッシュコレクションBR俳句の短冊をBR手に入れました！ED
 
 en: Haiku Strip\BRis unlocked in the Zatch Collection!\ED
 
-es: Tira de haikus\BR｡ha sido adida al Zatch Collection!\ED
+es: Tirita de haiku\BR｡ha sido adida al Zatch Collection!\ED
 
 512
 jp: ガッシュコレクションBR忍者屋敷をBR手に入れました！ED
@@ -3759,8 +3759,6 @@ jp: ガッシュコレクションBRパティのパンツをBR手に入れました！ED
 
 en: Penny's Underwear\BRis unlocked in the Zatch Collection!\ED
 
-//This is too long and a waste of space when dealing with the gfx...
-//I'd go with pantis de penny and call it a day.
 es: Ropa interior de Penny\BR｡ha sido adida al Zatch Collection!\ED
 
 516
@@ -3805,7 +3803,7 @@ jp: ガッシュコレクションBR空飛ぶブリをBR手に入れました！ED
 
 en: Flying Yellowtail\BRis unlocked in the Zatch Collection!\ED
 
-es: Buri Volador\BR｡ha sido adido al Zatch Collection!\ED
+es: Buri volador\BR｡ha sido adido al Zatch Collection!\ED
 
 522
 jp: ガッシュコレクションBRビョンコの時計をBR手に入れました！ED
@@ -3819,7 +3817,7 @@ jp: ガッシュコレクションBRスーパー１をBR手に入れました！ED
 
 en: Super-1\BRis unlocked in the Zatch Collection!\ED
 
-es: Super-1\BR｡ha sido adido al Zatch Collection!\ED
+es: S侊er-1\BR｡ha sido adido al Zatch Collection!\ED
 
 524
 jp: ガッシュコレクションBRセッコロの人形をBR手に入れました！ED
@@ -3833,7 +3831,7 @@ jp: ガッシュコレクションBR万能ナイフをBR手に入れました！ED
 
 en: Chop Choppin' Chopper Knife\BRis unlocked in the Zatch Collection!\ED
 
-es: Cuchillo\BR｡ha sido adido al Zatch Collection!\ED
+es: Cuchillo Corta Cortante Cortador\BR｡ha sido adido al Zatch Collection!\ED
 
 526
 jp: ガッシュコレクションBR鈴芽のおまもりをBR手に入れました！ED
@@ -3854,7 +3852,7 @@ jp: ガッシュコレクションBRニセ洋ナシちゃんをBR手に入れました！ED
 
 en: Fake Princess Pear\BRis unlocked in the Zatch Collection!\ED
 
-es: Princess Pear falsa\BR｡ha sido adida al Zatch Collection!\ED
+es: Princesa Pera falsa\BR｡ha sido adida al Zatch Collection!\ED
 
 529
 jp: ガッシュコレクションBRリンゴメットンちゃんをBR手に入れました！ED
@@ -3934,7 +3932,7 @@ jp: ガッシュコレクションBRカマキリジョーをBR手に入れました！ED
 
 en: Praying Mantis Joe\BRis unlocked in the Zatch Collection!\ED
 
-es: Praying Mantis Joe\BR｡ha sido adido al Zatch Collection!\ED
+es: Mantis Religiosa Joe\BR｡ha sido adido al Zatch Collection!\ED
 
 540
 jp: ガッシュコレクションBR水野鈴芽をBR手に入れました！ED
