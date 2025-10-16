@@ -3861,7 +3861,9 @@ jp: ガッシュコレクションBRリンゴメットンちゃんをBR手に入れました！ED
 //oh, Raze tells me it's called Mr. Applekins in the dub
 en: Mr. Applekins\BRis unlocked in the Zatch Collection!\ED
 
-es: Figura de manzana\BR｡ha sido adida al Zatch Collection!\ED
+// in ep.11 Suzy says the name but the BG noise makes it hard
+// to figure out what she says, it sounds like Ser Manzana
+es: Ser Manzana\BR｡ha sido adida al Zatch Collection!\ED
 
 530
 jp: ガッシュコレクションBRガッシュロボをBR手に入れました！ED
