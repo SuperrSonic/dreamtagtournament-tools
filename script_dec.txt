@@ -3948,14 +3948,15 @@ jp: ガッシュコレクションBRモンモン先生をBR手に入れました！ED
 
 en: Miss Wriggle\BRis unlocked in the Zatch Collection!\ED
 
-es: Miss Wriggle\BR｡ha sido adida al Zatch Collection!\ED
+// me gustaria ponerle Senorita Retorcida o dejar el nombre original Monmon
+es: Maestra Monmon\BR｡ha sido adida al Zatch Collection!\ED
 
 542
 jp: ガッシュコレクションBRワイフをBR手に入れました！ED
 
 en: Teacher's Wife\BRis unlocked in the Zatch Collection!\ED
 
-es: Teacher's Wife\BR｡ha sido adida al Zatch Collection!\ED
+es: Esposa del maestro\BR｡ha sido adida al Zatch Collection!\ED
 
 543
 jp: ガッシュコレクションBR雷句先生をBR手に入れました！ED
