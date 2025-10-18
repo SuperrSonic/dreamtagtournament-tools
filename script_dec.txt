@@ -1053,7 +1053,7 @@ jp: ‚í‚Á‚ê‚Íí‚¤BR‚¿‚å[‚±‚­‚©[ôED
 
 en: We are the ones\BRyou're going to fight\MUSIC\ED
 
-es: Somos con quien lucharas\MUSIC\ED
+es: Somos con quien lucharás\MUSIC\ED
 
 140
 jp: ƒŠƒ…ƒbƒN‚ğƒp[ƒgƒi[‚ÉBR•ªg‚Ìp‚ğg‚¤ED
@@ -1067,12 +1067,13 @@ jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‚·‚³‚Ü‚¶‚¢‰ö—Í‚ğŒÖ‚éIED
 
 en: Of Zofis' Four Supreme Mamodo.\BRHe boasts incredible strength!\ED
 
-es: Uno de los Four Supreme Mamodo\BRde Zofis. ¡Increíblemente fuerte!\ED
+//ep.70 del doblaje de España usa Los Cuatro Supremos Mamodos
+//pero a mi me suena a que esta disparatado
+es: De los cuatro mamodos supremos\BRde Zofis. ¡Increíblemente fuerte!\ED
 
 142
 jp: ‚»‚Ì‹¥–\‚³‚©‚çBRƒo[ƒT[ƒJ[‚ÆŒÄ‚Î‚ê‚éED
 
-//literal-- Referred to as a berserker  due to his ferocity.
 en: Known as The Crazed Warrior\BRBerzerker due to his ferocity.\ED
 
 es: Conocido como un berserker\BRdebido a su ferocidad.\ED
@@ -1082,7 +1083,7 @@ jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‘½‚­‚Ì¯‚ğ‘€‚èUŒ‚IED
 
 en: Supreme Mamodo. Attacks by\BRcontrolling many stars!\ED
 
-es: De los Supreme Mamodo. ¡Ataca\BRcontrolando muchas estrellas!\ED
+es: Es un mamodo supremo. ¡Ataca\BRcontrolando muchas estrellas!\ED
 
 144
 jp: Î”Å‚Ì‚Æ‚«´–›‚É‚³‚ê‚½BRƒqƒhƒCd‘Å‚¿‚ğ¦‚ŞED
@@ -1096,7 +1097,7 @@ jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‹­—Í‚È‘Ìp‚Å“G‚ğ‘Å‚ÂIED
 
 en: Supreme Mamodo. Strikes down\BRenemies with martial arts!\ED
 
-es: De los Supreme Mamodo. ¡Derriba a\BRsu oponente con artes marciales!\ED
+es: Es un mamodo supremo. ¡Derriba a\BRsu oponente con artes marciales!\ED
 
 146
 jp: ƒp[ƒgƒi[‚ÌŒº@‚àlŠÔBR‚Î‚È‚ê‚µ‚½‘Ìp‚Ìg‚¢èED
@@ -1110,17 +1111,15 @@ jp: ƒ]ƒtƒBƒXl“V‰¤‚ÌˆêlBR‚³‚ Œ|‚ğ‚µ‚È‚³‚¢IED
 
 en: Supreme Mamodo.\BRCome on, do your magic trick!\ED
 
-es: De los Supreme Mamodo.\BR¡Vamos, haz tu truco de magia!\ED
+es: Es un mamodo supremo de Zofis.\BR¡Vamos, haz tu truco de magia!\ED
 
 148
 jp: ‚dE‚n‚ÍƒCƒX‚É‚©‚í‚Á‚ÄBR‚¨‚µ‚¨‚«‚æ[IIED
 
 en: The E.O. stands for\BREntolerant Overlord!!\ED
 
-//que traduccion mas creativa
-es: ¡¡E.O. significa\BREntolerante Overlord!!\ED
-literal-- ¡¡E.O. significa sentarme y dar castigos!!
-alt-- ¡¡E.O. significa Entolerante Oscuro-señor!!
+//ep.72 del doblaje de España
+es: ¡¡E.O. significa\BREntolerante Omnipotente!!\ED
 
 149
 jp: ƒR[ƒ‰ƒ‹‚p‚Ì‚«‚Ù‚ñ‚ÌpBRƒOƒ‰ƒu‚Ìô•¶‚Å•ÏŒ`‚¾IED
