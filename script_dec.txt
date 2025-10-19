@@ -157,7 +157,7 @@ jp: ‚½‚¾‚µôp‚ğg‚¤‚ÆBRƒŠƒIƒE‚à–½‚É‚©‚©‚í‚éED
 
 en: If Riou uses this magic, his life\BRwill also be at risk.\ED
 
-es: Si Rio usa esta magia su vida\BRtambién correrá peligro.\ED
+es: Si Riou usa esta magia su vida\BRtambién correrá peligro.\ED
 
 21
 jp: …‚ğ‚½‚­‚³‚ñ‚Í‚±‚ÔƒJƒBRƒAƒŠƒVƒG‚Ì‹­‚¢S‚ÌÛ’¥ED
@@ -453,7 +453,7 @@ jp: ƒŠƒIƒE‚ª‚Á‚Ä‚¢‚½BRƒiƒ]‚ÌÎED
 
 en: A mysterious stone\BRin Riou's possession.\ED
 
-es: Una joya misteriosa\BRque Rio posee.\ED
+es: Una joya misteriosa\BRque Riou posee.\ED
 
 60
 jp: ‚±‚ê‚ğŠz‚É‚Â‚¯‚ê‚ÎBRƒtƒ@ƒE[ƒh‚ğ‚ ‚â‚Â‚ê‚éED
@@ -533,7 +533,7 @@ jp: ƒfƒp[ƒg‚ÌƒZ[ƒ‹‚ÅBRƒƒCƒt‚ª”ƒ‚Á‚Ä‚µ‚Ü‚Á‚½ED
 // Added Mochinoki as flair
 en: Wife bought it at the Mochinoki\BRdepartment store sale.\ED
 
-es: Wife lo compró en especial\BRen la tienda departamental.\ED
+es: La esposa del maestro lo compró\BRen el almacén de Mochinoki.\ED
 
 71
 jp: ´–›‚Ì‚±‚Æ‚ğS”z‚µ‚ÄBRì‚Á‚½‚¨‚Ü‚à‚èED
@@ -851,7 +851,8 @@ jp: ƒiƒ]ƒiƒ]”m‚Ì‚µ‚à‚×BR‚l‚i‚P‚Q‚ÌˆêˆõED
 
 en: A member of the Majestic 12,\BRloyal follower of Doctor Riddles.\ED
 
-es: Pertenece a los Majestic 12, una\BRseguidora leal del Doctor Riddles.\ED
+alt-- Pertenece a los Majestic 12, una\BRseguidora leal del Doctor Riddles.\ED
+es: Pertenece a los 12 Majestuosos,\BRseguidora leal del Doctor Riddles.\ED
 
 112
 jp: ‚ ‚È‚½‚Ç‚±‚ğŒ©‚Ä‚¢‚é‚ÌBRƒ{ƒCƒ“‚ğŒ©‚È‚³‚¢ED
@@ -960,16 +961,16 @@ es: Una niña amable que Zatch\BRconoció en el parque.\ED
 126
 jp: p‚ğ¥‚¦‚ç‚ê‚é‚Æ‹¥–\‚ÈBR–‚•¨‚É•Ïg‚µ‚Ä‚µ‚Ü‚¤ED
 
-en: If a spell is cast she transforms\BRinto a ferocious monster.\ED
+en: Her spell transforms her\BRinto a ferocious monster.\ED
 
 es: Al decir el conjuro se transforma\BRen una bestia peligrosa.\ED
 
 127
 jp: ƒSƒ‹ƒh[‚É‚©‚Á‚Ä‚à‚ç‚¤BRƒ^ƒCƒ„ƒL‚ª‘åD•¨ED
 
-en: The fish-shaped cakes Goldo\BRbuys him are his favorite.\ED
+en: The fish-shaped cakes Mr. Goldo buys are his favorite.\ED
 
-es: El taiyaki que le compra Goldo\BRes su favorito.\ED
+es: El taiyaki que le compra\BRel Sr. Goldo es su favorito.\ED
 
 128
 jp: ‚Ç‚ñ‚ÈƒLƒY‚ğ‚¤‚¯‚Ä‚àBRp‚Ì—Í‚Å‰ñ•œ‚·‚éED
@@ -1256,7 +1257,7 @@ jp: ƒjƒRƒ‹‚Ìô‚¢‚ğ‚Æ‚­‚½‚ßBRƒŠƒIƒE‚Éè‚ğ‘İ‚·ED
 
 en: Helps Riou in order to free Nicole\BRfrom his curse.\ED
 
-es: Eligió ayudar a Rio\BRpara poder salvar a Nicole.\ED
+es: Eligió ayudar a Riou\BRpara poder salvar a Nicole.\ED
 
 168
 jp: ƒeƒbƒh‚ª‚»‚Ìs•û‚ğ’T‚µBR¢ŠE‚ğ—·‚µ‚Ä‚¢‚éED
@@ -1275,9 +1276,10 @@ es: Un mamodo que busca poder\BRpara revivir a Faudo.\ED
 170
 jp: ƒRƒEƒ‚ƒŠ‚Ì‚æ‚¤‚Èƒnƒl‚ğBR‚¿©—R‚É‹ó‚ğ”ò‚ÔED
 
-en: His bat-like wings allow him\BRto fly freely.\ED
+//added Chita for fun
+en: His bat-like wings allow him\BRto fly freely. Chita is his partner.\ED
 
-es: Sus alas de murciélago le permiten\BRvolar con facilidad.\ED
+es: Sus alas de murciélago le permiten\BRvolar. Chita es su compañera.\ED
 
 171
 jp: ƒ‚ƒ`ƒmƒL—V‰€’n‚ÅBRƒKƒbƒVƒ…‚½‚¿‚É”s‚ê‚½ED
@@ -3649,7 +3651,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚Ìô‚¢‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Riou's Staff\BRis unlocked in the Zatch Collection!\ED
 
-es: Bastón de Rio\BR¡ha sido añadido al Zatch Collection!\ED
+es: Bastón de Riou\BR¡ha sido añadido al Zatch Collection!\ED
 
 501
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒŠƒVƒG‚Ì…ƒKƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4135,9 +4137,13 @@ es: Murom Roboruk\BR¡ha sido añadido al Zatch Collection!\ED
 568
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒ“ƒWƒ‹ƒhEƒƒuƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
-en: Ganjirdo Roboron\BRis unlocked in the Zatch Collection!\ED
+//It's roburon, following dub naming conventions, riguron becomes rigron
+//then it should be robron, however since it's not unusual for the u to be mostly silent
+//in some spells like zakeruga, I'd rather keep the u
 
-es: Ganjirdo Roboron\BR¡ha sido añadido al Zatch Collection!\ED
+en: Ganjirdo Roburon\BRis unlocked in the Zatch Collection!\ED
+
+es: Ganjirdo Roburon\BR¡ha sido añadido al Zatch Collection!\ED
 
 569
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ‚ƒ‚ƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4151,7 +4157,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Riou\BRis unlocked in the Zatch Collection!\ED
 
-es: Rio\BR¡ha sido añadido al Zatch Collection!\ED
+es: Riou\BR¡ha sido añadido al Zatch Collection!\ED
 
 571
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒUƒ‰ƒC‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4163,6 +4169,8 @@ es: Buzarai\BR¡ha sido añadido al Zatch Collection!\ED
 572
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒsƒvƒŠƒI‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
+//papipurio, in the dub it's always purio
+//but since the name comes from Dicaprio, it should actually be Papiprio
 en: Purio\BRis unlocked in the Zatch Collection!\ED
 
 es: Purio\BR¡ha sido añadido al Zatch Collection!\ED
