@@ -388,7 +388,7 @@ es: Si los ves significa que Penny\BResta muy furiosa.\ED
 51
 jp: 日本のトップアイドル！BR大海恵のＣＤ♪ED
 
-en: The latest CD from Megumi Oumi,\BRJapan's top idol!\ED
+en: The latest hits from Megumi Oumi,\BRJapan's top idol!\ED
 //Raze
 
 es: ｡Lo 伃timo de Megumi Oumi,\BRla estrella m疽 grande en Jap!\MUSIC\ED
@@ -407,7 +407,7 @@ jp: 恵が遊園地やお買い物のBRときに使うメガネED
 
 en: Sunglasses that Megumi wears\BRto go shopping or to have fun.\ED
 
-es: Las gafas que Megumi usa para\BRir de compras o divertirse.\ED
+es: Las gafas de sol que Megumi usa\BRpara ir de compras o divertirse.\ED
 
 54
 jp: 恵はアイドル♪BRふだんはこれで変装よ\HEARTED
@@ -599,7 +599,7 @@ jp: 清麿がつくったBRガッシュ型のロボットED
 
 en: A Zatch-like robot\BRcreated by Kiyo.\ED
 
-es: Un robo-Zatch creado por Kiyo.\ED
+es: Un robot parecido a Zatch\BRcreado por Kiyo.\ED
 
 80
 jp: 清麿とガッシュがいない間のBR鈴芽の話あいてED
@@ -1454,7 +1454,7 @@ jp: リーヤの本BR色はパラキートグリーンED
 
 en: Riya's book is parakeet green.\ED
 
-es: El libro de Riya es verde loro.\ED
+es: El libro de Riya es loro verde.\ED
 
 196
 jp: 本の持ち主はBRアリシエED
