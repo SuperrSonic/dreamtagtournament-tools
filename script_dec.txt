@@ -4394,14 +4394,14 @@ jp: ステージセレクトでBR学校がBR選べるようになりました！ED
 
 en: School Field is now unlocked\BRin the stage select screen!\ED
 
-es: ｡Patio escolar ahora esta disponible!\ED
+es: ｡Campo deportivo escolar ahora esta disponible!\ED
 
 604
 jp: ステージセレクトでBRモチノキ遊園地がBR選べるようになりました！ED
 
 en: Mochinoki Amusement Park is now\BRunlocked in the stage select screen!\ED
 
-es: ｡Parque de diversiones de Mochinoki\BRahora esta disponible!\ED
+es: ｡Parque de diversi de Mochinoki\BRahora esta disponible!\ED
 
 605
 jp: ステージセレクトでBRデボロ遺跡がBR選べるようになりました！ED
@@ -4435,10 +4435,9 @@ es: ｡Cuarto de Unkotintin\BRahora esta disponible!\ED
 jp: ステージセレクトでBRニュージーランド近海がBR選べるようになりました！ED
 
 //new zealand kinkai, offshore or waters
-//just nz works for me
-en: New Zealand is now unlocked\BRin the stage select screen!\ED
+en: Offshore of New Zealand is now\BRunlocked in the stage select screen!\ED
 
-es: ｡Nueva Zelanda ahora esta disponible!\ED
+es: ｡Zona costera de Nueva Zelanda\BRahora esta disponible!\ED
 
 610
 jp: ステージセレクトでBR雷句コロシアムがBR選べるようになりました！ED
@@ -4487,7 +4486,9 @@ es: ｡Puedes jugar Faudo Trial\BRen el modo Mini Games!\ED
 616
 jp: オプションでBRサウンドルームがBR選べるようになりました！ED
 
+//sound room
 en: You can now select Sound Test\BRin the options mode!\ED
 
-es: ｡Sound Test ahora esta disponible\BRen las opciones!\ED
+//Sala de sonido
+es: ｡Sala de audio ahora esta disponible\BRen las opciones!\ED
 
