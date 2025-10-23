@@ -968,7 +968,7 @@ es: Al decir el conjuro se transforma\BRen una bestia peligrosa.\ED
 127
 jp: ゴルドーにかってもらうBRタイヤキが大好物ED
 
-en: The fish-shaped cakes Mr. Goldo buys are his favorite.\ED
+en: The fish-shaped cakes\BRMr. Goldo buys are his favorite.\ED
 
 es: El taiyaki que le compra\BRel Sr. Goldo es su favorito.\ED
 
