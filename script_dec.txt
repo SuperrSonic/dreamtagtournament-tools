@@ -292,7 +292,7 @@ jp: 雷句先生が愛用しているBRバンダナED
 
 en: The bandana that Raiku-sensei\BRloves to wear.\ED
 
-es: La bandana que Raiku-sensei\BRle encanta usar.\ED
+es: El paelo que Raiku-sensei\BRle encanta usar.\ED
 
 38
 jp: 雷句先生のBRトレードマーク！ED
@@ -449,11 +449,9 @@ es: ｡Chichi-chichi oppai!\BRBoing Boing~\MUSIC\ED
 59
 jp: リオウが持っていたBRナゾの石ED
 
-//gemstone maybe
-
 en: A mysterious stone\BRin Riou's possession.\ED
 
-es: Una joya misteriosa\BRque Riou posee.\ED
+es: Una piedra misteriosa\BRque Riou posee.\ED
 
 60
 jp: これを額につければBRファウードをあやつれるED
