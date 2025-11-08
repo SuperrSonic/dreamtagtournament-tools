@@ -734,7 +734,7 @@ jp: モチノキ遊園地にいるBRあこがれのヒーロー！ED
 
 en: Your favorite hero\BRat Mochinoki Amusement Park!\ED
 
-es: ｡Su adorado heroe\BRen Mochinoki Amusement Park!\ED
+es: ｡Su adorado heroe en el parque\BRde diversi de Mochinoki!\ED
 
 98
 jp: なんでも切れるスゴイBRカマをもっているぞ！ED
@@ -4427,7 +4427,7 @@ es: ｡Sala de Faudo\BRahora esta disponible!\ED
 608
 jp: ステージセレクトでBRウンコティンティンの部屋がBR選べるようになりました！ED
 
-en: Unkotintin Room is now unlocked\BRin the stage select screen!\ED
+en: Unko Tintin Room is now unlocked\BRin the stage select screen!\ED
 
 es: ｡Cuarto de Unkotintin\BRahora esta disponible!\ED
 
@@ -4456,7 +4456,7 @@ es: ｡Castillo Raiku ahora esta disponible!\ED
 612
 jp: ミニゲームでBRウンコティンティンの謎がBR選べるようになりました！ED
 
-en: Unkotintin Quiz is now unlocked\BRin the Mini Games mode!\ED
+en: Unko Tintin Quiz is now unlocked\BRin the Mini Games mode!\ED
 
 es: ｡Puedes jugar Unkotintin Quiz\BRen el modo Mini Games!\ED
 
