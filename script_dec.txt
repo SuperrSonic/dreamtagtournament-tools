@@ -444,7 +444,7 @@ jp: ƒ`ƒbƒ`ƒ`ƒbƒ`@ƒIƒbƒpƒCBRƒ{ƒCƒ“ƒ{ƒC`ƒ“ôED
 
 en: Hey hey, let's dance all day!\BRBoing! Boing!\MUSIC\ED
 
-es: ¡Chichi-chichi oppai!\BRBoing Boing~\MUSIC\ED
+es: ¡Chichi-chichi oppai!\BRBoing~ Boing~\MUSIC\ED
 
 59
 jp: ƒŠƒIƒE‚ª‚Á‚Ä‚¢‚½BRƒiƒ]‚ÌÎED
@@ -465,7 +465,7 @@ jp: ƒKƒbƒVƒ…‚ª’Ç‚¢‚©‚¯‚éBR‹ó‚ğ”ò‚Ôƒiƒ]‚ÌƒuƒŠED
 
 en: Zatch chased after this\BRstrange, flying yellowtail.\ED
 
-es: Zatch fue tras este raro\BRyellowtail volador.\ED
+es: Zatch fue tras este raro pez\BRde cola amarilla que se apareció.\ED
 
 62
 jp: À‚ÍƒOƒ‰ƒu‚ªƒKƒbƒVƒ…‚ğBR‚É‚Í‚ß‚é‚½‚ß‚Ì‚à‚ÌED
@@ -575,7 +575,9 @@ jp: ƒfƒp[ƒg‚ÌƒZ[ƒ‹‚ÅBR—é‰è‚ª”ƒ‚Á‚Ä‚µ‚Ü‚Á‚½ED
 
 en: Suzy bought it at the Mochinoki\BRdepartment store sale.\ED
 
-es: Suzy lo compró en especial\BRen la tienda departamental.\ED
+alt-- Suzy lo compró en especial\BRen la tienda departamental.\ED
+//dub accurate
+es: Suzy lo compró en especial\BRen el almacén de Mochinoki.\ED
 
 77
 jp: —é‰è‚ªì‚Á‚½BR‚¨‚İ‚Ü‚¢ƒq[ƒ[ED
