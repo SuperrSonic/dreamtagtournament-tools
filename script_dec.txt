@@ -1547,9 +1547,9 @@ es: "Bueno, ¡inténtalo otra vez!"\BR    Sí\BR    No\ED
 208
 jp: u‚¤‚Ş‚ŞAc”O‚¾cBBR@¡“x‚Ü‚½’§í‚µ‚Ä‚­‚êIIvED
 
-en: "Hm, that's too bad...\BR  Better luck next time!!"\ED
+en: "Hm, that's too bad..."\BR  "Better luck next time!!"\ED
 
-es: "Mm, que pena..."\BR  ¡Te veo la próxima!"\ED
+es: "Mm, que pena..."\BR  "¡Te veo la próxima!"\ED
 
 209
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@‚³‚ @ƒhƒŠ[ƒ€ƒ}ƒbƒ`‚ğBR@‚Í‚¶‚ß‚é‚¼ILFD‚«‚ÈƒLƒƒƒ‰ƒNƒ^[‚ğ‚Ql‘I‚ñ‚Å‘S‚Wí‚ğí‚¤‚ñ‚¾ILF‚³‚Ÿ@‚İ‚ñ‚ÈI@‚ª‚ñ‚Î‚Á‚ÄBR—DŸ‚ğ‚ß‚´‚µ‚Ä‚­‚êIIvED
@@ -2952,9 +2952,9 @@ es: Tia\BR"¡Vamos a toda velocidad!"\ED
 404
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚¨‚Ä‚ñ‚Î–ºƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tomboy!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Girl Power!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tomboy!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Girl Power!\ED
 
 405
 jp: @‰Ø—í‚Å‰Ô‚Ì‚ ‚éí‚¢•û‚ªBR@ˆóÛ“I‚Å‚µ‚½BBR@‚Å‚à“{‚é‚Æ•|‚¢‚Å‚·‚ËvED
