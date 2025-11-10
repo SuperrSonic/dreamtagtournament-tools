@@ -1963,7 +1963,7 @@ jp: ƒpƒeƒBBRu•‰‚¯‚ç‚ê‚È‚¢‚í‚ËIBR@ƒEƒ‹ƒ‹I@s‚­‚í‚æIIvED
 
 en: Penny\BR"Like I'll ever lose!\BR  Do it, Uri!"\ED
 
-es: Penny\BR"¡Como si fuera a perder!\BR  ¡Hazlo, Uri!\ED
+es: Penny\BR"¡Como si fuera a perder!\BR  ¡Hazlo, Uri!"\ED
 
 268
 jp: ƒEƒ‹ƒ‹BRud•û‚È‚¢‚Å‚·‚Ëc@‘S—Í‚ğBR@o‚µ‚Ü‚·‚æ@ƒpƒeƒBIvED
@@ -2010,9 +2010,9 @@ es: Victoream\BR"¡Aquí estooooooooy!\BR  VICTOREEEEAM!!!\ED
 274
 jp: @‚Óc—DŸ‚È‚Ç@‚±‚Ì‰Ø—í‚È‚éBR@ƒrƒNƒgƒŠ[ƒ€—l‚ª‚¢‚ê‚ÎBR@ƒJƒ“ƒ^ƒ“‚Éæ‚ÁcED
 
-en: Hmph! With the magnificent Victoream\BRaround, winning this tournament will be\BRno sweat..."\ED
+en: Hmph! With the magnificent Victoream\BRaround, winning this tournament\BRwill be no big deal..."\ED
 
-es: ¡Hmf! Con el magnífico Victoream\BRpresente, este torneo no es\BRnada más que pan comido..."\ED
+es: ¡Hmf! Con el magnífico Victoream\BRpresente, este torneo no es\BRla gran cosa..."\ED
 
 275
 jp: ƒŒƒCƒ‰BRui’·‚­‚È‚è‚»‚¤‚ËEEE—ÜjBR@s‚«‚Ü‚µ‚å@ƒAƒ‹vED
@@ -2069,7 +2069,7 @@ jp: ƒGƒŠ[BRus‚­‚¼ƒA[ƒXB@ƒTƒEƒU[‚ÆBR@‹¤‚É—DŸ‚ğ‘_‚¤IvED
 
 en: Ellie\BR"Let's go, Arth. By working with\BR  Sauza, we'll win the tournament!"\ED
 
-es: Ellie\BR"Vamos, Arth. ¡Trabajemos con Sauza\BR  para ganar el torneo!\ED
+es: Ellie\BR"Vamos, Arth. ¡Trabajemos con Sauza\BR  para ganar el torneo!"\ED
 
 283
 jp: ƒA[ƒXBRuŒäˆÓIvED
@@ -2195,9 +2195,9 @@ es: Gustav\BR"Bueno, vamos, Bari."\ED
 300
 jp: ƒoƒŠ[BRu‚¨‚¤I@—DŸ‚È‚ñ‚´BR@Œy‚­Œˆ‚ß‚Ä‚â‚é‚æIIIvED
 
-en: Bari\BR"Yes! This tournament\BR  will be a piece of cake!!!"\ED
+en: Bari\BR"Yes! This tournament\BR  will simply be no match for me!!!"\ED
 
-es: Bari\BR"¡Sí!\BR  ¡Esto no será nada dificil para mi!"\ED
+es: Bari\BR"¡Sí! ¡Este torneo será\BR  solo un simple reto para mí!"\ED
 
 301
 jp: ƒxƒ‹ƒ“BRu‚ ‚¢‚Â‚Æ‚Í–‚ŠE‚Åƒ‰ƒCƒoƒ‹BR@‚¾‚Á‚½‚ç‚µ‚¢‚È@ƒL[ƒXvED
@@ -2209,9 +2209,9 @@ es: Berun\BR"Fueron rivales en el mundo mamodo,\BR  Keith."\ED
 302
 jp: ƒL[ƒXBRu„‚½‚¿‚É“G‚È‚Ç‚¢‚È‚¢‚³BBR@s‚­‚¼IIvED
 
-en: Keith\BR"We're not enemies. Let's go!"\ED
+en: Keith\BR"Yes, but we're not enemies.\BR  Now, shall we go?"\ED
 
-es: Keith\BR"No somos enemigos. ¡Vamos!"\ED
+es: Keith\BR"Sí, pero no somos enemigos.\BR  ¡Ahora, vamos!"\ED
 
 303
 jp: ƒxƒ‹ƒ“BRu‚Æ‚¤‚Æ‚¤ÅIí‚Ü‚ÅBR@Ÿ‚¿‚·‚·‚ñ‚¾‚İ‚½‚¢‚¾‚ÈvED
