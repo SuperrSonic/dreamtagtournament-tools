@@ -1547,9 +1547,9 @@ es: "Bueno, ¡inténtalo otra vez!"\BR    Sí\BR    No\ED
 208
 jp: u‚¤‚Ş‚ŞAc”O‚¾cBBR@¡“x‚Ü‚½’§í‚µ‚Ä‚­‚êIIvED
 
-en: "Hm, that's too bad..."\BR  "Better luck next time!!"\ED
+en: "Hm, that's too bad...\BR  Better luck next time!!"\ED
 
-es: "Mm, que pena..."\BR  "¡Te veo la próxima!"\ED
+es: "Mm, que pena...\BR  ¡Te veo la próxima!"\ED
 
 209
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@‚³‚ @ƒhƒŠ[ƒ€ƒ}ƒbƒ`‚ğBR@‚Í‚¶‚ß‚é‚¼ILFD‚«‚ÈƒLƒƒƒ‰ƒNƒ^[‚ğ‚Ql‘I‚ñ‚Å‘S‚Wí‚ğí‚¤‚ñ‚¾ILF‚³‚Ÿ@‚İ‚ñ‚ÈI@‚ª‚ñ‚Î‚Á‚ÄBR—DŸ‚ğ‚ß‚´‚µ‚Ä‚­‚êIIvED
@@ -2456,9 +2456,9 @@ es: Tia\BR"¡No puede ser!\BR  ¡Hay que darse prisa! ¡Aaa~!"\ED
 337
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRímƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tiny Soldiers!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Small Soldiers!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tiny Soldiers!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Pequeños Soldados!\ED
 
 338
 jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@v‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
@@ -2510,9 +2510,9 @@ es: Kanchomé\BR"¡Sí, Folgore! ¡Somos superestrellas\BR  después de todo!"\ED
 344
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒ`ƒrƒbƒRímƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Tiny Soldiers!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Small Soldiers!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Tiny Soldiers!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Pequeños Soldados!\ED
 
 345
 jp: @‚Ü‚³‚©@—DŸ‚·‚é‚Æ‚ÍBR@v‚¢‚Ü‚¹‚ñ‚Å‚µ‚½IBR@‹­‚­‚È‚è‚Ü‚µ‚½‚Ë`vED
@@ -2566,7 +2566,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Top Fighters!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Top Fighters!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Fightin' Dreamers!\ED
 
 352
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
@@ -2623,7 +2623,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@Å‹­Ši“¬ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Top Fighters!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Top Fighters!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Fightin' Dreamers!\ED
 
 360
 jp: @‘ÅŒ‚’†S‚ÌƒƒU‚Ì”X‚ÍBR@”j‰ó—ÍƒoƒcƒOƒ“I@‚à‚Í‚âBR@Ú‹ßí‚Å‚Í“G–³‚µ‚Å‚·‚ËIvED
@@ -2677,9 +2677,9 @@ es: Jido\BR"Sí claro, eres demasiado joven para\BR  estar hablando sobre el vien
 366
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame Horses!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Ice-Flame!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Caballos Fuego y Hielo!\ED
 
 367
 jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
@@ -2740,9 +2740,9 @@ es: Sunbeam\BR"¡Quema! ¡Quema! ¡Aaaaaaa!"\ED
 374
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•X‰ŠƒTƒ‰ƒuƒŒƒbƒgƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Ice-Flame Horses!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Ice-Flame!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Caballos Fuego y Hielo!\ED
 
 375
 jp: @‰Š‚Æ•XEEEBR@”M‚¢‚Å‚·‚Ë`—â‚½‚¢‚Å‚·‚Ë`BR@‚Å‚à@‚¢‚¢ƒRƒ“ƒr‚Å‚µ‚½vED
@@ -2791,7 +2791,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Black!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Relámpago Negro!\ED
 
 382
 jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
@@ -2847,7 +2847,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Black!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Relámpago Negro!\ED
 
 390
 jp: @UŒ‚“I‚È‚Ql‚Ìƒoƒgƒ‹‚ÍBR@‚Í‚­‚è‚å‚­–“_‚Å‚µ‚½BBR@ƒOƒŒ[ƒg‚Èƒoƒgƒ‹‚Å‚·IIvED
@@ -3004,7 +3004,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒrƒNƒgƒŠ[ƒ€[ƒ“ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Victory-Moon!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Victory-Moon!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Mucha Luna!\ED
 
 412
 jp: @‰Ø—í‚ÅƒN[ƒ‹‚ÈUŒ‚‚Ì”XBR@‚ ‚Ìƒoƒgƒ‹‚ğv‚¢o‚·‚¾‚¯‚ÅBR@‹¹‚ª”M‚­‚È‚è‚Ü‚·IvED
@@ -3053,7 +3053,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒrƒNƒgƒŠ[ƒ€[ƒ“ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Victory-Moon!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Victory-Moon!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Mucha Luna!\ED
 
 419
 jp: @‰Ø—í‚ÅƒN[ƒ‹‚ÈUŒ‚‚Ì”XBR@‚ ‚Ìƒoƒgƒ‹‚ğv‚¢o‚·‚¾‚¯‚ÅBR@‹¹‚ª”M‚­‚È‚è‚Ü‚·IvED
@@ -3099,7 +3099,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚•X‚Ì‹Rmƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Cool Knights!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Cool Knights!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Caballeros Cool!\ED
 
 425
 jp: @–‚«ã‚°‚ç‚ê‚½‹Z‚Ì”X‚ÍBR@‚à‚Í‚âˆêŒ‚•KE‚ÌˆĞ—Í‚Å‚·IBR@‚³‚·‚ª@—ğí‚Ì‚Ql‚Å‚·vED
@@ -3141,7 +3141,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚•X‚Ì‹Rmƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Cool Knights!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Cool Knights!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Caballeros Cool!\ED
 
 431
 jp: @–‚«ã‚°‚ç‚ê‚½‹Z‚Ì”X‚ÍBR@‚à‚Í‚âˆêŒ‚•KE‚ÌˆĞ—Í‚Å‚·IBR@‚³‚·‚ª@—ğí‚Ì‚Ql‚Å‚·vED
@@ -3184,7 +3184,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒAƒNƒVƒ‡`ƒ“‚uƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Action V!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Action V!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Acción V!\ED
 
 437
 jp: @ƒgƒŠƒbƒL[‚ÈUŒ‚‚Ì”X‚ÍBR@Œ©‚Ä‚¢‚Ä@‚ ‚«‚È‚¢‚Å‚·‚ËBBR@‚¨‚à‚µ‚ë‚¢ƒoƒgƒ‹‚Å‚µ‚½IvED
@@ -3235,7 +3235,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@ƒAƒNƒVƒ‡`ƒ“‚uƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Action V!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Action V!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Acción V!\ED
 
 444
 jp: @ƒgƒŠƒbƒL[‚ÈUŒ‚‚Ì”X‚ÍBR@Œ©‚Ä‚¢‚Ä@‚ ‚«‚È‚¢‚Å‚·‚ËBBR@‚¨‚à‚µ‚ë‚¢ƒoƒgƒ‹‚Å‚µ‚½IvED
@@ -3276,9 +3276,9 @@ es: Berun\BR"OK. Vamos, Keith."\ED
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚ŠE‚Ìƒ‰ƒCƒoƒ‹ƒ`[ƒ€‚¾IED
 
 // Makai no Raibaru
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Rivals!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strong Rivals!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Rivals!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Fuertes Rivales!\ED
 
 450
 jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯m‚ªBR@è‚ğ‘g‚Ş‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
@@ -3325,9 +3325,9 @@ es: ¡Los derrotaré a todos\BRcon mis puños!"\ED
 456
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚ŠE‚Ìƒ‰ƒCƒoƒ‹ƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Rivals!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Strong Rivals!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Rivals!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Fuertes Rivales!\ED
 
 457
 jp: @‚â‚Í‚è@ƒ‰ƒCƒoƒ‹“¯m‚ªBR@è‚ğ‘g‚Ş‚Æ@‚±‚±‚Ü‚Å‹­‚¢BR@ƒ`[ƒ€‚É‚È‚é‚ñ‚Å‚·‚Ë`vED
@@ -3378,9 +3378,9 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@M‚¶‚éSƒ`[ƒ€‚¾IED
 // Believing Hearts
 // Team Faithful
 // Team Resolute could work since Riya joins right after Zatch's resolve to save both Li-en and the world
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Resolute!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Faithful!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Resolute!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Vínculo Aliado!\ED
 
 464
 jp: @‚Ql‚Æ‚à¬‚³‚¢‚È‚ª‚ç‚àBR@‚©‚©‚ñ‚ÉU‚ß‚é—E‹C‚ ‚ép‚ÍBR@Š´“®“I‚Å‚µ‚½vED
@@ -3428,9 +3428,9 @@ es: Zatch\BR"Sí, Kiyo, ¡te entiendo!"\ED
 470
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@M‚¶‚éSƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Resolute!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Faithful!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Resolute!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Vínculo Aliado!\ED
 
 471
 jp: @‚Ql‚Æ‚à¬‚³‚¢‚È‚ª‚ç‚àBR@‚©‚©‚ñ‚ÉU‚ß‚é—E‹C‚ ‚ép‚ÍBR@Š´“®“I‚Å‚µ‚½vED
@@ -3483,7 +3483,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@h–½‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 //Team Destiny if EF doesn't fit
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Fate!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Fate!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Destino Eléctrico!\ED
 
 478
 jp: @‚v“dŒ‚‚Í¦‚¢‚Å‚·‚Ë`BR@ƒrƒŠƒrƒŠƒrƒŠƒrƒŠ‚Å‚·BBR@í‚¤p‚à‚µ‚Ñ‚ê‚Ü‚·`vED
@@ -3535,7 +3535,7 @@ jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@h–½‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Fate!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Electric Fate!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Destino Eléctrico!\ED
 
 485
 jp: @‚v“dŒ‚‚Í¦‚¢‚Å‚·‚Ë`BR@ƒrƒŠƒrƒŠƒrƒŠƒrƒŠ‚Å‚·BBR@í‚¤p‚à‚µ‚Ñ‚ê‚Ü‚·`vED
