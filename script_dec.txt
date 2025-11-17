@@ -2010,7 +2010,7 @@ es: Victoream\BR"¡Aquí estooooooooy!\BR  VICTOREEEEAM!!!\ED
 274
 jp: @‚Óc—DŸ‚È‚Ç@‚±‚Ì‰Ø—í‚È‚éBR@ƒrƒNƒgƒŠ[ƒ€—l‚ª‚¢‚ê‚ÎBR@ƒJƒ“ƒ^ƒ“‚Éæ‚ÁcED
 
-en: Hmph! With the magnificent Victoream\BRaround, winning this tournament\BRwill be no big deal..."\ED
+en: Hmph! With the magnificent Victoream\BRaround, winning this tournament\BRwill be no big deal at all..."\ED
 
 es: ¡Hmf! Con el magnífico Victoream\BRpresente, este torneo no es\BRla gran cosa..."\ED
 
@@ -4420,14 +4420,14 @@ es: ¡Isla sureña ahora esta disponible!\ED
 607
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒtƒ@ƒE[ƒh‚ÌLŠÔ‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
-en: Faudo Hall is now unlocked\BRin the stage select screen!\ED
+en: Faudo Great Hall is now unlocked\BRin the stage select screen!\ED
 
-es: ¡Sala de Faudo\BRahora esta disponible!\ED
+es: ¡Templo de Faudo\BRahora esta disponible!\ED
 
 608
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒEƒ“ƒRƒeƒBƒ“ƒeƒBƒ“‚Ì•”‰®‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
-en: Unko Tintin's Room is now unlocked\BRin the stage select screen!\ED
+en: Faudo Stomach Chamber is now unlocked\BRin the stage select screen!\ED
 
 es: ¡Cuarto de Unkotintin\BRahora esta disponible!\ED
 
@@ -4435,7 +4435,7 @@ es: ¡Cuarto de Unkotintin\BRahora esta disponible!\ED
 jp: ƒXƒe[ƒWƒZƒŒƒNƒg‚ÅBRƒjƒ…[ƒW[ƒ‰ƒ“ƒh‹ßŠC‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 //new zealand kinkai, offshore or waters
-en: Offshore of New Zealand is now\BRunlocked in the stage select screen!\ED
+en: Coastline of New Zealand is now\BRunlocked in the stage select screen!\ED
 
 es: ¡Zona costera de Nueva Zelanda\BRahora esta disponible!\ED
 
