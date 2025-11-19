@@ -2365,9 +2365,9 @@ es: Zeno\BR"Bueno, quizás sea algo interesante.\BR  Vamos... ¡Zatch!"\ED
 324
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚â‚³‚µ‚¢‰¤—lƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!"\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!"\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!\ED
 
 325
 jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
@@ -2407,9 +2407,9 @@ es: Zatch\BR"¡Sí, daré lo mejor de mí!"\ED
 330
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@‚â‚³‚µ‚¢‰¤—lƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!"\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!"\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Kind Kings!\ED
 
 331
 jp: @Uç‚Éƒoƒ‰ƒ“ƒX‚ª‚Æ‚ê‚½BR@‚·‚Î‚ç‚µ‚¢ƒ`[ƒ€ƒ[ƒNIBR@—DŸ‚¨‚ß‚Å‚Æ‚¤IIIvED
