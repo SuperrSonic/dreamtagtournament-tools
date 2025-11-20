@@ -716,7 +716,7 @@ jp: —V‰€’n‚Å‘ål‹CIHBRŒ¶‚ÌƒX[ƒp[ƒq[ƒ[IED
 
 en: A huge hit at amusement parks?!\BRHe's a legendary superhero!\ED
 
-es: ¡¿Es muy popular con los niños?!\BR¡Es un superheroe legendario!\ED
+es: ¡¿Es muy popular con los niños?!\BR¡Es un superhéroe legendario!\ED
 
 96
 jp: ƒAƒW‚Ìƒqƒ‰ƒL‚ªBR–²‚Ì‚¨‚©‚¸‚¾IIED
@@ -734,7 +734,7 @@ jp: ƒ‚ƒ`ƒmƒL—V‰€’n‚É‚¢‚éBR‚ ‚±‚ª‚ê‚Ìƒq[ƒ[IED
 
 en: Your favorite hero\BRat Mochinoki Amusement Park!\ED
 
-es: ¡Su adorado heroe en el parque\BRde diversión de Mochinoki!\ED
+es: ¡Su adorado héroe en el parque\BRde diversión de Mochinoki!\ED
 
 98
 jp: ‚È‚ñ‚Å‚àØ‚ê‚éƒXƒSƒCBRƒJƒ}‚ğ‚à‚Á‚Ä‚¢‚é‚¼IED
@@ -2789,7 +2789,7 @@ es: Karudio\BR"¡Paru paru mon!"\ED
 381
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Black Bolt!\ED
 
 es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Relámpago Negro!\ED
 
@@ -2845,7 +2845,7 @@ es: Kiyo\BR"Mm, así es.\BR  ¡Definitivamente lo lograrás!"\ED
 389
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@•‚Ì“dŒ‚ƒ`[ƒ€‚¾IED
 
-en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Electric Black!\ED
+en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Black Bolt!\ED
 
 es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ¡el equipo Relámpago Negro!\ED
 
