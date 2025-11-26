@@ -1482,7 +1482,7 @@ jp: ガッシュの親友BR１代目・２代目・３代目ED
 
 en: Zatch's closest friends.\BR1st, 2nd, and 3rd generation.\ED
 
-es: Los amigos cercanos de Zatch.\BR1\DEG, 2\DEG, y 3\DEG generaci.\ED
+es: Los amigos cercanos de Zatch.\BR1.era, 2.da y 3.ra generaci.\ED
 
 200
 jp: バルカンが３体集まればBRムテキ戦隊の誕生だ！ED
