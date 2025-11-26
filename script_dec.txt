@@ -1619,7 +1619,7 @@ jp: —‹‹åæ¶BRuƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“‚ğBR@W‚ß‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚é‚¼ILF@W‚ß‚ê‚Î
 
 en: Raiku-Sensei\BR"Filling out the Zatch Collection\BR  has its advantages!\LFThe more you collect, the more\BRmamodo, stages, and mini-games\BRyou will unlock!\LFThe conditions for obtaining each item\BRvary, so do your best to find them all\BRand aim for the complete set!\LFI'm sure you can do it\MUSIC"\ED
 
-es: Raiku-Sensei\BR"¡Completar el Zatch Collection\BR  tiene sus beneficios!\LF¡Mientras más colecciones,\BRmás mamodo, etapas, y minijuegos\BRserán accesibles!\LFLos requisitos para obtener cada\BRcoleccionable son diferentes,\BR¡así que haz lo mejor que puedas\LFpara encontrarlos todos\BRy completar la colección!\LFEstoy segurito que lo haras\MUSIC"\ED
+es: Raiku-Sensei\BR"¡Completar el Zatch Collection\BR  tiene sus beneficios!\LF¡Mientras más colecciones,\BRmás mamodo, etapas y minijuegos\BRserán accesibles!\LFLos requisitos para obtener cada\BRcoleccionable son diferentes,\BR¡así que haz lo mejor que puedas\LFpara encontrarlos todos\BRy completar la colección!\LFEstoy segurito que lo haras\MUSIC"\ED
 
 219
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn`BBR@‚Å‚Í‚ª‚ñ‚Î‚Á‚Ä‚­‚ê‚½‚Ü‚¦IvED
@@ -4458,7 +4458,7 @@ jp: ƒ~ƒjƒQ[ƒ€‚ÅBRƒEƒ“ƒRƒeƒBƒ“ƒeƒBƒ“‚Ì“ä‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 en: Unko Tintin Quiz is now unlocked\BRin the Mini Games mode!\ED
 
-es: ¡Puedes jugar Unkotintin Quiz\BRen el modo Mini Games!\ED
+es: ¡Puedes jugar Unkotintin Quiz\BRen el modo Minijuegos!\ED
 
 613
 jp: ƒ~ƒjƒQ[ƒ€‚ÅBR‡‘Ì•ÏŒ`ƒR[ƒ‰ƒ‹‚p‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
@@ -4466,7 +4466,7 @@ jp: ƒ~ƒjƒQ[ƒ€‚ÅBR‡‘Ì•ÏŒ`ƒR[ƒ‰ƒ‹‚p‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 //gattai henkei Koral Q
 en: Transform Koral Q is now unlocked\BRin the Mini Games mode!\ED
 
-es: ¡Puedes jugar Transforma Koral Q\BRen el modo Mini Games!\ED
+es: ¡Puedes jugar Transforma Koral Q\BRen el modo Minijuegos!\ED
 
 614
 jp: ƒ~ƒjƒQ[ƒ€‚ÅBR‚¨‚µ‚¨‚«ƒ‚ƒ‚ƒ“‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
@@ -4474,14 +4474,14 @@ jp: ƒ~ƒjƒQ[ƒ€‚ÅBR‚¨‚µ‚¨‚«ƒ‚ƒ‚ƒ“‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 //oshioki momon
 en: Punish Momon is now unlocked\BRin the Mini Games mode!\ED
 
-es: ¡Puedes jugar Castiga a Momon\BRen el modo Mini Games!\ED
+es: ¡Puedes jugar Castiga a Momon\BRen el modo Minijuegos!\ED
 
 615
 jp: ƒ~ƒjƒQ[ƒ€‚ÅBRƒtƒ@ƒE[ƒhƒgƒ‰ƒCƒAƒ‹‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
 
 en: Faudo Trial is now unlocked\BRin the Mini Games mode!\ED
 
-es: ¡Puedes jugar Faudo Trial\BRen el modo Mini Games!\ED
+es: ¡Puedes jugar Faudo Trial\BRen el modo Minijuegos!\ED
 
 616
 jp: ƒIƒvƒVƒ‡ƒ“‚ÅBRƒTƒEƒ“ƒhƒ‹[ƒ€‚ªBR‘I‚×‚é‚æ‚¤‚É‚È‚è‚Ü‚µ‚½IED
