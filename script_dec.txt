@@ -1155,7 +1155,7 @@ jp: ƒR[ƒ‰ƒ‹‚p‚ªô•¶‚Å•ÏŒ`BR“dŒ‚‚È‚ñ‚Äƒwƒbƒ`ƒƒƒ‰IED
 
 en: Koral Q's transformation.\BRElectric shocks are no problem!\ED
 
-es: Koral Q se transforma.\BR¡Ataques eléctricos son inutiles!\ED
+es: Koral Q se transforma.\BR¡Ataques eléctricos son inútiles!\ED
 
 154
 jp: ƒsƒbƒ|ƒbƒpIIBR„‚ÍƒSƒ€‚¾IIED
@@ -1577,7 +1577,7 @@ jp: @@ƒ‹[ƒ‹à–¾BR@@ƒAƒVƒXƒgUŒ‚BR@@ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“ED
 
 en:     Rules Explanation\BR    Assist Attacks\BR    Zatch Collection\ED
 
-es:     Explicación de las reglas\BR    Ataques de asistencia\BR    Zatch Collection\ED
+es:     Explicación de las reglas\BR    Ataques de asistencia\BR    Colección Zatch\ED
 
 213
 jp: @@ƒVƒ“ƒOƒ‹ƒ‹[ƒ‹‚Ìà–¾BR@@ƒ_ƒuƒ‹ƒ‹[ƒ‹‚Ìà–¾BR@@ƒJƒXƒ^ƒ}ƒCƒY‚Ìà–¾ED
@@ -1619,7 +1619,7 @@ jp: —‹‹åæ¶BRuƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“‚ğBR@W‚ß‚é‚Æ—Ç‚¢‚±‚Æ‚ª‚ ‚é‚¼ILF@W‚ß‚ê‚Î
 
 en: Raiku-Sensei\BR"Filling out the Zatch Collection\BR  has its advantages!\LFThe more you collect, the more\BRmamodo, stages, and mini-games\BRyou will unlock!\LFThe conditions for obtaining each item\BRvary, so do your best to find them all\BRand aim for the complete set!\LFI'm sure you can do it\MUSIC"\ED
 
-es: Raiku-Sensei\BR"¡Completar el Zatch Collection\BR  tiene sus beneficios!\LF¡Mientras más colecciones,\BRmás mamodo, etapas y minijuegos\BRserán accesibles!\LFLos requisitos para obtener cada\BRcoleccionable son diferentes,\BR¡así que haz lo mejor que puedas\LFpara encontrarlos todos\BRy completar la colección!\LFEstoy segurito que lo haras\MUSIC"\ED
+es: Raiku-Sensei\BR"¡Completar la Colección Zatch\BR  tiene sus beneficios!\LF¡Mientras más colecciones,\BRmás mamodo, etapas y minijuegos\BRserán accesibles!\LFLos requisitos para obtener cada\BRcoleccionable son diferentes,\BR¡así que haz lo mejor que puedas\LFpara encontrarlos todos\BRy completar la colección!\LFEstoy segurito que lo haras\MUSIC"\ED
 
 219
 jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn`BBR@‚Å‚Í‚ª‚ñ‚Î‚Á‚Ä‚­‚ê‚½‚Ü‚¦IvED
@@ -3587,127 +3587,127 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚u—l‚ÌÊ^‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Glorious V Photo\BRis unlocked in the Zatch Collection!\ED
 
-es: Foto de la magnífica V\BR¡ha sido añadida al Zatch Collection!\ED
+es: Foto de la magnífica V\BR¡ha sido añadida a la colección!\ED
 
 492
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚ušŒ^ƒ_ƒ“ƒ{[ƒ‹‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: V-Shaped Cardboard\BRis unlocked in the Zatch Collection!\ED
 
-es: Cartón en forma de V\BR¡ha sido añadido al Zatch Collection!\ED
+es: Cartón en forma de V\BR¡ha sido añadido a la colección!\ED
 
 493
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚ÌƒuƒŠ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Penny's Yellowtail\BRis unlocked in the Zatch Collection!\ED
 
-es: Regalo de Penny\BR¡ha sido añadido al Zatch Collection!\ED
+es: Regalo de Penny\BR¡ha sido añadido a la colección!\ED
 
 494
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒcƒm‚İ‚ª‚«‚Ìƒuƒ‰ƒV‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Horn Brush\BRis unlocked in the Zatch Collection!\ED
 
-es: Cepillo de cuerno\BR¡ha sido añadido al Zatch Collection!\ED
+es: Cepillo de cuerno\BR¡ha sido añadido a la colección!\ED
 
 495
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒCƒ“ƒOƒ‰ƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Wine Glass\BRis unlocked in the Zatch Collection!\ED
 
-es: Copa de vino\BR¡ha sido añadida al Zatch Collection!\ED
+es: Copa de vino\BR¡ha sido añadida a la colección!\ED
 
 496
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŒ‚ÌÎ‚Ì‚©‚¯‚ç‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Stone of Moonlight Fragment\BRis unlocked in the Zatch Collection!\ED
 
-alt-- Trozo de Stone of Moonlight\BR¡ha sido añadido al Zatch Collection!\ED
-es: Fragmento de piedra luz lunar\BR¡ha sido añadido al Zatch Collection!\ED
+alt-- Trozo de Stone of Moonlight\BR¡ha sido añadido a la colección!\ED
+es: Fragmento de piedra luz lunar\BR¡ha sido añadido a la colección!\ED
 
 497
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ‰‚Ì‚¨‚à‚¿‚á‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Laila's Toy\BRis unlocked in the Zatch Collection!\ED
 
-es: Juguete de Laila\BR¡ha sido añadido al Zatch Collection!\ED
+es: Juguete de Laila\BR¡ha sido añadido a la colección!\ED
 
 498
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒL[ƒX‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Keith's Cane\BRis unlocked in the Zatch Collection!\ED
 
-es: Bastón de Keith\BR¡ha sido añadido al Zatch Collection!\ED
+es: Bastón de Keith\BR¡ha sido añadido a la colección!\ED
 
 499
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚¢‚à“V‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Potato Tempura\BRis unlocked in the Zatch Collection!\ED
 
-es: Tempura de papa\BR¡ha sido añadido al Zatch Collection!\ED
+es: Tempura de papa\BR¡ha sido añadido a la colección!\ED
 
 500
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚Ìô‚¢‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Riou's Staff\BRis unlocked in the Zatch Collection!\ED
 
-es: Bastón de Riou\BR¡ha sido añadido al Zatch Collection!\ED
+es: Bastón de Riou\BR¡ha sido añadido a la colección!\ED
 
 501
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒŠƒVƒG‚Ì…ƒKƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Alishie's Water Jar\BRis unlocked in the Zatch Collection!\ED
 
-es: Olla de agua de Alishie\BR¡ha sido añadida al Zatch Collection!\ED
+es: Olla de agua de Alishie\BR¡ha sido añadida a la colección!\ED
 
 502
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒA[ƒX‚ÌŒ•‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Arth's Sword\BRis unlocked in the Zatch Collection!\ED
 
-es: Espada de Arth\BR¡ha sido añadida al Zatch Collection!\ED
+es: Espada de Arth\BR¡ha sido añadida a la colección!\ED
 
 503
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒiƒƒKƒl‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Silly Glasses\BRare unlocked in the Zatch Collection!\ED
 
-es: Lentes graciosos\BR¡han sido añadidos\BRal Zatch Collection!\ED
+es: Lentes graciosos\BR¡han sido añadidos\BRa la colección!\ED
 
 504
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR–‚‚æ‚¯‚Ìƒ†ƒrƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Amulet Rings\BRare unlocked in the Zatch Collection!\ED
 
-es: Anillos de amuleto\BR¡han sido añadidos\BRal Zatch Collection!\ED
+es: Anillos de amuleto\BR¡han sido añadidos\BRa la colección!\ED
 
 505
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‰Æ•ó‚Ìñ‚©‚´‚è‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Heirloom Necklace\BRis unlocked in the Zatch Collection!\ED
 
-es: Collar valioso\BR¡ha sido añadido al Zatch Collection!\ED
+es: Collar valioso\BR¡ha sido añadido a la colección!\ED
 
 506
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒVƒFƒŠ[‚Ìñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Sherry's Cane\BRis unlocked in the Zatch Collection!\ED
 
-es: Bastón de Sherry\BR¡ha sido añadido al Zatch Collection!\ED
+es: Bastón de Sherry\BR¡ha sido añadido a la colección!\ED
 
 507
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹Ö’f‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Forbidden Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro prohibido\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro prohibido\BR¡ha sido añadido a la colección!\ED
 
 508
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚fƒyƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: G-Pen\BRis unlocked in the Zatch Collection!\ED
 
-es: G-Pen\BR¡ha sido añadido al Zatch Collection!\ED
+es: G-Pen\BR¡ha sido añadido a la colección!\ED
 
 509
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ“ƒ_ƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3715,28 +3715,28 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ“ƒ_ƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 en: Bandana\BRis unlocked in the Zatch Collection!\ED
 
 //pañuelo also works
-es: Bandana\BR¡ha sido añadido al Zatch Collection!\ED
+es: Bandana\BR¡ha sido añadido a la colección!\ED
 
 510
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒ“ƒ‚ƒbƒN‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Hammock\BRis unlocked in the Zatch Collection!\ED
 
-es: Hamaca\BR¡ha sido añadida al Zatch Collection!\ED
+es: Hamaca\BR¡ha sido añadida a la colección!\ED
 
 511
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR”o‹å‚Ì’Zû‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Haiku Strip\BRis unlocked in the Zatch Collection!\ED
 
-es: Tirita de haiku\BR¡ha sido añadida al Zatch Collection!\ED
+es: Tirita de haiku\BR¡ha sido añadida a la colección!\ED
 
 512
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR”EÒ‰®•~‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Ninja House\BRis unlocked in the Zatch Collection!\ED
 
-es: Casa de ninja\BR¡ha sido añadida al Zatch Collection!\ED
+es: Casa de ninja\BR¡ha sido añadida a la colección!\ED
 
 513
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒiƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3744,7 +3744,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒiƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 en: Banana\BRis unlocked in the Zatch Collection!\ED
 
 //this fruit's name varies depending on the country, 'guineo' in my case
-es: Banana\BR¡ha sido añadida al Zatch Collection!\ED
+es: Banana\BR¡ha sido añadida a la colección!\ED
 
 514
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒeƒBƒI‚Ìƒpƒ“ƒc‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3753,35 +3753,35 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒeƒBƒI‚Ìƒpƒ“ƒc‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 //If I were more dedicated I would add an option to change this item to Tia's Watch
 en: Tia's Underwear\BRis unlocked in the Zatch Collection!\ED
 
-es: Ropa interior de Tia\BR¡ha sido añadida al Zatch Collection!\ED
+es: Ropa interior de Tia\BR¡ha sido añadida a la colección!\ED
 
 515
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚Ìƒpƒ“ƒc‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Penny's Underwear\BRis unlocked in the Zatch Collection!\ED
 
-es: Ropa interior de Penny\BR¡ha sido añadida al Zatch Collection!\ED
+es: Ropa interior de Penny\BR¡ha sido añadida a la colección!\ED
 
 516
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‘åŠCŒb‚Ì‚b‚c‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Megumi Oumi's CD\BRis unlocked in the Zatch Collection!\ED
 
-es: CD de Megumi Oumi\BR¡ha sido añadido al Zatch Collection!\ED
+es: CD de Megumi Oumi\BR¡ha sido añadido a la colección!\ED
 
 517
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒCƒhƒ‹ƒƒKƒl‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Idol Glasses\BRis unlocked in the Zatch Collection!\ED
 
-es: Gafas de ídolo\BR¡han sido añadidas\BRal Zatch Collection!\ED
+es: Gafas de ídolo\BR¡han sido añadidas\BRa la colección!\ED
 
 518
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒtƒHƒ‹ƒSƒŒ‚Ì‚b‚c‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Folgore's CD\BRis unlocked in the Zatch Collection!\ED
 
-es: CD de Folgore\BR¡ha sido añadido al Zatch Collection!\ED
+es: CD de Folgore\BR¡ha sido añadido a la colección!\ED
 
 519
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒLƒƒƒ“ƒ`ƒ‡ƒ‚Ìƒ‰ƒWƒJƒZ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3789,7 +3789,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒLƒƒƒ“ƒ`ƒ‡ƒ‚Ìƒ‰ƒWƒJƒZ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 //rajikase = Radiocassette
 en: Kanchomé's Boombox\BRis unlocked in the Zatch Collection!\ED
 
-es: Boombox de Kanchomé\BR¡ha sido añadido al Zatch Collection!\ED
+es: Boombox de Kanchomé\BR¡ha sido añadido a la colección!\ED
 
 520
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŠz‚ÌƒJƒM‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3797,63 +3797,63 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRŠz‚ÌƒJƒM‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 en: Forehead Key\BRis unlocked in the Zatch Collection!\ED
 
 //it'd be better if it's Llave de Faudo
-es: Llave de la frente\BR¡ha sido añadida al Zatch Collection!\ED
+es: Llave de la frente\BR¡ha sido añadida a la colección!\ED
 
 521
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹ó”ò‚ÔƒuƒŠ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Flying Yellowtail\BRis unlocked in the Zatch Collection!\ED
 
-es: Buri volador\BR¡ha sido añadido al Zatch Collection!\ED
+es: Buri volador\BR¡ha sido añadido a la colección!\ED
 
 522
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒ‡ƒ“ƒR‚ÌŒv‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Byonko's Clock\BRis unlocked in the Zatch Collection!\ED
 
-es: Reloj de Byonko\BR¡ha sido añadido al Zatch Collection!\ED
+es: Reloj de Byonko\BR¡ha sido añadido a la colección!\ED
 
 523
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒX[ƒp[‚P‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Super-1\BRis unlocked in the Zatch Collection!\ED
 
-es: Súper-1\BR¡ha sido añadido al Zatch Collection!\ED
+es: Súper-1\BR¡ha sido añadido a la colección!\ED
 
 524
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒZƒbƒRƒ‚ÌlŒ`‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Kory's Doll\BRis unlocked in the Zatch Collection!\ED
 
-es: Muñeco de Kory\BR¡ha sido añadido al Zatch Collection!\ED
+es: Muñeco de Kory\BR¡ha sido añadido a la colección!\ED
 
 525
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR–œ”\ƒiƒCƒt‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Chop Choppin' Chopper Knife\BRis unlocked in the Zatch Collection!\ED
 
-es: Cuchillo Corta Cortante Cortador\BR¡ha sido añadido al Zatch Collection!\ED
+es: Cuchillo Corta Cortante Cortador\BR¡ha sido añadido a la colección!\ED
 
 526
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR—é‰è‚Ì‚¨‚Ü‚à‚è‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Suzy's Charm\BRis unlocked in the Zatch Collection!\ED
 
-es: Charm de Suzy\BR¡ha sido añadido al Zatch Collection!\ED
+es: Charm de Suzy\BR¡ha sido añadido a la colección!\ED
 
 527
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒEƒ\”­Œ©Ší‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Lie Detector\BRis unlocked in the Zatch Collection!\ED
 
-es: Detector de mentiras\BR¡ha sido añadido al Zatch Collection!\ED
+es: Detector de mentiras\BR¡ha sido añadido a la colección!\ED
 
 528
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒjƒZ—mƒiƒV‚¿‚á‚ñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Fake Princess Pear\BRis unlocked in the Zatch Collection!\ED
 
-es: Princesa Pera falsa\BR¡ha sido añadida al Zatch Collection!\ED
+es: Princesa Pera falsa\BR¡ha sido añadida a la colección!\ED
 
 529
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒ“ƒSƒƒbƒgƒ“‚¿‚á‚ñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3864,35 +3864,35 @@ en: Mr. Applekins\BRis unlocked in the Zatch Collection!\ED
 
 // in ep.11 Suzy says the name but the BG noise makes it hard
 // to figure out what she says, it sounds like Señor Manzana
-es: Señor Manzana\BR¡ha sido añadida al Zatch Collection!\ED
+es: Señor Manzana\BR¡ha sido añadida a la colección!\ED
 
 530
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒbƒVƒ…ƒƒ{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Robo Zatch\BRis unlocked in the Zatch Collection!\ED
 
-es: Robo Zatch\BR¡ha sido añadido al Zatch Collection!\ED
+es: Robo Zatch\BR¡ha sido añadido a la colección!\ED
 
 531
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒJƒj‚Ì‚¨‚İ‚â‚°‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Crab Souvenir\BRis unlocked in the Zatch Collection!\ED
 
-es: Suvenir de cangrejo\BR¡ha sido añadido al Zatch Collection!\ED
+es: Suvenir de cangrejo\BR¡ha sido añadido a la colección!\ED
 
 532
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ^ƒJ‚Ì‚¨‚İ‚â‚°‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Hawk Souvenir\BRis unlocked in the Zatch Collection!\ED
 
-es: Suvenir de gavilán\BR¡ha sido añadido al Zatch Collection!\ED
+es: Suvenir de gavilán\BR¡ha sido añadido a la colección!\ED
 
 533
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒEƒ}ƒSƒ“‚Ì¬‰®‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Ponygon's House\BRis unlocked in the Zatch Collection!\ED
 
-es: Casita de Ponygon\BR¡ha sido añadida al Zatch Collection!\ED
+es: Casita de Ponygon\BR¡ha sido añadida a la colección!\ED
 
 534
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒVƒFƒ~ƒ‰‘œ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3900,49 +3900,49 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒVƒFƒ~ƒ‰‘œ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 //ep27
 en: Shemira Statue\BRis unlocked in the Zatch Collection!\ED
 
-es: Estatua Shemira\BR¡ha sido añadida al Zatch Collection!\ED
+es: Estatua Shemira\BR¡ha sido añadida a la colección!\ED
 
 535
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ^ƒ}ƒSƒ„ƒL‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Omelet\BRis unlocked in the Zatch Collection!\ED
 
-es: Tamagoyaki\BR¡ha sido añadido al Zatch Collection!\ED
+es: Tamagoyaki\BR¡ha sido añadido a la colección!\ED
 
 536
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒAƒ|ƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Apollo\BRis unlocked in the Zatch Collection!\ED
 
-es: Apollo\BR¡ha sido añadido al Zatch Collection!\ED
+es: Apollo\BR¡ha sido añadido a la colección!\ED
 
 537
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒJƒCƒ‹‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Kyle\BRis unlocked in the Zatch Collection!\ED
 
-es: Kyle\BR¡ha sido añadido al Zatch Collection!\ED
+es: Kyle\BR¡ha sido añadido a la colección!\ED
 
 538
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒq[ƒ[ƒoƒo[ƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Hero Ba-Ban\BRis unlocked in the Zatch Collection!\ED
 
-es: Héroe Ba-ban\BR¡ha sido añadido al Zatch Collection!\ED
+es: Héroe Ba-ban\BR¡ha sido añadido a la colección!\ED
 
 539
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒJƒ}ƒLƒŠƒWƒ‡[‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Praying Mantis Joe\BRis unlocked in the Zatch Collection!\ED
 
-es: Mantis Religiosa Joe\BR¡ha sido añadido al Zatch Collection!\ED
+es: Mantis Religiosa Joe\BR¡ha sido añadido a la colección!\ED
 
 540
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR…–ì—é‰è‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Suzy Mizuno\BRis unlocked in the Zatch Collection!\ED
 
-es: Suzy Mizuno\BR¡ha sido añadida al Zatch Collection!\ED
+es: Suzy Mizuno\BR¡ha sido añadida a la colección!\ED
 
 541
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ‚ƒ“ƒ‚ƒ“æ¶‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3950,189 +3950,189 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ‚ƒ“ƒ‚ƒ“æ¶‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 en: Miss Wriggle\BRis unlocked in the Zatch Collection!\ED
 
 // me gustaria ponerle Senorita Retorcida o dejar el nombre original Monmon
-es: Maestra Monmon\BR¡ha sido añadida al Zatch Collection!\ED
+es: Maestra Monmon\BR¡ha sido añadida a la colección!\ED
 
 542
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒCƒt‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Teacher's Wife\BRis unlocked in the Zatch Collection!\ED
 
-es: Esposa del maestro\BR¡ha sido añadida al Zatch Collection!\ED
+es: Esposa del maestro\BR¡ha sido añadida a la colección!\ED
 
 543
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR—‹‹åæ¶‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Raiku-Sensei\BRis unlocked in the Zatch Collection!\ED
 
-es: Raiku-Sensei\BR¡ha sido añadido al Zatch Collection!\ED
+es: Raiku-Sensei\BR¡ha sido añadido a la colección!\ED
 
 544
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒGƒ‹EƒV[ƒoƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Elle Chivas\BRis unlocked in the Zatch Collection!\ED
 
-es: Elle Chivas\BR¡ha sido añadida al Zatch Collection!\ED
+es: Elle Chivas\BR¡ha sido añadida a la colección!\ED
 
 545
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒ‹ƒ^ƒjƒAƒ“‹³ö‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Professor Dartagnan\BRis unlocked in the Zatch Collection!\ED
 
-es: Profesor Dartagnan\BR¡ha sido añadido al Zatch Collection!\ED
+es: Profesor Dartagnan\BR¡ha sido añadido a la colección!\ED
 
 546
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒbƒOEƒ{ƒCƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Lady Susan\BRis unlocked in the Zatch Collection!\ED
 
-es: Lady Susan\BR¡ha sido añadida al Zatch Collection!\ED
+es: Lady Susan\BR¡ha sido añadida a la colección!\ED
 
 547
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒOƒ‰ƒu‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Grubb\BRis unlocked in the Zatch Collection!\ED
 
-es: Grubb\BR¡ha sido añadido al Zatch Collection!\ED
+es: Grubb\BR¡ha sido añadido a la colección!\ED
 
 548
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒiƒIƒ~‚¿‚á‚ñ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Naomi\BRis unlocked in the Zatch Collection!\ED
 
-es: Naomi\BR¡ha sido añadida al Zatch Collection!\ED
+es: Naomi\BR¡ha sido añadida a la colección!\ED
 
 549
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‹ßŠ‚ÌŒ¢‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Neighborhood Dog\BRis unlocked in the Zatch Collection!\ED
 
-es: Perro del vecindario\BR¡ha sido añadido al Zatch Collection!\ED
+es: Perro del vecindario\BR¡ha sido añadido a la colección!\ED
 
 550
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒuƒŠƒI‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Gabriel\BRis unlocked in the Zatch Collection!\ED
 
-es: Gabriel\BR¡ha sido añadido al Zatch Collection!\ED
+es: Gabriel\BR¡ha sido añadido a la colección!\ED
 
 551
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒbƒvƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Rops\BRis unlocked in the Zatch Collection!\ED
 
-es: Rops\BR¡ha sido añadido al Zatch Collection!\ED
+es: Rops\BR¡ha sido añadido a la colección!\ED
 
 552
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒ‡ƒ“ƒR‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Byonko\BRis unlocked in the Zatch Collection!\ED
 
-es: Byonko\BR¡ha sido añadido al Zatch Collection!\ED
+es: Byonko\BR¡ha sido añadido a la colección!\ED
 
 553
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒRƒ‹ƒ‹‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Kolulu\BRis unlocked in the Zatch Collection!\ED
 
-es: Kolulu\BR¡ha sido añadida al Zatch Collection!\ED
+es: Kolulu\BR¡ha sido añadida a la colección!\ED
 
 554
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒj[‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Danny\BRis unlocked in the Zatch Collection!\ED
 
-es: Danny\BR¡ha sido añadido al Zatch Collection!\ED
+es: Danny\BR¡ha sido añadido a la colección!\ED
 
 555
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Rein\BRis unlocked in the Zatch Collection!\ED
 
-es: Rein\BR¡ha sido añadido al Zatch Collection!\ED
+es: Rein\BR¡ha sido añadido a la colección!\ED
 
 556
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒRƒ€‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Reycom\BRis unlocked in the Zatch Collection!\ED
 
-es: Reycom\BR¡ha sido añadido al Zatch Collection!\ED
+es: Reycom\BR¡ha sido añadido a la colección!\ED
 
 557
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒˆƒ|ƒ|‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Yopopo\BRis unlocked in the Zatch Collection!\ED
 
-es: Yopopo\BR¡ha sido añadido al Zatch Collection!\ED
+es: Yopopo\BR¡ha sido añadido a la colección!\ED
 
 558
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ}ƒ‹ƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Maruss\BRis unlocked in the Zatch Collection!\ED
 
-es: Maruss\BR¡ha sido añadido al Zatch Collection!\ED
+es: Maruss\BR¡ha sido añadido a la colección!\ED
 
 559
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ‹ƒgƒ‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Baltro\BRis unlocked in the Zatch Collection!\ED
 
-es: Baltro\BR¡ha sido añadido al Zatch Collection!\ED
+es: Baltro\BR¡ha sido añadido a la colección!\ED
 
 560
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒuƒmƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Robnos\BRis unlocked in the Zatch Collection!\ED
 
-es: Robnos\BR¡ha sido añadido al Zatch Collection!\ED
+es: Robnos\BR¡ha sido añadido a la colección!\ED
 
 561
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒfƒ‚ƒ‹ƒg‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Demolt\BRis unlocked in the Zatch Collection!\ED
 
-es: Demolt\BR¡ha sido añadido al Zatch Collection!\ED
+es: Demolt\BR¡ha sido añadido a la colección!\ED
 
 562
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒ€[ƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Pamoon\BRis unlocked in the Zatch Collection!\ED
 
-es: Pamoon\BR¡ha sido añadido al Zatch Collection!\ED
+es: Pamoon\BR¡ha sido añadido a la colección!\ED
 
 563
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒcƒ@ƒIƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Tsao-lon\BRis unlocked in the Zatch Collection!\ED
 
-es: Tsao-lon\BR¡ha sido añadido al Zatch Collection!\ED
+es: Tsao-lon\BR¡ha sido añadido a la colección!\ED
 
 564
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒxƒ‹ƒMƒ€E‚dE‚n‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Belgim E.O.\BRis unlocked in the Zatch Collection!\ED
 
-es: Belgim E.O.\BR¡ha sido añadido al Zatch Collection!\ED
+es: Belgim E.O.\BR¡ha sido añadido a la colección!\ED
 
 565
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒR[ƒ‰ƒ‹‚p‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Koral Q\BRis unlocked in the Zatch Collection!\ED
 
-es: Koral Q\BR¡ha sido añadido al Zatch Collection!\ED
+es: Koral Q\BR¡ha sido añadido a la colección!\ED
 
 566
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒ{ƒ‹ƒN‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Roboruk\BRis unlocked in the Zatch Collection!\ED
 
-es: Roboruk\BR¡ha sido añadido al Zatch Collection!\ED
+es: Roboruk\BR¡ha sido añadido a la colección!\ED
 
 567
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ€ƒƒ€Eƒƒ{ƒ‹ƒN‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Murom Roboruk\BRis unlocked in the Zatch Collection!\ED
 
-es: Murom Roboruk\BR¡ha sido añadido al Zatch Collection!\ED
+es: Murom Roboruk\BR¡ha sido añadido a la colección!\ED
 
 568
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒ“ƒWƒ‹ƒhEƒƒuƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4143,28 +4143,28 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒ“ƒWƒ‹ƒhEƒƒuƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Ganjirdo Roburon\BRis unlocked in the Zatch Collection!\ED
 
-es: Ganjirdo Roburon\BR¡ha sido añadido al Zatch Collection!\ED
+es: Ganjirdo Roburon\BR¡ha sido añadido a la colección!\ED
 
 569
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ‚ƒ‚ƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Momon\BRis unlocked in the Zatch Collection!\ED
 
-es: Momon\BR¡ha sido añadido al Zatch Collection!\ED
+es: Momon\BR¡ha sido añadido a la colección!\ED
 
 570
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠƒIƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Riou\BRis unlocked in the Zatch Collection!\ED
 
-es: Riou\BR¡ha sido añadido al Zatch Collection!\ED
+es: Riou\BR¡ha sido añadido a la colección!\ED
 
 571
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒUƒ‰ƒC‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Buzarai\BRis unlocked in the Zatch Collection!\ED
 
-es: Buzarai\BR¡ha sido añadido al Zatch Collection!\ED
+es: Buzarai\BR¡ha sido añadido a la colección!\ED
 
 572
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒsƒvƒŠƒI‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4173,21 +4173,21 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒsƒvƒŠƒI‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 //but since the name comes from Dicaprio, it should actually be Papiprio
 en: Purio\BRis unlocked in the Zatch Collection!\ED
 
-es: Purio\BR¡ha sido añadido al Zatch Collection!\ED
+es: Purio\BR¡ha sido añadido a la colección!\ED
 
 573
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒUƒ‹ƒ`ƒ€‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Zaruchim\BRis unlocked in the Zatch Collection!\ED
 
-es: Zaruchim\BR¡ha sido añadido al Zatch Collection!\ED
+es: Zaruchim\BR¡ha sido añadido a la colección!\ED
 
 574
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ`ƒFƒŠƒbƒVƒ…‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Cherish\BRis unlocked in the Zatch Collection!\ED
 
-es: Cherish\BR¡ha sido añadido al Zatch Collection!\ED
+es: Cherish\BR¡ha sido añadido a la colección!\ED
 
 575
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒfƒ…ƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4195,7 +4195,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒfƒ…ƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 //rodyuu
 en: Rodeaux\BRis unlocked in the Zatch Collection!\ED
 
-es: Rodeaux\BR¡ha sido añadido al Zatch Collection!\ED
+es: Rodeaux\BR¡ha sido añadido a la colección!\ED
 
 576
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ]ƒ{ƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4203,105 +4203,105 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ]ƒ{ƒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 en: Zoboron\BRis unlocked in the Zatch Collection!\ED
 
 //actually female
-es: Zoboron\BR¡ha sido añadida al Zatch Collection!\ED
+es: Zoboron\BR¡ha sido añadida a la colección!\ED
 
 577
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒXƒMƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Sugino\BRis unlocked in the Zatch Collection!\ED
 
-es: Sugino\BR¡ha sido añadido al Zatch Collection!\ED
+es: Sugino\BR¡ha sido añadido a la colección!\ED
 
 578
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ_ƒ‹ƒ‚ƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Dalmos\BRis unlocked in the Zatch Collection!\ED
 
-es: Dalmos\BR¡ha sido añadido al Zatch Collection!\ED
+es: Dalmos\BR¡ha sido añadido a la colección!\ED
 
 579
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒS[ƒŒƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Goren of the Stone\BRis unlocked in the Zatch Collection!\ED
 
-es: Goren\BR¡ha sido añadido al Zatch Collection!\ED
+es: Goren\BR¡ha sido añadido a la colección!\ED
 
 580
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ]ƒtƒBƒX‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Zofis\BRis unlocked in the Zatch Collection!\ED
 
-es: Zofis\BR¡ha sido añadido al Zatch Collection!\ED
+es: Zofis\BR¡ha sido añadido a la colección!\ED
 
 581
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒpƒeƒB‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Penny's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Penny\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Penny\BR¡ha sido añadido a la colección!\ED
 
 582
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŒƒCƒ‰‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Laila's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Laila\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Laila\BR¡ha sido añadido a la colección!\ED
 
 583
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒŠ[‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Bari's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Bari\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Bari\BR¡ha sido añadido a la colección!\ED
 
 584
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒrƒNƒgƒŠ[ƒ€‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Victoream's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Victoream\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Victoream\BR¡ha sido añadido a la colección!\ED
 
 585
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒuƒ‰ƒS‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Brago's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Brago\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Brago\BR¡ha sido añadido a la colección!\ED
 
 586
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒA[ƒX‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Arth's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Arth\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Arth\BR¡ha sido añadido a la colección!\ED
 
 587
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒL[ƒX‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Keith's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Keith\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Keith\BR¡ha sido añadido a la colección!\ED
 
 588
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒŠ[ƒ„‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Riya's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Riya\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Riya\BR¡ha sido añadido a la colección!\ED
 
 589
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ[ƒIƒ“‚Ì–{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Zeno's Book\BRis unlocked in the Zatch Collection!\ED
 
-es: Libro de Zeno\BR¡ha sido añadido al Zatch Collection!\ED
+es: Libro de Zeno\BR¡ha sido añadido a la colección!\ED
 
 590
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BR‚R‚Â‚Ìƒoƒ‹ƒJƒ“‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: The 3 Volcans\BRare unlocked in the Zatch Collection!\ED
 
-es: Los 3 Volcans\BR¡han sido añadidos\BRal Zatch Collection!\ED
+es: Los 3 Volcans\BR¡han sido añadidos\BRa la colección!\ED
 
 591
 jp: ƒhƒŠ[ƒ€ƒ^ƒbƒO‚ÌØ‚ğƒQƒbƒgIIBR@@@@@@‚³‚ç‚ÉcED
