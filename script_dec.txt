@@ -1286,7 +1286,7 @@ jp: モチノキ遊園地でBRガッシュたちに敗れたED
 
 en: Defeated by Zatch and Tia\BRat Mochinoki Amusement Park.\ED
 
-es: Derrotado por Zatch y Tia\BRen el parque de diversiones.\ED
+es: Derrotada por Zatch y Tia\BRen el parque de diversiones.\ED
 
 172
 jp: ヒゲをパートナーにBRエネルギー球の術を使うED
