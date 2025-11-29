@@ -4306,8 +4306,6 @@ es: Los 3 Volcans\BR｡han sido adidos\BRa la colecci!\ED
 591
 jp: ドリームタッグの証をゲット！！BR　　　　　　さらに…ED
 
-//Need to see how this looks in the game to determine
-//what exactly akashi means here.
 en: You got the Dream Tag Badge!!\BR          Furthermore...\ED
 
 es: ｡Conseguiste la medalla Dream Tag!\BR                Tambi駭...\ED
