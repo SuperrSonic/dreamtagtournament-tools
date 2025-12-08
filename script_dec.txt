@@ -3490,9 +3490,9 @@ jp: 　Ｗ電撃は凄いですね～BR　ビリビリビリビリです。BR　戦う姿もしびれます～」ED
 
 //W-dengeki = Double lightning???
 //2nd sentence is literally biribiribiribiridesu
-en: Double lightning is amazing, huh~\BRIt's zapping and crackling all over\BRthe place.\LFThe battles were also electrifying~"\ED
+en: Double lightning strikes are pretty\BRamazing, huh~ It's zapping and\BRcrackling all over the place!\LFThe battles were also electrifying~"\ED
 
-es: Doble fuerza el馗trica es genial~\BRHay mucho ｡BZZT! ｡BRRZZT! y ｡ZZZT!\BRen el 疵ea.\LFLas batallas tambi駭\BRfueron electrizantes."\ED
+es: Doble fuerza el馗trica, que genial~\BRHay mucho ｡BZZT! ｡BRRZZT! y ｡ZZZT!\BRen el 疵ea.\LFLas batallas tambi駭\BRfueron electrizantes."\ED
 
 479
 jp: 清麿BR「よくやったガッシュ！BR　俺たちは強くなった」ED
@@ -3513,7 +3513,7 @@ jp: ガッシュBR「もっと強くならなくてはBR　ダメなのだ！」ED
 
 en: Zatch\BR"I have to become much stronger!"\ED
 
-es: Zatch\BR"｡Tengo que hacerme\BR  aun m疽 fuerte!"\ED
+es: Zatch\BR"｡Tengo que hacerme\BR  a佖 m疽 fuerte!"\ED
 
 482
 jp: ガッシュBR「あの者をBR　たおすためには…！！」ED
