@@ -1,6 +1,6 @@
 # Dream Tag Tournament Tools
 
-I wrote this program to handle the script of "Konjiki no Gash Bell!! Yujo no Zakeru Dream Tag Tournament" which I've translated as "Zatch Bell! Dream Tag Tournament," this game released originally in 2005 and was developed by Dimps, a lot of the developers worked on the Sonic Advance series and Kirby & the Amazing Mirror!
+I wrote this program to handle the script in "Konjiki no Gash Bell!! Yujo no Zakeru Dream Tag Tournament" which I've translated as "Zatch Bell! Dream Tag Tournament," this game released originally in 2005 and was developed by Dimps, a lot of the developers worked on the Sonic Advance series and Kirby & the Amazing Mirror!
 
 
 ![Alt text](https://raw.githubusercontent.com/SuperrSonic/dreamtagtournament-tools/refs/heads/main/SCRNS/dtt_en.png "Zatch Bell DTT")
