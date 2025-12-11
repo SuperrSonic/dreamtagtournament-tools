@@ -41,6 +41,10 @@ You can also add --more-space to expand to 32MB, useful when combined with --vo-
 
 NOTE: [mGBA 0.9.3](https://github.com/mgba-emu/mgba/releases/tag/0.9.3) was the last stable release that had the faster HLE bios decompression, it improves this game by eliminating audio stutters that would occur when the game has to decompress a lot of data, such as the stage backgrounds.
 
+# Video
+
+[This explains most of the process of the translation.](https://www.youtube.com/watch?v=KTNKwTdlsCA)
+
 
 # Credits
 
