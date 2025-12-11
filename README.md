@@ -43,7 +43,7 @@ NOTE: [mGBA 0.9.3](https://github.com/mgba-emu/mgba/releases/tag/0.9.3) was the 
 
 # Video
 
-[This explains most of the process of the translation.](https://www.youtube.com/watch?v=KTNKwTdlsCA)
+[This video explains most of the process of the translation.](https://www.youtube.com/watch?v=KTNKwTdlsCA)
 
 
 # Credits
