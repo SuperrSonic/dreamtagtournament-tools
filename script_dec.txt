@@ -423,7 +423,7 @@ jp: ƒpƒ‹ƒREƒtƒHƒ‹ƒSƒŒ‚ÍBRƒCƒ^ƒŠƒA‚Ì‘åƒXƒ^[‚³ôED
 
 en: Parco Folgore is a huge star\BRin Italy.\MUSIC\ED
 
-es: Parco Folgore es una\BRsuper estrella en Italia.\MUSIC\ED
+es: Parco Folgore es una\BRsuperestrella en Italia.\MUSIC\ED
 
 56
 jp: ƒJƒbƒR‚æ‚­‚Á‚Ä—‚Ìq‚ÉBRƒ‚ƒeƒ‚ƒe‚È‚ñ‚¾‚¼`ôED
@@ -529,7 +529,7 @@ es: Se suponía que fuera un cuchillo\BRcapaz de cortar lo que sea…\ED
 jp: ƒfƒp[ƒg‚ÌƒZ[ƒ‹‚ÅBRƒƒCƒt‚ª”ƒ‚Á‚Ä‚µ‚Ü‚Á‚½ED
 
 // Added Mochinoki as flair
-en: Wife bought it at the Mochinoki\BRdepartment store sale.\ED
+en: Teacher's Wife bought it at the\BRMochinoki department store sale.\ED
 
 es: La esposa del maestro lo compró\BRen el almacén de Mochinoki.\ED
 
