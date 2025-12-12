@@ -2367,7 +2367,7 @@ jp: 雷句先生BR「雷句杯　優勝は・・・BR　やさしい王様チームだ！ED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ｡el equipo Kind Kings!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ｡el equipo Reyes Benevolentes!\ED
 
 325
 jp: 　攻守にバランスがとれたBR　すばらしいチームワーク！BR　優勝おめでとう！！！」ED
@@ -2409,7 +2409,7 @@ jp: 雷句先生BR「雷句杯　優勝は・・・BR　やさしい王様チームだ！ED
 
 en: Raiku-Sensei\BR"The winner of the Raiku Cup is...\BR  Team Kind Kings!\ED
 
-es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ｡el equipo Kind Kings!\ED
+es: Raiku-Sensei\BR"El ganador del Raiku Cup es...\BR  ｡el equipo Reyes Benevolentes!\ED
 
 331
 jp: 　攻守にバランスがとれたBR　すばらしいチームワーク！BR　優勝おめでとう！！！」ED
