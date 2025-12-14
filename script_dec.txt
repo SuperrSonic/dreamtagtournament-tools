@@ -1521,7 +1521,7 @@ jp: —‹‹åæ¶BRuƒnƒbƒnƒbƒnƒbƒnƒbƒn[ILF@Ÿ‚ÍƒXƒyƒVƒƒƒ‹ƒQƒXƒg‚ÌBR@“oê‚¾[[[
 
 en: Raiku-Sensei\BR"Ha ha ha ha!\LFOur special guest\BRis making his appearance!\LFIt's not a battle this time,\BRbut a quiz game.\LFBe careful! You will receive a question\BRand must choose the correct answer\BRby pressing the A or B button.\LFWill you be able to rescue everyone\BRwho hangs from the rope unscathed?\BRHm…~"\ED
 
-es: Raiku-Sensei\BR"¡Ja ja ja ja!\LF¡Nuestro invitado especial\BRestá haciendo su apariencia!\LFEsta vez no será una batalla,\BRsino un juego de preguntas.\LF¡Ten cuidado! Recibiras una pregunta\BRy tendras que elegir la respuesta\BRcorrecta presionando el botón A\LFo el botón B.\LF¿Podrás rescatar a todos los que\BRcuelgan de la cuerda sin ningún\BRproblema~?"\ED
+es: Raiku-Sensei\BR"¡Ja ja ja ja!\LF¡Nuestro invitado especial\BRestá listo para aparecer!\LFEsta vez no será una batalla,\BRsino un juego de preguntas.\LF¡Ten cuidado! Recibirás una pregunta\BRy tendrás que elegir la respuesta\BRcorrecta presionando el botón A\LFo el botón B.\LF¿Podrás rescatar a todos los que\BRcuelgan de la cuerda sin ningún\BRproblema~?"\ED
 
 205
 jp: —‹‹åæ¶BRu‚¨[@‚·‚²‚¢‚¶‚á‚È‚¢‚©IBR@‚æ‚­Ÿ‚¿”²‚¯‚½‚ËBLF@Ÿ‚©‚ç‚Í@‚³‚ç‚È‚é‹­“G‚Æ‚ÌBR@ƒoƒgƒ‹‚ª‘Ò‚Á‚Ä‚¢‚é‚¼ILF@‚³‚Ÿ@—DŸ–Úw‚µ‚ÄBR@‚İ‚ñ‚È‚ª‚ñ‚Î‚é‚ñ‚¾IIIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒn[IvED
@@ -1774,7 +1774,7 @@ jp: ƒeƒbƒhBRu‚¨‚¤@ƒW[ƒhIBR@‚¢‚Â‚Å‚às‚¯‚é‚ºIIIvED
 
 en: Ted\BR"You bet, Jido! I can go anytime!"\ED
 
-es: Ted\BR"¡Ya sabes, Jido! Siempre lo estoy!"\ED
+es: Ted\BR"¡Ya sabes, Jido! ¡Siempre lo estoy!"\ED
 
 241
 jp: ƒŠƒBƒGƒ“BRuƒEƒHƒ“ƒŒƒCIBR@„‚½‚¿‚às‚­‚ ‚é‚æIIIvED
@@ -2644,7 +2644,7 @@ jp: ƒW[ƒhBRu‚Í‚Á@‚Ä‚ß‚¥‚Í‚Ü‚¾‚Ü‚¾BR@ƒqƒˆ‚Áq‚¾‚æIvED
 
 en: Jido\BR"Ha!\BR  But you still have much to learn!"\ED
 
-es: Jido\BR"¡Ja! Pero aún te falta mucho\BR  por aprender!"\ED
+es: Jido\BR"¡Ja! ¡Pero aún te falta mucho\BR  por aprender!"\ED
 
 363
 jp: ƒW[ƒhBRu‚æ[‚µ@ƒeƒbƒhBBR@Ÿ‚Ì’¬‚És‚­‚¼vED
@@ -3715,7 +3715,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒoƒ“ƒ_ƒi‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 en: Bandana\BRis unlocked in the Zatch Collection!\ED
 
 //pañuelo also works
-es: Bandana\BR¡ha sido añadido a la colección!\ED
+es: Bandana\BR¡ha sido añadida a la colección!\ED
 
 510
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒnƒ“ƒ‚ƒbƒN‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -3864,7 +3864,7 @@ en: Mr. Applekins\BRis unlocked in the Zatch Collection!\ED
 
 // in ep.11 Suzy says the name but the BG noise makes it hard
 // to figure out what she says, it sounds like Señor Manzana
-es: Señor Manzana\BR¡ha sido añadida a la colección!\ED
+es: Señor Manzana\BR¡ha sido añadido a la colección!\ED
 
 530
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒKƒbƒVƒ…ƒƒ{‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
@@ -4187,7 +4187,7 @@ jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒ`ƒFƒŠƒbƒVƒ…‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
 
 en: Cherish\BRis unlocked in the Zatch Collection!\ED
 
-es: Cherish\BR¡ha sido añadido a la colección!\ED
+es: Cherish\BR¡ha sido añadida a la colección!\ED
 
 575
 jp: ƒKƒbƒVƒ…ƒRƒŒƒNƒVƒ‡ƒ“BRƒƒfƒ…ƒE‚ğBRè‚É“ü‚ê‚Ü‚µ‚½IED
