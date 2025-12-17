@@ -1661,7 +1661,7 @@ jp: 恵BR「もちろん！さあティオ！BR　私たちも行くわよ！！」ED
 
 en: Megumi\BR"Of course! Come on, Tia!\BR  We're definitely going, too!!"\ED
 
-es: Megumi\BR"｡Desde luego! ｡Vamos, Tia!\BR  Nosotras iremos tambi駭!"\ED
+es: Megumi\BR"｡Desde luego! ｡Vamos, Tia!\BR  ｡Nosotras iremos tambi駭!"\ED
 
 225
 jp: ティオBR「ええ！まかせて！！」ED
