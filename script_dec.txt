@@ -1802,7 +1802,7 @@ jp: ƒW[ƒhBRu‚ ‚ @‚»‚¤‚İ‚Ä‚¥‚¾‚ÈBBR@‹C‚ğˆø‚«‚µ‚ß‚Ä‚¢‚­‚¼IvED
 
 en: Jido\BR"Yeah, that seems to be the case.\BR  Let's stay focused and end this!"\ED
 
-es: Jido\BR"Sí, eso parece.\LFManténganse alerta\BRy acabemos con esto de una vez!"\ED
+es: Jido\BR"Sí, eso parece.\LF¡Manténganse alerta\BRy acabemos con esto de una vez!"\ED
 
 245
 jp: ƒEƒHƒ“ƒŒƒCBRuƒeƒbƒh@‚¨Œİ‚¢‚Ì—Í‚ğ‡‚í‚¹BR@•K‚¸Ÿ‚Æ‚¤vED
