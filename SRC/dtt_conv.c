@@ -52,16 +52,37 @@ typedef struct _SaveData
 			uint8_t difficulty;      // 0-1-2 aka easy, normal, hard
 			uint8_t time;            // 0-1-2 aka 60, 90, inf
 			uint8_t rounds;          // 2 = 1 round, 0 = 3 rounds, 1 = 5 rounds
-			uint8_t unused;          // this would most likely be padding from the settings int
-			uint8_t unk_1;           // unk
-			uint8_t unk_2;           // unk
-			uint8_t unk_3;           // unk
+			uint8_t raiku_cup1;      // 0xFF
+			uint8_t raiku_cup2;      // 0x0F, so 0xFFF = all teams done
+			uint8_t modes;           // minigames and sound test, 0xF = all unlocked
 			uint8_t completion;      // Gash Collection completion percentage, 0x64 = 100%
-			uint8_t gashColl[0xD];   // each bit represents an item unlocked, except last byte being 0F
-			uint8_t unk_rest[0x23];     // unk, character, stage stuff probably
+			uint8_t gashColl[0xD];   // each bit represents an item unlocked, except last byte being 0F or 1F if the badge is unlocked
+			uint8_t pad[3];          // unused
+			uint8_t chr1;            // enables characters
+			uint8_t chr2;            // enables characters
+			uint8_t chr3;            // enables characters
+			uint8_t unused;          // unk, is 0 on a finished save
+			uint8_t stages1;         // enables stages 5-8
+			uint8_t stages2;         // enables stages 9-14
+			uint8_t unkotintin_hard; // enables hard and last position of selection 0,1,2 -- 0x12 = hard unlocked and selected
+			uint8_t momon_hard;      // same
+			uint8_t koralq_hard;     // same
+			uint8_t faudo_hard;      // same
+			uint16_t score_unkoEasy; // score is multiplied by 100
+			uint16_t score_unkoNorm; // same
+			uint16_t score_unkoHard; // same
+			uint16_t score_momoEasy; // same
+			uint16_t score_momoNorm; // same
+			uint16_t score_momoHard; // same
+			uint16_t score_korlEasy; // same
+			uint16_t score_korlNorm; // same
+			uint16_t score_korlHard; // same
+			uint16_t score_faudEasy; // same
+			uint16_t score_faudNorm; // same
+			uint16_t score_faudHard; // same
 		} ATTRIBUTE_PACKED;
 	};
-	uint32_t checksum2;              // simple checksum that appears in mem
+	uint16_t checksum2;              // simple checksum that appears in mem
 } SaveData;
 
 // saveCount is used to select the latest save out of the 7 slots
