@@ -37,6 +37,7 @@ You can also add --more-space to expand to 32MB, useful when combined with --vo-
 - --force-samplerate X lets you change the output frequency of the sound engine. 4 is the original (13379 Hz.)
 - --force-intro-vo X enables an assembly patch that forces only 1 of the intro voices to play, P1 or P2, instead of both.
 - --no-title-vo removes the last 2 voice calls on the title screen, since there's no dub for it.
+- --hq-mixer will use ipatix's sound mixer, it improves performance and removes audio pops.
 - /help will display even more info on how to use these commands.
 
 NOTE: [mGBA 0.9.3](https://github.com/mgba-emu/mgba/releases/tag/0.9.3) was the last stable release that had the faster HLE bios decompression, it improves this game by eliminating audio stutters that would occur when the game has to decompress a lot of data, such as the stage backgrounds.
@@ -57,3 +58,5 @@ Bregalad for his GBA sound player documentation.
 Allison Davis provided the voice for Ellie. [Instagram](https://www.instagram.com/redvevilia_arts/)
 
 Cami Rubio provided the voice for Sauza.
+
+ipatix for his higher quality sound mixer. [GitHub](https://github.com/ipatix/gba-hq-mixer)
