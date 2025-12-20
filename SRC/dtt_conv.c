@@ -1553,6 +1553,9 @@ int main (int argc, char *argv[])
   uint8_t engineRate = 0;     // Forces a supported sample rate
   uint8_t engineChannels = 0; // Reduces the game's sample channels
   
+  // For enabling ipatix's hq mixer
+  bool hq_mixer = false;
+  
   //remove initial Fight! vo
   //romBuf[0x01096E] = 0; //u32 it's a bl after all
   
@@ -1830,6 +1833,16 @@ int main (int argc, char *argv[])
 				continue;
         }
 		
+		if(strcmp(argv[i], "--hq-mixer") == 0)
+        {
+                ++i;   //skip arg
+                x = 0; //reset parse
+				
+				hq_mixer = true;
+				printf("Using ipatix's high quality sound mixer...\n\n");
+				continue;
+        }
+		
 		if(strcmp(argv[i], "--more-space") == 0)
         {
                 ++i;   //skip arg
@@ -1892,7 +1905,10 @@ int main (int argc, char *argv[])
 			printf("0=original (13379 Hz) 1=5734 Hz, 2=7884 Hz, 3=10512 Hz, 4=13379 Hz,\n");
 			printf("5=15768 Hz, 6=18157 Hz, 7=21024 Hz, 8=26758 Hz, 9=31536 Hz, 10=36314 Hz,\n");
 			printf("11=40137 Hz, 12=42048 Hz\n");
-			printf("Going over 7 makes the game too slow.\n\n");
+			printf("Going over 7 makes the game too slow, unless you use the hq mixer.\n\n");
+			
+			printf("--hq-mixer will replace the sound mixer with ipatix's version.\n");
+			printf("It improves performance, audio quality, and removes audio pops.\n\n");
 			
 			printf("--force-channels set the limit of channels the game uses to play samples.\n");
 			printf("The game uses all 12 channels by default, lowering it may help reduce pops.\n\n");
@@ -2679,7 +2695,40 @@ int main (int argc, char *argv[])
 					fclose(fb);
 				}
 				
-				// TODO make this an arg
+				// ipatix's sound mixer fixes the constant audio pops
+				if(hq_mixer) {
+					FILE *fp = fopen("ASM/m4a_hq_mixer_dtt.bin", "rb");
+					
+					if(fp) {
+						// get file size
+						int posMixer = 0xFFBE40;
+						int fileSz = 0;
+						fseek(fp, 0, SEEK_END);
+						fileSz = ftell(fp);
+						
+						fseek(fp, 0, SEEK_SET);
+						fread(&romBuf[posMixer], 1, fileSz, fp);
+						fclose(fp);
+						
+						// hook it up
+						int iwram = 0x03006500;
+						memcpy(&romBuf[0x7C99C], &posMixer, 3);
+						memcpy(&romBuf[0x7C9A0], &iwram, 4);
+						memcpy(&romBuf[0x7BD0C], &iwram, 4);
+						
+						// set Thumb bit
+						romBuf[0x7C99C] += 1;
+						romBuf[0x7BD0C] += 1;
+						
+						// this is from a mmio ptr, other implementations do this.
+						// no idea what this does, but it makes the game work...
+						romBuf[0x7C9A4] = 0x18;
+						romBuf[0x7C9A5] = 2;
+					} else
+						printf("Couldn't find mixer binary!\n\n");
+				}
+				
+				// Handles all sprite changes
 				GFX_COPY(romBuf, langID);
 				
 				// NOTE: FUN_0807c9cc plays sfx/music argument is the id
