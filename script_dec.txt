@@ -1033,7 +1033,7 @@ jp: ƒŒƒ“ƒuƒ‰ƒ“ƒg‚Æ‹¤‚ÉBR‰¤‚ð‚ß‚´‚·ED
 
 en: With Rembrant, he aims\BRto become king.\ED
 
-es: Con Rembrant el intenta ser rey.\ED
+es: Con Rembrant el intentó ser rey.\ED
 
 137
 jp: ƒXƒeƒ“ƒO‚Æ‹¤‚Éˆ«–‚‚ÆBR‹°‚ê‚ç‚ê‚½–‚•¨‚ÌŽqED
