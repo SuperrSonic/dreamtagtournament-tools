@@ -1696,7 +1696,7 @@ jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@—Í‚ğ‡‚í‚¹‚ÄŸ‚Â‚Ì‚¾IvED
 
 en: Zatch\BR"Yeah! Let's combine our strength\BR  and win this battle!"\ED
 
-es: Zatch\BR"¡Sí! Combinemos nuestra fuerza\BR  y ganemos la batalla!"\ED
+es: Zatch\BR"¡Sí! ¡Combinemos nuestra fuerza\BR  y ganemos la batalla!"\ED
 
 230
 jp: ƒtƒHƒ‹ƒSƒŒBRuƒnƒbƒnƒbƒnIBR@—DŸ‚Í„‚½‚¿‚ª‚à‚ç‚Á‚½IvED
@@ -2005,7 +2005,7 @@ jp: ƒrƒNƒgƒŠ[ƒ€BRu‚Ó‚Á‚©‚Ÿ[[[‚Â‚ÁIIBR@ƒrƒNƒgƒŠ[[[[ƒ€IIIED
 
 en: Victoream\BR"I'm baaaaaaaack!!\BR  VICTOREEEEAM!!!\ED
 
-es: Victoream\BR"¡Aquí estooooooooy!\BR  VICTOREEEEAM!!!\ED
+es: Victoream\BR"¡Aquí estooooooooy!\BR  ¡VICTOREEEEAM!\ED
 
 274
 jp: @‚Óc—DŸ‚È‚Ç@‚±‚Ì‰Ø—í‚È‚éBR@ƒrƒNƒgƒŠ[ƒ€—l‚ª‚¢‚ê‚ÎBR@ƒJƒ“ƒ^ƒ“‚Éæ‚ÁcED
@@ -2260,7 +2260,7 @@ jp: ƒKƒbƒVƒ…BRuƒEƒkƒDIBR@¸ˆê”t@‚ª‚ñ‚Î‚é‚Ì‚¾IvED
 
 en: Zatch\BR"Yeah! Let's do our best!"\ED
 
-es: Zatch\BR"¡Mm! Hagámoslo al máximo!"\ED
+es: Zatch\BR"¡Mm! ¡Hagámoslo al máximo!"\ED
 
 310
 jp: ´–›BRu‚İ‚ñ‚È€”õ‚Í‚¢‚¢‚æ‚¤‚¾‚ÈIBR@‚æ‚µIs‚­‚¼IIIvED
@@ -2316,7 +2316,7 @@ jp: ƒ[ƒIƒ“BRu‚â‚©‚Ü‚µ‚¢I@‚¨‘O‚ÍBR@–Ù‚Á‚Ä‰´‚Ìí‚¢‚ğŒ©‚Ä‚¢‚ëIED
 
 en: Zeno\BR"Quiet!\BR  Be silent and watch as I fight!\ED
 
-es: Zeno\BR"¡Silencio! No hagas ruido\BR  y observa como lucho!\ED
+es: Zeno\BR"¡Silencio! ¡No hagas ruido\BR  y observa como lucho!\ED
 
 318
 jp: @‚»‚µ‚Ä@ˆÌ‘å‚È‚é—‹’é‚Ì—Í‚ğBR@’m‚Á‚Ä‹°•|‚·‚é‚ñ‚¾‚ÈIBR@ƒnƒbƒnƒbƒnƒbƒnƒbƒnIIIvED
@@ -2990,7 +2990,7 @@ jp: @Ÿ‚Íˆ¤‚µ‚ÌƒKƒbƒVƒ…‚¿‚á‚ñ‚ÌBR@ƒn[ƒg‚ğƒQƒbƒg‚·‚é‚í‚æIvED
 en: Next up is capturing the heart\BRof my beloved Zatchie-poo!"\ED
 
 // need to check ep52, it was the final ep to get dubbed in LATAM, also compare with Spain's
-es: Lo que sigue es conquistar\BRel corazón de mi querido Zatchesito!"\ED
+es: ¡Lo que sigue es conquistar\BRel corazón de mi querido Zatchesito!"\ED
 
 410
 jp: ƒEƒ‹ƒ‹BRu‚Í‚Ÿ@‚â‚ê‚â‚êBBR@d•û‚È‚¢‚Å‚·‚ËcvED
@@ -3092,7 +3092,7 @@ jp: ƒAƒ‹ƒx[ƒ‹BRu‚ñ@‚ ‚ EEEBR@‰´‚Í•Ê‚É@‚©‚Ü‚í‚Ë‚¥‚³vED
 //gonna tweak it a bit
 en: Albert\BR"Hm, yeah...\BR  It was no trouble at all."\ED
 
-es: Albert\BR"Mm, Sí...\BR  No fue ninguna molestia."\ED
+es: Albert\BR"Mm, sí...\BR  No fue ninguna molestia."\ED
 
 424
 jp: —‹‹åæ¶BRu—‹‹å”t@—DŸ‚ÍEEEBR@–‚•X‚Ì‹Rmƒ`[ƒ€‚¾IED
@@ -3401,7 +3401,7 @@ jp: ƒKƒbƒVƒ…BRuƒEƒkƒD@—DŸ‚È‚Ì‚¾BBR@„‚½‚¿‚Í@‚·‚²‚¢‚Ì‚¾`vED
 
 en: Zatch\BR"Yeah! We won!\BR  We're pretty amazing~"\ED
 
-es: Zatch\BR"¡Sí, ganamos!\BR  Somos bastante increibles~"\ED
+es: Zatch\BR"¡Sí, ganamos!\BR  Somos bastante increíbles~"\ED
 
 467
 jp: ´–›BRu‹C‚ğ”²‚­‚È@ƒKƒbƒVƒ…IED
@@ -3451,14 +3451,14 @@ jp: ƒAƒŠƒVƒGBRu‚»‚¤‚¾@ƒŠ[ƒ„B@–l’B‚ÍBR@Ÿ‚½‚È‚¯‚ê‚Î‚È‚ç‚È‚¢‚ñ‚¾vED
 
 en: Alishie\BR"That's right, Riya.\BR  We must win."\ED
 
-es: Alishie\BR"Así es, Riya.\BR  Esto lo tenemos que ganar."\ED
+es: Alishie\BR"Así es, Riya.\BR  Esto lo teníamos que ganar."\ED
 
 474
 jp: ƒAƒŠƒVƒGBRu‚³‚ s‚±‚¤@ƒŠ[ƒ„B@BR@€”õ‚Í‚¢‚¢‚©‚¢HvED
 
 en: Alishie\BR"Well, we should be on our way, Riya.\BR  Are you ready?"\ED
 
-es: Alishie\BR"Bien, debemos irnos, Riya.\BR  Estás listo?"\ED
+es: Alishie\BR"Bien, debemos irnos, Riya.\BR  ¿Estás listo?"\ED
 
 475
 jp: ƒŠ[ƒ„BRu‚ ‚ @ƒAƒŠƒVƒGIvED
@@ -3543,7 +3543,7 @@ jp: @‚v“dŒ‚‚Í¦‚¢‚Å‚·‚Ë`BR@ƒrƒŠƒrƒŠƒrƒŠƒrƒŠ‚Å‚·BBR@í‚¤p‚à‚µ‚Ñ‚ê‚Ü‚·`vED
 // Just gonna copy the biribiri from Kirby & the Amazing Mirror (also by Dimps!)
 en: It's something else when there's twice\BRthe lightning~\LFBZZT! BRRRRZZT!\BRBRRRRZZPP! ZZZT!\LFTheir fighting spirit\BRis quite electrifying~"\ED
 
-es: Es otra cosa cuando hay doble la\BRelectricidad, no crees?~\LF¡BZZT! ¡BRRRRZZT!\BR¡BRRRRZZPP! ¡ZZZT!\LFLa energía es electrificante~"\ED
+es: La situación cambia cuando tienes\BRdoble poder eléctrico, no crees?~\LF¡BZZT! ¡BRRRRZZT!\BR¡BRRRRZZPP! ¡ZZZT!\LFLa energía es electrizante~"\ED
 
 486
 jp: ƒ[ƒIƒ“BRuƒ`ƒbcI@ƒUƒR‚Î‚©‚è‚ÅBR@‚­‚¾‚ç‚Ë‚¥‘å‰ï‚¾‚Á‚½‚ÈvED
