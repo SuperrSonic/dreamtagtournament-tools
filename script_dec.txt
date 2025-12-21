@@ -494,7 +494,7 @@ jp: ƒhƒƒ“ƒ}‚ª‚Ë‚ç‚Á‚Ä‚¢‚½BRƒrƒbƒO‚Èƒ_ƒCƒ„ED
 //Raze
 en: A big diamond that Doronma\BRtried to take for himself.\ED
 
-es: El gran diamante\BRque Doronma buscaba robar.\ED
+es: El gran diamante\BRque Doronma intentó robar.\ED
 
 66
 jp: ƒEƒ}ƒSƒ“‚Ì‚©‚Â‚â‚­‚ÅBR“‚Ü‚ê‚¸‚É‚·‚ñ‚¾ED
