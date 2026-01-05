@@ -19,6 +19,15 @@ I wrote this program to handle the script in "Konjiki no Gash Bell!! Yujo no Zak
 - Applies additional enhancements.
 
 
+# Patching the ROM
+
+If you only want to play the game translated, you can apply the BPS patches in the "Releases" page.
+
+In this page you'll find a link for the latest patches in a .7z file, this is a compressed file, you must extract it first, then select a specific patch, you can apply the patch using a program or a website that allows patching BPS files, such as the one from [SMW Central](https://www.smwcentral.net/?p=onlinetools&tool=bps), only one patch can be applied, so keep a backup of the original ROM for updates.
+
+If you're playing on an emulator such as [mGBA](https://github.com/mgba-emu/mgba), you can simply rename the desired patch file to match the ROM's filename, the emulator will automatically apply it.
+
+
 # Usage
 
 These are instructions for using my program, if you only want the latest translation patches refer to the releases page.
@@ -44,7 +53,7 @@ NOTE: [mGBA 0.9.3](https://github.com/mgba-emu/mgba/releases/tag/0.9.3) was the 
 
 # Video
 
-[This video explains most of the process of the translation.](https://www.youtube.com/watch?v=KTNKwTdlsCA)
+[This video explains most of the process that went into translating the game.](https://www.youtube.com/watch?v=KTNKwTdlsCA)
 
 
 # Credits
